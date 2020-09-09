@@ -18,8 +18,16 @@ TORRENT FILMES
 </item>
 
 <item>
+<title>[COLOR silver][B] SANDY & JUNIOR - ACQUARIA(2020)[/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68921F649FDE9FC19DF6AD1A7342DA89D1F057A5</link>
+<thumbnail>https://http2.mlstatic.com/sandy-junior-acquaria-livro-ilustrado-oficial-do-filme-D_NQ_NP_815585-MLB30064116322_042019-F.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR silver][B] (2020)[/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=https://</link>
 <thumbnail></thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info></info>
@@ -27,15 +35,7 @@ TORRENT FILMES
 
 <item>
 <title>[COLOR silver][B] (2020)[/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR silver][B] (2020)[/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=https://</link>
 <thumbnail></thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info></info>
