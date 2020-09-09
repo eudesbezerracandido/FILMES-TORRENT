@@ -34,11 +34,11 @@ TORRENT FILMES
 </item>
 
 <item>
-<title>[COLOR silver][B]SPICE WORD - O MUNDO DAS SPICE GIRLS [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:691947120330C767A5DB3559A86F03D088E1DF43&dn=spice+world+1997+720p+web+dl+dd5+1+h264+fgt&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce</link>
-<thumbnail>https://images.justwatch.com/poster/11004735/s592</thumbnail>
+<title>[COLOR silver][B] O REI LEÃO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57AF5905BBB2AF7FED585C0417EFF08AF239D44B&dn=%5bWWW.BLUDV.TV%5d%20O%20Rei%20Le%c3%a3o%202019%20%28720p%20-%20BluRay%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/19/05/07/20/54/2901026.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Prepare-se, pois as Spice Girls - Emma Bunton (Baby Spice), Geri Halliwell (Ginger Spice), Melanie Brown (Scary Spice), Melanie Chisholm (Sporty Spice) e Victoria Addams (Posh Spice) - estão chegando para apimentar sua vida e deixar seus olhos bem abertos. Um grupo musical de meninas se prepara para cantar ao vivo no Royal Albert Hall em Londres.</info>
+<info>Simba (João Vítor Mafra/Ícaro Silva) é um jovem leão cujo destino é se tornar o rei da selva. Entretanto, uma armadilha elaborada por seu tio Scar (Rodrigo Miallareti) faz com que Mufasa (Saulo Javan), o atual rei, morra ao tentar salvar o filhote.</info>
 </item>
 
 
