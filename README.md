@@ -49,6 +49,16 @@ TORRENT FILMES
 <info>Pouco antes da destruição do planeta Krypton, o cientista Jor-El envia seu pequeno filho Kal-El em uma nave espacial à Terra. Criado pelos agricultores Jonathan e Martha Kent, o jovem Clark descobre a fonte de seus poderes sobre-humanos e se muda para Metrópolis para combater o mal. Como Superman, ele luta contra o vilão Lex Luthor e como repórter, Clark Kent, tenta conquistar Lois Lane.</info>
 </item>
 
+<item>
+<title>[B]COLEÇÃO SUPERMAN [COLOR yellow](ANOS  90)[/COLOR]  [COLOR lime] FULL HD [/COLOR]  DUBLADO [/B]</title>
+<link>magnet:?xt=urn:btih:475d32a01c8a85b2578d06c9f488c87bcbe11498&dn=Superman+-+O+Filme+%281978%29+%28Reupado%29+Bluray+1080p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[COLOR lime]FULL HD[/COLOR]SUPERMAN I</link>
+<link>$$lsname=[COLOR lime]FULL HD[/COLOR] SUPERMAN 2</link>
+<thumbnail>https://http2.mlstatic.com/coleco-superman-c-3-geracoes-6-filmes-lacrados-D_NQ_NP_811408-MLB32799699406_112019-F.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+<genre></genre>
+</item>
+
 
 
 
