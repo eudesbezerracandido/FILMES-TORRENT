@@ -41,6 +41,15 @@ TORRENT FILMES
 <info>Simba (João Vítor Mafra/Ícaro Silva) é um jovem leão cujo destino é se tornar o rei da selva. Entretanto, uma armadilha elaborada por seu tio Scar (Rodrigo Miallareti) faz com que Mufasa (Saulo Javan), o atual rei, morra ao tentar salvar o filhote.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]SUPERMAN O FILME[/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:475d32a01c8a85b2578d06c9f488c87bcbe11498&dn=Superman+-+O+Filme+%281978%29+%28Reupado%29+Bluray+1080p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://http2.mlstatic.com/dvd-superman-o-filme-D_NQ_NP_819605-MLB26444190299_112017-F.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Pouco antes da destruição do planeta Krypton, o cientista Jor-El envia seu pequeno filho Kal-El em uma nave espacial à Terra. Criado pelos agricultores Jonathan e Martha Kent, o jovem Clark descobre a fonte de seus poderes sobre-humanos e se muda para Metrópolis para combater o mal. Como Superman, ele luta contra o vilão Lex Luthor e como repórter, Clark Kent, tenta conquistar Lois Lane.</info>
+</item>
+
+
 
 
  
