@@ -51,38 +51,6 @@ TORRENT FILMES
 </item>
 
 <item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
-</item>
-
-<item>
 <title>[COLOR silver][B]EM ALGUM LUGAR DO PASSADO[/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA5AB26F0A4FFDF6E26FA597F449A3E726CB0125&dn=em+algum+lugar+do+passado+1981+bluray+720p+dublado</link>
 <thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/273319/1004770777.jpg?v=636967498749770000</thumbnail>
