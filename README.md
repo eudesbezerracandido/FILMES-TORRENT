@@ -50,6 +50,49 @@ TORRENT FILMES
 <info>Em 1886, após um naufrágio na costa oeste da África, uma criança é criada por uma família de macacos na selva. Já adulto, ele é encontrado e levado de volta ao mundo da aristocracia britânica, onde descobre que a civilização pode ser muito cruel.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://imagem</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://imagem</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://imagem</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://imagem</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B]EM ALGUM LUGAR DO PASSADO[/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA5AB26F0A4FFDF6E26FA597F449A3E726CB0125&dn=em+algum+lugar+do+passado+1981+bluray+720p+dublado</link>
+<thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/273319/1004770777.jpg?v=636967498749770000</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Universidade de Millfield, maio de 1972. Richard Collier (Christopher Reeve) é um jovem teatrólogo que conhece na noite de estreia da sua primeira peça uma senhora idosa, que lhe dá um antigo relógio de bolso e diz: "volte para mim". Ela se retira sem mais dizer, deixando-o intrigado. Chicago, 1980. Richard não consegue terminar sua nova peça, decide viajar sem destino certo e se hospeda no Grand Hotel. Lá visita o Salão Histórico, repleto de antiguidades, e fica encantado com a fotografia de uma bela mulher, Elise McKenna (Jane Seymour), que descobre ser a mesma que lhe deu o relógio.</info>
+</item>
+
+
+
+
 
 
 
