@@ -42,6 +42,14 @@ TORRENT FILMES
 <info></info>
 </item>
 
+<item>
+<title>[COLOR silver][B]GREYSTOKE- A LENDA DO TARZAN[/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86CD0E5C304473E7AC40CE812F87F67D55802D98&dn=Greystoke%20A%20Lenda%20de%20Tarzan%20O%20Rei%20da%20Selva%20DVDRip%20Dublado&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce</link>
+<thumbnail>https://tvguide1.cbsistatic.com/feed/1/138/thumbs/11570138_1300x1733.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1886, após um naufrágio na costa oeste da África, uma criança é criada por uma família de macacos na selva. Já adulto, ele é encontrado e levado de volta ao mundo da aristocracia britânica, onde descobre que a civilização pode ser muito cruel.</info>
+</item>
+
 
 
 
