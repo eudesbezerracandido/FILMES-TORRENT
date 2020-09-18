@@ -58,6 +58,31 @@ TORRENT FILMES
 <info>Universidade de Millfield, maio de 1972. Richard Collier (Christopher Reeve) é um jovem teatrólogo que conhece na noite de estreia da sua primeira peça uma senhora idosa, que lhe dá um antigo relógio de bolso e diz: "volte para mim". Ela se retira sem mais dizer, deixando-o intrigado. Chicago, 1980. Richard não consegue terminar sua nova peça, decide viajar sem destino certo e se hospeda no Grand Hotel. Lá visita o Salão Histórico, repleto de antiguidades, e fica encantado com a fotografia de uma bela mulher, Elise McKenna (Jane Seymour), que descobre ser a mesma que lhe deu o relógio.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] V VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f1ee0a97e84dc07721256706472eac84b4ced51&dn=V+de+Vinganca+%282006%29+BDRip+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/210/506/21050637_20131017235623573.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em uma Inglaterra do futuro, onde está em vigor um regime totalitário, vive Evey Hammond (Natalie Portman). Ela é salva de uma situação de vida ou morte por um homem mascarado, conhecido apenas pelo codinome V (Hugo Weaving), que é extremamente carismático e habilidoso na arte do combate e da destruição. Ao convocar seus compatriotas a se rebelar contra a tirania e a opressão do governo inglês, V provoca uma verdadeira revolução. Enquanto Evey tenta saber mais sobre o passado de V, ela termina por descobrir quem é e seu papel no plano de seu salvador para trazer liberdade e justiça ao país.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MILAGRE NA CELA 7 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f1ee0a97e84dc07721256706472eac84b4ced51&dn=V+de+Vinganca+%282006%29+BDRip+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/19/10/08/15/52/1926679.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Separado de sua filha, um homem com deficiência intelectual precisa provar sua inocência ao ser preso pela morte da filha de um comandante. </info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AVATAR VERSÃO ESTENDIDA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:849a9a8e157e720629c7ec0334be27e995e1e5f0&dn=Avatar+-+Vers%26atilde%3Bo+Extendida+%282009%29+1080p+IMAX+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://i.pinimg.com/736x/9e/eb/6b/9eeb6b945854e45236105be43823ee94.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A versão estendida de Avatar nos conduz por um mundo espetacular além da imaginação, onde um herói relutante embarca numa jornada de redenção, descobertas e amor inesperado, ao liderar uma batalha heroica para salvar a civilização. No futuro, Jake é o ex-fuzileiro naval paraplégico enviado a um planeta chamado Pandora. Lá, além da riqueza em biodiversidade, existe também a raça humanoide Na'vi, com sua própria língua e cultura, o que evidentemente entra em choque com os humanos da Terra. Vencedor de três Oscar, nas categorias de Melhor Fotografia, Melhor Direção de Arte e Melhores Efeitos Visuais.</info>
+</item>
+
+
 
 
 
