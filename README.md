@@ -109,7 +109,7 @@ TORRENT FILMES
 <item>
 <title>[COLOR silver][B] PETER PAN - A VOLTA DO CAPITÃO GANCHO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CC2F459B54ACA5E986CCC54E00E242069AF1C632&dn=Hook%20-%20A%20Volta%20do%20Capit%c3%a3o%20Gancho%20-%201080p%20Dublado&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=http%3a%2f%2ftracker.bittorrent.am%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
-<thumbnail>https://static.wikia.nocookie.net/dublagempedia/images/1/10/Hook-a-volta-do-capito-gancho-edico-de-colecionador-novo-D_NQ_NP_836933-MLB26472777856_122017-F.jpg/revision/latest?cb=20200114010202&path-prefix=pt-br</thumbnail>
+<thumbnail>https://http2.mlstatic.com/hook-a-volta-do-capito-gancho1990robin-williams-bhoskins-D_NQ_NP_677385-MLB29536123467_032019-F.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Aos quarenta anos Peter Banning (Robin Williams), que um dia já foi Peter Pan, é um homem tão envolvido com o trabalho que deixou de dar atenção à família e esqueceu a sua origem. Mas o Capitão Gancho (Dustin Hoffman) seqüestra seus filhos, obrigando-o a retornar a Terra do Nunca.</info>
 </item>
