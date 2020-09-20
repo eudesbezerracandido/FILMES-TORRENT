@@ -143,7 +143,7 @@ TORRENT FILMES
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdad4d8e5aa48ecffd0f8252d283aff92694d591&dn=O+Homem+de+A%26ccedil%3Bo+%282013%29+720p+HD+Dublado+%2F+Dual+Audio+pt-BR&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337=[B][COLOR white]  SUPERMAN  -  O  HOMEM DE AÇO  [/COLOR][/B] [B][COLOR lime] 2013 [/COLOR][/B]</link$nome
 <thumbnail>https://i.ytimg.com/vi/V5TJsc6-3SY/hqdefault.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>$nome
 
 
 
