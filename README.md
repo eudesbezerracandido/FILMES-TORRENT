@@ -156,7 +156,7 @@ TORRENT FILMES
 <item>
 <title>[COLOR silver][B] TITANIC [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ea7bec55a1cedb97207833347e5d60d5b0328e3&dn=Titanic%20(1997)%20720p%20HD%20Dublado%20Pt%20Br&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.publicbt.com:80&tr=udp://tracker.istole.it:6969&tr=udp://tracker.ccc.de:80</link>
-<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/89/56/94/20055685.jpgtps://imagem</thumbnail>
+<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/89/56/94/20055685.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Jack Dawson é um jovem aventureiro que, na mesa de jogo, ganha uma passagem para a primeira viagem do transatlântico Titanic. Nele está também Rose DeWitt Bukater, a jovem noiva de Caledon Hockley. Rose, descontente com sua vida, já que sente-se sufocada pelos costumes da elite e não ama Caledon. Entretanto, ela precisa se casar com ele para manter o bom nome da família, que está falida. Um dia, desesperada, Rose ameaça se atirar do Titanic, mas Jack consegue demovê-la da ideia. Pelo ato ele é convidado a jantar na primeira classe, onde começa a se tornar mais próximo de Rose. Logo eles se apaixonam, despertando a fúria de Caledon. A situação fica ainda mais complicada quando o Titanic se choca com um iceberg, provocando algo que ninguém imaginava ser possível: o naufrágio do navio.</info>
 </item>
@@ -207,7 +207,7 @@ TORRENT FILMES
 
 
 
-
+ 
 
 
 
@@ -216,7 +216,7 @@ TORRENT FILMES
 
 
 
-
+   
 
   
  
