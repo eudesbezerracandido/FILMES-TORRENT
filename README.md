@@ -129,6 +129,14 @@ TORRENT FILMES
 <info> Treinada desde cedo para ser uma guerreira imbatível, Diana Prince (Gal Gadot) nunca saiu da paradisíaca ilha em que é reconhecida como princesa das Amazonas. Quando o piloto Steve Trevor (Chris Pine) se acidenta e cai numa praia do local, ela descobre que uma guerra sem precedentes está se espalhando pelo mundo e decide deixar seu lar certa de que pode parar o conflito. Lutando para acabar com todas as lutas, Diana percebe o alcance de seus poderes e sua verdadeira missão na Terra. (Diana Prince (Gal Gadot).</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]INVASÃO AO SERVIÇO SECRETO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B9953B93AB353F9EAD3B2DB94A139CDC42CE3ACA&dn=%5bWWW.BLUDV.TV%5d%20Invas%c3%a3o%20ao%20Servi%c3%a7o%20Secreto%202020%20%28720p%20-%20BluRay%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/19/06/12/14/10/0645123.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após uma tentativa de assassinato ao presidente dos Estados Unidos (Morgan Freeman), o agente do Serviço Secreto, Mike Banning (Gerard Butler), é injustamente acusado e levado sob custódia. Determinado a provar sua inocência, ele se torna um alvo do FBI à medida em que tenta encontrar o verdadeiro culpado. Ele vai precisar de toda a ajuda possível para proteger sua família e salvar seu país de um ataque sem precedentes.</info>
+</item>
+
 
 
 
