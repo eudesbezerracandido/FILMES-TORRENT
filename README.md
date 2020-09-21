@@ -218,6 +218,84 @@ TORRENT FILMES
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 </item> 
 
+<item>
+<title>[COLOR silver][B] EXTERMINADOR DO FUTURO - GÊNESIS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF5D458F3C9FFFB48D3D3A3F0608F1184A9BDB52&dn=O%20Exterminador%20do%20Futuro%20-%20G%c3%aanesis%20%282015%29%201080p%205.1Ch%20Dublado%20-%20Alan_680&tr=http%3a%2f%2fpow7.com%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71M-UI2Lm1L._AC_SX466_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando John Connor (Jason Clarke), líder da resistência humana, envia o Sargento Kyle Reese (Jai Courtney) de volta para 1984 para proteger Sarah Connor (Emilia Clarke) e manter o futuro intacto, uma mudança inesperada nos acontecimentos cria uma nova linha do tempo. Agora, o Sargento Reese se encontra em uma nova e desconhecida versão do passado, onde encontra aliados improváveis, incluindo o Guardião (Arnold Schwarzenegger), novos e perigosos inimigos e uma missão nova e inesperada: salvar o futuro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A CABANA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6CE26946C9E8133970B7E5DDA31D86935C0915F&dn=A%20Cabana%202017%20%5bBluRay%5d%20%28720p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91eXvRufnFL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um homem vive atormentado após perder a sua filha mais nova, cujo corpo nunca foi encontrado, mas sinais de que ela teria sido violentada e assassinada são encontrados em uma cabana nas montanhas. Anos depois da tragédia, ele recebe um chamado misterioso para retornar a esse local, onde ele vai receber uma lição de vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CAPTÃ MARVEL [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GEJFLKXJJ4G5XIX7VMITZHAHWRXEWKSY&dn=%5BWWW.BLUDV.TV%5D%20Capit%C3%A3%20Marvel%202019%20(720p)%20%5BDUBLADO%5D%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://cinepop.com.br/wp-content/uploads/2019/02/capit%C3%A3-marvel-1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No filme Capitã Marvel Torrent – BluRay 720p/1080p/4K Dual Áudio, Carol Danvers (Brie Larson) é uma ex-agente da Força Aérea norte-americana, que, sem se lembrar de sua vida na Terra, é recrutada pelos Kree para fazer parte de seu exército de elite. Inimiga declarada dos Skrull, ela acaba voltando ao seu planeta de origem para impedir uma invasão dos metaformos, e assim vai acabar descobrindo a verdade sobre si, com a ajuda do agente Nick Fury (Samuel L. Jackson) e da gata Goose.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CÃO DE BRIGA [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:271f38bc71980ed2dc2ee1a8c2d3a2b70b70e202</link>
+<thumbnail>https://static.carrefour.com.br/medias/sys_master/images/images/h6f/hfd/h00/h00/13985340751902.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Desde que Bart (Bob Hoskins) retirou Danny (Jet Li) das ruas, quando tinha apenas 4 anos, sempre o tratou como um cão, tendo treinado-o para sempre atacar. Danny é hoje uma arma mortal, sendo capaz de partir para cima de qualquer pessoa após uma simples ordem, sem lhe dar qualquer chance de vitória. Isolado do mundo, Danny não tem outra escolha senão aceitar o destino escolhido por Bart. Até que, por acaso, ele encontra Sam (Morgan Freeman), um cego que ganha a vida como afinador de pianos. Sam e Victoria (Kerry Condon), sua nora, fazem com que Danny descubra uma humanidade que ele jamais acreditou que possuísse. A partir de então sua percepção da vida muda radicalmente, o que faz com que Bart e seus asseclas decidam eliminá-lo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A MOSCA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:609D250192FD75A291792FEF2216F5A6E631480F&dn=A%20Mosca%20-%20Dual%20%c3%81udio%20-%20720p%20%28Bluray%29%20-%20COMANDOTORRENTSHD.NET&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://i.pinimg.com/736x/3f/8d/a0/3f8da0e67f3ad3bb21d1a47ebe48735e.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Seth Brundie (Jeff Goldblum) é um cientista excêntrico que trabalha numa nova invenção, uma máquina de teletransporte – a TelePod. Ao seu lado, tem Veronica (Geena Davis), uma jornalista que acompanha seus projetos acreditando ser essa a história do ano. Ao experimentar seu novo invento, Seth não percebe que uma mosca entrou na cabine do teletransporte. O imprevisto faz com que os padrões moleculares do homem e do inseto se misturem e, pouco a pouco, o cientista vai sofrendo terríveis transformações.
+
+Enredo: Seth Brundle (Jeff Goldblum), um cientista brilhante mas excêntrico tenta atrair a jornalista investigativa Veronica Quaife (Geena Davis), oferecendo-lhe uma colher sobre suas últimas pesquisas no campo de transporte de matéria, que contra todas as expectativas do establishment científico provaram bem sucedido. Até certo ponto. Brundle acha que resolveu o último problema ao transportar com sucesso uma criatura viva, mas quando tenta se teletransportar, uma mosca entra em uma das cabines de transmissão e Brundle descobre que ele é um homem mudado. Este filme “Science-Gone-Mad” é ??a fonte da citada frase “Tenha medo. Tenha muito medo”.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A MOSCA  2 [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3AF36914D40AD01E87110EF163B0F5E23DA7C0DB&dn=A%20Mosca%202%20-%20Dublado%20-%20720p%20%28Bluray%29%20-%20COMANDOTORRENTSHD.NET&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/92/84/60/20220650.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Filho (Eric Stoltz) do pesquisador do filme anterior tem um crescimento físico e intelectual acima do normal. Tudo anda bem até ele se sentir explorado pelos cientistas que o cercam.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] QUARTETO FANTASTICO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6EDA2E425557635CC90756571C7B2A45912854F9&dn=Quarteto%20Fantastico%20%282015%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce%22</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/15/07/21/21/04/518773.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quatro adolescentes são conhecidos pela inteligência e pelas dificuldades de inserção social. Juntos, são enviados a uma missão perigosa em uma dimensão alternativa. Quando os planos falham, eles retornam à Terra com sérias alterações corporais. Munidos desses poderes especiais, eles se tornam o Senhor Fantástico (Miles Teller), a Mulher Invisível (Kate Mara), o Tocha Humana (Michael B. Jordan) e o Coisa (Jamie Bell). O grupo se une para proteger a humanidade do ataque do Doutor Destino (Toby Kebbell).</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] QUARTETO FANTASTICO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d4c6c1ee5af23781111db87ed08e6d51deb1a9b</link>
+<thumbnail>https://imagem</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O cientista Reed Richards convence seu arrogante colega Victor von Doom a financiar seus experimentos com energia cósmica. Na estação espacial Von Doom, a tripulação, incluindo o astronauta Ben Grimm, a pesquisadora Sue Storm e o piloto Johnny Storm, é exposta a uma tempestade cósmica misteriosa que dá superpoderes a eles. Eles tentam lidar com suas transformações enquanto o detestável von Doom jura vingança.
+
+Enredo: Reed Richards, um cientista brilhante, mas tímido e falido, está convencido de que a evolução pode ser desencadeada por nuvens de energia cósmica, e calculou que a Terra vai passar por uma dessas nuvens em breve. Juntamente com seu amigo e parceiro, o musculoso astronauta Ben Grimm, Reed convence seu conceituado colega do MIT, Dr. Victor Von Doom, agora CEO de sua própria empresa, a permitir o acesso à sua estação espacial de propriedade privada. Von Doom concorda em troca de controle sobre o experimento e a maioria dos lucros de quaisquer benefícios que ele traz. Assim, ele traz a bordo Susan Storm, sua tímida, embora assertiva pesquisadora genética e ex-amante de Reed, com quem ela teve um rompimento amargo, e seu irmão diametralmente oposto Johnny, o piloto independente e impetuoso da playboy. Os astronautas chegam em casa intactos; no entanto, em pouco tempo eles começam a sofrer mutações, desenvolvendo poderes estranhos e surpreendentes como resultado de sua exposição à nuvem! Reed é capaz de </info>
+</item>
+
+<item>
+<title>[COLOR silver][B] QUARTETO FANTASTICO - E O SURFISTA PRATEADO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50005e771b2797939494e97701d66269d011918e</link>
+<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/93/01/84/20230847.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Reed Richards (Ioan Gruffudd) e Susan Storm (Jessica Alba) estão prestes a se casar. Porém, durante a cerimônia, algo estranho surge nos céus de Nova York. Trata-se do Surfista Prateado (Doug Jones), um ser alienígena que possui grandes poderes e que trabalha como arauto de Galactus, o destruidor de planetas. O Surfista veio à Terra para prepará-la para ser destruída por seu mestre, mas para atingir seu objetivo precisará enfrentar o Quarteto Fantástico.
+
+Enredo: Tudo parece estar indo muito bem para o Quarteto Fantástico. Reed e Sue estão finalmente se casar, e as coisas não poderia parecer melhor. No entanto, quando o misterioso Surfista Prateado cai coisas, eles aprendem que eles vão ter de lidar com um velho inimigo, e para o planeta poderoso comer Galactus.</info>
+</item>
+
 
 
 
