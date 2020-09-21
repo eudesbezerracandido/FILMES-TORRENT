@@ -299,7 +299,7 @@ Enredo: Tudo parece estar indo muito bem para o Quarteto Fantástico. Reed e Sue
 <item>
 <title>[COLOR silver][B] POLTERGEIST - O FÊNOMENO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a20f2c47de7f05bd7c160eadce2a0495990230c</link>
-<thumbnail>https://siterg.uol.com.br/wp-content/uploads/2015/01/poltergeist-1024x1024.jpg</thumbnail>
+<thumbnail>https://br.web.img2.acsta.net/pictures/15/11/12/14/38/323812.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Família é visitada por fantasmas, que inicialmente se manifestam apenas movendo objetos pela casa, mas gradativamente vão aterrorizando-os cada vez mais, chegando a sequestrar a caçula através do televisor. Os pais se desesperam e uma especialista em fenômenos paranormais sugere que eles busquem a ajuda de uma mulher com poderes mediúnicos.
 
