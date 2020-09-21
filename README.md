@@ -296,6 +296,16 @@ Enredo: Reed Richards, um cientista brilhante, mas tímido e falido, está conve
 Enredo: Tudo parece estar indo muito bem para o Quarteto Fantástico. Reed e Sue estão finalmente se casar, e as coisas não poderia parecer melhor. No entanto, quando o misterioso Surfista Prateado cai coisas, eles aprendem que eles vão ter de lidar com um velho inimigo, e para o planeta poderoso comer Galactus.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] POLTERGEIST - O FÊNOMENO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a20f2c47de7f05bd7c160eadce2a0495990230c</link>
+<thumbnail>https://siterg.uol.com.br/wp-content/uploads/2015/01/poltergeist-1024x1024.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Família é visitada por fantasmas, que inicialmente se manifestam apenas movendo objetos pela casa, mas gradativamente vão aterrorizando-os cada vez mais, chegando a sequestrar a caçula através do televisor. Os pais se desesperam e uma especialista em fenômenos paranormais sugere que eles busquem a ajuda de uma mulher com poderes mediúnicos.
+
+Enredo: Uma jovem família é visitada por fantasmas em sua casa. A princípio, os fantasmas parecem amistosos, movendo objetos pela casa para a diversão de todos, então eles se tornam desagradáveis ??e começam a aterrorizar a família antes de “sequestrar” a filha mais nova.</info>
+</item>
+
 
 
 
