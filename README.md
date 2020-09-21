@@ -279,7 +279,7 @@ Enredo: Seth Brundle (Jeff Goldblum), um cientista brilhante mas excêntrico ten
 <item>
 <title>[COLOR silver][B] QUARTETO FANTASTICO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d4c6c1ee5af23781111db87ed08e6d51deb1a9b</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/14/04/02/18/17/010475.jpg</thumbnail>
+<thumbnail>https://a-static.mlcdn.com.br/1500x1500/dvd-quarteto-fantastico-fox/universocultural/1678014729/595debf9d204e6eeffe3ecdfbbd33219.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O cientista Reed Richards convence seu arrogante colega Victor von Doom a financiar seus experimentos com energia cósmica. Na estação espacial Von Doom, a tripulação, incluindo o astronauta Ben Grimm, a pesquisadora Sue Storm e o piloto Johnny Storm, é exposta a uma tempestade cósmica misteriosa que dá superpoderes a eles. Eles tentam lidar com suas transformações enquanto o detestável von Doom jura vingança.
 
