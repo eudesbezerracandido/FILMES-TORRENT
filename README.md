@@ -322,6 +322,47 @@ Enredo: Uma jovem família é visitada por fantasmas em sua casa. A princípio, 
 <info>Em Caravana da Coragem, a família Towani foi separada quando sua nave espacial cai em Endor. Os pais são logo capturados por um gigante conhecido como Gorax, e Mace e Cindel, o filho e a filha, estão desaparecidos. Quando os Ewoks encontram as crianças Towani nos destroços da nave, logo fica claro que será necessária confiança mútua para embarcar em uma aventura para resgatar os pais Towani.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] AS SETE FACE Dr. LAU [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43b93445004f866589bf0e332f7fd9c54a8c17d8&dn=7+Faces+of+Dr.+Lao+%281964%29+%5BDVDRip%2CXvid%2CAC3-1ch%2CWS%2CEng%5D+-+QuincyMKT.avi</link>
+<thumbnail>https://static.carrefour.com.br/medias/sys_master/images/images/hba/h70/h00/h00/10793012920350.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dr. Lao (Tony Randall), chinês gentil e idoso de 7322 anos chega em Abalone, com seu circo. Ele rapidamente nota que a cidade é dominada por um rico rancheiro, Clint Stark (Arthur O’Connell), que alega que em seis meses não haverá mais água, pois o aqueduto está quase inutilizado. Stark quer comprar toda a cidade e só Ed Cunningham (John Ericson), o dono do jornal local, se opõe. Mas em poucos dias o Dr. Lao irá alterar a vida dos moradores de Abalone.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ET. O EXTRATERRESTRE [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1139baa426f2130fba35c37a45591e1e0ffe5a1&dn=COMANDO.TO%20-%20E.T.%20%e2%80%93%20O%20Extraterrestre%201983%20%5b1080p%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/95/16/34/20384584.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um garoto faz amizade com um ser de outro planeta, que ficou sozinho na Terra, protegendo-o de todas as formas para evitar que ele seja capturado e transformado em cobaia. Gradativamente, surge entre os dois uma forte amizade. Steven Spielberg convida o espectador a celebrar um dos filmes mais adorados de todos os tempos. Premiado com 4 Oscar e 2 Globos de Ouro, incluindo Melhor Filme!</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O INCRIVEL HULK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:171e96900c89846793451b2c5e3ec9365b7ccf0d</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/210/485/21048566_20131010182211313.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Vivendo escondido e longe de Betty Ross (Liv Tyler), a mulher que ama, o cientista Bruce Banner (Edward Norton) busca um meio de retirar a radiação gama que está em seu sangue. Ao mesmo tempo ele precisa fugir da perseguição do general Ross (William Hurt), seu grande inimigo, e da máquina militar que tenta capturá-lo, na intenção de explorar o poder que faz com que Banner se transforme no Hulk.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] HULK [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d416b1e8b6bd0e00b5cc61dea16e52cde380966&dn=Hulk+%282003%29+BDRip+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://mb.web.sapo.io/e98cc1521b0e2dc18753622dbb6c964cbb5d7a84.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Bruce Banner (Eric Bana) é um cientista que teve problemas em sua infância: ele foi adotado e passou por uma experiência traumática após a morte de seus pais, a qual não lembra de forma alguma. Juntamente com ele trabalha Betty Ross (Jennifer Connelly), sua grande paixão. Ambos trabalham em um projeto que envolve a reconstituição de tecidos através da radiação gama, um projeto o qual o Exército está bastante interessado. Ao consertar o gammasphere, aparelho usado para aplicar a radiação gama em animais, um dos cientistas do projeto o aciona acidentalmente. Em uma tentativa desesperada de salvar o amigo, Banner se atira defronte o gammasphere e absorve a radiação gama lançada. Inexplicavelmente o acidente não o mata, fazendo com que permaneça durante algum tempo no hospital sob observação. É quando a reaparição de seu pai biológico, o qual considerava morto, revela segredos sobre o passado de Bruce Banner o qual nem ele mesmo conhecia, ao mesmo tempo em que precisa lidar com estranhas modificações em seu corpo a cada vez que fica com raiva.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ENTREVISTA COM O VAMPIRO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9DBED5AF71CA3CE9383E3A2ECD1F8BA3AE798AB3&dn=Entrevista%20Com%20o%20Vampiro%201994%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/96/54/43/20474255.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nascido como um senhor do século 18, Louis é agora um vampiro bicentenário que conta sua história para um biógrafo. Suicida, após a morte de sua família, ele encontra lestat, um vampiro que quer persuadí-lo a escolher a imortalidade e se tornar seu companheiro. Eventualmente, o gentil Louis resolve deixar seu violento criador, mas Lestat faz com que ele sinta-se culpado quando transforma uma jovem.
+Enredo: Não faz nem um ano desde que um dono de uma fazenda chamado Louis perdeu a esposa no parto. Tanto sua esposa quanto a criança morreram e agora ele perdeu sua vontade de viver. Um vampiro chamado Lestat gosta de Louis e oferece a ele a chance de se tornar uma criatura da noite: um vampiro. Louis aceita, e Lestat drena o sangue mortal de Louis e depois o substitui por seu próprio, transformando Louis em vampiro. Louis deve aprender com Lestat os caminhos do vampiro.</info>
+</item>
+
 
 
 
