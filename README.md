@@ -306,6 +306,22 @@ Enredo: Tudo parece estar indo muito bem para o Quarteto Fantástico. Reed e Sue
 Enredo: Uma jovem família é visitada por fantasmas em sua casa. A princípio, os fantasmas parecem amistosos, movendo objetos pela casa para a diversão de todos, então eles se tornam desagradáveis ??e começam a aterrorizar a família antes de “sequestrar” a filha mais nova.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CARAVANA DA CORAGEM - UMA AVENTURA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7916E4564ABA100DCF9FCAB15CB43C5402C5EC3D&dn=Caravana%20da%20Coragem%20-%20Uma%20Aventura%20Ewok%20%281984%29%20%5b720p%5d%20-%20DUAL%20-%20LAPUMiAFiLMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://media.fstatic.com/d8wNbj-C9-8MxYCleINM9PdlCKg=/290x478/smart/media/movies/covers/2010/12/5c80eba6b066a771761d1ab9c58c38de.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma família é separada quando os pais são sequestrados por um gigante e os filhos ficam vagando nos destroços da nave espacial deles. Os Ewoks encontram as crianças e juntos embarcam em uma jornada em busca dos pais delas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CARAVANA DA CORAGEM 1 & 2 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:488BF46B9942FB93684FAB652C4C23D90167B593&dn=Caravana%20Da%20Coragem%201%20e%202%20DVDRip%20XviD%20Dublado&tr=http%3a//tracker.thepiratebay.org/announce</link>
+<thumbnail>https://filmestipo.com/img_pt/movie/thumb/31/7908.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Caravana da Coragem, a família Towani foi separada quando sua nave espacial cai em Endor. Os pais são logo capturados por um gigante conhecido como Gorax, e Mace e Cindel, o filho e a filha, estão desaparecidos. Quando os Ewoks encontram as crianças Towani nos destroços da nave, logo fica claro que será necessária confiança mútua para embarcar em uma aventura para resgatar os pais Towani.</info>
+</item>
+
 
 
 
