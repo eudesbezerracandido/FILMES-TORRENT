@@ -432,6 +432,32 @@ Nicolas Cage está de volta no papel de Johnny Blaze em: O Motoqueiro Fantasma: 
 Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos pais quando menino, deixando-o para ser criado por seu tio Ben (Sheen) e tia May (Field). Como a maioria dos adolescentes, Peter está tentando descobrir quem ele é e como ele se tornou a pessoa que é hoje. Peter também está encontrando seu caminho com sua primeira paixão pelo ensino médio, Gwen Stacy (Stone), e juntos, eles lutam com amor, compromisso e segredos. Quando Peter descobre uma misteriosa maleta que pertencia ao pai, ele inicia uma busca para entender o desaparecimento de seus pais – levando-o diretamente à Oscorp e ao laboratório do Dr. Curt Connors (Ifans), ex-parceiro de seu pai. Como o Homem-Aranha está em rota de colisão com o alter-ego de Connors, O Lagarto, Peter fará escolhas que alteram a vida para usar seus poderes e moldar seu destino para se tornar um herói.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] X-MAN - ORIGENS WOLVERINE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58AAB67A28A13335843438E85DDF6CED6A108A22&dn=X-Men%20Origens%20Wolverine%202009%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.ch%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91g-ZbSZ5QS._AC_SL1500_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A Equipe X é formada apenas por mutantes, tendo fins militares. Entre seus integrantes estão Logan (Hugh Jackman), o selvagem Victor Creed (Liev Schreiber), o especialista em esgrima Wade Wilson (Ryan Reynolds), o teleportador John Wraith (Will i Am), o atirador David North (Daniel Henney), o extremamente forte Fred J. Dunes (Kevin Durand) e ainda Bradley (Dominic Monaghan), que manipula eletricidade. No comando está William Stryker (Danny Huston), que envolve alguns componentes do grupo no projeto Arma X, um experimento ultra-secreto. Entre eles está Logan, que precisa ainda lidar com o desfecho de seu romance com Raposa Prateada (Lynn Collins).</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LOGAN - WOLVERINE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38D852EE9772AF78A0B49C09EB87CA3093E2F34D&dn=Logan%202017%20%5bBluRay%5d%20%28720p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://es.web.img2.acsta.net/pictures/17/01/30/11/31/059557.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Logan (Hugh Jackman) ganha a vida como chofer de limousine para cuidar do nonagenário Charles Xavier (Patrick Stewart). Debilitado fisicamente e esgotado emocionalmente, ele é procurado por Gabriela (Elizabeth Rodriguez), uma mexicana que precisa da ajuda do ex-X-Men para defender a pequena Laura Kinney / X-23 (Dafne Keen). Ao mesmo tempo em que se recusa a voltar à ativa, Loga.n é perseguido pelo mercenário Donald Pierce (Boyd Holbrook), interessado na menina.   Logan (Hugh Jackman) ganha a vida como chofer de limousine para cuidar do nonagenário Charles Xavier (Patrick Stewart). Debilitado fisicamente e esgotado emocionalmente, ele é procurado por Gabriela (Elizabeth Rodriguez), uma mexicana que precisa da ajuda do ex-X-Men para defender a pequena Laura Kinney / X-23 (Dafne Keen).</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DUOLOGIA - THOR [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:628B9921E369D94DC14B446FFCE136BB4B7BB811&dn=Duologia%20Thor%202011-2013%20WWW.BLUDV.COM&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>https://i.imgur.com/06GpJP1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No filme Duologia Thor Torrent – BluRay 720p/1080p Dual Áudio, Thor (Chris Hemsworth) estava prestes a receber o comando de Asgard das mãos de seu pai Odin (Anthony Hopkins) quando forças inimigas quebraram um acordo de paz. Disposto a se vingar do ocorrido, o jovem guerreiro desobedece as ordens do rei e quase dá início a uma nova guerra entre os reinos. Enfurecido com a atitude do filho e herdeiro, Odin retira seus poderes e o expulsa para a Terra. Lá, Thor acaba conhecendo a cientista Jane Foster (Natalie Portman) e precisa recuperar seu martelo, enquanto seu irmão Loki (Tom Hiddleston) elabora um plano para assumir o poder. Mas os guerreiros do Deus do Trovão fazem a mesma viagem para buscar o amigo e impedir que isso aconteça. Só que eles não vieram sozinhos e o inimigo está presente para uma batalha que está apenas começando</info>
+</item>
+
+
+
 
 
 
