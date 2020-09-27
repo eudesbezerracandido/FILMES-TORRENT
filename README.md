@@ -187,7 +187,7 @@ TORRENT FILMES
 
 <item>
 <title>[COLOR silver][B] SHOCHER - 100 MIL  VOLTS DE TERROR  [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04809FF448FF6A8653B96C1D2FA71D9EB88635D0&dn=Shocker%20-%20100.000%20Volts%20de%20Terror%20%281989%29%20WEB-DL%20720p%20Dual%20%C3%81udio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04809FF448FF6A8653B96C1D2FA71D9EB88635D0&dn=Shocker%20-%20100.000%20Volts%20de%20Terror%20%281989%29%20WEB-DL%20720p%20Dual%20%c3%81udio</link>
 <thumbnail>https://limaomecanico.com.br/wp-content/uploads/2020/01/Shocker-100-Mil-Volts-de-Terror.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Numa pequena cidade do interior americano o jovem universitário Jonathan Parer (Peter Berg) vê em um pesadelo sua família ser chacinada por Horace Pinker (Mitch Pileggi), um técnico de TV. O crime acaba realmente acontecendo e Jonathan convence seu pai adotivo, o policial Don Parker (Michael Murphy), a prender Pinker. Após cometer outros crimes Pinker é preso e condenado à cadeira elétrica. Ao ser executado, entretanto, o assassino consegue fazer com que seu espírito sobreviva como energia, sendo capaz de tomar corpos humanos e deslocar-se por meio das ondas de TV.</info>
