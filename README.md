@@ -399,6 +399,40 @@ Enredo: Não faz nem um ano desde que um dono de uma fazenda chamado Louis perde
 Nicolas Cage está de volta no papel de Johnny Blaze em: O Motoqueiro Fantasma: Espírito de Vingança (Ghost Rider: Spirit of Vengeance). Depois de se esconder na Europa, Blaze é recrutado por uma seita secreta da igreja para salvar um garoto (Fergus Riordan) do demônio (Ciaran Hinds). Johnny tenta recusar o chamado, mas essa é a sua grande chance de se livrar de sua maldição.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DRÁCULA DE BRAM  STOKE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:697c8db0a6e7f60e336ef3bad6122e3195810e1e&dn=Dr%C3%A1cula%20de%20Bram%20Stoker%20(1992)%20BRrip%20Blu-Ray%201080p%20Dublado&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Feddie4.nl%3A6969&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969&tr=udp%3A%2F%2Fopentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337</link>
+<thumbnail>https://www.dhresource.com/0x0/f2/albu/g5/M00/BC/B5/rBVaJFgoMPeAZAbQAAYjXomSyso559.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No século XV, um líder e guerreiro dos Cárpatos renega a Igreja quando esta se recusa a enterrar em solo sagrado a mulher que amava, pois ela se matou acreditando que ele estava morto. Assim, perambula através dos séculos como um morto-vivo e, ao contratar um advogado, descobre que a noiva deste é a reencarnação da sua amada. Deste modo, o deixa preso com suas "noivas" e vai para a Londres da Inglaterra vitoriana, no intuito de encontrar a mulher que sempre amou através dos séculos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DRÁCULA  1979 [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E36E82C8D65597695B945F58AB6481823F59AF69&dn=COMANDOTORRENTSHD.NET%20-%20Dracula%201979%20720p%20BluRay%20x264%20DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2770%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://4.bp.blogspot.com/-Ou_Ehd8qciU/VfH_g1meQLI/AAAAAAAABeA/zSR8uMGhBVo/s1600/51QT8SNHVGL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma escuna naufraga na costa da Inglaterra em 1913, e o único sobrevivente é o Conde Drácula. Charmoso e educado, ele faz amigos e procura uma noiva, mas Van Helsing não dá tréguas e continua sua obcecada caça ao Senhor das Trevas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TRILOGIA - HOMEM  ARANHA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44A2DE2223EDA3E0925276CC7C9AC16355ECA2E6&dn=Carregando.Download.Mais.Download.em.www.BRSHARES.com&tr=http%3A%2F%2Fbr2share.com%2Fannounce.php%3Fpasskey65940be6163205173e6aeb9f0448cc9&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=http%3A%2F%2Fmgtracker.org%3A2710%2Fannounce&tr=http%3A%2F%2Fbt.careland.com.cn%3A6969%2Fannounce&tr=udp%3A%2F%2Fwww.eddie4.nl%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.best-torrents.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2F121.14.98.151%3A9090%2Fannounce%22</link>
+<thumbnail>https://1.bp.blogspot.com/-I8eyM8ZZ7Is/T8-Ar7u9mdI/AAAAAAAAAXE/5qSWHPC24ak/s1600/capas.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Orfão desde criança, Peter Parker vive em Nova York com sua querida tia May e seu estimado Tio Ben. Peter leva a vida normal de qualquer jovem estudante, trabalhando como fotógrafo no jornal Clarim Diário, sob a tutela do editor J. Jonah Jameson, correndo atrás da atraente Mary Jane e divertindo-se com seu amigo Harry Osborn. Durante uma excursão da escola, onde Peter e seus colegas assistem a demonstrações científicas com aranhas, Peter é mordido por uma aranha geneticamente modificada. Pouco depois, ele descobre que adquiriu poderes incríveis: ele vê-se dotado com força e agilidade de aranhas, bem como uma aguçada percepção extrasensorial “aracnídea”. Como Homem Aranha, Peter entende as palavras do tio e decide usar seus extraordinários poderes na luta contra o crime. Enquanto isso, o empresário megalomaníaco Norman Osborn, pai de seu amigo Harry, também anda passando por transformações. Um teste com uma fórmula experimental aumenta sua força e inteligência, mas também o leva à insanidade. Agora, ele é o Duende Verde, que irá desafiar a determinação do jovem Peter Parker de combater o crime e ajudar inocentes.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O ESPETACULAR - HOMEM ARANHA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1424c17050b2d793f368ca50efb12e74796df73f</link>
+<thumbnail>https://3.bp.blogspot.com/-fOq55Dwl2RU/UIPfsrFrOOI/AAAAAAAAJZ4/LcuhCSG0JyU/s1600/O+Espetacular+Homem+Aranha1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Peter Parker está tentando saber mais sobre sua origem. Ele encontra uma pasta que pertenceu ao seu pai e quer descobrir por que seus pais desapareceram. Sua busca o leva a Oscorp e ao dr. Curt Connors, que tem como alterego o letal Lagarto.
+Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos pais quando menino, deixando-o para ser criado por seu tio Ben (Sheen) e tia May (Field). Como a maioria dos adolescentes, Peter está tentando descobrir quem ele é e como ele se tornou a pessoa que é hoje. Peter também está encontrando seu caminho com sua primeira paixão pelo ensino médio, Gwen Stacy (Stone), e juntos, eles lutam com amor, compromisso e segredos. Quando Peter descobre uma misteriosa maleta que pertencia ao pai, ele inicia uma busca para entender o desaparecimento de seus pais – levando-o diretamente à Oscorp e ao laboratório do Dr. Curt Connors (Ifans), ex-parceiro de seu pai. Como o Homem-Aranha está em rota de colisão com o alter-ego de Connors, O Lagarto, Peter fará escolhas que alteram a vida para usar seus poderes e moldar seu destino para se tornar um herói.</info>
+</item>
+
+
 
 
 
