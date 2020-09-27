@@ -496,6 +496,18 @@ Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos p
 <info> No filme Doutor Estranho IMAX Torrent – BluRay 720p/1080p Dual Áudio, Stephen Strange (Benedict Cumberbatch) leva uma vida bem sucedida como neurocirurgião. Sua vida muda completamente quando sofre um acidente de carro e fica com as mãos debilitadas. Devido a falhas da medicina tradicional, ele parte para um lugar inesperado em busca de cura e esperança, um misterioso enclave chamado Kamar-Taj, localizado em Katmandu. Lá descobre que o local não é apenas um centro medicinal, mas também a linha de frente contra forças malignas místicas que desejam destruir nossa realidade. Ele passa a treinar e adquire poderes mágicos, mas precisa decidir se vai voltar para sua vida comum ou defender o mundo.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] TRILOGIA - ROBOCOP [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MMWYE5XAPWZE4376DD7OOITWRK35PG5H&dn=TRILOGIA.Robocop.1080p-RICKSZ</link>
+<thumbnail>https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2016/07/05/18/57853133.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Filme 1:Num futuro não tão distante, uma grande cidade é dominada por marginais. A polícia tenta manter a ordem e controlar a situação, mas está impotente. Quando Murphy (Peter Weller), um dos melhores policiais da corporação é assassinado brutalmente por uma quadrilha de traficantes, o diretor do “Security Concepts”, um laboratório secreto, coloca em ação o projeto Robocop. Assim, criam o melhor e mais dedicado policial: um ser com os mais rápidos reflexos que a tecnologia moderna possui, acoplado a uma memória computadorizada. Manter a lei e a ordem serão as principais funções do Robocop.
+
+Sinopse Filme 2:Policial-andróide enfrenta gangue de traficantes de drogas. Ao mesmo tempo, o império corporativo que o criou está lançando um robô aperfeiçoado que torna necessária a eliminação de Robocop.
+
+Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o cyborg inimigo do crime mais uma vez sai às ruas para proteger, com “coração e personalidade”.[Entertainment Today), os inocentes, desta vez, enfrentando a ganância empresarial! Robocop 3 é uma “magnética” (Boxoffice) aventura de ficção científica que fará você ficar eletrizado em sua poltrona! A impiedosa corporação OCP que controla Detroit, está expulsando famílias de seus lares para obter espaço para construir um novo e lucrativo projeto imobiliário. Robocop (Robert John Burke, Cop/and), que jurou proteger o público, une suas forças a um bando renegado de defensores da liberdade para auxiliá-los na batalha para salvar as casas das pessoas — colocando-se contra alguns de seus mais fortes oponentes até então, incluindo um androide ninja e uma perigosa gangue: os Splatterpunks. 0 arsenal bélico de última geração de que dispõe Robocop apenas equilibra a batalha, na qual este solitário super-heroi enfrenta um exército inteiro de soldados da corporação, em uma guerra decisiva pelo controle de Detroit.</info>
+</item>
+
 
 
 
