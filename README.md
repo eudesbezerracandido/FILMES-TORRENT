@@ -508,6 +508,49 @@ Sinopse Filme 2:Policial-andróide enfrenta gangue de traficantes de drogas. Ao 
 Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o cyborg inimigo do crime mais uma vez sai às ruas para proteger, com “coração e personalidade”.[Entertainment Today), os inocentes, desta vez, enfrentando a ganância empresarial! Robocop 3 é uma “magnética” (Boxoffice) aventura de ficção científica que fará você ficar eletrizado em sua poltrona! A impiedosa corporação OCP que controla Detroit, está expulsando famílias de seus lares para obter espaço para construir um novo e lucrativo projeto imobiliário. Robocop (Robert John Burke, Cop/and), que jurou proteger o público, une suas forças a um bando renegado de defensores da liberdade para auxiliá-los na batalha para salvar as casas das pessoas — colocando-se contra alguns de seus mais fortes oponentes até então, incluindo um androide ninja e uma perigosa gangue: os Splatterpunks. 0 arsenal bélico de última geração de que dispõe Robocop apenas equilibra a batalha, na qual este solitário super-heroi enfrenta um exército inteiro de soldados da corporação, em uma guerra decisiva pelo controle de Detroit.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O PREÇO DO  AMANHÃ [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:606d6e3b8d73ebf2a2eb6b4e99b646162cd2f9c6</link>
+<thumbnail>https://http2.mlstatic.com/blu-ray-o-preco-do-amanh-original-justin-timberlake-D_NQ_NP_746827-MLB28246649893_092018-F.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em um futuro próximo, o envelhecimento passou a ser controlado para evitar a superpopulação, tornando o tempo a principal moeda de troca para sobreviver e também obter luxos. Assim, os ricos vivem mais que os pobres, que precisam negociar sua existência, normalmente limitada aos 25 anos de vida. Quando Will Salas (Justin Timberlake) recebe uma misteriosa doação, passa a ser perseguido pelos guardiões do tempo por um crime que não cometeu, mas ele sequestra Sylvia (Amanda Seyfried), filha de um magnata, e do novo relacionamento entre vítima e algoz surge uma poderosa arma com o sistema e organização que comanda o futuro das pessoas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O HOMEM FORMIGA E A VESPA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0907C0A3BCBA0C3CCDBF2DCF9C0A276D5D22D219</link>
+<thumbnail>https://boulevard.com.br/assisbrasil/wp-content/uploads/2018/06/ingresso-cinema-cinemark-homem-formiga-e-a-vespa-d-nq-np-860892-mlb27613002952-062018-f.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após os acontecimentos de “Capitão América: Guerra Civil”, Scott Lang tenta equilibrar sua vida familiar como pai com suas responsabilidades como Homem-Formiga, quando Hope Van Dyne e Hank Pym apresentam-lhe uma nova missão para trazer à luz segredos do passado, exigindo que ele se junte com Van Dyne como a nova Vespa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O HOMEM FORMIGA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QSVEYGDE5LYMW665OZQZH7N2IWTPWIE3&dn=Homem-Formiga%20(2015)%205.1%20CH%20Dublado%20720p%20(By-LuanHarper)</link>
+<thumbnail>https://www.multisom.com.br/resizer/view/600/600/true/false/22289.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dr. Hank Pym (Michael Douglas), o inventor da fórmula/ traje que permite o encolhimento, anos depois da descoberta, precisa impedir que seu ex-pupilo Darren Cross (Corey Stoll), consiga replicar o feito e vender a tecnologia para uma organização do mal. Depois de sair da cadeia, o trambiqueiro Scott Lang (Paul Rudd) está disposto a reconquistar o respeito da ex-mulher, Maggie (Judy Greer) e, principalmente, da filha. Com dificuldades de arrumar um emprego honesto, ele aceita praticar um último golpe. O que ele não sabia era que tudo não passava de um plano do Dr. Pym que, depois de anos observando o hábil ladrão, o escolhe para vestir o traje do Homem-Formiga.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CÓDIGO DE CONDUTA [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab9ab37aefe8e4ba9354ce25afea557a7f22b37e&dn=C%26oacute%3Bdigo+de+Conduta+%282009%29+720p+BDRip+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://http2.mlstatic.com/dvd-filme-codigo-de-conduta-D_NQ_NP_622860-MLB26701185439_012018-F.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Clyde (Gerard Butler) é um dedicado pai de família que testemunha sua esposa e filha serem assassinadas. Um dos culpados ganha liberdade graças a um acordo feito com o ambicioso promotor Nick (Jamie Foxx). Anos depois o assassino é encontrado morto e Clyde é preso mesmo sem provas contra ele. Seu único objetivo, é denunciar o corrupto sistema judicial nem que para isso tenha que matar um a um, todos os envolvidos. Mas, se Clyde já está na cadeia, como o promotor poderá impedi-lo se ele está sempre um passo a frente de todos?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] GLADIADOR [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FD5576760BE2DB1B8FAAA7E12874E5834A479CD&dn=Gladiador%20-%20Vers%c3%a3o%20Estendida%20Remasterizada%202000%20WWW.BLUDV.COM&tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2730%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
+<thumbnail>https://i.pinimg.com/originals/07/89/7c/07897c1462220a8e8fed0e945f89c67f.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nos dias finais do reinado de Marcus Aurelius (Richard Harris), o imperador desperta a ira de seu filho Commodus (Joaquin Phoenix) ao tornar pública sua predileção em deixar o trono para Maximus (Russell Crowe), o comandante do exército romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Império Romano.</info>
+</item>
+
+
+
+
 
 
 
