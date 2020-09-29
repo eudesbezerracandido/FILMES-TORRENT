@@ -582,6 +582,15 @@ Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o 
 <info>Gunnison, uma pequena cidade localizada nas montanhas da área central do Colorado. Uma nave dos predatores aterrisa no local, mas os aliens que estavam escondidos nela conseguem matar a todos, com exceção de um. Para sobreviver ele precisará destruir todos os aliens remanescentes. Mas em meio a esta guerra há os humanos, residentes da pequena Gunnison, que assistem a esta batalha como vítimas e espectadores.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O PREDADOR - A CAÇADA CONTINUA [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C579D6E0AE330B3F38DD5746C720837C3937B7CF&dn=%7bWWW.BLUDV.TV%7d%20O%20Predador%202018%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://imagem</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dos confins longínquos do espaço até as ruas de bairros residenciais, a caçada chega a todos os lugares na reinvenção explosiva assinada por Shane Black da série Predador. Agora os mais letais caçadores do universo estão mais fortes, mais inteligentes e mais mortais do que antes, tendo se aperfeiçoado com o DNA de outras espécies. Quando um jovem acidentalmente causa seu retorno à Terra, apenas uma equipe improvável de ex-soldados e um professor de ciências amargurado podem evitar o extermínio da raça humana.</info>
+</item>
+
+
 
 
 
