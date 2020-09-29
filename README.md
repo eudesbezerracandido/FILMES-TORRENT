@@ -566,6 +566,22 @@ Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o 
 <info>O major Dutch lidera uma equipe de resgate em selva da América Central. Após uma ação bem-sucedida contra um pelotão de guerrilheiros, eles descobrem que a missão era uma farsa e eles foram usados pela CIA. Para piorar, a floresta esconde uma ameaça mortal: um ser de outro planeta, fortemente armado, que sente enorme prazer em matar.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ALIEN VS PREDADOR - SEM SENSURA  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11B29B6706C98F87C2E102A086BA42815091C63B&dn=Alien%20vs.%20Predador%202004%20Sem%20Censura%20%28720p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/AVP_Alien_Vs._Predator.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Duas lendárias espécies alienígenas trazem sua mortal rivalidade para a terra em uma espetacular batalha que deverá ser o confronto final. No início do Séc. XXI, a descoberta de uma pirâmide antiga enterrada sob o gelo da Antártida atrai uma equipe de cientistas e aventureiros até o local. Mas o que os exploradores desconhecem é que há ovos alienígenas prestes a eclodir nas profundezas da pirâmide. Enquanto isso, na superfície, chegam os predadores para realizar um ritual. Como o tempo se esgotando, os humanos se vêem encurralados pela batalha até a morte das duas ferozes raças alienígenas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ALIEN VS PREDADOR  2 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e389062e7a5ecffb7ceb00986740944ad49036bd&dn=COMANDO.TO%20-%20Aliens%20vs.%20Predador%202_%20Vers%c3%a3o%20Estendida%202007%20%5b1080p%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
+<thumbnail>https://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/86/99/12/19880768.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Gunnison, uma pequena cidade localizada nas montanhas da área central do Colorado. Uma nave dos predatores aterrisa no local, mas os aliens que estavam escondidos nela conseguem matar a todos, com exceção de um. Para sobreviver ele precisará destruir todos os aliens remanescentes. Mas em meio a esta guerra há os humanos, residentes da pequena Gunnison, que assistem a esta batalha como vítimas e espectadores.</info>
+</item>
+
 
 
 
