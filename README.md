@@ -590,6 +590,40 @@ Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o 
 <info> Dos confins longínquos do espaço até as ruas de bairros residenciais, a caçada chega a todos os lugares na reinvenção explosiva assinada por Shane Black da série Predador. Agora os mais letais caçadores do universo estão mais fortes, mais inteligentes e mais mortais do que antes, tendo se aperfeiçoado com o DNA de outras espécies. Quando um jovem acidentalmente causa seu retorno à Terra, apenas uma equipe improvável de ex-soldados e um professor de ciências amargurado podem evitar o extermínio da raça humana.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ATÉ  O  ULTIMO  HOMEM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D79959476A20154018063CBE162AECA6AC4CC5C&dn=At%c3%a9%20o%20%c3%9altimo%20Homem%202017%20%28720p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/16/11/21/15/29/457312.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante a Segunda Guerra Mundial, o médico do exército Desmond T. Doss se recusa a pegar em uma arma e matar pessoas, porém, durante a Batalha de Okinawa ele trabalha na ala médica e salva mais de 75 homens, sendo condecorado. O que faz de Doss o primeiro Opositor Consciente da história norte-americana a receber a Medalha de Honra do Congresso.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FOME DE PODER [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4B6EC9CE536BE433EE337B35FCBDAB44F52412F2&dn=Fome%20de%20Poder%202017%20%5bBluRay%5d%20%28720p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://www.gazetadigital.com.br/uploads/webdisco/2015/10/05/jpg/588x441/a73f375e1b1801a597a4eb981b0338a8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Agora totalmente dublado, com qualidade de bluray e com excelente imagem e som. A história da criação e ascensão da empresa de fast food MC Donalds. Estrelada por Ray Kroc (Michael Keaton) e dirigido por John Lee Hancock. Como um pequeno restaurante de dois irmãos em uma cidadezinha dos Estado Unidos se tornou uma das maiores empresas alimentícias do mundo, tendo filiais em quase todos os países.</info>
+</item>
+
+
+<item>
+<title>[COLOR silver][B] SEMENTES  PODRES [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0628141547f6fca11d2976af53e983e1e20de17f&dn=Sementes%20Podres%202018%20%5bWEB-DL%5d%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounceSementes%20Podres%20%E2%80%93%20Dublado%20WEB-DL%20720p%20/%201080p</link>
+<thumbnail>https://wolverdonfilmes.net/wp-content/uploads/2018/12/Sementes-Podres-Torrent-Wolverdon-Filmes.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No Filme Download Sementes Podres (2018) – Torrent WEB-DL 720p/1080p Dublado – Atormentado pelo passado, um trapaceiro que vive de pequenos golpes com sua mãe adotiva encontra a redenção como mentor de grupo de estudantes com dificuldades.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] INVENSIVEL [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22f6d8933fc0b60c543ed1fd82988674b9f85505</link>
+<thumbnail>https://moviesense.files.wordpress.com/2020/03/c5029-unbroken3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O filme conta a história de Louis Zamperini, uma estrela da pista olímpica e um herói da Segunda Guerra Mundial, que durante uma missão militar, sofreu um acidente de avião no Oceano Pacífico, do qual sobreviveu junto com dois companheiros. Ele E mais um sobrevivem. Eles passaram 47 dias à deriva numa balsa, quando foram encontrados por um navio de guerra japonês. Que os fizeram de prisioneiros e os levaram para uma ilha onde foram torturados e mantidos como prisioneiros de guerra por dois anos.
+Enredo: A vida de Louis Zamperini, um atleta olímpico que se juntou às forças armadas durante a segunda guerra mundial. Apenas para ser capturado pela marinha japonesa após um acidente de avião no Pacífico. Durante sua captura, Louie deve continuar sua luta sobrevivendo durante a guerra.</info>
+</item>
+
 
 
 
