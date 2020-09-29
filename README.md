@@ -548,6 +548,24 @@ Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o 
 <info> Nos dias finais do reinado de Marcus Aurelius (Richard Harris), o imperador desperta a ira de seu filho Commodus (Joaquin Phoenix) ao tornar pública sua predileção em deixar o trono para Maximus (Russell Crowe), o comandante do exército romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Império Romano.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] NINJA ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d367d415e4a0cc58c68fa30ac2e764fea26a645c&dn=Ninja+Assassino+%282009%29+1080p+BluRay+x264+Dublado+-+ContPlay&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://2.bp.blogspot.com/-nMZh48METHs/TxtmBqXcAXI/AAAAAAAABTA/fgSDq2csOi4/s1600/ninja-assassin-affiche-france.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Raizo (Rain) é um dos assassinos mais temidos do mundo. Tirado das ruas na infância, foi treinado pelo clã Ozunu - um grupo secreto cuja existência em si já é considerada uma lenda - para ser um assassino exímio. No entanto, a execução sumária de seu amigo faz com que Raizo volte-se contra o grupo, aguardando o momento da vingança.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TRILOGIA - PREDADOR [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4AA305E364BA951304E6466285BCC89097D44D1&dn=O%20Predador%20%5B1987%5D%20-%20BluRay%201080p%20Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:787304609BB38ABD57FC41623BF08A7C98BBAAB0&dn=Predador%202%20-%20A%20Ca%C3%A7ada%20Continua%20%5B1991%5D%20-%20BluRay%201080p%20Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7867331511D2DE3332993E218967E8942A698AE0&dn=Predadores%20%5B2010%5D%20-%20BluRay%201080p%20Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://images-americanas.b2w.io/produtos/01/00/item/7367/7/7367792SZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O major Dutch lidera uma equipe de resgate em selva da América Central. Após uma ação bem-sucedida contra um pelotão de guerrilheiros, eles descobrem que a missão era uma farsa e eles foram usados pela CIA. Para piorar, a floresta esconde uma ameaça mortal: um ser de outro planeta, fortemente armado, que sente enorme prazer em matar.</info>
+</item>
+
 
 
 
