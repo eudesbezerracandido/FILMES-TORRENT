@@ -672,6 +672,14 @@ Enredo: A vida de Louis Zamperini, um atleta olímpico que se juntou às forças
 <info>Trilogia Batman: O Cavaleiro das Trevas, Marcado pelo assassinato de seus pais quando ainda era criança, o milionário Bruce Wayne (Christian Bale) decide viajar pelo mundo em busca de encontrar meios que lhe permitam combater a injustiça e provocar medo em seus adversários. Após retornar a Gotham City, sua cidade-natal, ele idealiza seu alter-ego: Batman, um justiceiro mascarado que usa força, inteligência e um arsenal tecnológico para combater o crime.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] QUADRILOGIA - TRANSFORMERS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B88D56A148E8DB3112C509B24CA2C73B9F2B1925&dn=Carregando.Download.Mais.Download.em.www.BRSHARES.com&tr=http://br2share.com/announce.php?passkey65940be6163205173e6aeb9f0448cc9&tr=udp://open.demonii.com:1337/announce&tr=udp://tracker.istole.it:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://9.rarbg.com:2710/announce&tr=http://mgtracker.org:2710/announce&tr=http://bt.careland.com.cn:6969/announce&tr=udp://www.eddie4.nl:6969/announce&tr=http://tracker.best-torrents.net:6969/announce&tr=udp://explodie.org:6969/announce&tr=http://121.14.98.151:9090/announce</link>
+<thumbnail>https://www.lapumiatorrent.net/wp-content/uploads/2017/06/71KDHiXTuSL._SY445_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante anos os Autobots e os Decepticons, duas raças alienígenas robóticas, duelaram em Cybertron, seu planeta natal. Esta guerra fez com que o planeta fosse destruído, resultando que os robôs se espalhassem pelo universo. Megatron (Hugo Weaving), o líder dos Decepticons, vem à Terra em busca da Allspark, um cubo de Cybertron que possibilita que qualquer aparelho eletrônico seja transformado num robô com inteligência própria. Megatron encontra a Allspark, mas fica congelado no Ártico. Décadas depois outros Decepticons chegam à Terra, numa tentativa de encontrar a Allspark. Seu surgimento logo alerta os principais países, em especial os Estados Unidos, que tem uma base militar no Qatar atacada. Enquanto o Secretário de Defesa John Keller (Jon Voight) tenta descobrir o que está havendo, reunindo todas as forças e informações possíveis, o jovem Sam Witwicky (Shia LaBeouf) tem preocupações mais simples: conseguir uma boa nota no colégio, o que lhe garantirá seu 1º carro. Mas o que ele não esperava era que o veículo escolhido, um Camaro antigo, tinha vida própria.Transformers – A Vingança dos Derrotados.</info>
+</item>
+
 
 
 
