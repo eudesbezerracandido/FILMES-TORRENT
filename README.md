@@ -680,6 +680,16 @@ Enredo: A vida de Louis Zamperini, um atleta olímpico que se juntou às forças
 <info>Durante anos os Autobots e os Decepticons, duas raças alienígenas robóticas, duelaram em Cybertron, seu planeta natal. Esta guerra fez com que o planeta fosse destruído, resultando que os robôs se espalhassem pelo universo. Megatron (Hugo Weaving), o líder dos Decepticons, vem à Terra em busca da Allspark, um cubo de Cybertron que possibilita que qualquer aparelho eletrônico seja transformado num robô com inteligência própria. Megatron encontra a Allspark, mas fica congelado no Ártico. Décadas depois outros Decepticons chegam à Terra, numa tentativa de encontrar a Allspark. Seu surgimento logo alerta os principais países, em especial os Estados Unidos, que tem uma base militar no Qatar atacada. Enquanto o Secretário de Defesa John Keller (Jon Voight) tenta descobrir o que está havendo, reunindo todas as forças e informações possíveis, o jovem Sam Witwicky (Shia LaBeouf) tem preocupações mais simples: conseguir uma boa nota no colégio, o que lhe garantirá seu 1º carro. Mas o que ele não esperava era que o veículo escolhido, um Camaro antigo, tinha vida própria.Transformers – A Vingança dos Derrotados.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DUOLOGIA - ESQUECERAM DE MIM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PG43X35YAJZRKJ2JGTS5R5O4MOEJ3XFA&dn=Duologia%20Esqueceram%20de%20Mim%20(1990-1992)%205.1%20BluRay%20Dual%20%C3%81udio%20720p%20By-LuanHarper</link>
+<thumbnail>https://www.pontofrio-imagens.com.br/dvdsebluray/FilmeseSeriados/Animacao/436053/243109677/Blu-Ray-Esqueceram-de-Mim-Esqueceram-de-Mim-2-2-Discos-436053.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Esqueceram de Mim (1990) Em Chicago, uma família inteira planeja passar o Natal em Paris. Porém, em meio às confusões de viagem um dos filhos (Macaulay Culkin), com apenas 8 anos, é esquecido em casa. Assim, o garoto se vê obrigado a se virar sozinho e a defender a casa de dois ladrões.
+
+Esqueceram de Mim 2: Perdido em Nova York (1992) Garoto (Macaulay Culkin) se vê novamente sozinho, quando em virtude de uma confusão no aeroporto que fez com que ele ao invés de embarcar com a família para a Flórida partisse sozinho para Nova York. Mas como tinha o cartão de crédito do pai (John Heard), ele se hospeda no melhor hotel da cidade, mas também encontra os dois ladrões que tinha enfrentado no passado e que agora planejam se vingar dele.</info>
+</item>
+
 
 
 
