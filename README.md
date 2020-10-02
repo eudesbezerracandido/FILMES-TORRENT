@@ -139,7 +139,7 @@ TORRENT FILMES
 
 <item>
 <title>[COLOR silver][B] INIMIGO  MEU [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52DEC82222FEA10D592800C1421F3C923C30A0E5&dn=Inimigo%20Meu%201985%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FA69A83897C23C23187E535BC9592FF0792F36CA&dn=Inimigo%20Meu%201985%20Bluray%20720p%20Dublado&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/512Equu0K3L._AC_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Nesta excelente aventura da ficção científica, dois guerreiros envolvidos em uma selvagem guerra futurística entre a Terra e o planeta Dracon são abatidos e fazem aterrissagens forçadas em um planeta desolado e inóspito. A princípio, o humano (Dennis Quaid) e seu inimigo, um réptil alienígena (Louis Gosset, Jr.) estão determinados a destruirem-se mutuamente. Mas após terem que enfrentar as forças da natureza e um ao outro, os dois pilotos perdidos gradualmente percebem que a única maneira de manterem-se vivos é superando o ódio mortal.</info>
@@ -203,7 +203,7 @@ TORRENT FILMES
 
 <item> 
 <title>[COLOR=white][B][I] COLEÇÃO - SUPERMAN  [/I][/B][/COLOR]</title> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:475d32a01c8a85b2578d06c9f488c87bcbe11498&dn=SUPERMAN O FILME=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link><title>SUPERMAN O FILME</title>//plugin.video.elementum/play?uri=magnet:?xt=urn:btih:475d32a01c8a85b2578d06c9f488c87bcbe11498&dn=SUPERMAN O FILME=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b1ef0eb398ca194949f0425df7e78923ff83947&dn=Superman+2+%281980%29+Bluray+720p+Filmes+M.H.G&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 
