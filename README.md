@@ -135,7 +135,7 @@ TORRENT FILMES
 <thumbnail>https://br.web.img2.acsta.net/pictures/19/06/12/14/10/0645123.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Após uma tentativa de assassinato ao presidente dos Estados Unidos (Morgan Freeman), o agente do Serviço Secreto, Mike Banning (Gerard Butler), é injustamente acusado e levado sob custódia. Determinado a provar sua inocência, ele se torna um alvo do FBI à medida em que tenta encontrar o verdadeiro culpado. Ele vai precisar de toda a ajuda possível para proteger sua família e salvar seu país de um ataque sem precedentes.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] INIMIGO  MEU [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
