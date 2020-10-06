@@ -737,6 +737,22 @@ Enredo: O ônibus espacial Churchill é designado para observar o cometa Halley,
 <info>Um jovem agente do FBI (Luke Bracey) tem como missão se infiltrar em meio a atletas de esportes radicais, suspeitos de cometerem uma série de roubos nunca vistos até então. Não demora muito para que ele se aproxime de Bodhi (Édgar Ramirez), o líder do grupo, e conquiste sua confiança.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DEPOIS DA TERRA  - COM WILL SMITH [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f630a3cd23cb36074c526ad6023df4b5781f964b&dn=Depois+da+Terra+%282013%29+BDRip+720p+dual+audio+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://3.bp.blogspot.com/-Itrt_nSxjdI/Ub4FnnQZyyI/AAAAAAAAMSM/F6_dY6vn2TQ/s1600/Depois-daTerra-poster.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um pouso forçado deixa o adolescente Kitai Raige (Jaden Smith) e seu lendário pai Cypher (Will Smith) encalhados na Terra, 1.000 anos depois que eventos cataclísmicos forçaram a humanidade a fugir. Com Cypher gravemente ferido, Kitai deve embarcar em uma perigosa jornada para pedir ajuda, enfrentando terreno desconhecido, evoluídas espécies animais que agora dominam o planeta, e uma implacável criatura alienígena que escapou durante o acidente. Pai e filho devem aprender a trabalhar juntos e confiar um no outro se quiserem alguma chance de voltar para casa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A PROCURA DA FELICIDADE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DF13A0D0344105F71CCE7D01C7749B62B1936F4C&dn=%7bWWW.BLUDV.COM%7d%20%c3%80%20Procura%20da%20Felicidade%202006%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61GttXJDT9L._AC_SX569_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Chris Gardner (Will Smith) é um pai de família que enfrenta sérios problemas financeiros. Apesar de todas as tentativas em manter a família unida, Linda (Thandie Newton), sua esposa, decide partir. Chris agora é pai solteiro e precisa cuidar de Christopher (Jaden Smith), seu filho de apenas 5 anos. Ele tenta usar sua habilidade como vendedor para conseguir um emprego melhor, que lhe dê um salário mais digno. Chris consegue uma vaga de estagiário numa importante corretora de ações, mas não recebe salário pelos serviços prestados. Sua esperança é que, ao fim do programa de estágio, ele seja contratado e assim tenha um futuro promissor na empresa. Porém seus problemas financeiros não podem esperar que isto aconteça, o que faz com que sejam despejados. Chris e Christopher passam a dormir em abrigos, estações de trem, banheiros e onde quer que consigam um refúgio à noite, mantendo a esperança de que dias melhores virão.</info>
+</item>
+
 
 
 
