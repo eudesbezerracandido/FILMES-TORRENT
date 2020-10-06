@@ -721,6 +721,22 @@ Enredo: O ano é 2028 e o conglomerado multinacional OmniCorp está no centro da
 Enredo: O ônibus espacial Churchill é designado para observar o cometa Halley, sob o comando do coronel Tom Carlsen. Eles vêem uma forma estranha ligada ao cometa e Carlsen vai com uma equipe para investigar. Eles encontram três formas de vida humanóides em caixões e os trazem para o Churchill. No entanto, a Terra perde contato com o ônibus espacial e o Centro de Pesquisa Espacial envia outra espaçonave para revistar o Churchill. Eles acham a tripulação morta, o ônibus queimado e uma cápsula de resgate desaparecida. Eles trazem os humanóides para a Terra e logo o Dr. Hans Fallada e sua equipe descobrem que a Space Girl é uma espécie de vampiro e drena a força da vida das pessoas, transformando-as em zumbis. Quando as autoridades descobrem que o coronel Tom Carlsen sobreviveu, o convocam para explicar o que aconteceu em Churchill. Carlsen conta uma história incrível sobre os três alienígenas e se une ao coronel Colin Caine tentando salvar a humanidade dos vampiros do espaço.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DUOLOGIA - HELBOY [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1BB01A0477B06FD743B6A7591757DA41CC4F97BE&dn=Hellboy%20-%20Duologia%20%282004-2008%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>https://plexcollectionposters.com/images/2018/05/08/Hellboy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Coleção com todos os 3 filmes da franquia, sendo eles, Hellboy 1 (2004), Hellboy II: O Exército Dourado (2008) e Hellboy, o remake de 2019. Nimue (Milla Jovovich), a Rainha de Sangue, foi uma bruxa tão poderosa que nenhum mortal jamais conseguiu derrotá-la. Durante uma batalha, seu corpo foi dividido em seis partes e espalhado pelos lugares mais distantes da Terra. Anos depois, o massacre a um mosteiro próximo à Londres levanta a suspeita de que alguém pode estar querendo ressuscitá-la e Hellboy (David Harbour) recebe a missão de conter essa terrível ameaça. A humanidade quase não conseguiu sobreviver aos seus poderes da primeira vez e certamente não sobreviverá na segunda.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CAÇADORES DE EMOÇÃO - ALÉM DO LIMITE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3995B5918687F60DB03A15F5EC51E1F022997A53&dn=Ca%c3%a7adores%20de%20Emo%c3%a7%c3%a3o%20Al%c3%a9m%20do%20Limite%202016%20Bluray%20720p%20Dublado%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<thumbnail>https://jgdprod-blogs-us.s3.amazonaws.com/blogs/wp-content/uploads/sites/7/2016/02/02181227/202939.jpg-r_640_600-b_1_D6D6D6-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem agente do FBI (Luke Bracey) tem como missão se infiltrar em meio a atletas de esportes radicais, suspeitos de cometerem uma série de roubos nunca vistos até então. Não demora muito para que ele se aproxime de Bodhi (Édgar Ramirez), o líder do grupo, e conquiste sua confiança.</info>
+</item>
+
 
 
 
