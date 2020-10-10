@@ -769,6 +769,14 @@ Enredo: O ônibus espacial Churchill é designado para observar o cometa Halley,
 <info>TODA COLEÇÃO CORAÇÃO DE DRAGÃO - TODA COLEÇÃO CORAÇÃO DE DRAGÃO - No século 10, um jovem príncipe fica gravemente ferido durante uma revolta de camponeses. A rainha invoca o poder mágico de um dragão para salvar o filho, mas a criatura só concorda em socorrê-lo e dividir seu coração se o príncipe jurar que será bom e justo. Entretanto, ele se torna um rei mais tirânico e perverso do que o próprio pai, e um jovem cavaleiro acredita que o coração do dragão tenha modificado a índole do príncipe.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] TRILOGIA - IPMAN O GRANDE MESTRE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LJ6YJFKNGW6YPPMJXIG43PPGOGC3GVSX&dn=TRILOGIA.O.Grande.Mestre.1080p-RICKSZ</link>
+<thumbnail>https://i.pinimg.com/originals/85/ce/44/85ce44df7b3c01b1eaf7a6c3baa1b1ee.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ip Man (Donnie Yen) cresceu em uma China dividida pelo ódio racial, pelo radicalismo nacionalista e pela guerra. Gênio do wushu, a escola de artes marciais chinesas, ele ganha destaque após participar de diversas lutas contra mestres do wushu e lutadores de kung fu. Já estabelecido como ícone na área, ele passa a treinar jovens aprendizes, entre eles Bruce Lee.</info>
+</item>
+
 
 
 
