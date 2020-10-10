@@ -777,6 +777,38 @@ Enredo: O ônibus espacial Churchill é designado para observar o cometa Halley,
 <info> Ip Man (Donnie Yen) cresceu em uma China dividida pelo ódio racial, pelo radicalismo nacionalista e pela guerra. Gênio do wushu, a escola de artes marciais chinesas, ele ganha destaque após participar de diversas lutas contra mestres do wushu e lutadores de kung fu. Já estabelecido como ícone na área, ele passa a treinar jovens aprendizes, entre eles Bruce Lee.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DJANGO - LIVRE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1F54825B33ADA10CF043A6CA0B7DA3E7E73040F8&dn=Django%20Livre%20720p%20%282012%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969</link>
+<thumbnail>https://64.media.tumblr.com/eeedccba3f8c0f0c9d13cb01e22fe287/tumblr_inline_p8qgen3mHZ1s2p9c8_500.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Django é um escravo liberto que, sob a tutela de um caçador de recompensas alemão, torna-se um mercenário perigoso. Depois de auxiliar seu mentor em alguns trabalhos por dinheiro, os dois partem para uma missão pessoal: encontrar e libertar a esposa de Django das garras de um fazendeiro inescrupuloso.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CORAÇÃO VALENTE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WFFLYPRSQIASVEM24BHSFLJVTEXRKPWD&dn=Coracao%20Valente%20(1995)%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61nn9YeREAL._AC_SL1000_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No século XIII, soldados ingleses matam a mulher do escocês William Wallace (Mel Gibson), bem na sua noite de núpcias. Para vingar a amada, ele resolve liderar seu povo em uma luta contra o cruel Rei inglês Edward I (Patrick McGoohan). Com a ajuda de Robert e Bruce, ele vai deflagrar uma violenta batalha com o objetivo de libertar a Escócia de uma vez por todas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FEITIÇO DE AQUILA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ED7726B9332537DCFF71DD9D9F2E65C3DBA30DD2&dn=Feiti%C3%A7o+de+Aquila.1985.720p.Dublado.MV73&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://3.bp.blogspot.com/-DkIf_XkSl10/WURkXX-8kWI/AAAAAAAABBE/CgMyij01BU0ASEYh-8X4wrsRyJZF7FsdQCLcBGAs/s1600/o-feitico-de-aquila_t1634_5Pz4xX1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Europa, século XII. O Bispo de Áquila (John Wood) toma consciência que sua amada, a bela Isabeau (Michelle Pfeiffer), está apaixonada por Etienne Navarre (Rutger Hauer), um cavaleiro. Áquila fica possuído de raiva e ciúme e lança uma maldição sobre o casal: de dia ela sempre será um falcão e de noite Navarre toma a forma de um lobo, sendo que desta forma fica o casal impedido de se entregar um ao outro. Eles têm como único aliado Phillipe Gaston (Matthew Broderick), mais conhecido como Rato, que é o único prisioneiro que escapou das muralhas de Áquila.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] GLADIADOR [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FD5576760BE2DB1B8FAAA7E12874E5834A479CD&dn=Gladiador%20-%20Vers%c3%a3o%20Estendida%20Remasterizada%202000%20WWW.BLUDV.COM&tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2730%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
+<thumbnail>https://macmagazine.uol.com.br/wp-content/uploads/2014/06/21-filme.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nos dias finais do reinado de Marcus Aurelius (Richard Harris), o imperador desperta a ira de seu filho Commodus (Joaquin Phoenix) ao tornar pública sua predileção em deixar o trono para Maximus (Russell Crowe), o comandante do exército romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Império Romano.</info>
+</item> 
+
 
 
 
