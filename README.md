@@ -867,6 +867,46 @@ Em Download Velozes e Furiosos 8 (2017) – HD 720p e 1080p Torrent | Depois que
 <info>Em 1799, uma série de crimes envolvendo inocentes acontece no pequeno vilarejo de Sleepy Hollow. Para investigar o caso é chamado o detetive nova-iorquino Ichabod Crane (Johnny Depp), um excêntrico e determinado oficial de polícia com um jeito avant-garde de solucionar crimes. Os métodos investigativos de Ichabod serão postos à prova neste caso, que envolve um ser sobrenatural que pode ser o causador de todos os crimes.</info>
 </item> 
 
+<item>
+<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://imagem</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://imagem</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://imagem</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://imagem</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://imagem</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
 
 
 
