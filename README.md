@@ -809,6 +809,48 @@ Enredo: O ônibus espacial Churchill é designado para observar o cometa Halley,
 <info>Nos dias finais do reinado de Marcus Aurelius (Richard Harris), o imperador desperta a ira de seu filho Commodus (Joaquin Phoenix) ao tornar pública sua predileção em deixar o trono para Maximus (Russell Crowe), o comandante do exército romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Império Romano.</info>
 </item> 
 
+<item>
+<title>[COLOR silver][B] A LENDA DO CAVALEIRO SEM CABEÇA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:14b2146f5bc365d7ba677846beae34010c1478e8&dn=A+Lenda+Do+Cavaleiro+Sem+Cabe%26ccedil%3Ba+%281999%29+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/91/33/56/20140701.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em 1799, uma série de crimes envolvendo inocentes acontece no pequeno vilarejo de Sleepy Hollow. Para investigar o caso é chamado o detetive nova-iorquino Ichabod Crane (Johnny Depp), um excêntrico e determinado oficial de polícia com um jeito avant-garde de solucionar crimes. Os métodos investigativos de Ichabod serão postos à prova neste caso, que envolve um ser sobrenatural que pode ser o causador de todos os crimes.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BOHEMIA RHAPSODY[/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6ab5eaa844d56a1d75203cd6361f92807176c81&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Bohemian%20Rhapsody%202019%20%5bBluRay%5d%20%5b720p%5d%20%5bDUBLADO%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/18/08/24/21/29/2341995.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Freddie Mercury (Rami Malek) e seus companheiros, Brian May, Roger Taylor e John Deacon mudam o mundo da música para sempre ao formar a banda Queen durante a década de 1970. Porém, quando o estilo de vida extravagante de Mercury começa a sair do controle, a banda tem que enfrentar o desafio de conciliar a fama e o sucesso com suas vidas pessoais cada vez mais complicadas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ROCKETMAN O FILME  [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92ae19622b9638cc210b0d1c09c4fbb9fceebb73</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/19/02/19/11/44/5457998.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história de ascensão do cantor Elton John, de um aluno prodígio da Academia Royal de Música até uma lenda do rock nos anos 70.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DEUSES DO EGITO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D2C4A592D40D7E9BE45EB5244C5FEDA5E7A3B916&dn=Deuses%20do%20Egito%202016%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.openbittorrent.com%3a80/announce</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/16/02/14/13/03/358252.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Bek (Brenton Thwaites) é um mortal pacato que se considera apenas mais um soldado, e que vive em um Egito ancestral dominado por deuses e forças ocultas. Quando o impiedoso Set (Gerard Butler), deus da escuridão, toma o trono da nação e mergulha a sociedade no caos, o jovem se unirá a outros cidadãos e com o poderoso deus Horus (Nikolaj Coster-Waldau), para formar uma expressiva resistência.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DUOLOGIA - DEAD POOL  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8024064918D43CEED1700A459765ECC3C44FE62A&dn=Deadpool%202016%20Bluray%20720p%205.1%20CH%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30DFA6447A7ACAEAFC5FFA2D49833245955EB5C1&dn=%7bWWW.BLUDV.COM%7d%20Deadpool%202%202018%20%28720p%29%20DUBLADO%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6314/6314977_so.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O bocudo mercenário da Marvel está de volta! Maior, melhor e, ocasionalmente, mais pelado do que nunca. Quando um super soldado chega em uma missão assassina, Deadpool é forçado a pensar em amizade, família e o que realmente significa ser um herói – tudo isso, enquanto chuta 50 tons de bundas. Porque,? s vezes, para fazer a coisa certa, você precisa lutar sujo.</info>
+</item>
+
+
 
 
 
