@@ -852,6 +852,14 @@ Enredo: O ônibus espacial Churchill é designado para observar o cometa Halley,
 <info>Na fronteira mexicana duas gangues rivais aterrorizam uma pequena cidade sem lei. Uma é liderada pelo Major Winchester Jack e a outra pelo General H. Rodrigues. De repente, os dois exércitos de bandidos são pegos de surpresa pelo mais temido pistoleiro do velho oeste, Django. Arrastando um misterioso caixão atrás de si, ele retorna para vingar a morte de sua esposa e banhar de sangue as ruas da cidade. Os tiroteios e confrontos são inevitáveis. Django está determinado em seu plano de vingança.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] TRILOGIA - BONECO ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8AA5B6189B662D02023E33CC03C3C1DDA0D7B467&dn=Cole%c3%a7%c3%a3o%20Brinquedo%20Assassino%201988%20a%202017%20%28720p%29%20DUBLADO%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://4.bp.blogspot.com/-VTtvZdKUPn0/UhkugubXvXI/AAAAAAAAAX8/wGSkdDF8pFQ/s1600/Chucky+5+em+1_1600x1172.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No aniversário de seu filho (Gabriel Bateman), Karen (Aubrey Plaza) o presenteia com o boneco mais aguardado dos últimos tempos. Quando crimes estranhos começam a acontecer pela vizinhança, eles passam a suspeitar que o brinquedo pode não ser tão inofensivo quanto parece</info>
+</item>
+
 
 
 
