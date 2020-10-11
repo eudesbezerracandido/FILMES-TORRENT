@@ -860,7 +860,7 @@ Em Download Velozes e Furiosos 8 (2017) – HD 720p e 1080p Torrent | Depois que
 </item> 
 
 <item>
-<title>[COLOR] silver][B] A LENDA DO CAVALEIRO SEM CABEÇA [/COLOR][/B][COLOR yellow][B] FULL  HD [B][/COLOR][/B]</title>
+<title>[COLOR] silver][B] A LENDA DO CAVALEIRO SEM CABEÇA [/COLOR][/B][COLOR yellow] FULL  HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9601D3F5B5049910B71E3A26B9EBF89E31EB2D9F&dn=A%20Lenda%20do%20Cavaleiro%20Sem%20Cabe%c3%a7a%20%281999%29%20-%20BDRip%201080p%20-%20Dublado&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce</link>
 <thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/91/33/56/20140701.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
