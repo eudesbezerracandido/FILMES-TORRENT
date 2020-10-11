@@ -793,8 +793,6 @@ Enredo: O ônibus espacial Churchill é designado para observar o cometa Halley,
 <info>No século XIII, soldados ingleses matam a mulher do escocês William Wallace (Mel Gibson), bem na sua noite de núpcias. Para vingar a amada, ele resolve liderar seu povo em uma luta contra o cruel Rei inglês Edward I (Patrick McGoohan). Com a ajuda de Robert e Bruce, ele vai deflagrar uma violenta batalha com o objetivo de libertar a Escócia de uma vez por todas.</info>
 </item>
 
-
-
 <item>
 <title>[COLOR silver][B] GLADIADOR [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FD5576760BE2DB1B8FAAA7E12874E5834A479CD&dn=Gladiador%20-%20Vers%c3%a3o%20Estendida%20Remasterizada%202000%20WWW.BLUDV.COM&tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2730%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
@@ -804,16 +802,8 @@ Enredo: O ônibus espacial Churchill é designado para observar o cometa Halley,
 </item> 
 
 <item>
-<title>[COLOR silver][B] A LENDA DO CAVALEIRO SEM CABEÇA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:14b2146f5bc365d7ba677846beae34010c1478e8&dn=A+Lenda+Do+Cavaleiro+Sem+Cabe%26ccedil%3Ba+%281999%29+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/91/33/56/20140701.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Em 1799, uma série de crimes envolvendo inocentes acontece no pequeno vilarejo de Sleepy Hollow. Para investigar o caso é chamado o detetive nova-iorquino Ichabod Crane (Johnny Depp), um excêntrico e determinado oficial de polícia com um jeito avant-garde de solucionar crimes. Os métodos investigativos de Ichabod serão postos à prova neste caso, que envolve um ser sobrenatural que pode ser o causador de todos os crimes.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] BOHEMIA RHAPSODY[/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6ab5eaa844d56a1d75203cd6361f92807176c81&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Bohemian%20Rhapsody%202019%20%5bBluRay%5d%20%5b720p%5d%20%5bDUBLADO%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:a6ab5eaa844d56a1d75203cd6361f92807176c81&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Bohemian%20Rhapsody%202019%20%5bBluRay%5d%20%5b720p%5d%20%5bDUBLADO%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
 <thumbnail>https://br.web.img2.acsta.net/pictures/18/08/24/21/29/2341995.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Freddie Mercury (Rami Malek) e seus companheiros, Brian May, Roger Taylor e John Deacon mudam o mundo da música para sempre ao formar a banda Queen durante a década de 1970. Porém, quando o estilo de vida extravagante de Mercury começa a sair do controle, a banda tem que enfrentar o desafio de conciliar a fama e o sucesso com suas vidas pessoais cada vez mais complicadas.</info>
@@ -868,6 +858,22 @@ Enredo: O ônibus espacial Churchill é designado para observar o cometa Halley,
 <info>Domenic Toretto (Vin Diesel) é o líder de uma gangue de corridas de ruas em Los Angeles que está sendo investigado pela polícia por roubo de equipamentos eletrônicos. Para investigá-lo é enviado Brian Spindler (Paul Walker), que se infiltra na gangue na intenção de descobrir se Toretto é realmente o autor dos crimes e se há alguém mais por trás deles.
 Em Download Velozes e Furiosos 8 (2017) – HD 720p e 1080p Torrent | Depois que Brian (Paul Walker) e Mia (Jordana Brewster) se aposentaram, e o resto da equipe foi exonerado, Dom (Vin Diesel) e Letty (Michelle Rodriguez) estão em lua de mel e levam uma vida pacata e completamente normal. Mas a adrenalina do passado acaba voltando com tudo quando uma mulher misteriosa (Charlize Theron) faz com que Dom retorne ao mundo do crime e da velocidade.</info>
 </item> 
+
+<item>
+<title>[COLOR silver][B] A LENDA DO CAVALEIRO SEM CABEÇA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:14b2146f5bc365d7ba677846beae34010c1478e8&dn=A+Lenda+Do+Cavaleiro+Sem+Cabe%26ccedil%3Ba+%281999%29+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/91/33/56/20140701.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em 1799, uma série de crimes envolvendo inocentes acontece no pequeno vilarejo de Sleepy Hollow. Para investigar o caso é chamado o detetive nova-iorquino Ichabod Crane (Johnny Depp), um excêntrico e determinado oficial de polícia com um jeito avant-garde de solucionar crimes. Os métodos investigativos de Ichabod serão postos à prova neste caso, que envolve um ser sobrenatural que pode ser o causador de todos os crimes.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A LENDA DO CAVALEIRO SEM CABEÇA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:9601D3F5B5049910B71E3A26B9EBF89E31EB2D9F&dn=A%20Lenda%20do%20Cavaleiro%20Sem%20Cabe%c3%a7a%20%281999%29%20-%20BDRip%201080p%20-%20Dublado&tr=udp%3a//tracker.openbittorrent.com%3a80/announce</link>
+<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/91/33/56/20140701.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em 1799, uma série de crimes envolvendo inocentes acontece no pequeno vilarejo de Sleepy Hollow. Para investigar o caso é chamado o detetive nova-iorquino Ichabod Crane (Johnny Depp), um excêntrico e determinado oficial de polícia com um jeito avant-garde de solucionar crimes. Os métodos investigativos de Ichabod serão postos à prova neste caso, que envolve um ser sobrenatural que pode ser o causador de todos os crimes.</info>
+</item>
 
 
 
