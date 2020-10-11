@@ -850,6 +850,14 @@ Enredo: O ônibus espacial Churchill é designado para observar o cometa Halley,
 <info>O bocudo mercenário da Marvel está de volta! Maior, melhor e, ocasionalmente, mais pelado do que nunca. Quando um super soldado chega em uma missão assassina, Deadpool é forçado a pensar em amizade, família e o que realmente significa ser um herói – tudo isso, enquanto chuta 50 tons de bundas. Porque,? s vezes, para fazer a coisa certa, você precisa lutar sujo.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DJANGO - 1966 [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeb3be73c8d04317d0f931c5fa92c17b2f2b7815&dn=Django.1966.1080p.BluRay.x264.AC3-CaNNIBal&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+<thumbnail>https://1.bp.blogspot.com/-ZNj6tdsItvI/UPmDF4iAfVI/AAAAAAAAO-4/rAkOIlTRjGQ/s1600/DJANGO+1966+POSTER.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na fronteira mexicana duas gangues rivais aterrorizam uma pequena cidade sem lei. Uma é liderada pelo Major Winchester Jack e a outra pelo General H. Rodrigues. De repente, os dois exércitos de bandidos são pegos de surpresa pelo mais temido pistoleiro do velho oeste, Django. Arrastando um misterioso caixão atrás de si, ele retorna para vingar a morte de sua esposa e banhar de sangue as ruas da cidade. Os tiroteios e confrontos são inevitáveis. Django está determinado em seu plano de vingança.</info>
+</item>
+
 
 
 
