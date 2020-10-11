@@ -793,13 +793,7 @@ Enredo: O ônibus espacial Churchill é designado para observar o cometa Halley,
 <info>No século XIII, soldados ingleses matam a mulher do escocês William Wallace (Mel Gibson), bem na sua noite de núpcias. Para vingar a amada, ele resolve liderar seu povo em uma luta contra o cruel Rei inglês Edward I (Patrick McGoohan). Com a ajuda de Robert e Bruce, ele vai deflagrar uma violenta batalha com o objetivo de libertar a Escócia de uma vez por todas.</info>
 </item>
 
-<item>
-<title>[COLOR silver][B] FEITIÇO DE AQUILA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ED7726B9332537DCFF71DD9D9F2E65C3DBA30DD2&dn=Feiti%C3%A7o+de+Aquila.1985.720p.Dublado.MV73&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
-<thumbnail>https://3.bp.blogspot.com/-DkIf_XkSl10/WURkXX-8kWI/AAAAAAAABBE/CgMyij01BU0ASEYh-8X4wrsRyJZF7FsdQCLcBGAs/s1600/o-feitico-de-aquila_t1634_5Pz4xX1.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Europa, século XII. O Bispo de Áquila (John Wood) toma consciência que sua amada, a bela Isabeau (Michelle Pfeiffer), está apaixonada por Etienne Navarre (Rutger Hauer), um cavaleiro. Áquila fica possuído de raiva e ciúme e lança uma maldição sobre o casal: de dia ela sempre será um falcão e de noite Navarre toma a forma de um lobo, sendo que desta forma fica o casal impedido de se entregar um ao outro. Eles têm como único aliado Phillipe Gaston (Matthew Broderick), mais conhecido como Rato, que é o único prisioneiro que escapou das muralhas de Áquila.</info>
-</item>
+
 
 <item>
 <title>[COLOR silver][B] GLADIADOR [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
