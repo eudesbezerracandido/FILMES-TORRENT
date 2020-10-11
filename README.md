@@ -868,27 +868,27 @@ Em Download Velozes e Furiosos 8 (2017) – HD 720p e 1080p Torrent | Depois que
 </item> 
 
 <item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
+<title>[COLOR silver][B] Ó MÁSKARA [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:535a095bd8a73c3764848b2cb10ddd8a224c4635&dn=O+M%26aacute%3Bskara+%281994%29+BDRip+720p+dublado+-+Gilkerberus&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://http2.mlstatic.com/D_NQ_NP_934077-MLB29028093465_122018-O.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info>Em Edge City vive Stanley Ipkiss (Jim Carrey), um cara decente que trabalha em um banco mas é socialmente desajeitado e sem muito sucesso com as mulheres. Após um dos piores dias da sua vida, ele acha no mar a estranha máscara de Loki, um deus escandinavo. Quando Stanley coloca a máscara, se transforma em O Máskara, um ser com o rosto verde que possui a coragem para fazer as coisas mais arriscadas e divertidas que Stanley receia fazer, inclusive flertar com Tina Carlyle (Cameron Diaz), a bela e sensual cantora que se apresenta no Coco Bongo, a discoteca do momento. O Máskara tem velocidade sobre-humana e um humor não-convencional e, enquanto isto, o gângster Dorian Tyrrell (Peter Greene), que namora Tina, se esforça para destruir o Máskara e se apoderar da máscara para usar seus poderes para o mal.</info>
 </item>
 
 <item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
+<title>[COLOR silver][B] O FILHO DO MÁSKARA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E757576B811CD68D191661803DBD7BA40BEDA581&dn=O%20Filho%20do%20M%c3%a1skara%20%5b2005%5d%20Bluray%201080p%20Dual%20%c3%81udio&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/210/208/21020893_2013071814071314.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info>Tim Avery (Jamie Kennedy) é um cartunista preocupado. Ele descobriu recentemente que seu filho Alvey possui habilidades incríveis, já que de alguma forma possui os poderes da Máscara de Loki, um objeto mitológico que transforma a pessoa que o usa. O problema é que o próprio Loki (Alan Cumming) deseja ter sua máscara de volta.</info>
 </item>
 
 <item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
+<title>[COLOR silver][B] COLEÇÃO PLANETA DOS MACACOS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61be4fc8b746fc197a65916d552dccaf4008d53b&dn=Cole%26ccedil%3B%26atilde%3Bo+Planeta+dos+Macacos+%281968-1973%29+720p+dubla&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://felipesilveiradesign.files.wordpress.com/2013/07/39598-282949_1445128_20120920084936.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info> Coleção completa com os filmes antigos e os novos. George Taylor, um astronauta americano, viaja por séculos em estado de hibernação. Ao acordar, ele e seus companheiros se vêem em um planeta dominado por macacos, no qual os humanos são tratados como escravos e nem mesmo tem o dom da fala.</info>
 </item>
 
 <item>
