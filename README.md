@@ -861,19 +861,13 @@ Em Download Velozes e Furiosos 8 (2017) – HD 720p e 1080p Torrent | Depois que
 
 <item>
 <title>[COLOR silver][B] A LENDA DO CAVALEIRO SEM CABEÇA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:14b2146f5bc365d7ba677846beae34010c1478e8&dn=A+Lenda+Do+Cavaleiro+Sem+Cabe%26ccedil%3Ba+%281999%29+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=magnet:?xt=urn:btih:9601D3F5B5049910B71E3A26B9EBF89E31EB2D9F&dn=A%20Lenda%20do%20Cavaleiro%20Sem%20Cabe%c3%a7a%20%281999%29%20-%20BDRip%201080p%20-%20Dublado&tr=udp%3a//tracker.openbittorrent.com%3a80/announce</link>
 <thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/91/33/56/20140701.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Em 1799, uma série de crimes envolvendo inocentes acontece no pequeno vilarejo de Sleepy Hollow. Para investigar o caso é chamado o detetive nova-iorquino Ichabod Crane (Johnny Depp), um excêntrico e determinado oficial de polícia com um jeito avant-garde de solucionar crimes. Os métodos investigativos de Ichabod serão postos à prova neste caso, que envolve um ser sobrenatural que pode ser o causador de todos os crimes.</info>
 </item>
 
-<item>
-<title>[COLOR silver][B] A LENDA DO CAVALEIRO SEM CABEÇA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:9601D3F5B5049910B71E3A26B9EBF89E31EB2D9F&dn=A%20Lenda%20do%20Cavaleiro%20Sem%20Cabe%c3%a7a%20%281999%29%20-%20BDRip%201080p%20-%20Dublado&tr=udp%3a//tracker.openbittorrent.com%3a80/announce</link>
-<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/91/33/56/20140701.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Em 1799, uma série de crimes envolvendo inocentes acontece no pequeno vilarejo de Sleepy Hollow. Para investigar o caso é chamado o detetive nova-iorquino Ichabod Crane (Johnny Depp), um excêntrico e determinado oficial de polícia com um jeito avant-garde de solucionar crimes. Os métodos investigativos de Ichabod serão postos à prova neste caso, que envolve um ser sobrenatural que pode ser o causador de todos os crimes.</info>
-</item>
+
 
 
 
