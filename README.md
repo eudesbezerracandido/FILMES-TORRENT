@@ -860,6 +860,15 @@ Enredo: O ônibus espacial Churchill é designado para observar o cometa Halley,
 <info>No aniversário de seu filho (Gabriel Bateman), Karen (Aubrey Plaza) o presenteia com o boneco mais aguardado dos últimos tempos. Quando crimes estranhos começam a acontecer pela vizinhança, eles passam a suspeitar que o brinquedo pode não ser tão inofensivo quanto parece</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COLEÇÃO - VELOZES &  FURIOSOS [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e4eaaaeb58abcc845e322e8b711aeda3a344996&dn=Cole%26ccedil%3Bao+Velozes+%26amp%3B+Furiosos+BluRay+1080p+Dublado+Coman&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://http2.mlstatic.com/D_NQ_NP_643576-MLB31126683028_062019-O.webp</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Domenic Toretto (Vin Diesel) é o líder de uma gangue de corridas de ruas em Los Angeles que está sendo investigado pela polícia por roubo de equipamentos eletrônicos. Para investigá-lo é enviado Brian Spindler (Paul Walker), que se infiltra na gangue na intenção de descobrir se Toretto é realmente o autor dos crimes e se há alguém mais por trás deles.
+Em Download Velozes e Furiosos 8 (2017) – HD 720p e 1080p Torrent | Depois que Brian (Paul Walker) e Mia (Jordana Brewster) se aposentaram, e o resto da equipe foi exonerado, Dom (Vin Diesel) e Letty (Michelle Rodriguez) estão em lua de mel e levam uma vida pacata e completamente normal. Mas a adrenalina do passado acaba voltando com tudo quando uma mulher misteriosa (Charlize Theron) faz com que Dom retorne ao mundo do crime e da velocidade.</info>
+</item>
+
 
 
 
