@@ -933,6 +933,24 @@ recepcionados pelos moradores locais. A situação piora ainda mais quando Jack 
 <info>Enfim No Filme Download Quadrilogia Anjos da Noite Torrent – BluRay 1080p / 720p Dublado 2016 – Numa noite chuvosa, ao entrar numa estação do metrô Michael Corvin (Scott Speedman), um estudante de medicina, se vê no meio de um violento tiroteio entre duas facções inimigas. De um lado estão os Mercadores da Morte, grupo de elite formado por vampiros. Do outro os lycans ou lobisomens, inimigos milenares dos sanguessugas.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ANTOLOGIA -  SUPERMAN [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wW0F2iC6cTwz99viCJQlK1W2GZj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Superman I: O Filme (Superman, 1978) – Jor-El (Marlon Brando), um renomado cientista, prevê a destruição do seu planeta e alerta o governo, que não lhe dá credito. Assim, decide salvar seu filho, mandando-o para a Terra, onde terá superpoderes. Na Terra, ele usa o nome de Clark Kent (Christopher Reeve) e já adulto e trabalhando como repórter em um jornal, não demonstra ter superpoderes. Mas quando uma situação inesperada põe em risco a vida de Lois Lane (Margot Kidder), uma colega de trabalho, ele é obrigado a se revelar para o público, ficando conhecido popularmente como Superman. Descontente com o surgimento de um super-herói na cidade, Lex Luthor (Gene Hackman), um gênio do mal, o obriga a se desdobrar para evitar a morte de milhões de pessoas.
+Superman II: A Aventura Continua (Superman II, 1980) Três perigosos prisioneiros do extinto planeta Krypton, que estavam confinados na Zona Fantasma, se libertam graças à uma explosão. O trio parte então para a Terra, onde passam a ter os mesmos poderes do Super-Homem, mas o objetivo deles é dominar o planeta.
+Superman III (Superman III, 1983) – Depois do épico Superman: o Filme e das estupendas batalhas de Superman II: A Aventura Continua, muitos imaginaram que nada estrelado pelo Homem de Aço poderia superá-los. Em Superman III, o pensamento prova-se contrário. Gus Gorman (Richard Pryor), um programador de computador “quase” brilhante junta-se à trama. Em suas mãos, um teclado torna-se uma verdadeira arma. Christopher Reeve retorna em seu mais celebrado papel, aprofundando ainda mais seu álter-ego humano, Clark Kent, quando encontra uma paixão do passado (Annette O´Toole), em uma reunião de sua antiga classe do colégio em Smallville. E quando Superman torna-se seu maior inimigo, após exposição intensa à Krptonita, Reeve interpreta dois papéis com convicção surpreendente. Efeitos visuais incríveis permeiam todo o filme, mas, acima de tudo, pode-se ver coração em todas as cenas.
+Superman IV: Em Busca da Paz (Superman IV: The Quest for Peace, 1987) – Christopher Reeve não apenas encarna o Homem-de-Aço pela quarta vez em Superman IV – Em Busca da Paz, como também colaborou para desenvolver o argumento provocativo e polêmico que o filme aborda: o desarmamento nuclear. “Para mim, é o filme mais pessoal em toda a série”, disse Reeve. “O tema reflete diretamente aquilo que esperamos do Superman, o que ele deveria ser e o que ele deveria fazer”. E dessa vez Superman tem muito que fazer… Para tornar o mundo um lugar seguro para os contrabandistas de armas nucleares, Lex Luthor (Gene Hackman) cria um novo tipo de desafio para o Homem-de-Aço: um vilão carregado de radiação e conhecido como Homem Nuclear (Mark Pillow). Esses dois seres superpoderosos se enfrentarão em um combate explosivo, que obriga Superman a salvar a Estátua da Liberdade, a impedir que o Monte Etna entre em erupção e a reconstruir a Grande Muralha da China. Seus pedidos foram atendidos: o maior e mais poderoso herói de todos os tempos está de volta!
+Superman: O Retorno (Superman Returns, 2006) – Um herói para o nosso milênio. E para a posteridade, apesar de que durante os longos cinco anos (tempo demais para a memória dos fãs!) em que Superman quis saber mais sobre seu planeta natal, as coisas mudaram um bocado em seu planeta adotivo. As nações aprenderam a viver sem ele. Lois Lane agora tem um filho, um noivo e ganhará um Pulitzer por conta de sua matéria “Por Que o Mundo Não Precisa do Superman”. E Lex Luthor tem um plano para destruir milhões de vidas inocentes.</info>
+</item>
+
 
 
 
