@@ -892,20 +892,51 @@ Em Download Velozes e Furiosos 8 (2017) – HD 720p e 1080p Torrent | Depois que
 </item>
 
 <item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
+<title>[COLOR silver][B] O  LOBISOMEM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:562c20efabcbf1596244295c516a1d59f6cb8661&dn=O+Lobisomem%3A+Vers%26atilde%3Bo+Estendida+%282010%29+1080p+Dual+Audio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker-ccc.de%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/210/560/21056024_20131107204243793.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info>O ator Lawrence Talbot (Benicio Del Toro), quando criança, sofreu com a morte de sua mãe e nunca mais voltou a morar com o pai (Anthony Hopkins). Mais de duas décadas depois do ocorrido, ele é chamado por sua futura cunhada Gwen Conliffe (Emily Blunt) para ajudá-la a encontrar o noivo desaparecido. Ao retornar para a casa do pai, Talbot acaba se envolvendo numa investigação sobre violentas mortes que acontecem nas noites de lua cheia, entrando em contato com o seu passado e descobrindo um segredo que mudará para sempre a sua vida.</info>
 </item>
 
 <item>
-<title>[COLOR silver][B]https://titulo[/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
-<thumbnail>https://imagem</thumbnail>
+<title>[COLOR silver][B] BALA DE PRATA -  A HORA DO LOBISOMEM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6E57BDF333B927D173861FC21137B6502209F24&dn=Bala%20de%20Plata%20-%20Stephen%20King%20%281985%29%20Bluray%201080p%20Tri-%c3%81udio</link>
+<thumbnail>https://http2.mlstatic.com/D_NQ_NP_645300-MLB25887820706_082017-O.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info>O filme tem dois nomes: Bala de Prata e A Hora do Lobisomem, a história aborda a drástica alteração no cotidiano da outrora pacata cidadezinha de Tarker's Mill, no interior dos EUA, quando na primavera de 1976, uma série de violentos assassinatos passam a se suceder, cada vez que a lua cheia surge no céu. Um garoto paralítico chamado Marty Coslaw, começa a desconfiar que o responsável pelos crimes seja um lobisomem, o que acaba se confirmando. Mais tarde, quando Marty, descobre a identidade do monstro, passa a ser perseguido pelo mesmo, e precisará encontrar uma forma de destruí-lo para salvar a própria vida.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] UM LOBISOMEM AMERICANO EM LONDRES [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B328C30F0ABEA1BFFA323CAED12EEE3D5421BE19&dn=Um%20Lobisomem%20Americano%20em%20Londres%20%281981%29%20BluRay%201080%20Dual%20%C3%81udio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</link>
+<thumbnail>https://pm1.narvii.com/6703/29dd0ce08d8d1f2897baaf864352e94ae093fecc_hq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>David Kessler (David Naughton) e Jack Goodman (Griffin Dunne) são colegas de colégio, que vieram dos Estados Unidos para conhecer a Inglaterra. Pedindo carona nas estradas, eles chegam a uma pequena cidade. Lá vão ao bar, sendo friamente
+recepcionados pelos moradores locais. A situação piora ainda mais quando Jack pergunta o porquê do local ter velas e um pentágono na parede. Ao deixar o local, eles caminham por uma estrada deserta e enevoada. Logo percebem que um animal está cercando-os. Jack é então atacado por um enorme lobisomem, tendo seu corpo dilacerado. David foge, mas é também atacado. Ele fica apenas com cortes no rosto e nos ombros, o suficiente para que se transforme em um lobisomem.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SINISTRO -  A MALDIÇÃO DO LOBISOMEM [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<thumbnail>https://media.fstatic.com/7JjWxMUxFyNkVGVFIMsyT1Col_8=/290x478/smart/media/movies/covers/2018/12/74018_f1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A advogada de defesa Kate (A. J. Cook) começa a suspeitar de um dos seus clientes, que está sendo acusado do assassinato de uma família que estava de férias. Ele acha que o acusado está escondendo algo além do que aparenta ser.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] QUADRILOGIA -  ANJOS DA NOITE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE3C29C50468C1540486C83CC89C2559E229125D&dn=Quadrilogia%20Anjos%20da%20Noite%202003%20-%202012%20%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%253</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F91C2B04BAE78ADEF94F0A8FC8264987C1BBC2CD&dn=Anjos.da.Noite.Guerras.de.Sangue.2017.720p.BluRay.x264.DUBLADO-TDF</link>
+<thumbnail>https://4.bp.blogspot.com/-lfL40h_Kz8o/WMNUpRiP_3I/AAAAAAAAK6g/Q8N7wRCTxnQ2gyJfGKUBczVlBhDwkrpiwCLcB/s1600/Underworld%2BQuadrilogy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Enfim No Filme Download Quadrilogia Anjos da Noite Torrent – BluRay 1080p / 720p Dublado 2016 – Numa noite chuvosa, ao entrar numa estação do metrô Michael Corvin (Scott Speedman), um estudante de medicina, se vê no meio de um violento tiroteio entre duas facções inimigas. De um lado estão os Mercadores da Morte, grupo de elite formado por vampiros. Do outro os lycans ou lobisomens, inimigos milenares dos sanguessugas.</info>
+</item>
+
+
+
+
+
 
 
 
