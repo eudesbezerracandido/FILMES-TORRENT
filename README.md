@@ -935,7 +935,6 @@ recepcionados pelos moradores locais. A situação piora ainda mais quando Jack 
 
 <item>
 <title>[COLOR silver][B] ANTOLOGIA -  SUPERMAN [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:475d32a01c8a85b2578d06c9f488c87bcbe11498&dn=Superman+-+O+Filme+%281978%29+%28Reupado%29+Bluray+1080p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b1ef0eb398ca194949f0425df7e78923ff83947&dn=Superman+2+%281980%29+Bluray+720p+Filmes+M.H.G&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1dc1e8ef444a266ad9abbfa05a3486c89e217f5&dn=COMANDOTORRENTSHD.NET.Superman+3+%281983%29+Bluray+720p+Filmes++M.H.G&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
