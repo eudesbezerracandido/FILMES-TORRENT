@@ -950,6 +950,14 @@ Superman IV: Em Busca da Paz (Superman IV: The Quest for Peace, 1987) – Christ
 Superman: O Retorno (Superman Returns, 2006) – Um herói para o nosso milênio. E para a posteridade, apesar de que durante os longos cinco anos (tempo demais para a memória dos fãs!) em que Superman quis saber mais sobre seu planeta natal, as coisas mudaram um bocado em seu planeta adotivo. As nações aprenderam a viver sem ele. Lois Lane agora tem um filho, um noivo e ganhará um Pulitzer por conta de sua matéria “Por Que o Mundo Não Precisa do Superman”. E Lex Luthor tem um plano para destruir milhões de vidas inocentes.</info>
 </item> 
 
+<item>
+<title>[COLOR silver][B] COLEÇÃO  HARRY POTTER [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28EB43F88E9123B32058905B3DD1B94FB44BAB21&dn=COLE%c3%87%c3%83O%20COMPLETA%20-%20Harry%20Potter%20%282001-2011%29%20Dublado%205.1%20CH%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>https://www.animeserie.com/product_images/h/855/Harry_Potter__20878_zoom.png</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger.</info>
+</item>
+
 
 
 
