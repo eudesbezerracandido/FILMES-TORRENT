@@ -958,6 +958,15 @@ Superman: O Retorno (Superman Returns, 2006) – Um herói para o nosso milênio
 <info>Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] TRUQUE DE MESTRE 1 E 2 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29122b758008f7da2633a41668249333e816e984&dn=Truque+de+Mestre+%282013%29+BDRip+720p+dublado+-+Gilkerberus&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D79DD0C7A0EFF9F9BA1344B806E2C00B9BBA680B&dn=Truque%20de%20Mestre%20O%20Segundo%20Ato%202016%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.istole.it%3a80/announce</link>
+<thumbnail>https://i.pinimg.com/564x/67/1e/36/671e3640f0d868680bc8d3cf27357a96.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Daniel Atlas (Jesse Eisenberg) é o carismático líder do grupo de ilusionistas chamado The Four Horsemen. O que poucos sabem é que, enquanto encanta o público com suas mágicas sob o palco, o grupo também rouba bancos em outro continente e ainda por cima distribui a quantia roubada nas contas dos próprios espectadores. Estes crimes fazem com que o agente do FBI Dylan Hobbs (Mark Ruffalo) esteja determinado a capturá-los de qualquer jeito, ainda mais após o grupo anunciar que em breve fará seu assalto mais audacioso. Para tanto ele conta com a ajuda de Alma Vargas (Melanie Laurent), uma detetive da Interpol, e também de Thaddeus Bradley (Morgan Freeman), um veterano desmistificador de mágicos que insiste que os assaltos são realizados a partir de disfarces e jogos envolvendo vídeos.</info>
+</item>
+
 
 
 
