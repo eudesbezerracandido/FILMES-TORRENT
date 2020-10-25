@@ -1029,6 +1029,22 @@ SINOPSE: 2 Vinte anos após uma invasão alienígena quase dizimar toda a humani
 <info>O casal Maria (Naomi Watts) e Henry (Ewan McGregor) está aproveitando as férias de inverno na Tailândia junto com os três filhos pequenos. Mas na manhã de 26 de dezembro de 2004, enquanto curtiam aquele paraíso após uma linda noite de Natal, um tsunami de proporções devastadoras atinge o local, arrastando tudo o que encontra pela frente. Separados em dois grupos, a mãe e o filho mais velho vão enfrentar situações desesperadoras para se manterem vivos, enquanto em algum outro lugar, o pai e as duas crianças menores não têm a menor ideia se os outros dois estão vivos. É quando eles começam a viver uma trágica lição de vida, movida pela esperança do reencontro e misturando os mais diversos sentimentos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] PLANETA DOS MACACOS -  A GUERRA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A116760BF0D1E28B8E04BD7230BC0B839F340C3B&dn=Planeta%20dos%20Macacos%20-%20A%20Guerra%202017%20%28720p%29%20DUBLADO%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/17/07/13/18/50/359962.png</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Com qualidade de bluray totalmente dublado e dual áudio 5.1 com resoluções de 1080p full hd e 720p hd. Humanos e macacos cruzam os caminhos novamente. César (Andy Serkis) e seu grupo são forçados a entrar em uma guerra contra um exército de soldados liderados por um impiedoso coronel (Woody Harrelson). Depois que vários macacos perdem suas vidas no conflito e outros são capturados, César luta contra seus instintos e parte em busca de vingança. Dessa jornada, o futuro do planeta poderá estar em jogo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PLANETA DOS MACACOS - A ORIGEM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f21b3dc384a2c93ca832410ca6b037924c46e290&dn=Planeta+Dos+Macacos%3A+A+Origem+%282011%29+1080p+Dublado+%2F+Dual+Audio+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://www.reab.me/wp-content/uploads/2011/09/planeta-dos-macacos-origem-poster.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Will Rodman é um cientista que trabalha num laboratório onde são realizadas experiências com macacos. Ele está interessado em descobrir novos medicamentos para a cura do mal de Alzheimer, já que seu pai sofre da doença. Ao seu lado conta com a ajuda de Caroline, uma especialista em primatas. As experiências realizadas fazem com que a inteligência dos macacos aumente significativamente, ao ponto deles escaparem de suas gaiolas e enfrentarem os humanos pelo controle da Terra.</info>
+</item>
+
 
 
 
