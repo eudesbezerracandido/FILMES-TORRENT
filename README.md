@@ -967,6 +967,68 @@ Superman: O Retorno (Superman Returns, 2006) – Um herói para o nosso milênio
 <info>Daniel Atlas (Jesse Eisenberg) é o carismático líder do grupo de ilusionistas chamado The Four Horsemen. O que poucos sabem é que, enquanto encanta o público com suas mágicas sob o palco, o grupo também rouba bancos em outro continente e ainda por cima distribui a quantia roubada nas contas dos próprios espectadores. Estes crimes fazem com que o agente do FBI Dylan Hobbs (Mark Ruffalo) esteja determinado a capturá-los de qualquer jeito, ainda mais após o grupo anunciar que em breve fará seu assalto mais audacioso. Para tanto ele conta com a ajuda de Alma Vargas (Melanie Laurent), uma detetive da Interpol, e também de Thaddeus Bradley (Morgan Freeman), um veterano desmistificador de mágicos que insiste que os assaltos são realizados a partir de disfarces e jogos envolvendo vídeos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] LÁ BAMBA 1987 [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42ed20efb5eb4def405aa11deecd3805d8d171a5&dn=La+Bamba+%281987%29+BDRip+720p+Dual+%26Aacute%3Budio+%2B+CD+Trilha+Sonora&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://1.bp.blogspot.com/-k2f_brHhH7U/TcaWrBYFm0I/AAAAAAAAAQY/Aa9UTg7jZOI/s1600/labamba.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Richard Stephen Valenzuela, mais conhecido como Ritchie Valens (Lou Diamond Phillips), marcou o final dos anos 50 com uma carreira meteórica, recheada de sucessos e pontuada por uma das canções mais famosas de todos os tempos: "La Bamba".</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DE VOLTA PARA O FUTURO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:247262aa44477b1e9492e8c243e43a3b4f5fef42&dn=COMANDOTORRENTSHD.NET%20-%20Cole%c3%a7%c3%a3o%20Triologia%2030%20Anos%20-%20De%20Volta%20Para%20o%20Futuro%20(1985-1989-1990)%20%5bDUBLADO%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/2589616/1002915896.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> De Volta para o Futuro: Um jovem (Michael J. Fox) aciona acidentalmente uma máquina do tempo construída por um cientista (Christopher Lloyd) em um Delorean, retornando aos anos 50. Lá conhece sua mãe (Lea Thompson), antes ainda do casamento com seu pai, que fica apaixonada por ele. Tal paixão põe em risco sua própria existência, pois alteraria todo o futuro, forçando-o a servir de cupido entre seus pais.
+
+De Volta para o Futuro – Parte 2: O cientista Doc Brown (Christopher Lloyd) leva Marty (Michael J. Fox) e sua namorada (Elisabeth Shue) para o ano 2015, com a finalidade de resolver uma questão familiar no futuro deles. Mas Biff (Thomas F. Wilson), velho inimigo da família, obriga-os a correrem contra o tempo (literalmente falando) para não alterarem os acontecimentos.
+
+De Volta para o Futuro – Parte 3: Após de receber uma carta de Doc (Christopher Lloyd) datada de 1885, Marty McFly (Michael J. Fox) decide viajar para o Velho Oeste, no dia 2 de setembro do mesmo ano. Lá ele descobre que o doutor está fugindo de uma gangue de bandidos e se apaixonou por uma professora da época. Agora, Marty tem apenas cinco dias para salvar a si e aos seus amigos e voltar para o futuro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] EXCALIBUR -  A ESPADA DO PODER [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62da5a0491e9ad679b63fd61e4e242efbd29897a</link>
+<thumbnail>https://img.repelis.id/cover/excalibur.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O mago Merlin (Nicol Williamson) dá ao rei Uther Pendragon (Gabriel Byrne) a mística Excalibur, a espada do poder. Durante uma emboscada Uther é ferido mortalmente e, pouco antes de morrer, enterra a espada em uma pedra. Fica então decidido que o cavaleiro que puder retirá-la da pedra será o novo rei, mas ninguém consegue. Anos depois o país estava divido em guerra entre os senhores feudais e Arthur (Nigel Terry), um jovem escudeiro, retira facilmente a espada da pedra. Alguns nobres juram fidelidade ao novo rei e Merlin relata que Arthur é um filho bastardo de Uther, mas alguns nobres não aceitam sua autoridade. No entanto o tempo faz todos se curvarem ao sábio rei, mas o tempo vai mostrar que o fator de desagregação do reino está na atração que Lancelot (Nicholas Clay), o campeão do rei, sente por Guinevere (Cherie Lunghi), a rainha. E, somando-se a isto, Morgana (Helen Mirren), a meia-irmã de Arthur, decide que Mordred (Robert Addie), o filho que ela teve com Arthur, deve ocupar o trono.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] REI ARTHUT - A VOLTA DE EXCALIBUR [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:122f86798e75cb752e133e1a1e014939264b7176&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Rei%20Arthur%20A%20Volta%20da%20Excalibur%20(2018)%20%5bBluRay%5d%20%5b720p%5d%20%5bDUAL%5d</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/10/04/19/47/5328528.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma re-imaginação da lenda do rei Artur centrado em torno do filho ilegítimo de Arthur Owain que devem aprender a assumir o manto de seu pai como rei.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] INDEPENDENCE DAY  1 & 2 [/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C4F1F84149FEBB32F95158948032F55F8C75296A&dn=Independence%20Day%20Vers%c3%a3o%20Estendida%201996%20ACESSE%20COMANDO4KFILMES.COM&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.sktorrent.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.ch%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485880C4FA34D9D52E247B2A2CD195B60A6170AA&dn=Independence%20Day%20O%20Ressurgimento%202016%20720p%20WEB-DL%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.istole.it%3a80/announce</link>
+<thumbnail>https://imagem</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>SINOPSE: 1 Naves imensas e poderosas estão sobre as principais cidades do mundo. Desta vez, o objetivo é claro: destruir a raça humana. A curiosidade rapidamente se transforma em pânico quando as naves iniciam o ataque com raios de fogo. Começa a contagem regressiva. Agora, a única esperança está nas mãos de sobreviventes que têm apenas uma chance para tentar o impossível, antes que seja o fim da humanidade
+ 
+SINOPSE: 2 Vinte anos após uma invasão alienígena quase dizimar toda a humanidade, eles voltaram em busca de vingança nesta incrível e explosiva sequência de Independence Day! Usando parte da tecnologia recuperada da primeira invasão alienígena, liderados pelo brilhante cientista David Levinston (Jeff Goldblum está de volta ao papel), as nações da Terra desenvolveram um programa avançado para a proteção do planeta. Mas nada conseguiu prever o tamanho e a força dessa nova ameaça e agora apenas algumas pessoas corajosas e com recursos limitados irão tentar salvar nosso mundo da extinção. Também estrelando Liam Hemsworth, Jesse T. Usher e Bill Pullman, Independence Day está de volta numa trama ainda mais repleta de ação e suspense do início ao fim!</info>
+
+<item>
+<title>[COLOR silver][B] ALÉM DA VIDA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:931110FF8EBDBD5CFA6753E5F567D1A78575675B&dn=Al%c3%a9m%20da%20Vida%20%282010%29%20720p%20Dublado%20-%20Alan_680&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
+<thumbnail>https://s2.glbimg.com/YXhsmcLspd-r9ri0zCT8KlQDCvs=/362x536/https://s2.glbimg.com/af60lYrQ4aATGN-ystKDp3EZ8NQ=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/x/t/5aENVSSkyRAF9W3E6OrA/2019-491-warner-jul-part-2-alem-da-vida-poster.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Três pessoas são tocadas pela morte de maneiras diferentes. George (Matt Damon) é um americano que desde pequeno consegue manter contato com a vida fora da matéria, mas considera o seu dom uma maldição e tenta levar uma vida normal. Marie (Cécile De France) é jornalista, francesa, e passou por uma experiência de quase morte durante um tsunami. Em Londres, o menino Marcus (Frankie McLaren/George McLaren) perde alguém muito ligado a ele e parte em busca desesperada por respostas. Enquanto cada um segue sua vida, o caminho deles irá se cruzar, podendo mundar para sempre as suas crenças.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O IMPOSSIVEL [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edeb8f889e3b8d172a89eeab811ecae961443198&dn=O.Impossivel.%282012%29.Dublado.1080p+-+AndreTPF&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/90/80/64/20363523.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O casal Maria (Naomi Watts) e Henry (Ewan McGregor) está aproveitando as férias de inverno na Tailândia junto com os três filhos pequenos. Mas na manhã de 26 de dezembro de 2004, enquanto curtiam aquele paraíso após uma linda noite de Natal, um tsunami de proporções devastadoras atinge o local, arrastando tudo o que encontra pela frente. Separados em dois grupos, a mãe e o filho mais velho vão enfrentar situações desesperadoras para se manterem vivos, enquanto em algum outro lugar, o pai e as duas crianças menores não têm a menor ideia se os outros dois estão vivos. É quando eles começam a viver uma trágica lição de vida, movida pela esperança do reencontro e misturando os mais diversos sentimentos.</info>
+</item>
+
 
 
 
