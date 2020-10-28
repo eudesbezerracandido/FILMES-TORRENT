@@ -1007,7 +1007,7 @@ De Volta para o Futuro – Parte 3: Após de receber uma carta de Doc (Christoph
 <title>[COLOR silver][B] INDEPENDENCE DAY  1 & 2 [/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C4F1F84149FEBB32F95158948032F55F8C75296A&dn=Independence%20Day%20Vers%c3%a3o%20Estendida%201996%20ACESSE%20COMANDO4KFILMES.COM&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.sktorrent.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.ch%3a1337%2fannounce</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485880C4FA34D9D52E247B2A2CD195B60A6170AA&dn=Independence%20Day%20O%20Ressurgimento%202016%20720p%20WEB-DL%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.istole.it%3a80/announce</link>
-<thumbnail>https://imagem</thumbnail>
+<thumbnail>https://cdn.cinepop.com.br/2015/12/independencedayhq_2.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>SINOPSE: 1 Naves imensas e poderosas estão sobre as principais cidades do mundo. Desta vez, o objetivo é claro: destruir a raça humana. A curiosidade rapidamente se transforma em pânico quando as naves iniciam o ataque com raios de fogo. Começa a contagem regressiva. Agora, a única esperança está nas mãos de sobreviventes que têm apenas uma chance para tentar o impossível, antes que seja o fim da humanidade
  
@@ -1044,6 +1044,27 @@ SINOPSE: 2 Vinte anos após uma invasão alienígena quase dizimar toda a humani
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Will Rodman é um cientista que trabalha num laboratório onde são realizadas experiências com macacos. Ele está interessado em descobrir novos medicamentos para a cura do mal de Alzheimer, já que seu pai sofre da doença. Ao seu lado conta com a ajuda de Caroline, uma especialista em primatas. As experiências realizadas fazem com que a inteligência dos macacos aumente significativamente, ao ponto deles escaparem de suas gaiolas e enfrentarem os humanos pelo controle da Terra.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] O ULTIMO SAMURAI [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:622a6367410c380870e71bde23b967522e92e261&dn=O+%26Uacute%3Bltimo+Samurai+%282003%29+BDRip+720p+Dublado+-+Alan_680&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/91/70/70/20159112.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nathan Algren (Tom Cruise) é um capitão ianque, herói de Guerra Civil, que vai para o Japão, com a missão de treinar as tropas japonesas e combater os samurais que atrapalham os planos de "modernização" do Imperador Japonês. Katsumoto (Ken Watanabe - indicado ao Oscar) é um líder Samurai que vive como poucos, seguindo um código de conduta que está desaparecendo. Dois experts na arte do combate, com diferentes visões de mundo e ética, cujos destinos estão entrelaçados de um forma que ninguém poderia supor. Dirigido por Edward Zwick (ganhador do prêmio de melhor direção do National Board of Review), é um tocante e comovente conto épico sobre o nascimento do Japão moderno.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DUOLOGIA - OLHOS FAMINTOS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC5B98C587F8EBCC6B154A1177DE71BE1B2AD347&dn=Duologia%20Olhos%20Famintos%202000%20e%202003%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:382AF4E525F5264B18ADAB9A6D8AC302EAEEEB60&dn=Olhos%20Famintos%203%202018%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGNAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://http2.mlstatic.com/olhos-famintos-1-olhos-famintos-2-blu-ray-D_NQ_NP_924411-MLB20548607234_012016-F.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No filme Duologia Olhos Famintos Torrent – BluRay 720p/1080p Dual Áudio, Trish (Gina Phillips) e seu irmão Darryl (Justin Long) descobrem algo horrível no porão de uma igreja abandonada. Agora, em viagem de carro de volta para casa, eles são o alvo de uma força indescritível que deseja acabar com eles de qualquer maneira.
+
+Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-ray. A história retorna aos acontecimentos do primeiro filme, Olhos Famintos 3 terá a volta de Trish Jenner, agora uma mulher rica, bem sucedida e mãe de um filho. Mesmo após 23 anos, ela permanece com os traumas causados pela perseguição de uma criatura do mal que acabou assassinando o seu irmão. Atormentada por pesadelos que sentenciam o seu filho ao mesmo destino trágico, ela se unirá a outros sobreviventes para dar um fim à sanguinária entidade.</info>
+</item>
+
+
 
 
 
