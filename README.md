@@ -1064,6 +1064,14 @@ SINOPSE: 2 Vinte anos após uma invasão alienígena quase dizimar toda a humani
 Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-ray. A história retorna aos acontecimentos do primeiro filme, Olhos Famintos 3 terá a volta de Trish Jenner, agora uma mulher rica, bem sucedida e mãe de um filho. Mesmo após 23 anos, ela permanece com os traumas causados pela perseguição de uma criatura do mal que acabou assassinando o seu irmão. Atormentada por pesadelos que sentenciam o seu filho ao mesmo destino trágico, ela se unirá a outros sobreviventes para dar um fim à sanguinária entidade.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COLEÇÃO SEXTA FEIRA 13 JASON VIVE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97AD633019815D2477F8D1E6E5396FB8D269C4E6&dn=Cole%c3%a7%c3%a3o%20Sexta-Feira%2013%201980-2009%20%5bBluRay%5d%20%281080p%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://sebodomessias.com.br/imagens/produtos/94/947314_106.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de muito tempo fechado, alguns monitores vêm passar uns dias no local que por muitos ficou conhecido como o “Acampamento Sangrento”. Ignorando os avisos, eles preferem se divertir e passar o final de semana cantando e fazendo amor. Mas não esperavam que alguém fosse brincar de “Mate o Monitor”. Assim, um por um eles vão morrendo sem que os outros descubram.</info>
+</item>
+
 
 
 
