@@ -1081,7 +1081,7 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 </item>
 
 <item>
-<title>[COLOR silver][B] TROLOGIA - MATRIX [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] TRILOGIA - MATRIX [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26FA43A4CCCA61D8F7CF96A106D7FE1801AED9C2&dn=Trilogia%20Matrix%201999%20-%202003%20%20WWW.WOLVERDON-FILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
 <thumbnail>https://http2.mlstatic.com/blu-ray-the-matrix-trilogia-2d-4k-stock-nuevo-D_NQ_NP_793268-MPE32061696123_092019-F.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
