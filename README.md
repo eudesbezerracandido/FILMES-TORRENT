@@ -1080,6 +1080,15 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 <info>Filme totalmente dublado e com excelente qualidade bluray para download via torrent. O detetive Hercule Poirot (Kenneth Branagh) embarca de última hora no trem Expresso do Oriente, graças à amizade que possui com Bouc (Tom Bateman), que coordena a viagem. Já a bordo, ele conhece os demais passageiros e resiste à insistente aproximação de Edward Ratchett (Johnny Depp), que deseja contratá-lo para ser seu segurança particular. Na noite seguinte, Ratchett é morto em seu vagão. Com a viagem momentaneamente interrompida devido a uma nevasca que fez com que o trem descarrilhasse, Bouc convence Poirot para que use suas habilidades dedutivas de forma a desvendar o crime cometido.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] TROLOGIA - MATRIX [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26FA43A4CCCA61D8F7CF96A106D7FE1801AED9C2&dn=Trilogia%20Matrix%201999%20-%202003%20%20WWW.WOLVERDON-FILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://http2.mlstatic.com/blu-ray-the-matrix-trilogia-2d-4k-stock-nuevo-D_NQ_NP_793268-MPE32061696123_092019-F.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Matrix Reloaded 2003/Matrix Revolutions 2003/Em um futuro próximo, Thomas Anderson (Keanu Reeves), um jovem programador de computador que mora em um cubículo escuro, é atormentado por estranhos pesadelos nos quais encontra-se conectado por cabos e contra sua vontade, em um imenso sistema de computadores do futuro. Em todas essas ocasiões, acorda gritando no exato momento em que os eletrodos estão para penetrar em seu cérebro. À medida que o sonho se repete, Anderson começa a ter dúvidas sobre a realidade. Por meio do encontro com os misteriosos Morpheus (Laurence Fishburne) e Trinity (Carrie-Anne Moss), Thomas descobre que é, assim como outras pessoas, vítima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas, criando a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia. Morpheus, entretanto, está convencido de que Thomas é Neo, o aguardado messias capaz de enfrentar o Matrix e conduzir as pessoas de volta à realidade e à liberdade.
+</info>
+</item>
+
 
 
 
