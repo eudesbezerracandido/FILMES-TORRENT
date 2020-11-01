@@ -1091,7 +1091,7 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 <item>
 <title>[COLOR silver][B] CAIXA DE PASSAROS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F2E493F7BC5B151BAB813A2153B4A9AE077932F7&dn=Caixa%20de%20P%C3%A1ssaros%202018%20%5bWEB-DL%5d%20%5b1080p%5d%20%5bDUAL%5d</link>
-<thumbnail>https://imagem</thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91263tSVxFL.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Filme exclusivo da Sandra Bullok para a netflix. Em um mundo pós-apocalíptico, Malorie (Sandra Bullock) e seus filhos precisam chegar em um refúgio para escapar do Problema, criaturas que ao serem vistas fazem pessoas se tornarem extremamente violentas. De olhos vendados para não serem afetados, a família segue o curso de um rio para chegar à segurança. O Filme é uma adaptação do livro de mesmo nome.</info>
 </item>
