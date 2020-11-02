@@ -1089,12 +1089,13 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 </item>
 
 <item>
-<title>[COLOR silver][B] CAIXA DE PASSAROS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:F2E493F7BC5B151BAB813A2153B4A9AE077932F7&dn=Caixa%20de%20P%C3%A1ssaros%202018%20%5bWEB-DL%5d%20%5b1080p%5d%20%5bDUAL%5d</link>
+<title>[COLOR silver][B] CAIXA DE PASSAROS [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d1886300e00ce62ad98e9d60169d072f9c8ed66&dn=[ACESSE%20COMANDOTORRENTS.COM]%20Caixa%20de%20P%C3%A1ssaros%202018%20[WEB-DL]%20[1080p]%20[DUAL]&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker4.piratux.com:6969/announce&tr=udp://coppersurfer.tk:6969/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.yify-torrents.com:80/announce&tr=http://www.h33t.com:3310/announce&tr=http://exodus.desync.com/announce&tr=http://tracker.coppersurfer.tk:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=http://tracker.blazing.de/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=http://tracker.yify-torrents.com/announce&tr=udp://tracker.prq.to/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://9.rarbg.com:2740/announce&tr=udp://tracker.ex.ua:80/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://12.rarbg.me:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://11.rarbg.com/announce&tr=udp://tracker.ccc.de:80/announce&tr=udp://fr33dom.h33t.com:3310/announce&tr=udp://public.popcorn-tracker.org:6969/announce</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91263tSVxFL.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Filme exclusivo da Sandra Bullok para a netflix. Em um mundo pós-apocalíptico, Malorie (Sandra Bullock) e seus filhos precisam chegar em um refúgio para escapar do Problema, criaturas que ao serem vistas fazem pessoas se tornarem extremamente violentas. De olhos vendados para não serem afetados, a família segue o curso de um rio para chegar à segurança. O Filme é uma adaptação do livro de mesmo nome.</info>
 </item>
+
 
 
 
