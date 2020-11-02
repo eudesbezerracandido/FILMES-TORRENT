@@ -1004,7 +1004,7 @@ De Volta para o Futuro – Parte 3: Após de receber uma carta de Doc (Christoph
 </item>
 
 <item>
-<title>[COLOR silver][B] INDEPENDENCE DAY  1 & 2 [/COLOR][/B][COLOR yellow] https:// FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] INDEPENDENCE DAY  1 & 2 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C4F1F84149FEBB32F95158948032F55F8C75296A&dn=Independence%20Day%20Vers%c3%a3o%20Estendida%201996%20ACESSE%20COMANDO4KFILMES.COM&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.sktorrent.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.ch%3a1337%2fannounce</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485880C4FA34D9D52E247B2A2CD195B60A6170AA&dn=Independence%20Day%20O%20Ressurgimento%202016%20720p%20WEB-DL%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.istole.it%3a80/announce</link>
 <thumbnail>https://cdn.cinepop.com.br/2015/12/independencedayhq_2.jpg</thumbnail>
