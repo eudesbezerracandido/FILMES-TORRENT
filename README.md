@@ -1120,6 +1120,14 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 <info>Filho de um lendário comentarista esportivo, o repórter Erik Kernan (Josh Harnett) procura uma grande matéria para alavancar sua carreira. Um dia, ele conhece um morador de rua (Samuel L. Jackson) que afirma ser o grande boxeador Bob Satterfield, famoso na década de 50 e que todos pensavam já estar morto. Erik acredita ter encontrado nele um grande furo de reportagem e a medida que o tempo passa, os dois tornam-se amigos. Mas com a publicação da matéria, segredos vem a tona e Erik começa a tomar consciência da própria da vida e dos relacionamentos com o filho e com a ex-mulher. Jornalista esportivo ajuda um mendigo e descobre que ele é na verdade um velho campeão de boxe que todos pensavam estar morto.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] TRILOGIA -  O SENHOR DOS ANEIS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0EECF482B747EB67BE6791003A5D497532F23775</link>
+<thumbnail>https://cdn.awsli.com.br/600x450/1150/1150272/produto/49834678/f494255a5b.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Numa terra fantástica e única, chamada Terra-Média, um hobbit (seres de estatura entre 80 cm e 1,20 m, com pés peludos e bochechas um pouco avermelhadas) recebe de presente de seu tio o Um Anel, um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso o hobbit Frodo (Elijah Woods) terá um caminho árduo pela frente, onde encontrará perigo, medo e personagens bizarros. Ao seu lado para o cumprimento desta jornada aos poucos ele poderá contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando 9 pessoas que formarão a Sociedade do Anel.</info>
+</item>
+
 
 
 
