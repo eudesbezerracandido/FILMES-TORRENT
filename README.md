@@ -1112,6 +1112,14 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 <info>Parasita Torrent – oda a família de Ki-taek está desempregada, vivendo num porão sujo e apertado. Uma obra do acaso faz com que o filho adolescente da família comece a dar aulas de inglês à garota de uma família rica. Fascinados com a vida luxuosa destas pessoas, pai, mãe, filho e filha bolam um plano para se infiltrarem também na família burguesa, um a um. No entanto, os segredos e mentiras necessários à ascensão social custarão caro a todos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O RESGATE DE UM CAMPEÃO[/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:654D5086EEDCC11B4108C4E76322E869D761BECF&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20O%20Resgate%20de%20Um%20Campe%c3%a3o%202008%20%5bWEB-DL%5d%20%5b720p%5d%20%5bDUBLADO%5d</link>
+<thumbnail>https://a-static.mlcdn.com.br/1500x1500/dvd-o-resgate-de-um-campeao-rimo/universocultural/5231/a264ad75bdb0b68fc65ba01d359be913.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Filho de um lendário comentarista esportivo, o repórter Erik Kernan (Josh Harnett) procura uma grande matéria para alavancar sua carreira. Um dia, ele conhece um morador de rua (Samuel L. Jackson) que afirma ser o grande boxeador Bob Satterfield, famoso na década de 50 e que todos pensavam já estar morto. Erik acredita ter encontrado nele um grande furo de reportagem e a medida que o tempo passa, os dois tornam-se amigos. Mas com a publicação da matéria, segredos vem a tona e Erik começa a tomar consciência da própria da vida e dos relacionamentos com o filho e com a ex-mulher. Jornalista esportivo ajuda um mendigo e descobre que ele é na verdade um velho campeão de boxe que todos pensavam estar morto.</info>
+</item>
+
 
 
 
