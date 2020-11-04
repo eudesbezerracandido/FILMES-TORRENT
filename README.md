@@ -1137,7 +1137,7 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 </item>
 
 <item>
-<title>[COLOR silver][B] QUADRIOLOGIA - KARATE KID  [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] QUADRILOGIA - KARATE KID  [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62dfd7ab5291214a3967d354795f77ffed71a633&dn=%20Karat&ecirc;%20Kid:%20A%20Hora%20da%20Verdade%20(1984)%20BDRip%20720p%20Dublado%205&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.publicbt.com:80&tr=udp://tracker.istole.it:6969&tr=udp://tracker.ccc.de:80&tr=udp://open.demonii.com:1337</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:242f9ad2b2a47cc74598c8149bafcfc242931afa&dn=Karate+Kid+II+%281986%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f04b4b2d05e8d18a780348e4b190c1e2af58da0&dn=Karate+Kid+3+-+O+Desafio+Final+%281989%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
