@@ -1145,7 +1145,7 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 <thumbnail>https://http2.mlstatic.com/karat-kid-coleco-5-em-1-D_NQ_NP_955711-MLB26018681820_092017-F.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Daniel Larusso (Ralph Macchio) e sua mãe (Randee Heller) recentemente se mudaram de Nova Jersey para o sul da Califórnia. Porém, Daniel não consegue se ambientar em sua nova morada, até que conhece Ali Mills (Elisabeth Shue), uma garota atraente que gosta dele. Porém, a situação de Daniel se complica quando o ex-namorado de Ali, Johnny Lawrence (William Zabka), e sua gangue começam a atormentá-lo. Um dia, quando é cercado pela gangue de Johnny, ele é salvo por um Miyagi, um veterano japonês (Pat Morita) mestre na arte do karatê. Disposto a ajudar Daniel, Miyagi resolve passar-lhe os ensinamentos do karatê, para que ele possa se defender da gangue de Johnny.</info>
-</item>
+</item> 
 
 
 
