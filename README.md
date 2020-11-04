@@ -1128,6 +1128,23 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 <info>Numa terra fantástica e única, chamada Terra-Média, um hobbit (seres de estatura entre 80 cm e 1,20 m, com pés peludos e bochechas um pouco avermelhadas) recebe de presente de seu tio o Um Anel, um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso o hobbit Frodo (Elijah Woods) terá um caminho árduo pela frente, onde encontrará perigo, medo e personagens bizarros. Ao seu lado para o cumprimento desta jornada aos poucos ele poderá contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando 9 pessoas que formarão a Sociedade do Anel.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COCOON 1985 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:338AA01ABD8E37D475C38B419D75A008B8BB0741&dn=Cocoon.1985.1080p.Dual-WOLVERDONFILMES.COM&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/210/111/21011185_20130607192803322.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Extra-terrestres vem a Terra com a missão de recuperar casulos com seres de outro planeta, sendo que enquanto os casulos vão sendo recuperados eles são colocados em uma piscina, energizada pelos alienígenas. Mas os extraterrenos ignoram o fato desta piscina ser utilizada por três idosos moradores de um asilo, que logo passam a ter uma disposição fantástica. Porém, quando descobrem a origem da sua juventude um dilema surge na vida deles.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] KARATE KID - A HORA DA VERDADE [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:62dfd7ab5291214a3967d354795f77ffed71a633&dn=%20Karat&ecirc;%20Kid:%20A%20Hora%20da%20Verdade%20(1984)%20BDRip%20720p%20Dublado%205&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.publicbt.com:80&tr=udp://tracker.istole.it:6969&tr=udp://tracker.ccc.de:80&tr=udp://open.demonii.com:1337</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61nCo%2BOtWvL._AC_SL1000_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Daniel Larusso (Ralph Macchio) e sua mãe (Randee Heller) recentemente se mudaram de Nova Jersey para o sul da Califórnia. Porém, Daniel não consegue se ambientar em sua nova morada, até que conhece Ali Mills (Elisabeth Shue), uma garota atraente que gosta dele. Porém, a situação de Daniel se complica quando o ex-namorado de Ali, Johnny Lawrence (William Zabka), e sua gangue começam a atormentá-lo. Um dia, quando é cercado pela gangue de Johnny, ele é salvo por um Miyagi, um veterano japonês (Pat Morita) mestre na arte do karatê. Disposto a ajudar Daniel, Miyagi resolve passar-lhe os ensinamentos do karatê, para que ele possa se defender da gangue de Johnny.</info>
+</item>
+
+
 
 
 
