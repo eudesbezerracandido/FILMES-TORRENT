@@ -1147,6 +1147,14 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 <info>Daniel Larusso (Ralph Macchio) e sua mãe (Randee Heller) recentemente se mudaram de Nova Jersey para o sul da Califórnia. Porém, Daniel não consegue se ambientar em sua nova morada, até que conhece Ali Mills (Elisabeth Shue), uma garota atraente que gosta dele. Porém, a situação de Daniel se complica quando o ex-namorado de Ali, Johnny Lawrence (William Zabka), e sua gangue começam a atormentá-lo. Um dia, quando é cercado pela gangue de Johnny, ele é salvo por um Miyagi, um veterano japonês (Pat Morita) mestre na arte do karatê. Disposto a ajudar Daniel, Miyagi resolve passar-lhe os ensinamentos do karatê, para que ele possa se defender da gangue de Johnny.</info>
 </item> 
 
+<item>
+<title>[COLOR silver][B] O CARA CERTO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0A58A73D53130C2246AF5DA6678ECFA0570DE110&dn=O%20Cara%20Certo%202017%20%28720p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://www.cafecomfilme.com.br/media/k2/items/cache/b3f8a286b21bfd52d3c9b12463d21b53_XL.jpg?t=20171230_113435</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após o doloroso fim de um relacionamento, uma garota encontra um homem que parece ser o homem perfeito para ela. Porém, a medida que o relacionamento deles se desenvolve, ela descobre que que o cara perfeito é um ex-assassino que está fugindo do antigo cartel criminoso do qual era contratado.</info>
+</item>
+
 
 
 
