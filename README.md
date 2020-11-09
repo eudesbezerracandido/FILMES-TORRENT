@@ -1155,6 +1155,22 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 <info> Após o doloroso fim de um relacionamento, uma garota encontra um homem que parece ser o homem perfeito para ela. Porém, a medida que o relacionamento deles se desenvolve, ela descobre que que o cara perfeito é um ex-assassino que está fugindo do antigo cartel criminoso do qual era contratado.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]  CORRA   [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:541DDA554560DD898680273EEAA9C83295FF8589&dn=Corra%21%202017%20%5bBluRay%5d%20%281080p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/17/04/19/21/08/577190.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem fotógrafo descobre um segredo sombrio quando conhece os pais aparentemente amigáveis da sua namorada.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] RITMAN -  AGENTE 47 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2656F28AE6910227D9C0C38510EEE907036EE7E8&dn=Hitman%20Agente%2047%20%282015%29%201080p%205.1Ch%20Dublado%20-%20Alan_680&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ft1.pow7.com%2fannounce&tr=http%3a%2f%2fsecure.pow7.com%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftracker.pubt.net%3a2710%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.ch%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fwww.eddie4.nl%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce</link>
+<thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/262452/1003003287.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Agente 47 (Rupert Friend) é um assassino de elite geneticamente modificado criado para ser a máquina de matar perfeita. Ele precisa caçar uma mega operação que pretende usar o segredo de sua criação para a formação de um exército imbátivel. Ao juntar forças com uma misteriosa jovem, que pode ser o diferencial para o sucesso da missão, ele vai descobrir segredos de sua origem em uma batalha épica contra seu maior inimigo.</info>
+</item>
+
 
 
 
