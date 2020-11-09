@@ -1171,6 +1171,15 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 <info> Agente 47 (Rupert Friend) é um assassino de elite geneticamente modificado criado para ser a máquina de matar perfeita. Ele precisa caçar uma mega operação que pretende usar o segredo de sua criação para a formação de um exército imbátivel. Ao juntar forças com uma misteriosa jovem, que pode ser o diferencial para o sucesso da missão, ele vai descobrir segredos de sua origem em uma batalha épica contra seu maior inimigo.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O CAÇADOR E A RAINHA DO GELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0fa1397f3a1664b4b8a7c6905c71aca6e4e6779</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/16/03/08/17/33/532308.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Traída por sua irmã má, Ravenna, Freya decide retirar-se para um reino ao norte e criar um exército de caçadores para serem seus protetores. Dotada de poderes capazes de congelar seus inimigos, Freya ensina seus jovens soldados a nunca se apaixonarem. Quando Eric e sua companheira de guerra, Sara, descumprem esta regra, a rainha faz de tudo para detê-los.
+Enredo: Mal feiticeira poderes da rainha Ravenna permitir que ela saiba que ela mais jovem irmã Freya, cujos poderes ainda não surgiu, não só está envolvido em um caso ilícito com um já em outra parte envolvida nobre Andrew, mas também está grávida de seu filho. Algum tempo depois de Freya dá à luz uma menina, descobre Freya que Andrew não só renegou sua promessa de fuga com ela, mas também mataram seu filho. Num acesso de raiva dor-abastecido, coração dela quebrado congela e ela mata com seu súbito aparecimento de poderes – o controle elemental de gelo</info>
+</item>
+
 
 
 
