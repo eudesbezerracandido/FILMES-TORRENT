@@ -1180,6 +1180,66 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 Enredo: Mal feiticeira poderes da rainha Ravenna permitir que ela saiba que ela mais jovem irmã Freya, cujos poderes ainda não surgiu, não só está envolvido em um caso ilícito com um já em outra parte envolvida nobre Andrew, mas também está grávida de seu filho. Algum tempo depois de Freya dá à luz uma menina, descobre Freya que Andrew não só renegou sua promessa de fuga com ela, mas também mataram seu filho. Num acesso de raiva dor-abastecido, coração dela quebrado congela e ela mata com seu súbito aparecimento de poderes – o controle elemental de gelo</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] INVSÃO DO MUNDO - BATALHA DE LOS ANGELES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cd7c3f27960355d885dc6dc4165d12a533a04c3&dn=Batalha+de+Los+Angeles+%282011%29+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://static.cineclick.com.br/adm/uploads/banco_imagens/69/1080x1620_1593981556.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma chuva de meteoros repentinamente atinge a Terra. Logo se descobre que na verdade são naves alienígenas, que desejam exterminar os seres humanos a qualquer custo. A cidade de Los Angeles é alvo de uma das principais batalhas, dentre as várias que ocorrem ao redor do planeta. Nela está envolvido o sargento Michael Nantz (Aaron Eckhart), que teve sua aposentadoria cancelada devido à gravidade dos ataques e ainda sofre o trauma de ter perdido vários homens em sua última missão. Obedecendo ordens do tenente William Martinez (Ramon Rodriguez), ele tenta ajudar no que pode para eliminar o invasor extraterrestre.
+Enredo: Los Angeles e outras cidades ao redor do mundo estão sendo bombardeado por meteoros que parecem estar a abrandar, uma vez que atingem a atmosfera da Terra. A terra é subitamente sendo invadida por alienígenas do espaço que pousaram largo da costa de Los Angeles, e que começar a matar todo mundo ao longo da praia. O militar é ordenado a entrar na ação. Marinha sargento Nantz (Aaron Eckhart), que estava prestes a se aposentar, é transferido para um novo pelotão. O pelotão, pilotado por helicóptero para a base operacional para a frente, em Santa Monica Airport, está sendo liderado por uma nova 2º tenente Martinez (Ramon Rodriguez). Eles são enviados em uma missão para resgatar alguns civis que estão presos na delegacia de polícia no território alienígena. Eles só têm 3 horas para completar sua missão e sair antes que as bombas da Força Aérea nessa zona.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UMA NOITE EM BANCCOQUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0c001d35859076629546c23e4782b45f1e1ee70</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/tVQmWzsV2PsuMAKmgwzIJwoMJni.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O melhor assassino do ramo faz sua 500ª morte — e decide se aposentar. Em vez disso, ele encontra-se envolvido em uma batalha feroz de inteligência com o inimigo perfeito.
+Enredo: Um homem hit chamado Kai (Mark Dacascos) voa em Bangkok, recebe uma arma, e as ordens de um táxi. Ele oferece uma fêmea motorista dinheiro grande profissional para ser seu motorista durante toda a noite. Mas quando ela percebe Kai está cometendo assassinatos brutais em cada parada, é tarde demais para ir embora. Enquanto isso, um detetive offbeat polícia (Kane Kosugi) corridas para decodificar a seqüência de assassinatos antes de mais sangue é derramado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PIRANHAS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d33e9e90cb697da7416a3242c722b75eb95ba15</link>
+<thumbnail>https://2.bp.blogspot.com/-vw874F54fok/TmIuYwwCAPI/AAAAAAAABaM/CwN7GlYvG30/s1600/piranha-2010-poster.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>As férias de primavera se tornam um rio de sangue quando um tremor subterrâneo libera centenas de peixes pré-históricos e carnívoros no lago Victoria. Uma policial local, Julie Forester, junta forças com um grupo de desconhecidos para destruir as criaturas vorazes, no intento de que os visitantes não sejam devorados pelos peixes.
+Enredo: Depois de um terremoto submarino súbita, que libera milhares de piranha pré-histórico apenas a tempo para as férias de primavera. Como o partido disjuntores da mola no Lago Victoria as piranhas atacam e locais de polícia, amigos e familiares devem trabalhar juntos para pará-lo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MEGATUBARÃO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f45732b59b7979ce03870ab128604c215aca349</link>
+<thumbnail>https://i.pinimg.com/474x/d9/3b/d8/d93bd86d8347998927ee4fced00baca4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão de mais de 20 metros de comprimento, o Megalodonte. Para salvá-los, um oceanógrafo chinês (Winston Chao) contrata Jonas Taylor (Jason Statham), mergulhador especializado em resgates em águas profundas que já encontrou com a criatura anteriormente.
+Enredo: Há cinco anos, o mergulhador especialista em mar e o capitão da Marinha Jonas Taylor encontrou um perigo desconhecido nos recantos inexplorados da Fossa das Marianas, que o forçaram a abortar sua missão e abandonar metade de sua tripulação. Embora o trágico incidente tenha lhe dispensado o serviço, o que em última análise lhe custou sua carreira, seu casamento e qualquer aparência de honra foram suas alegações incrédulas e sem apoio do que a causou – um ataque à embarcação por uma gigantesca criatura marinha de 70 pés , acredita-se estar extinto por mais de um milhão de anos. Mas quando um submersível está afundado e desabilitado no fundo do oceano – carregando sua ex-mulher entre a equipe a bordo – é ele quem recebe a ligação. Seja um tiro na redenção ou uma missão suicida, Jonas deve enfrentar seus medos e arriscar sua própria vida e a vida de todos presos em uma única pergunta: poderia o Carcharodon Megalodon – o maior predador marinho já existente – ainda estar vivo – e na caçada?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A COISA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c470cb478ce90b931a2d8cf3ae9b5400c8b6257</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/zKdqe9kfhLQ9giuLcpoQI3WL1Vw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A paleontóloga Kate Lloyd (Mary Elizabeth Winstead) viaja para uma região remota e gelada para ajudar na investigação de uma possível nova forma de vida após cientistas noruegueses encontrarem uma nave espacial e um ser misterioso dentro de uma pedra de gelo. Mas o que parecia estar morto há muito tempo está, na verdade, prestes a acordar e agora todos os envolvidos na descoberta correm risco de morrer, dando início a uma verdadeira corrida pela vida, já que o alienígena ganha a forma de suas vítimas com extrema facilidade.
+Enredo: Paleontologista Kate Lloyd é convidado pelo Dr. Sandor Halvorson para integrar sua equipe que encontraram algo extraordinário. Bem abaixo do gelo ártico, eles encontraram uma nave alienígena que tem sido há talvez 100.000 anos. Não muito longe de onde a nave pousou, eles encontram os restos do ocupante. É cortado do gelo e levado de volta para o acampamento, mas como o gelo derrete, a criatura reanima e não só começa a atacá-los, mas consegue infectá-las, com membros da equipe devolver em que a criatura alienígena.</info>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
