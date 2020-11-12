@@ -1258,12 +1258,44 @@ Enredo: Paleontologista Kate Lloyd é convidado pelo Dr. Sandor Halvorson para i
 </item>
 
 <item>
-<title>[COLOR silver][B] FURIA DE TITÃS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] FÚRIA DE TITÃS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f25b48763aa1ce43fc3aa773c667518418544e89&dn=Furia+De+Titas+%282010%29+720p+HD+Dublado+Pt+Br&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/f9/Clash_of_the_Titans_P%C3%B4ster.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Perseus (Sam Worthington) é o único que pode salvar sua família de Hades (Ralph Fiennes), um vingativo deus das trevas. Sem nada a perder, ele lidera uma missão para derrotar o vilão, antes que ele alcance os poderes de Zeus (Liam Neeson), rei de todos os deuses. Inicia-se, então, uma jornada por mundos desconhecidos.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] NASCIDOS PARA MATAR ( COMÉDIA )  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I2REJGHSZ55VJZL46COYBRR6ITEDPWKC&dn=Nascido+Para+Matar+%281987%29+BRrip+Blu-Ray+720p+Dublado+-%27%27DAT2016</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/210/093/21009361_20130529171930105.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um sargento (R. Lee Ermey) treina de forma fanática e sádica os recrutas em uma base de treinamentos, na intenção de transformá-los em máquinas de guerra para combater na Guerra do Vietnã. Após serem transformados em fuzileiros navais, eles são enviados para a guerra, e quando lá chegam, se deparam com seus horrores.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TRILOGIA - HOBBIT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E13B8C62C871212525A29C4A1EA68F8AAB621A3E</link>
+<thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/12104009/1002527541.jpg?v=637142228539670000</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A aventura segue a jornada de Bilbo Bolseiro, que é levado à épica missão de retomar a posse do reino dos anões, Erebor, do dragão Smaug. Abordado inesperadamente pelo mago Gandalf, o Cinzento, Bilbo se encontra no meio de treze anões liderados pelo guerreiro Thorin Escudo-de-Carvalho. A jornada os levará ao desconhecido, por terras repletas de Goblins e Orcs, lobos selvagens, aranhas gigantes, metamorfos e feiticeiros. Apesar de sua missão estar no leste, nas desoladas terras da Montanha Solitária, primeiro eles devem passar pelos túneis dos Goblins, onde Bilbo encontra a criatura que mudará sua vida para sempre, Gollum. Aqui, sozinho com Gollum, às margens de um lago subterrâneo, o discreto Bilbo Bolseiro não apenas descobre sua astúcia e coragem, mas toma posse do "precioso" anel de Gollum, um objeto com inesperadas qualidades. Um simples anel que muda o destino da Terra Média de formas que Bilbo não consegue nem começar a compreender.</info>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
