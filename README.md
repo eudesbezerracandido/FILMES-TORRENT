@@ -1225,6 +1225,22 @@ Enredo: Há cinco anos, o mergulhador especialista em mar e o capitão da Marinh
 Enredo: Paleontologista Kate Lloyd é convidado pelo Dr. Sandor Halvorson para integrar sua equipe que encontraram algo extraordinário. Bem abaixo do gelo ártico, eles encontraram uma nave alienígena que tem sido há talvez 100.000 anos. Não muito longe de onde a nave pousou, eles encontram os restos do ocupante. É cortado do gelo e levado de volta para o acampamento, mas como o gelo derrete, a criatura reanima e não só começa a atacá-los, mas consegue infectá-las, com membros da equipe devolver em que a criatura alienígena.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] WARCRAFT - O PRIMEIRO ENCONTRO DOS MUNDOS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1E89B73FA246B22C3B28EDD30078F5FE1FDEF1E3&dn=Warcraft%20-%20O%20Primeiro%20Encontro%20de%20Dois%20Mundos%202016%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.istole.it%3a80/announce</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/2/21/Warcraft_poster.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A região de Azeroth sempre viveu em paz, até a chegada dos guerreiros Orc. Com a abertura de um portal, eles puderam chegar à nova Terra com a intenção de destruir o povo inimigo. Cada lado da batalha possui um grande herói, e os dois travam uma disputa pessoal, colocando em risco seu povo, sua família e todas as pessoas que amam.</info>
+</item>
+
+
+
+
+
+
+
+
+
 
 
 
