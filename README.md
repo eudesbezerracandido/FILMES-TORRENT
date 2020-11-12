@@ -1281,6 +1281,54 @@ Enredo: Paleontologista Kate Lloyd é convidado pelo Dr. Sandor Halvorson para i
 <info> A aventura segue a jornada de Bilbo Bolseiro, que é levado à épica missão de retomar a posse do reino dos anões, Erebor, do dragão Smaug. Abordado inesperadamente pelo mago Gandalf, o Cinzento, Bilbo se encontra no meio de treze anões liderados pelo guerreiro Thorin Escudo-de-Carvalho. A jornada os levará ao desconhecido, por terras repletas de Goblins e Orcs, lobos selvagens, aranhas gigantes, metamorfos e feiticeiros. Apesar de sua missão estar no leste, nas desoladas terras da Montanha Solitária, primeiro eles devem passar pelos túneis dos Goblins, onde Bilbo encontra a criatura que mudará sua vida para sempre, Gollum. Aqui, sozinho com Gollum, às margens de um lago subterrâneo, o discreto Bilbo Bolseiro não apenas descobre sua astúcia e coragem, mas toma posse do "precioso" anel de Gollum, um objeto com inesperadas qualidades. Um simples anel que muda o destino da Terra Média de formas que Bilbo não consegue nem começar a compreender.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] TRILOGIA JURASSIC PARK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8404921557797d3115af79f3d6808c9a13092c1&dn=Trilogia+Jurassic+Park+BDRip+bluray+1080p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://http2.mlstatic.com/D_NQ_NP_908852-MLB29130231714_012019-O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um parque construído por um milionário (Richard Attenborough) tem como habitantes dinossauros diversos, extintos a sessenta e cinco milhões de anos. Isto é possível por ter sido encontrado um inseto fossilizado, que tinha sugado sangue destes dinossauros, de onde pôde-se isolar o DNA, o código químico da vida, e, a partir deste ponto, recriá-los em laboratório. Mas, o que parecia ser um sonho se torna um pesadelo, quando a experiência sai do controle de seus criadores.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PREDADORES ASSASSINOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:503A25BAD22CFB5415C8C42A484A2ED3A5B58A34&dn=%5bWWW.BLUDV.TV%5d%20Predadores%20Assassinos%20%28Crawl%29%202019%20%28720p%20-%20BluRay%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://i1.wp.com/image.tmdb.org/t/p/original/tkKdwzJQDitiZ8nuHucSD5UFFXA.jpg?resize=300,450</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mulher e seu pai ferido ficam presos pelas águas da enchente em sua casa durante um furacão. Com a tempestade aumentando, eles logo descobrem uma ameaça ainda maior do que a água: um ataque implacável de um bando de jacarés gigantes.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] GODZILLA 2 - REI DOS MOSTROS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10FDB69A09D267F799B5A751FC62D38228D0811D&amp;dn=%5bWWW.BLUDV.TV%5d%20Godzilla%20II%20-%20Rei%20dos%20Monstros%202019%20%28720p%20-%20BluRay%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/12116808/1008563074.jpg?v=637142276727530000</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história acompanha os esforços heroicos da agência criptozoológica, Monarch, enquanto seus membros enfrentam diversos monstros colossais, incluindo o poderoso Godzilla, que cria um conflito com Mothra, Rodan, e seu arqui-inimigo supremo de três cabeças, o Rei Ghidorah. Quando esses seres antigos, que até então não passavam de lendas, ressurgem, todos começam a competir pela supremacia, deixando a própria existência da humanidade por um fio.</info>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
