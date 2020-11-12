@@ -1233,6 +1233,70 @@ Enredo: Paleontologista Kate Lloyd é convidado pelo Dr. Sandor Halvorson para i
 <info>A região de Azeroth sempre viveu em paz, até a chegada dos guerreiros Orc. Com a abertura de um portal, eles puderam chegar à nova Terra com a intenção de destruir o povo inimigo. Cada lado da batalha possui um grande herói, e os dois travam uma disputa pessoal, colocando em risco seu povo, sua família e todas as pessoas que amam.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] BRIGHT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1435C3C6CEC424F2C5893C200FFACED5FD8AF69A&dn=Bright%202017%20%5bWEB-DL%5d%20%28720p%29%20DUBLADO%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/17/11/09/02/17/0404218.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em um mundo habitado por diferentes espécies, um policial humano e seu parceiro orc encontram um artefato que os coloca no centro de uma profética guerra por território.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SKYLINE - A INVASÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7edff68f07899737579b8ba3ea8d22b4d4554275&dn=Skyline%3A+A+invas%26atilde%3Bo+%282010%29+BDRip+Bluray+720p+dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://infonet.com.br/wp-infonet/img/Cinema/grande-skyline.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de amigos que se depara com estranhas luzes vindas do céu de Los Angeles. De repente, a população da Terra começa a ser sugada. É então que os amigos precisam fazer de tudo para não serem absorvidos pelas luzes e sobreviverem aos seus ataques. Só assim, poderão investigar o que está acontecendo e solucionar este mistério.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] 300  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:641A4DF9E982E7383284D69A920FE935291E9C2B&dn=300+2006+720p+bluray+5+1+x264+dual+bludv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://vacanerd.com.br/wp-content/uploads/2014/03/mzl.ltdunkrj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Grécia, 480 AC. Na Batalha de Termópilas, o rei Leônidas (Gerard Butler) e seus 300 guerreiros de Esparta lutam bravamente contra o numeroso exército do rei Xerxes (Rodrigo Santoro). Após três dias de muita luta, todos os espartanos são mortos. O sacrifício e a dedicação destes homens uniu a Grécia no combate contra o inimigo persa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FURIA DE TITÃS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f25b48763aa1ce43fc3aa773c667518418544e89&dn=Furia+De+Titas+%282010%29+720p+HD+Dublado+Pt+Br&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/f9/Clash_of_the_Titans_P%C3%B4ster.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Perseus (Sam Worthington) é o único que pode salvar sua família de Hades (Ralph Fiennes), um vingativo deus das trevas. Sem nada a perder, ele lidera uma missão para derrotar o vilão, antes que ele alcance os poderes de Zeus (Liam Neeson), rei de todos os deuses. Inicia-se, então, uma jornada por mundos desconhecidos.</info>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
