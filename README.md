@@ -1313,6 +1313,45 @@ Enredo: Paleontologista Kate Lloyd é convidado pelo Dr. Sandor Halvorson para i
 <info>Percy Jackson (Logan Lerman) é um jovem que enfrenta problemas na escola, devido ao que acredita ser dislexia e déficit de atenção. Ele foi criado por sua mãe, Sally (Catherine Keener), e vive com Gabe Ugliano (Joe Pantoliano), seu padrasto, que odeia. Após ser atacado em plena excursão escolar, é revelado a Percy que ele é um semideus, ou seja, filho do deus Poseidon (Kevin McKidd) com uma humana, e possui poderes.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] TRILOGIA - MIB HOMENS DE PRETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA90C5A4CFAED0C5A0A6E95BEE89A24B76C78D00&dn=Trilogia%20Homens%20de%20Preto%201197%20-%202002%20-%202012%20%28720p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://http2.mlstatic.com/mib-homens-de-preto-a-trilogia-box-com-3-dvds-lacrado-D_NQ_NP_671872-MLB28355817426_102018-F.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Os Homens de Preto são uma agência secreta do governo que fiscaliza alienígenas que estão na terra. O primeiro filme MIB - Homens de Preto foi lançado nos anos 90, em 1997 e o último filme MIB - Homens de Preto 3 foi lançado em 2012. Os 3 filmes da trilogia MIB estão sendo disponibilizados para download via torrent em um único arquivo. Todos os filmes estão dublados e com ótima qualidade de áudio e vídeo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TRILOGIA - CONAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9d3d7dc0a3e79fbdacb347e446d25ba7c0f2444&dn=Conan%2C+o+Destruidor+%281984%29+BRRip+Blu-Ray+720p+Dublado+Dat2014&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34a8f5b530ac27366443de9c3f1689d144e5c2e6&dn=Conan%2C+o+B%26aacute%3Brbaro+%281982%29+BRrip+Blu-Ray+720p+Dublado+Dat201&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c11915c004bfccf6af1399ad149f418b1b504bcc&dn=Conan+-+O+Barbaro+%282011%29+bluray+HD+720p+dublado+-+derew+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://blogdojotace.com.br/wp-content/uploads/2010/10/conan_ed_thumb1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> CONAN - O DESTRUIDOR 1984/ CONAN - O BÁRBARO 1982/ CONAN - O BÁRBARO 2011 - Para vingar a morte de seus pais, Conan (Arnold Schwarzenegger) enfrenta um perigoso feiticeiro em busca da liga de aço, que fará com que sua espada se torne invencível. Quando criança, Conan viu seus pais serem mortos na sua frente e seu povo massacrado. Criado em um campo de escravos, ele desenvolve uma enorme força física e se torna um gladiador. Mas Conan nunca esqueceu seu triste passado e está determinado a vingar o assassinato de sua família.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] QUADRILOGIA - RAMBO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ca21ac052ca982974e23d0d0f28d9669a73be4a&dn=[ACESSE%20comandotorrents.org]%20Quadrilogia%20Rambo%201982-2008%20[720p]%20[BluRay]%20[DUAL]&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker4.piratux.com:6969/announce&tr=udp://coppersurfer.tk:6969/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.yify-torrents.com:80/announce&tr=http://www.h33t.com:3310/announce&tr=http://exodus.desync.com/announce&tr=http://tracker.coppersurfer.tk:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=http://tracker.blazing.de/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=http://tracker.yify-torrents.com/announce&tr=udp://tracker.prq.to/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://9.rarbg.com:2740/announce&tr=udp://tracker.ex.ua:80/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://12.rarbg.me:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://11.rarbg.com/announce&tr=udp://tracker.ccc.de:80/announce&tr=udp://fr33dom.h33t.com:3310/announce&tr=udp://public.popcorn-tracker.org:6969/announce</link>
+<thumbnail>https://http2.mlstatic.com/D_NQ_NP_966240-MLB40028869312_122019-O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Rambo – Programado Para Matar 1982: Herói da guerra do Vietnã é tratado como vagabundo pelas autoridades de uma pequena cidade do interior dos Estados Unidos. Toda a sua agressividade exercitada nos campos de batalha vem à tona quando é preso e torturado por policiais.
+Rambo II – A Missão 1985: Rambo sai da cadeia e é recrutado para uma missão secreta nas selvas do Vietnã. Sua tarefa é resgatar os prisioneiros norte-americanos que ficaram para trás. Vai enfrentar um exército.
+Rambo III 1988: John Rambo (Sylvester Stallone), agora vivendo num mosteiro budista, é convocado para mais uma missão: libertar seu ex-comandante, Coronel Trautman (Richard Crenna), que foi sequestrado e levado para o Afeganistão. No início, cansado de brigar, ele recusa. Mas assim que passa pela fronteira, Rambo volta a ser o combatente de sempre. Sozinho, ele arrasa com os inimigos e abre caminho para libertar seu amigo.
+Rambo IV 2008: Vinte anos depois de ter estrelado o último filme da série, Sylvester Stallone volta a encarnar o violento veterano do Vietnã, John Rambo. Nesta nova película, ele também assume a direção. Rambo agora está no norte da Tailândia, onde pilota um barco e tenta levar uma vida tranqüila novamente, mesmo estando próximo a uma região onde acontece um violento conflito civil. A calma ainda segue em sua vida até que um grupo de missionários dos diretos humanos o procura para buscar ajuda, já que os militares da região colocaram minas no caminho, deixando a viagem perigosa. Eles pedem que o veterano os guie rio abaixo para que possam distribuir os medicamentos e alimentos para uma tribo que está no conflito. Depois de ajudá-los, poucas semanas depois, ele recebe a informação de que os missionários foram capturados e concorda em guiar um grupo de resgate pelo caminho. Assim, mesmo relutante, ele acaba, mais uma vez, envolvendo-se em uma guerra que não é a sua.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] HULK - TEMPORADA COMPLETA DE 1977 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DA5E885A616B0E8745274278EA62C5FEAB88437E&dn=%5bwww.TorrentDosFilmesHD.net%5d%20-%20O%20Incr%c3%advel%20Hulk%201978%20BluRay%201080p%20Dual</link>
+<thumbnail>https://http2.mlstatic.com/coleco-o-incrivel-hulk-1977-a-2008-D_NQ_NP_803801-MLB20417478548_092015-F.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Incrível Hulk exibida nos anos 70 completa, dublada e legendada. Depois da morte da esposa, o Dr. David Bruce Banner procura um modo de liberar uma força desconhecida, que supostamente todos os humanos teriam, para protegerem seus entes queridos. Ele descobre que a radiação gama poderia lhe dar essa força e, para não ferir ninguém, ele a testa em si mesmo. David não sentiu nada diferente logo após o teste mas depois descobriu que ao se sentir raivoso ou pressionado, transformava-se num homem monstruoso, de pele verde, grande e musculoso. O repórter Jack McGee descobre esse segredo e tenta culpar o gigante verde pela morte de uma pessoa em um acidente e passa a perseguir o Dr. Banner, que tenta fugir, ao mesmo tempo em que busca uma maneira de se curar das transformações.</info>
+</item>
+
+
+
 
 
 
