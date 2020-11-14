@@ -1305,6 +1305,14 @@ Enredo: Paleontologista Kate Lloyd é convidado pelo Dr. Sandor Halvorson para i
 <info>A história acompanha os esforços heroicos da agência criptozoológica, Monarch, enquanto seus membros enfrentam diversos monstros colossais, incluindo o poderoso Godzilla, que cria um conflito com Mothra, Rodan, e seu arqui-inimigo supremo de três cabeças, o Rei Ghidorah. Quando esses seres antigos, que até então não passavam de lendas, ressurgem, todos começam a competir pela supremacia, deixando a própria existência da humanidade por um fio.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]  PERCY JACKSON - É O LADRÃO DE RAIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c260a8ee6ab0eed2e492536f236d575f52e41cfe&dn=Percy+Jackson+e+o+Ladr%26atilde%3Bo+de+Raios+%282010%29+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/87/90/23/19962722.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Percy Jackson (Logan Lerman) é um jovem que enfrenta problemas na escola, devido ao que acredita ser dislexia e déficit de atenção. Ele foi criado por sua mãe, Sally (Catherine Keener), e vive com Gabe Ugliano (Joe Pantoliano), seu padrasto, que odeia. Após ser atacado em plena excursão escolar, é revelado a Percy que ele é um semideus, ou seja, filho do deus Poseidon (Kevin McKidd) com uma humana, e possui poderes.</info>
+</item>
+
 
 
 
