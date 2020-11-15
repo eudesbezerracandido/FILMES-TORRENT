@@ -1350,6 +1350,23 @@ Rambo IV 2008: Vinte anos depois de ter estrelado o último filme da série, Syl
 <info> Incrível Hulk exibida nos anos 70 completa, dublada e legendada. Depois da morte da esposa, o Dr. David Bruce Banner procura um modo de liberar uma força desconhecida, que supostamente todos os humanos teriam, para protegerem seus entes queridos. Ele descobre que a radiação gama poderia lhe dar essa força e, para não ferir ninguém, ele a testa em si mesmo. David não sentiu nada diferente logo após o teste mas depois descobriu que ao se sentir raivoso ou pressionado, transformava-se num homem monstruoso, de pele verde, grande e musculoso. O repórter Jack McGee descobre esse segredo e tenta culpar o gigante verde pela morte de uma pessoa em um acidente e passa a perseguir o Dr. Banner, que tenta fugir, ao mesmo tempo em que busca uma maneira de se curar das transformações.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COLEÇÃO COMPLETA - HARRY POTTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28EB43F88E9123B32058905B3DD1B94FB44BAB21&dn=COLE%c3%87%c3%83O%20COMPLETA%20-%20Harry%20Potter%20%282001-2011%29%20Dublado%205.1%20CH%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>https://http2.mlstatic.com/D_NQ_NP_825517-MLB29930715864_042019-O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Esse torrent contém todos os filmes da saga Harry Potter
+Harry Potter e a Pedra Filosofal
+Harry Potter e a Câmara Secreta
+Harry Potter e o Prisioneiro de Azkaban
+Harry Potter e o Cálice de Fogo
+Harry Potter e a Ordem da Fênix
+Harry Potter e o Enigma do Príncipe
+Harry Potter e as Relí­quias da Morte
+Harry Potter e as Relí­quias da Morte (Parte II)...Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger.</info>
+</item>
+
+
 
 
 
