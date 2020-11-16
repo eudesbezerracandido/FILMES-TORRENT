@@ -1366,6 +1366,17 @@ Harry Potter e as Relí­quias da Morte
 Harry Potter e as Relí­quias da Morte (Parte II)...Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] NO LIMITE DO AMANHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72053147f6581eb3fd45112067cd22e469a7331f</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/14/05/27/15/43/549754.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A Terra está dominada por alienígenas e o major Bill Cage, um relações públicas das Forças Armadas dos Estados Unidos, é obrigado a ir para a linha de frente. Inexplicavelmente, ele acaba preso em um ciclo do tempo, revivendo repetidamente sua última batalha. No entanto, quanto mais vezes ele luta, suas habilidades de guerreiro melhoram e ele fica mais perto de descobrir como derrotar o inimigo.
+Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatível por qualquer unidade militar do mundo. O major William Cage (Cruise) é um oficial que nunca viu um dia de combate quando é deixado sem cerimônia no que equivale a uma missão suicida. Assassinado em poucos minutos, Cage agora se vê inexplicavelmente envolvido em um loop de tempo – forçando-o a viver o mesmo combate brutal repetidas vezes, lutando e morrendo de novo … e novamente. Mas a cada batalha, Cage se torna capaz de enfrentar os adversários com crescente habilidade, ao lado da guerreira das forças especiais Rita Vrataski (Blunt). E, como Cage e Vrataski levam a luta para os alienígenas, cada encontro repetido os deixa a um passo de derrotar o inimigo!</info>
+</item>
+
+
+
 
 
 
