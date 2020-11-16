@@ -1375,6 +1375,54 @@ Harry Potter e as Relí­quias da Morte (Parte II)...Harry Potter é um garoto �
 Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatível por qualquer unidade militar do mundo. O major William Cage (Cruise) é um oficial que nunca viu um dia de combate quando é deixado sem cerimônia no que equivale a uma missão suicida. Assassinado em poucos minutos, Cage agora se vê inexplicavelmente envolvido em um loop de tempo – forçando-o a viver o mesmo combate brutal repetidas vezes, lutando e morrendo de novo … e novamente. Mas a cada batalha, Cage se torna capaz de enfrentar os adversários com crescente habilidade, ao lado da guerreira das forças especiais Rita Vrataski (Blunt). E, como Cage e Vrataski levam a luta para os alienígenas, cada encontro repetido os deixa a um passo de derrotar o inimigo!</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]  ASSALTO SOBRE TRILHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1DF26CC0336808A000E49B2CC0FCFF397FA31C45&dn=Assalto%20Sobre%20Trilhos%20%281995%29%201080p%20Dual%20-%201046</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/5145PV5TJKL._AC_SY445_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>John (Wesley Snipes) e Charlie (Woody Harrelson) são parceiros, melhores amigos e irmãos de leite. Ambos são policiais de trânsito, que trabalham disfarçados no metrô de NY. Os dois têm a língua afiada e estão sempre prontos para ação. E os dois estão apaixonados pela mesma garota. Mas a rivalidade entre eles chega ao máximo, quando Charlie decide roubar o "Trem Pagador" - o mais bem guardado trem que coleta milhões de dólares das bilheterias do metrô. Agora cabe a John parar seu "Irmão-Bandido"... Ou juntar-se a ele no final de uma viagem fenomenal através do túnel da diversão!</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FORREST GUMP- O CONTADOR DE HISTORIAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca2835dafd152b9880cc21bd9375d7a7db8d9518&dn=Forrest+Gump%3A+O+Contador+De+Historias+%281994%29+720p+Dublado+Pt+Br&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71bfKSNKwZL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump (Tom Hanks), um rapaz com QI abaixo da média e boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e Watergate, mas continua pensando no seu amor de infância, Jenny Curran.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NÁUFRAGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:209765234a7ad420e88f65bcb15e56772e398920&dn=N%26aacute%3Bufrago+%282000%29+BDRip+BluRay+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://blurayfilmes.com/capas/naufrago-remux-download-torrent-2000-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O dedicado funcionário executivo da FedEx, Chuck Noland, viaja a trabalho para a Malásia quando o avião da empresa cai sobre o Oceano Pacífico durante uma tempestade. Como o único sobrevivente do acidente, Chuck vai parar em uma ilha deserta. Quando suas tentativas de socorro se esgotam, Chuck aprende a sobreviver na ilha.</info>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
