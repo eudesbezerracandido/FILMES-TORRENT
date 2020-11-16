@@ -1399,6 +1399,21 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <info>O dedicado funcionário executivo da FedEx, Chuck Noland, viaja a trabalho para a Malásia quando o avião da empresa cai sobre o Oceano Pacífico durante uma tempestade. Como o único sobrevivente do acidente, Chuck vai parar em uma ilha deserta. Quando suas tentativas de socorro se esgotam, Chuck aprende a sobreviver na ilha.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COLEÇÃO COMPLETA - CREPÚSCULO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1F64324E113767B7A5D27E279CFB15D41E7DBD4C&dn=A%20Saga%20Crepusculo%20Completa</link>
+<thumbnail>https://mlb-s2-p.mlstatic.com/quadrilogia-a-saga-crepusculo-amanhecer-part-1-e-2-14397-MLB3508485640_122012-F.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Todos os filmes da saga Crepúsculo, incluindo o primeiro filme Crepúsculo (2008), Lua Nova (2009), Eclipse (2010), Amanhecer Parte 1 (2011) e o último filme da franquia Amanhecer Parte 2 (2012). Bella (Kristen Stewart) é uma jovem adolescente que se muda para Forks, Washington, para viver com o pai. Assim que ela chega ao local, Bella fica sabendo de uma misteriosa família moradora da cidade. Ela acaba conhecendo um dos cinco irmãos da tal família, Edward (Robert Pattinson), e aos poucos vai descobrindo alguns segredos. O mais importante de todos é que se tratam de vampiros. Bella fica assustada com aquilo, mas decide encarar os riscos e seguir adiante com a paixão que a move pelo rapaz.</info>
+</item>
+
+
+
+
+
+
+
+
 
 
 
