@@ -1419,6 +1419,22 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <info>Antes de Amityville, houve Harrisville. “Invocação do Mal” narra o conto horripilante de Ed e Lorraine Warren (Patrick Wilson, Vera Farmiga), investigadores paranormais de renome mundial, que foram chamados para ajudar uma família aterrorizada por uma presença maligna em uma fazenda isolada. Forçados a confrontar uma poderosa entidade demoníaca, os Warrens encontram-se presos no caso mais terrível de suas vidas.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]  COLEÇÃO COMPLETA - AMERICAN  PIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57F04D2DE998BE7B88A1F082FD0599AC4D06A4E6&dn=Cole%c3%a7%c3%a3o%20American%20Pie%20%28720p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://www.thepiratefilmestorrent.me/wp-content/uploads/2019/12/American-Pie-colecao-torrent.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jim Levenstein, Kevin Myers, Oz Ostreicher e Paul Finch são quatro amigos virgens às vésperas do baile de formatura. Em meio a suas tentativas frustradas de fazer sexo com as namoradas, olhar mulheres nuas na internet e até mesmo atacar uma torta recém-saída do forno, os rapazes fazem um pacto e prometem deixar a virgindade para trás antes do baile de formatura. Agora eles têm 24 horas para cumprir esse acordo.</info>
+</item>
+
+
+
+
+
+
+
+
+
 
 
 
