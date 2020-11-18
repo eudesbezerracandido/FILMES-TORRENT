@@ -498,7 +498,11 @@ Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos p
 
 <item>
 <title>[COLOR silver][B] TRILOGIA - ROBOCOP [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MMWYE5XAPWZE4376DD7OOITWRK35PG5H&dn=TRILOGIA.Robocop.1080p-RICKSZ</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1d29cbe64e51e3f124e4c4eaba009ac95f03612&dn=RoboCop+%281987%29+Bluray+720p+Filmes+M.H.G</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59d41d1d225f7f6a6ea0c3b9b2b3f98755174fab&dn=RoboCop+2+%281990%29+Bluray+720p+Filmes+M.H.G</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ec099f7dbb299bf93852a4d6271231b0bfac63e&dn=RoboCop+3+%281993%29+Bluray+720p+Filmes+M.H.G</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3412D62A3DA1C32A61581B55A8948DC45C47A8DF&dn=Robocop.2014.720p.Dual-&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+</link>
 <thumbnail>https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2016/07/05/18/57853133.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Filme 1:Num futuro não tão distante, uma grande cidade é dominada por marginais. A polícia tenta manter a ordem e controlar a situação, mas está impotente. Quando Murphy (Peter Weller), um dos melhores policiais da corporação é assassinado brutalmente por uma quadrilha de traficantes, o diretor do “Security Concepts”, um laboratório secreto, coloca em ação o projeto Robocop. Assim, criam o melhor e mais dedicado policial: um ser com os mais rápidos reflexos que a tecnologia moderna possui, acoplado a uma memória computadorizada. Manter a lei e a ordem serão as principais funções do Robocop.
