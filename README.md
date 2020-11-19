@@ -1418,7 +1418,15 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <thumbnail>https://www.thepiratefilmestorrent.me/wp-content/uploads/2019/12/American-Pie-colecao-torrent.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Jim Levenstein, Kevin Myers, Oz Ostreicher e Paul Finch são quatro amigos virgens às vésperas do baile de formatura. Em meio a suas tentativas frustradas de fazer sexo com as namoradas, olhar mulheres nuas na internet e até mesmo atacar uma torta recém-saída do forno, os rapazes fazem um pacto e prometem deixar a virgindade para trás antes do baile de formatura. Agora eles têm 24 horas para cumprir esse acordo.</info>
-</item>  
+</item>
+
+<item>
+<title>[COLOR silver][B] B13 - 13° DISTRITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c8f75225743977f502e7023813107eba0c4b81c&dn=B13%2C+Decimo+Terceiro+Distrito+%282004%29+720p+MKV+dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://capas-g.wmixvideo.com.br/cx108665.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Paris, 2010. Diante do aumento inevitável da criminalidade em alguns subúrbios, o governo autoriza a construção de um muro de isolamento ao redor dos bairros classificados como de alto risco. O pior de todos é o 13º distrito, que é controlado por um chefão do crime, Taha (Dominique Dorol). Um jovem punk íntegro, Leïto (David Belle), está determinador em acabar com seu poder. Quando Taha retalia seqüestrando a irmã de Leito, Lola (Dany Verissimo), seu irmão tenta resgatá-la, mas é traído pelo chefe da delegacia do 13º distrito, que temia o poder de Taha.</info>
+</item>
 
 
 
