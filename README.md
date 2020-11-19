@@ -1436,6 +1436,14 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <info>Paris, 2010. Diante do aumento inevitável da criminalidade em alguns subúrbios, o governo autoriza a construção de um muro de isolamento ao redor dos bairros classificados como de alto risco. O pior de todos é o 13º distrito, que é controlado por um chefão do crime, Taha (Dominique Dorol). Um jovem punk íntegro, Leïto (David Belle), está determinador em acabar com seu poder. Quando Taha retalia seqüestrando a irmã de Leito, Lola (Dany Verissimo), seu irmão tenta resgatá-la, mas é traído pelo chefe da delegacia do 13º distrito, que temia o poder de Taha.</info>
 </item> 
 
+<item>
+<title>[COLOR silver][B] GUERRA DOS MUNDOS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb5540b9522f1946fe934fdfaaaa0c1331424b0c&dn=Guerra+dos+Mundos+%282005%29+BDRip+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://maxiverso.com.br/wp-content/uploads/2018/03/GUERRA-DOS-MUNDOS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dirigido por Steven Spielberg, o filme trará uma adaptação contemporânea do clássico da ficção científica de H.G. Wells. A história mostrará a batalha pelo futuro da humanidade vista através dos olhos de uma família estadunidense comum, que luta para sobreviver em meio à devastação.</info>
+</item>
+
 
 
 
