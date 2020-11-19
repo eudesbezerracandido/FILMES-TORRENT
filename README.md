@@ -1429,7 +1429,8 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 </item>
 
 <item>
-<title>[COLOR silver][B] GUERRA DOS MUNDOS [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</item>               <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb5540b9522f1946fe934fdfaaaa0c1331424b0c</link>
+<title>[COLOR silver][B] GUERRA DOS MUNDOS [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</item>               
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb5540b9522f1946fe934fdfaaaa0c1331424b0c</link>
 <thumbnail>https://s2.glbimg.com/fZyg1qEX27ObTk4KIWtZi72gWG4=/362x536/https://s2.glbimg.com/GkXMpg4OpkCxQAsFWHT2NWJJ1Zw=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/4/J/sJh5BISRykKFTuwBifAA/2019-653-mk-filmes-paramount-guerra-dos-mundos-poster.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Dirigido por Steven Spielberg, o filme trará uma adaptação contemporânea do clássico da ficção científica de H.G. Wells. A história mostrará a batalha pelo futuro da humanidade vista através dos olhos de uma família estadunidense comum, que luta para sobreviver em meio à devastação.</info>
