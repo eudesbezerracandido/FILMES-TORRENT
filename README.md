@@ -1445,6 +1445,20 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 </item>
 
 
+<item>
+<item>
+<title>[COLOR silver][B] CÓPIAS -  DE VOLTA A VIDA [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</item>               <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6814E43EAEB6BF9085F514FECFAAEDCCC03A076B&dn=%5bWWW.BLUDV.TV%5d%20C%c3%b3pias%20-%20De%20Volta%20%c3%a0%20Vida%202019%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://campinas.com.br/wp-content/uploads/2019/04/P%C3%B4ster-Nacional-C%C3%B3pias-DOC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de um grave acidente de trânsito que matou toda a sua família, um neurocientista (Keanu Reeves) sente que perdeu o sentido da vida. Utilizando seu meio de trabalho, ele se torna obcecado em trazê-los de volta, mesmo que isso signifique desafiar boa parte do governo e, principalmente, as leis da física.</info>
+</item>
+
+
+
+
+
+
+
 
 
 
