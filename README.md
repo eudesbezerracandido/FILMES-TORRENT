@@ -1452,6 +1452,14 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <info>Depois de um grave acidente de trânsito que matou toda a sua família, um neurocientista (Keanu Reeves) sente que perdeu o sentido da vida. Utilizando seu meio de trabalho, ele se torna obcecado em trazê-los de volta, mesmo que isso signifique desafiar boa parte do governo e, principalmente, as leis da física.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COLEÇÃO COMPLETA -  INDIANA JONES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03dcdbe43adc048137017f303b433d02ba520d6d&dn=Cole%26ccedil%3B%26atilde%3Bo+Indiana+Jones+DVDRip+Dual+Audio+Dublado+-+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://photos.enjoei.com.br/indiana-jones-colecao-completa-dvd/1200xN/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy83Mjk0Mzg2L2ZlNTE2YzkyNzFjNjJjMWRmY2UwMWY5OWNlNWJjOTIwLmpwZw</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O arqueólogo Indiana Jones precisa encontrar a Arca da Aliança, uma relíquia bíblica que contém os dez mandamentos. Como o portador do artefato se torna invencível, os nazistas também vão fazer de tudo para adquirir esse precioso objeto.</info>
+</item>
+
 
 
 
