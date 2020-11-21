@@ -1445,17 +1445,6 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 </item>
 
 <item>
-<title>[COLOR silver][B] COLEÇÃO COMPLETA DE INDIANA JONES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03dcdbe43adc048137017f303b433d02ba520d6d&dn=Cole%26ccedil%3B%26atilde%3Bo+Indiana+Jones+DVDRip+Dual+Audio+Dublado+-+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</ink>
-<thumbnail>https://1.bp.blogspot.com/-PXHe22PB7l4/VUoS5XFFfOI/AAAAAAAAA88/0lkZ2UCXKSw/s1600/filmes-indiana-jones.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Sinopse: Indiana Jones e Os Caçadores da Arca Perdida (Raiders Of The Lost Ark): Veja como tudo começou. Prepare-se para fortes emoções em Indiana Jones e Os Caçadores da Arca Perdida, Indy (Harrison Ford) e sua decidida ex-namorada Marion Ravenwood (Karen Allen) sobrevivem a armadilhas, combatem nazistas e encaram serpentes em sua incrível missão ao redor do mundo, em busca dea mística Arca da Aliança. Experimente uma empolgante aventura atrás da outra com o primeiro e único Indiana Jones.
-Indiana Jones e o Templo da Perdição (Indiana Jones and the Temple of Doom): Indiana Jones e o Templo da Perdição levará você para uma corrida de tirar o fôlego. Indy (Harrison Ford), seu pequeno parceiro Short Round (Ke Huy Quan) e a cantora de boate Willie Scott (Kate Capshaw) voam alto sobre o Himalaia, caem numa desesperadora perseguição num trole em alta velocidade e finalmente fazem uma arrepiante escapada de uma mina de escravos na Índia. Segura firme, que o maior heróis de ação do mundo vai levar você em uma espetacular montanha-russa de aventura, que vai deixá-lo na maior tensão, com toda certeza.
-Indiana Jones e a Última Cruzada (Indiana Jones and the Last Crusade): Não há nada mais emocionante que tentar acompanhar os Jones em Indiana Jones e A Última Cruzada. Os inimigos nazistas de Indy estão de volta e seqüestraram seu pai, o professor Henry Jones Sr. (Sean Connery), para ajudá-los em sua busca do Santo Graal. Seguindo a pista da América até Veneza e aos desertos da Terra Santa, só depende de Indy (Harrison Ford) salvar seu pai, salvar o Graal e salvar o dia, nesta espetacular aventura de ação que a família inteira vai adorar.
-Indiana Jones e o Reino da Caveira de Cristal (Indiana Jones and the Kingdom of the Crystal Skull): Depois de anos tentando reunir a equipe original, vários empecilhos e diversas alterações no misterioso roteiro, o quarto filme da série, protagonizada pelo arqueólogo Indiana Jones (Harrison Ford), está chegando às telonas. Dezenove anos depois do lançamento do último longa, o herói irá se aventurar em 1957, no meio da Guerra Fria, tendo os soviéticos como vilões da história.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] CÓPIAS -  DE VOLDA A VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NAKOIPVOW27ZBBPVCT7M7KXNZTADUB3L&dn=%5BWWW.BLUDV.TV%5D%20C%C3%B3pias%20-%20De%20Volta%20%C3%A0%20Vida%202019%20(720p)%20%5BDUBLADO%5D%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/19/02/12/13/17/0875127.jpg</thumbnail>
