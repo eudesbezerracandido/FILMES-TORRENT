@@ -1444,24 +1444,6 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <info>Dirigido por Steven Spielberg, o filme trará uma adaptação contemporânea do clássico da ficção científica de H.G. Wells. A história mostrará a batalha pelo futuro da humanidade vista através dos olhos de uma família estadunidense comum, que luta para sobreviver em meio à devastação.</info>
 </item>
 
-<item>
-<title>[COLOR silver][B] CÓPIAS -  DE VOLTA A VIDA [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</item> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6814E43EAEB6BF9085F514FECFAAEDCCC03A076B&dn=%5bWWW.BLUDV.TV%5d%20C%c3%b3pias%20-%20De%20Volta%20%c3%a0%20Vida%202019%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
-<thumbnail>https://campinas.com.br/wp-content/uploads/2019/04/P%C3%B4ster-Nacional-C%C3%B3pias-DOC.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Depois de um grave acidente de trânsito que matou toda a sua família, um neurocientista (Keanu Reeves) sente que perdeu o sentido da vida. Utilizando seu meio de trabalho, ele se torna obcecado em trazê-los de volta, mesmo que isso signifique desafiar boa parte do governo e, principalmente, as leis da física.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] COLEÇÃO INDIANA JONES  [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</item> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03dcdbe43adc048137017f303b433d02ba520d6d&dn=Cole%26ccedil%3B%26atilde%3Bo+Indiana+Jones+DVDRip+Dual+Audio+Dublado+-+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<thumbnail>https://photos.enjoei.com.br/indiana-jones-colecao-completa-dvd/1200xN/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy83Mjk0Mzg2L2ZlNTE2YzkyNzFjNjJjMWRmY2UwMWY5OWNlNWJjOTIwLmpwZw</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Indiana Jones e Os Caçadores da Arca Perdida (Raiders Of The Lost Ark): Veja como tudo começou. Prepare-se para fortes emoções em Indiana Jones e Os Caçadores da Arca Perdida, Indy (Harrison Ford) e sua decidida ex-namorada Marion Ravenwood (Karen Allen) sobrevivem a armadilhas, combatem nazistas e encaram serpentes em sua incrível missão ao redor do mundo, em busca dea mística Arca da Aliança. Experimente uma empolgante aventura atrás da outra com o primeiro e único Indiana Jones.
-Indiana Jones e o Templo da Perdição (Indiana Jones and the Temple of Doom): Indiana Jones e o Templo da Perdição levará você para uma corrida de tirar o fôlego. Indy (Harrison Ford), seu pequeno parceiro Short Round (Ke Huy Quan) e a cantora de boate Willie Scott (Kate Capshaw) voam alto sobre o Himalaia, caem numa desesperadora perseguição num trole em alta velocidade e finalmente fazem uma arrepiante escapada de uma mina de escravos na Índia. Segura firme, que o maior heróis de ação do mundo vai levar você em uma espetacular montanha-russa de aventura, que vai deixá-lo na maior tensão, com toda certeza.
-Indiana Jones e a Última Cruzada (Indiana Jones and the Last Crusade): Não há nada mais emocionante que tentar acompanhar os Jones em Indiana Jones e A Última Cruzada. Os inimigos nazistas de Indy estão de volta e seqüestraram seu pai, o professor Henry Jones Sr. (Sean Connery), para ajudá-los em sua busca do Santo Graal. Seguindo a pista da América até Veneza e aos desertos da Terra Santa, só depende de Indy (Harrison Ford) salvar seu pai, salvar o Graal e salvar o dia, nesta espetacular aventura de ação que a família inteira vai adorar.
-Indiana Jones e o Reino da Caveira de Cristal (Indiana Jones and the Kingdom of the Crystal Skull): Depois de anos tentando reunir a equipe original, vários empecilhos e diversas alterações no misterioso roteiro, o quarto filme da série, protagonizada pelo arqueólogo Indiana Jones (Harrison Ford), está chegando às telonas. Dezenove anos depois do lançamento do último longa, o herói irá se aventurar em 1957, no meio da Guerra Fria, tendo os soviéticos como vilões da história.</info>
-</item>
 
 
 
