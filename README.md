@@ -1486,6 +1486,15 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <info> John Constantine é um experiente ocultista e exorcista, que literalmente chegou ao inferno. Juntamente com Angela Dodson, uma policial cética, ele investiga o misterioso assassinato da irmã gêmea dela, Isabel. As investigações levam a dupla a um mundo sombrio, em que precisam lidar com demônios e anjos malvados.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UM SONHO DE LIBERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CDEA2E3CEBA8555F8DADE56521E9479FDFE71F3C&dn=Um%20Sonho%20de%20Liberdade%20720p%20(1994)%20Dual%20%C3%81udio%20BluRay%205.1%20--%20By-%20Lucas%20Firmo&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.ccc.de:80/announce&tr=udp://9.rarbg.com:2710/announce&tr=udp://9.rarbg.com:2710/announce&tr=udp://tracker.leechers-paradise.org:6969</link>
+<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/90/16/48/20083748.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1946, Andy Dufresne (Tim Robbins), um jovem e bem sucedido banqueiro, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicídio de sua esposa e do amante dela. Ele é mandado para uma prisão que é o pesadelo de qualquer detento, a Penitenciária Estadual de Shawshank, no Maine. Lá ele irá cumprir a pena perpétua. Andy logo será apresentado a Warden Norton (Bob Gunton), o corrupto e cruel agente penitenciário, que usa a Bíblia como arma de controle e ao Capitão Byron Hadley (Clancy Brown) que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding (Morgan Freeman), um prisioneiro que cumpre pena há 20 anos e controla o mercado negro da instituição.</info>
+</item>
+
+
 
 
 
