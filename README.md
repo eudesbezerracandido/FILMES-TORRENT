@@ -1478,6 +1478,14 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <info>Ray Breslin (Sylvester Stallone) é a maior autoridade existente ao se falar em segurança. Após analisar diversas prisões de segurança máxima, ele desenvolve um modelo à prova de fugas. Quando é preso, Ray é enviado justamente para a prisão que criou. Lá ele precisa encontrar uma brecha não imaginada até então, que permita sua fuga.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CONSTANTINE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67b4a0fe44977cda2f81db10fac2a45df10dce87&dn=CINETERROR.ORG%20-%20Constantine%20(2005)%20BluRay%20720p%20Dual%20%c3%81udio&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://limaomecanico.com.br/wp-content/uploads/2019/08/constantine.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> John Constantine é um experiente ocultista e exorcista, que literalmente chegou ao inferno. Juntamente com Angela Dodson, uma policial cética, ele investiga o misterioso assassinato da irmã gêmea dela, Isabel. As investigações levam a dupla a um mundo sombrio, em que precisam lidar com demônios e anjos malvados.</info>
+</item>
+
 
 
 
