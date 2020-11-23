@@ -1460,6 +1460,14 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <info>O arqueólogo Indiana Jones precisa encontrar a Arca da Aliança, uma relíquia bíblica que contém os dez mandamentos. Como o portador do artefato se torna invencível, os nazistas também vão fazer de tudo para adquirir esse precioso objeto.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] 127 HORAS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b6c6d7a40a03d550feb5fa8d9826b4800e2b146</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51-DVMnE-8L._SX324_BO1,204,203,200_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>127 Horas” conta a história verídica da impressionante aventura do montanhista Aron Ralston (James Franco), e a sua luta ao ficar preso após uma queda num desfiladeiro isolado no Utah. Durante os cinco dias seguintes Ralston examina a sua vida e sobrevive aos elementos para finalmente descobrir que tem a coragem e os recursos para se libertar por qualquer meio necessário, escalar uma parede com 200m e caminhar mais de 12km antes de ser finalmente salvo. Ao longo da sua viagem, Ralston recorda amigos, amantes (Clémence Poésy), família e as duas caminhantes (Amber Tamblyn e Kate Mara) que conheceu antes do acidente.</info>
+</item>
+
 
 
 
