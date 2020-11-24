@@ -1504,6 +1504,20 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 </item>
 
 
+<item>
+<item>
+<title>[COLOR silver][B] A HORA DO PESADELO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</item>               <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c493313076d7089aa8ead200ffffb73c65d2b414&dn=Cole%c3%a7%c3%a3o%20-%20A%20Hora%20do%20Pesadelo.(1984-1995).Dublado.1080p.By.Luan.Harper&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce%22</link>
+<thumbnail>https://http2.mlstatic.com/D_NQ_NP_901947-MLB43222578283_082020-O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+
+
+
+
+
+
 
 
 
