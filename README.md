@@ -1509,7 +1509,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <title>[COLOR silver][B] A HORA DO PESADELO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</item>               <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c493313076d7089aa8ead200ffffb73c65d2b414&dn=Cole%c3%a7%c3%a3o%20-%20A%20Hora%20do%20Pesadelo.(1984-1995).Dublado.1080p.By.Luan.Harper&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce%22</link>
 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_901947-MLB43222578283_082020-O.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info>Um grupo de adolescentes tem pesadelos horríveis, onde são atacados por um homem deformado com garras de aço. Ele apenas aparece durante o sono e, para escapar, é preciso acordar. Os crimes vão ocorrendo seguidamente, até que se descobre que o ser misterioso é na verdade Freddy Krueger, um homem que molestou crianças na rua Elm e que foi queimado vivo pela vizinhança. Agora Krueger, pode retornar para se vingar daqueles que o mataram, através do sono.</info>
 </item>
 
 
