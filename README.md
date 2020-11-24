@@ -1502,6 +1502,14 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <info>Com base no livro "Just Mercy: Uma história de justiça e redenção", segue a verdadeira história de Bryan Stevenson, um advogado talentoso que luta pela justiça num país com o sistema legal falido.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COLEÇÃO - A HORA DO PESADELO FREDDY KRUEGER   [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c493313076d7089aa8ead200ffffb73c65d2b414&dn=Cole%c3%a7%c3%a3o%20-%20A%20Hora%20do%20Pesadelo.(1984-1995).Dublado.1080p.By.Luan.Harper&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce%22</link>
+<thumbnail>https://3.bp.blogspot.com/-dLckgie40pE/UehyywhYsPI/AAAAAAAAGdo/Yci87JkU1JQ/s1600/Cole%C3%A7%C3%A3o+Freddy+Krueger.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Pelas mãos do mestre do terror moderno, Wes Craven, surge a sensacional e horripilante saga de Freddy Krueger, que até hoje permanece um ícone do gênero no cinema. Tudo se inicia quando a jovem Nancy começa a ter pesadelos assustadores. Enquanto guarda apenas para si estas terríveis experiências noturnas, suas amigas do colégio também estão compartilhando o mesmo tipo de sonho aterrorizante. Porém, quando uma das garotas acaba sendo brutal e misteriosamente assassinada durante o sono, Nancy procura a polícia. Seus relatos a respeito do hediondo maníaco que habita seus pesadelos, contudo, são absolutamente ignorados pelos policiais. Nancy está sozinha e apavorada, mas sabe que cedo ou tarde terá que enfrentar o assassino em seu próprio mundo sombrio e irreal. Contém todos os filmes da franquia a hora do pesadelo.</info>
+</item>
+
 
 
 
