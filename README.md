@@ -1526,7 +1526,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <thumbnail>https://fr.web.img5.acsta.net/pictures/15/02/04/11/17/060744.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Cinebiografia do pastor protestante e ativista social Martin Luther King, Jr (David Oyelowo), que acompanha as históricas marchas realizadas por ele e manifestantes pacifistas em 1965, entre a cidade de Selma, no interior do Alabama, até a capital do estado, Montgomery, em busca de direitos eleitorais iguais para a comunidade afro-americana.</info>
-</item>
+</item> 
 
 
 
