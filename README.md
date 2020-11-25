@@ -1520,6 +1520,15 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <info>Boyka está ansiando pelas grandes ligas quando uma morte acidental no ringue o faz questionar tudo o que representa. Quando ele descobre que a esposa do homem que ele matou acidentalmente está em apuros, Boyka se oferece para lutar em uma série de batalhas impossíveis para libertá-la de uma vida de servidão.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SELMA - UMA LUTA PELA IGUALDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31A6909C11F40C7ADEAD1B2996AA63DCB5A5DBB9&dn=Selma.Uma.Luta.Pela.Igualdade.2015.720p.Dual-WOLVERDONFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337</link>
+<thumbnail>https://fr.web.img5.acsta.net/pictures/15/02/04/11/17/060744.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Cinebiografia do pastor protestante e ativista social Martin Luther King, Jr (David Oyelowo), que acompanha as históricas marchas realizadas por ele e manifestantes pacifistas em 1965, entre a cidade de Selma, no interior do Alabama, até a capital do estado, Montgomery, em busca de direitos eleitorais iguais para a comunidade afro-americana.</info>
+</item>     
+
+
 
 
 
