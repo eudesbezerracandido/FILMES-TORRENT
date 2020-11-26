@@ -1526,7 +1526,35 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <thumbnail>https://fr.web.img5.acsta.net/pictures/15/02/04/11/17/060744.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Cinebiografia do pastor protestante e ativista social Martin Luther King, Jr (David Oyelowo), que acompanha as históricas marchas realizadas por ele e manifestantes pacifistas em 1965, entre a cidade de Selma, no interior do Alabama, até a capital do estado, Montgomery, em busca de direitos eleitorais iguais para a comunidade afro-americana.</info>
-</item>     
+</item> 
+
+<item>
+<title>[COLOR silver][B] BATMAN & ROBIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22b673813e4f14d7748ead7e3656237d4c7ae2e1&dn=Batman+%26amp%3B+Robin+%281997%29+Bluray+1080p+Dual+Filmes+M.H.G&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/9/9b/Batman_Robin_1997.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A dupla dinâmica enfrenta uma terrível dupla de vilões: o gélido Mr. Freeze (Arnold Schwarzenegger) e a delicada botânica que, ao sofrer um acidente, transforma-se na perigosa e vingativa Hera Venenosa (Uma Thurman). Mas, para poder livrar Gotham City das garras dos vilões, Batman (George Clooney) e Robin (Chris O’Donnell) contam com uma nova companheira, a Batgirl (Alicia Silverstone).</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] COLEÇÃO - PIRATAS DO CARIBE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74d86dc47fe4bff7a2bfe0209113ff6f96f36cbd&dn=COMOEUBAIXO.COM..BLURAY.MP4.Quadrilogia+Piratas+do+Caribe+%282003%2F2011%29+1080p+5.1+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://3.bp.blogspot.com/-i_teSkNt_Ik/WVasmS08cDI/AAAAAAAAAHc/Z2SD9-Ob3OQv11QPs04Lj1t1ERLhdggqgCLcBGAs/s1600/apontadl_img_destacada134.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Elizabeth Swann (Keira Knightley), a filha do governador Weatherby (Jonathan Pryce), está prestes a se casar com o ferreiro Will Turner (Orlando Bloom). Porém o evento é atrapalhado pela ameaça de Davy Jones (Bill Nighy), o capitão do assombrado navio Flying Dutchman, que tem uma dívida de sangue com o capitão Jack Sparrow (Johnny Depp), amigo do casal. Temendo ser amaldiçoado a uma vida após a morte como escravo de Jones, Sparrow precisa encontrar o misterioso baú da morte para escapar da ameaça.</info>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
