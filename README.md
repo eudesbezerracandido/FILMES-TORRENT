@@ -1544,6 +1544,34 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <info>Elizabeth Swann (Keira Knightley), a filha do governador Weatherby (Jonathan Pryce), está prestes a se casar com o ferreiro Will Turner (Orlando Bloom). Porém o evento é atrapalhado pela ameaça de Davy Jones (Bill Nighy), o capitão do assombrado navio Flying Dutchman, que tem uma dívida de sangue com o capitão Jack Sparrow (Johnny Depp), amigo do casal. Temendo ser amaldiçoado a uma vida após a morte como escravo de Jones, Sparrow precisa encontrar o misterioso baú da morte para escapar da ameaça.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DESTINO DE JUPTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E4ADD1723D951AE2448F5ED0854E0C44F703D2B&dn=O.Destino.de.Jupiter.2015.720p.Dual-&tr=udp%3a%2f%2fexodus.desync.com%3a6969&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/15/01/12/20/03/030184.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A nova sequência reúne o dueto dinâmico, Frank Vega (Danny Trejo) e Bernie Pope (Danny Glover), quando viajam para Louisiana para assistir ao casamento de sua querida amiga Carmen Gutierrez (Loni Love). O que era retratado como um final de semana de casamento no sul transforma-se violentamente em loucura e caos, fazendo com que nossos velhos heróis, mais uma vez, sirvam à justiça.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TRILOGIA - BLADE O QUE ANDA DE DIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F23772F3EA9614C2FCD6B4ADA80FB50A897211DF&dn=Blade%20-%20O%20Ca%c3%a7ador%20de%20Vampiros%20%281998%29%20Dublado%201080p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EAC8016B1B8AE5D2C55C523208D3336A6C05E3E6&dn=Blade%20II%20-%20O%20Ca%c3%a7ador%20de%20Vampiros%20%282002%29%20Dublado%201080p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C312EB6493759202F88468F6A94511F584A11DA6&dn=Blade%20-%20Trinity%20%282004%29%20Dublado%201080p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>https://http2.mlstatic.com/D_NQ_NP_828725-MLB31195464086_062019-O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Blade – O Caçador de Vampiros:
+Após ser contaminado pelo sangue de uma criatura das trevas, Blade (Wesley Snipes) transformou-se num guerreiro imortal, metade-homem, metade-vampiro. Desde então, ele dedica-se a caçar o líder dos mortos-vivos Deacon Frost (Stephen Dorff) e seus asseclas, que estão planejando um grande plano para aumentar sua dominação sobre a raça humana.
+Blade II – O Caçador de Vampiros:
+Blade (Wesley Snipes) é um ser meio homem, meio vampiro que é consumido pelo desejo de vingança contra os seres que atacaram sua mãe antes mesmo dele nascer e fizeram com que ele se tornasse o que é atualmente. Com isso, ao crescer Blade iniciou uma verdadeira cruzada pessoal para combater e eliminar os vampiros, mas agora uma nova raça mais poderosa chamada reapers, criada a partir de cruzamentos genéticos entre humanos e vampiros, ameaça eliminar ambas as raças. Visto isso, Blade se alia aos seus maiores inimigos para que, juntos, possam combater esta nova raça de seres.
+Blade Trinity:
+Em uma base localizada no deserto os vampiros dão a cartada decisiva em seus planos para conquistar o mundo: ressuscitam Drácula (Dominic Purcell), que deu origem à raça e possui poderes que lhe permite sobreviver à luz do dia. Em paralelo os vampiros iniciam uma campanha difamatória contra Blade (Wesley Snipes), colocando o FBI em seu encalço. Após alguns confrontos com agentes, Blade e Whistler (Kris Kristofferson) percebem que precisam de ajuda. Após ser atacado e capturado, Blade é salvo pelos Notívagos, um grupo de humanos que se dedica a caçar vampiros e que é liderado por Abigail (Jessica Biel), que é também a filha de Whistler. Juntamente com Hannibal King (Ryan Reynolds) e a cientista Sommerfield (Natasha Lyonne), que possui uma deficiência visual, Blade e os Notívagos iniciam uma série de batalhas contra Dranica Talos (Parker Posey), a atual líder dos vampiros, sem saber que terão que enfrentar o próprio Drácula.</info>
+</item>
+
+
+
+
+
+
 
 
 
