@@ -1567,6 +1567,32 @@ Blade Trinity:
 Em uma base localizada no deserto os vampiros dão a cartada decisiva em seus planos para conquistar o mundo: ressuscitam Drácula (Dominic Purcell), que deu origem à raça e possui poderes que lhe permite sobreviver à luz do dia. Em paralelo os vampiros iniciam uma campanha difamatória contra Blade (Wesley Snipes), colocando o FBI em seu encalço. Após alguns confrontos com agentes, Blade e Whistler (Kris Kristofferson) percebem que precisam de ajuda. Após ser atacado e capturado, Blade é salvo pelos Notívagos, um grupo de humanos que se dedica a caçar vampiros e que é liderado por Abigail (Jessica Biel), que é também a filha de Whistler. Juntamente com Hannibal King (Ryan Reynolds) e a cientista Sommerfield (Natasha Lyonne), que possui uma deficiência visual, Blade e os Notívagos iniciam uma série de batalhas contra Dranica Talos (Parker Posey), a atual líder dos vampiros, sem saber que terão que enfrentar o próprio Drácula.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ALADDIN  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2290ffcc7e3e6d05593934cd4877a4d01a92d45&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Aladdin%202019%20%5b720p%5d%20%5bBluRay%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://almanaquevirtual.com.br/wp-content/uploads/2019/05/Aladdin-poster.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem humilde descobre uma lâmpada mágica, com um gênio que pode lhe conceder desejos. Agora o rapaz quer conquistar a moça por quem se apaixonou, mas o que ele não sabe é que a jovem é uma princesa que está prestes a se noivar. Agora, com a ajuda do Gênio (Will Smith), ele tenta se passar por um príncipe e para conquistar o amor da moça e a confiança de seu pai.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] COLEÇÃO - A  HISTÓRIA SEM FIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ec88e0e95b65029f4dc22b38ef7a1f453f19b02&dn=A+Hist%26oacute%3Bria+Sem+Fim+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52DCAB68E53F4ED46EA63481B730F07DF19D49F7&dn=A%20Hist%c3%b3ria%20Sem%20Fim%202%20%281990%29%201080p%20Dual%20-%201046&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2finferno.demonoid.ph%3a3389%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=http%3a%2f%2ftorrent.gresille.org%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0D8DA393E470F700CA9ED002E2C6BFED16B39E25&dn=A%20Hist%c3%b3ria%20Sem%20Fim%203%20%281996%29%20BluRay%201080p%20Dual%20%c3%81udio</link>
+<thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/0f373d07d3fdbef17eb7014013b2b7e5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O livro especial está novamente aberto para um interminável elenco mágico. A História Sem Fim II deliciosamente trás de volta os personagens e criaturas da obra de Michael Ende, para uma nova história na qual Bastian deve salvar Fantasia de uma terrível feiticeira e encontrar coragem que lhe falta na vida real. Velhos amigos, Atreyu o menino guereiro, Falkor o dragão da sorte e Come-Pedra se juntam a Bastian.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] EDWARD - MÃOS DE TESOURA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ygvbljmpoouh4mc3c2c2lnj2prwl3jxj</link>
+<thumbnail>https://i.pinimg.com/originals/46/ef/fa/46effa5a4ab9d2a449d2555fb2429bab.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Peg Boggs (Dianne Wiest) é uma vendedora da Avon que acidentalmente descobre Edward (Johnny Depp), um jovem que mora sozinho em um castelo no topo de uma montanha e que na verdade foi criado por um inventor (Vincent Price), que morreu antes de dar mãos ao estranho ser, que possui apenas enormes lâminas no lugar delas. Isto o impede de poder se aproximar dos humanos, a não ser para criar revolucionários cortes de cabelos, mas ele dá vazão à sua solidão interior ao podar a vegetação em forma de figuras ou esculpir lindas imagens no gelo. No entanto, Edward é vítima da sua inocência e, se é amado por uns, é perseguido e usado por outros.</info>
+</item>
+
 
 
 
