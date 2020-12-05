@@ -1530,7 +1530,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] BATMAN & ROBIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22b673813e4f14d7748ead7e3656237d4c7ae2e1&dn=Batman+%26amp%3B+Robin+%281997%29+Bluray+1080p+Dual+Filmes+M.H.G&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ea0ed162420fb328cd1e7607032cff8379e84a7&dn=Batman+e+Robin+%281997%29+BluRay+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/9/9b/Batman_Robin_1997.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A dupla dinâmica enfrenta uma terrível dupla de vilões: o gélido Mr. Freeze (Arnold Schwarzenegger) e a delicada botânica que, ao sofrer um acidente, transforma-se na perigosa e vingativa Hera Venenosa (Uma Thurman). Mas, para poder livrar Gotham City das garras dos vilões, Batman (George Clooney) e Robin (Chris O’Donnell) contam com uma nova companheira, a Batgirl (Alicia Silverstone).</info>
@@ -1591,6 +1591,15 @@ Em uma base localizada no deserto os vampiros dão a cartada decisiva em seus pl
 <thumbnail>https://i.pinimg.com/originals/46/ef/fa/46effa5a4ab9d2a449d2555fb2429bab.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Peg Boggs (Dianne Wiest) é uma vendedora da Avon que acidentalmente descobre Edward (Johnny Depp), um jovem que mora sozinho em um castelo no topo de uma montanha e que na verdade foi criado por um inventor (Vincent Price), que morreu antes de dar mãos ao estranho ser, que possui apenas enormes lâminas no lugar delas. Isto o impede de poder se aproximar dos humanos, a não ser para criar revolucionários cortes de cabelos, mas ele dá vazão à sua solidão interior ao podar a vegetação em forma de figuras ou esculpir lindas imagens no gelo. No entanto, Edward é vítima da sua inocência e, se é amado por uns, é perseguido e usado por outros.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CENTURION [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52a73fa559a8158b835181315f561f65577afe8c</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/ePiabUJVmHSwXtW5t98bn7G2wxo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Centurião se passa na Grã-Bretanha, nos primeiros anos depois de Cristo. Quintus, o único sobrevivente de um ataque selvagem aos soldados romanos, se junta à IX Legião do general Virilus em sua marcha ao norte para acabar com as terríveis tribos conhecidas como Pict. Depois de um ataque surpresa, Virilus é mantido prisioneiro. Só restam sete soldados e Quintus está disposto a enfrentar todos os perigos para resgatar Virilus e proteger seus homens. Em uma luta pela sobrevivência em campo inimigo, não vai ser nada fácil escapar da morte.
+Enredo: Grã-Bretanha, AD 117. Quintus Dias, o único sobrevivente de um ataque dos pictos numa fronteira fortificação romana, marcha ao norte com o General Virilus’ lendária Nona Legião, sob as ordens para limpar os pictos da face da Terra e destruir seu líder, Gorlacon.</info>
 </item>
 
 
