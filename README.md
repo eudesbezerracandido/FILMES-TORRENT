@@ -1602,6 +1602,33 @@ Em uma base localizada no deserto os vampiros dão a cartada decisiva em seus pl
 Enredo: Grã-Bretanha, AD 117. Quintus Dias, o único sobrevivente de um ataque dos pictos numa fronteira fortificação romana, marcha ao norte com o General Virilus’ lendária Nona Legião, sob as ordens para limpar os pictos da face da Terra e destruir seu líder, Gorlacon.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] IMORTAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8e147da195a726ad598d6e20cd4c13963dec325</link>
+<thumbnail>https://s2.glbimg.com/2bAFMzJ4nz1QMd8qpdemEFj9xpU=/362x536/https://s2.glbimg.com/9EZWoGDg6xFYs0DP-6Ff_CqltF0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/l/k/BY1HSJSsaCB4gOnID62A/2020-794-midia-kit-filmes-imortais-poster.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O impiedoso rei Hyperion busca o arco de Épiro para dominar o mundo e destruir os deuses. O único que pode detê-lo é Theseus, um corajoso jovem escolhido por Zeus. Com a ajuda da sacerdotisa Phaedra, ele comandará essa batalha épica.
+Enredo: Eons após os Deuses ganhou sua luta mítica contra os Titãs, um novo mal ameaça a terra. Mad com o poder, o rei Hyperion (Mickey Rourke) declarou guerra contra a humanidade. Acumulando um exército de soldados sanguinários desfiguradas por sua própria mão, Hyperion tem chamuscado Grécia em busca do lendário Épiro Bow, uma arma de poder inimaginável forjada nos céus por Ares (Daniel Sharman). Só aquele que possui este arco pode desencadear os Titãs, que foram presos no fundo das paredes do Monte Tártaro desde a aurora dos tempos e sede de vingança. Nas mãos do rei, o arco iria chover destruição sobre a humanidade e aniquilar os Deuses. Mas antiga lei determina os Deuses não devem intervir no conflito do homem. Eles permanecem impotentes para parar Hyperion, até que um camponês chamado Teseu (Henry Cavill) surge como a única esperança. Secretamente escolhido por Zeus (Luke Evans), Teseu deve salvar seu povo da Hyperion e suas hordas. Reunindo um grupo de colegas estrangeiros, incluindo visionário …</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] HÉRCULES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b1dfb56a8c638d22f73271be3e50374cf785915</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/14/06/13/16/29/470769.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Meio homem, meio deus, o semideus Hércules anda atormentado pela terra. Depois de doze árduos trabalhos realizados e a perda de sua família, ele conhece seis assassinos impiedosos e une-se ao grupo em busca de trabalho, até que o rei da Trácia convida-o para treinar o seu exército.
+Enredo: 1400 a.C., uma alma atormentada percorreu a Terra que não era nem homem nem deus. Hércules (Dwayne “The Rock” Johnson) foi o poderoso filho do deus Rei Zeus. Por isso, ele não recebeu nada além de sofrer toda a sua vida. Após doze árduos trabalhos e a morte de sua família, essa alma escura e cansada do mundo deu as costas aos deuses, encontrando seu único consolo na batalha sangrenta. Ao longo dos anos, ele se entusiasmou com a companhia de seis almas semelhantes, sendo seu único vínculo o amor pela luta e a presença da morte. Esses homens e mulheres nunca questionam onde vão lutar, nem por que, ou quem, quanto serão pagos. Agora, o rei da Trácia, Lorde Cotys (Sir John Hurt) contratou esses mercenários para treinar seus homens para se tornar o maior exército de todos os tempos. É hora de este bando de almas perdidas finalmente ter seus olhos abertos para o quão longe eles caíram, quando eles devem treinar um exército para se tornar tão cruel e sanguinário quanto sua reputação se tornou.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AS VIAGENS DE GULLIVER  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:393d04da41b966c7a148cfa45d8e8889c957ca37</link>
+<thumbnail>https://cdn.mitvstatic.com/programs/br_as-viagens-de-gulliver-2010-1_p_m.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Lemuel Gulliver trabalha como entregador de correspondências para um jornal de Nova York. Quando viaja a trabalho para o Triângulo das Bermudas, seu barco é desviado por uma tempestade e vai parar na cidade mágica de Liliput, onde as pessoas são bem pequenas.
+Enredo: Lemuel Gulliver tem vindo a trabalhar na sala de correspondência de um jornal diário New York nos últimos anos dez. Medo de colocar-se lá fora, ele se considera um perdedor, como todos os seus colegas. Um dia, depois de ter o suficiente finalmente teve, ele decide declarar sua chama para a bela Darcy Silverman, editor de viagens do jornal e um dos únicos amigos de Gulliver … só para sair de frango no último minuto e, em vez dizer-lhe que ele tinha gostaria de tentar sua mão em escrever uma coluna. Darcy aceita e envia-lo em uma missão para o Triângulo das Bermudas. Lá, Gulliver torna-se naufragou e acaba na ilha de Liliput, onde ele é doze vezes mais alto do que o homem mais alto. Pela primeira vez, Gulliver tem pessoas olhando para ele.</info>
+</item>
+
 
 
 
