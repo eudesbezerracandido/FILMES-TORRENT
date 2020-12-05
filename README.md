@@ -1629,6 +1629,33 @@ Enredo: 1400 a.C., uma alma atormentada percorreu a Terra que não era nem homem
 Enredo: Lemuel Gulliver tem vindo a trabalhar na sala de correspondência de um jornal diário New York nos últimos anos dez. Medo de colocar-se lá fora, ele se considera um perdedor, como todos os seus colegas. Um dia, depois de ter o suficiente finalmente teve, ele decide declarar sua chama para a bela Darcy Silverman, editor de viagens do jornal e um dos únicos amigos de Gulliver … só para sair de frango no último minuto e, em vez dizer-lhe que ele tinha gostaria de tentar sua mão em escrever uma coluna. Darcy aceita e envia-lo em uma missão para o Triângulo das Bermudas. Lá, Gulliver torna-se naufragou e acaba na ilha de Liliput, onde ele é doze vezes mais alto do que o homem mais alto. Pela primeira vez, Gulliver tem pessoas olhando para ele.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] AD ASTRA - RUMO ÁS ESTRELAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb2bb87317f1c08b13ef82e389bcfdfdd0e4950b</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/19/07/22/21/56/1885920.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Roy McBride é um engenheiro espacial, portador de um leve grau de autismo, que decide empreender a maior jornada de sua vida: viajar para o espaço, cruzar a galáxia e tentar descobrir o que aconteceu com seu pai, um astronauta que se perdeu há vinte anos atrás no caminho para Netuno.
+Enredo: Astronauta Roy McBride (Brad Pitt) viaja para as bordas exteriores do sistema solar para encontrar seu pai desaparecido e desvendar um mistério que ameaça a sobrevivência do nosso planeta. Sua viagem vai descobrir segredos que desafiam a natureza da existência humana e de nosso lugar no cosmos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O CURIOSO CASO DE BENJAMIM BUTTON  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdce4404839461cee3fda2afd7148f7f825f936e</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/8/88/ButtonPoster.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Benjamin Button é um homem que nasce idoso e rejuvenesce à medida que o tempo passa. Doze anos depois de seu nascimento, ele conhece Daisy, uma criança que entra e sai de sua vida enquanto cresce para ser dançarina. Embora tenha todos os tipos de aventuras incomuns, sua relação com Daisy o faz acreditar que os dois se encontrarão no momento certo da vida.
+Enredo: No dia em que o furacão Katrina bate Nova Orleans, idosos Daisy Williams (nee Fuller) está em seu leito de morte em um hospital de Nova Orleans. Ao seu lado é sua filha adulta, Caroline. Daisy pede Caroline para ler para ela em voz alta o diário de amigo ao longo da vida de Daisy, Benjamin Button. O diário de Benjamin narra toda a sua vida extraordinária, o aspecto incomum principal dos quais era o seu envelhecimento para trás, ser diagnosticado com várias doenças do envelhecimento no nascimento e, portanto, dada pouca chance de sobrevivência, mas que não sobrevivem e fica mais jovem com o tempo. Abandonado por seu pai biológico, Thomas Button, depois de a mãe biológica de Benjamin morreu no parto, Benjamin foi criado por Queenie, uma mulher negra e cuidador em uma casa de idosos. A avó de Margarida era um residente naquela casa, que é onde ela conheceu Benjamin. Embora separados ao longo dos anos, Daisy e Benjamin permanecer em contato durante toda a vida, voltar a ligar em seus quarenta anos, quando em idade eles finalmente igualar-se. Algumas das revelações …</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LUTAR  OU  MORRER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62084a92f995aa12f2aadf01bd2092ef30cb7b4e&dn=Lutar+ou+Morrer+DVDRip+XviD+Dual+Audio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80</link>
+<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/93/69/84/20271744.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Chen Zhen, um estudante chinês de engenharia em Kyoto, que enfrenta os insultos e abusos de seus colegas japoneses por seu amor local, Mitsuko Yamada, filha do diretor, volta em 1937 a Shangai, sob o protetorado japonês – na verdade, ocupação militar. depois de ler sobre a morte de seu mestre de kung-fu Hou Ting-An em uma luta contra o campeão japonês Ryuichi Akutagawa.
+Enredo: Chen Zhen, um estudante de engenharia chinesa em Kyoto, que braves os insultos e abusos de seus colegas Japanse por seu amor locais Mitsuko Yamada, filha do diretor, retorna em 1937 a sua Shangai nativa, sob Japanse protetorado -in fato de militar para a profissão depois de ler sobre a morte de seu mestre de kung-fu Huo Yuanjia em uma luta contra o campeão japonês Ryuichi Akutagawa. Enquanto superar desconfiança e ambição dentro da escola kungfu, Chen desenterra seu mestre para provar a derrota de Hou foi o resultado de envenenamento. Ambas as nacionalidades tornar o caso um teste de honra, de modo chinês e orgulho japonês estão em jogo quando se culmina em duelo épico final de Chen contra a cruel, invicto Fujita geral japonês.</info>
+</item>
+
 
 
 
