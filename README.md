@@ -1628,6 +1628,16 @@ Enredo: Chen Zhen, um estudante de engenharia chinesa em Kyoto, que braves os in
 Enredo: De codinome “Maverick”, Pete Mitchell, o temerário impetuoso ace Navy-piloto, é aceito na elite Escola lutador de Miramar, também conhecido como “Top Gun”. Lá, como as compete piloto impulsivas com o melhor dos melhores, não só ele vai atender Charlie, instrutor astrofísica curvilíneo da escola de vôo, mas também o colega brilhante e altamente competitivo, “Iceman”, com quem desde o início, ele vai envolver-se em um concurso imprudente. Como Maverick é assombrado pela morte misteriosa de seu pai, ele será capaz de suprimir a sua natureza selvagem para ganhar o prestigiado Troféu Top Gun?</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COLEÇÃO - ESCORPIÃO REI   [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51005e74ed0541c5abeba7156c3ca3e371c97893&dn=O+Escorpi%26atilde%3Bo+Rei+720p+%282002%29+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:279d25a8ad327e5bb0f3b04caf97d0184f8fbd13&dn=O+Escorpi%26atilde%3Bo+Rei+2%3A+A+Saga+De+Um+Guerreiro+720p+%282008%29+Dub&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e422aac0cc1b9b2b9bfad57fc3f76785278166f0</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/780EOM2tBZEy7leFgwGY0Jh1ZLX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em uma época bem remota, na cidade de Gomorra, Memnon (Steven Brand), um governante maligno, estava determinado em massacrar todos que fossem contrários a ele. As poucas tribos sobreviventes, que nunca foram aliadas, se viram obrigadas a se unir pois senão iriam perecer. Sabendo que seu inimigo depende das visões de um feiticeiro contrataram Mathayus (The Rock), um eficaz mercenário, para eliminar o vidente. Após ter se infiltrado no campo inimigo, Mathayus descobre que o feiticeiro é na verdade Cassandra (Kelly Hu), uma linda mulher. Ao invés de eliminá-la ele a leva para o meio do deserto, sabendo que os servidores de Memnon fariam qualquer coisa para resgatá-la e levá-la de volta. É exatamente isto o que acontece, pois Memnon ordenou que um alguns guerreiros comandados por Thorak (Ralph Moeller) o eliminassem, mas Mathayus conseguiu suplantar a todos. No entanto foi ferido com uma flecha, que tinha veneno de escorpião, ficando então entre a vida e a morte.</info>
+</item>
+
 
 
 
