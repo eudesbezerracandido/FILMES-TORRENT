@@ -201,23 +201,6 @@ TORRENT FILMES
 <info>Emmeline e Richard, duas crianças, juntamente com Paddy Button, um velho marinheiro, são os únicos sobreviventes de um naufrágio numa época em que navegar era a única forma de viajar. Após ficarem à deriva por várias horas eles vão parar em uma ilha tropical que é um verdadeiro paraíso. O lugar não oferece perigo, pois não há animais selvagens, mas após algum tempo Paddy morre. Com o tempo Emmeline e Richard se tornam adolescentes e vivem em uma cabana que eles mesmos construíram. Neste período novas emoções influenciam o relacionamento deles, os dois descobrem o amor e logo Emmeline está grávida. Na noite em que o filho deles nasce Richard descobre a origem dos tambores que eles ouvem de vez em quando no “lado proibido” da ilha.</info>
 </item>
 
-<item> 
-<title>[COLOR=white][B][I] COLEÇÃO - SUPERMAN  [/I]CRYPTON[/B][/COLOR]</title> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:475d32a01c8a85b2578d06c9f488c87bcbe11498&dn=Superman+-+O+Filme+%281978%29+%28Reupado%29+Bluray+1080p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b1ef0eb398ca194949f0425df7e78923ff83947&dn=Superman+2+%281980%29+Bluray+720p+Filmes+M.H.G&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1dc1e8ef444a266ad9abbfa05a3486c89e217f5&dn=COMANDOTORRENTSHD.NET.Superman+3+%281983%29+Bluray+720p+Filmes++M.H.G&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01533f4daf26ce9f9bc294587d1cabc7af22ec18&dn=COMANDOTORRENTSHD.NET.Superman+4+-+Em+Busca+Da+Paz+%281987%29+Bluray+720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9493e147aa67faa348b64510f2d4250be13c7b37&dn=Superman+O+Retorno+%282006%29+BDRip+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdad4d8e5aa48ecffd0f8252d283aff92694d591&dn=O+Homem+de+A%26ccedil%3Bo+%282013%29+720p+HD+Dublado+%2F+Dual+Audio+pt-BR&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<thumbnail>https://http2.mlstatic.com/blu-ray-coleco-superman-5-filmes-dublado-lacrado-D_NQ_NP_902667-MLB40366625730_012020-F.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-</item> 
-
 <item>
 <title>[COLOR silver][B] EXTERMINADOR DO FUTURO - GÊNESIS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF5D458F3C9FFFB48D3D3A3F0608F1184A9BDB52&dn=O%20Exterminador%20do%20Futuro%20-%20G%c3%aanesis%20%282015%29%201080p%205.1Ch%20Dublado%20-%20Alan_680&tr=http%3a%2f%2fpow7.com%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
@@ -282,7 +265,6 @@ Enredo: Seth Brundle (Jeff Goldblum), um cientista brilhante mas excêntrico ten
 <thumbnail>https://a-static.mlcdn.com.br/1500x1500/dvd-quarteto-fantastico-fox/universocultural/1678014729/595debf9d204e6eeffe3ecdfbbd33219.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O cientista Reed Richards convence seu arrogante colega Victor von Doom a financiar seus experimentos com energia cósmica. Na estação espacial Von Doom, a tripulação, incluindo o astronauta Ben Grimm, a pesquisadora Sue Storm e o piloto Johnny Storm, é exposta a uma tempestade cósmica misteriosa que dá superpoderes a eles. Eles tentam lidar com suas transformações enquanto o detestável von Doom jura vingança.
-
 Enredo: Reed Richards, um cientista brilhante, mas tímido e falido, está convencido de que a evolução pode ser desencadeada por nuvens de energia cósmica, e calculou que a Terra vai passar por uma dessas nuvens em breve. Juntamente com seu amigo e parceiro, o musculoso astronauta Ben Grimm, Reed convence seu conceituado colega do MIT, Dr. Victor Von Doom, agora CEO de sua própria empresa, a permitir o acesso à sua estação espacial de propriedade privada. Von Doom concorda em troca de controle sobre o experimento e a maioria dos lucros de quaisquer benefícios que ele traz. Assim, ele traz a bordo Susan Storm, sua tímida, embora assertiva pesquisadora genética e ex-amante de Reed, com quem ela teve um rompimento amargo, e seu irmão diametralmente oposto Johnny, o piloto independente e impetuoso da playboy. Os astronautas chegam em casa intactos; no entanto, em pouco tempo eles começam a sofrer mutações, desenvolvendo poderes estranhos e surpreendentes como resultado de sua exposição à nuvem! Reed é capaz de </info>
 </item>
 
@@ -505,9 +487,7 @@ Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos p
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71uPAK1T84L._AC_SX466_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Filme 1:Num futuro não tão distante, uma grande cidade é dominada por marginais. A polícia tenta manter a ordem e controlar a situação, mas está impotente. Quando Murphy (Peter Weller), um dos melhores policiais da corporação é assassinado brutalmente por uma quadrilha de traficantes, o diretor do “Security Concepts”, um laboratório secreto, coloca em ação o projeto Robocop. Assim, criam o melhor e mais dedicado policial: um ser com os mais rápidos reflexos que a tecnologia moderna possui, acoplado a uma memória computadorizada. Manter a lei e a ordem serão as principais funções do Robocop.
-
 Sinopse Filme 2:Policial-andróide enfrenta gangue de traficantes de drogas. Ao mesmo tempo, o império corporativo que o criou está lançando um robô aperfeiçoado que torna necessária a eliminação de Robocop.
-
 Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o cyborg inimigo do crime mais uma vez sai às ruas para proteger, com “coração e personalidade”.[Entertainment Today), os inocentes, desta vez, enfrentando a ganância empresarial! Robocop 3 é uma “magnética” (Boxoffice) aventura de ficção científica que fará você ficar eletrizado em sua poltrona! A impiedosa corporação OCP que controla Detroit, está expulsando famílias de seus lares para obter espaço para construir um novo e lucrativo projeto imobiliário. Robocop (Robert John Burke, Cop/and), que jurou proteger o público, une suas forças a um bando renegado de defensores da liberdade para auxiliá-los na batalha para salvar as casas das pessoas — colocando-se contra alguns de seus mais fortes oponentes até então, incluindo um androide ninja e uma perigosa gangue: os Splatterpunks. 0 arsenal bélico de última geração de que dispõe Robocop apenas equilibra a batalha, na qual este solitário super-heroi enfrenta um exército inteiro de soldados da corporação, em uma guerra decisiva pelo controle de Detroit.</info>
 </item>
 
@@ -689,7 +669,6 @@ Enredo: A vida de Louis Zamperini, um atleta olímpico que se juntou às forças
 <thumbnail>https://www.pontofrio-imagens.com.br/dvdsebluray/FilmeseSeriados/Animacao/436053/243109677/Blu-Ray-Esqueceram-de-Mim-Esqueceram-de-Mim-2-2-Discos-436053.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Esqueceram de Mim (1990) Em Chicago, uma família inteira planeja passar o Natal em Paris. Porém, em meio às confusões de viagem um dos filhos (Macaulay Culkin), com apenas 8 anos, é esquecido em casa. Assim, o garoto se vê obrigado a se virar sozinho e a defender a casa de dois ladrões.
-
 Esqueceram de Mim 2: Perdido em Nova York (1992) Garoto (Macaulay Culkin) se vê novamente sozinho, quando em virtude de uma confusão no aeroporto que fez com que ele ao invés de embarcar com a família para a Flórida partisse sozinho para Nova York. Mas como tinha o cartão de crédito do pai (John Heard), ele se hospeda no melhor hotel da cidade, mas também encontra os dois ladrões que tinha enfrentado no passado e que agora planejam se vingar dele.</info>
 </item>
 
@@ -710,7 +689,6 @@ O Exterminador do Futuro 4: A Salvação: O ano é 2018. O Dia do Julgamento Fin
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/68/Lifeforce_1985.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Tudo começa quando a tripulação de um ônibus espacial descobre, na cauda do cometa, uma espaçonave contendo alienígenas fossilizados, a maior parte semelhantes a grandes morcegos. Três dos alienígenas, em forma humana, são trazidos à Terra, revivem e, ao se alimentarem da força vital de suas vítimas, transformam as pessoas em um tipo de vampiro. As vítimas continuam o ciclo, e em breve todo o planeta está em perigo. O único sobrevivente do ônibus espacial segue em busca da líder dos vampiros do espaço.
-
 Enredo: O ônibus espacial Churchill é designado para observar o cometa Halley, sob o comando do coronel Tom Carlsen. Eles vêem uma forma estranha ligada ao cometa e Carlsen vai com uma equipe para investigar. Eles encontram três formas de vida humanóides em caixões e os trazem para o Churchill. No entanto, a Terra perde contato com o ônibus espacial e o Centro de Pesquisa Espacial envia outra espaçonave para revistar o Churchill. Eles acham a tripulação morta, o ônibus queimado e uma cápsula de resgate desaparecida. Eles trazem os humanóides para a Terra e logo o Dr. Hans Fallada e sua equipe descobrem que a Space Girl é uma espécie de vampiro e drena a força da vida das pessoas, transformando-as em zumbis. Quando as autoridades descobrem que o coronel Tom Carlsen sobreviveu, o convocam para explicar o que aconteceu em Churchill. Carlsen conta uma história incrível sobre os três alienígenas e se une ao coronel Colin Caine tentando salvar a humanidade dos vampiros do espaço.</info>
 </item>
 
@@ -749,13 +727,9 @@ Enredo: O ônibus espacial Churchill é designado para observar o cometa Halley,
 <item>
 <title>[COLOR silver][B] CORAÇÃO DE DRAGÃO COLECTION [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3FCAEFBCCC2B4519E1B596C783AE0FC842CCFD4&dn=Cora%c3%a7%c3%a3o%20de%20Drag%c3%a3o%201997%20%28720p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6PP7UROW4AXMFFGONM4C7ATKZXZODC6J&dn=Cora%c3%a7%c3%a3o%20de%20Drag%c3%a3o%202%20Um%20Novo%20Come%c3%a7o%20720p%20JohnL.mkv&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45514A537AD3C49EBCFD38910AF7DDA31D20C4DE&dn=Cora%c3%a7%c3%a3o%20de%20Drag%c3%a3o%203%20-%20A%20Maldi%c3%a7%c3%a3o%20do%20Feiticeiro%20%282015%29%20720p%205.1%20Dublado%20-%20Alan_680&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F0F5734F4B1B6625637F5F4827E72A73F45E2183&dn=Cora%c3%a7%c3%a3o%20de%20Drag%c3%a3o%204%20-%20A%20Batalha%20pelo%20Cora%c3%a7%c3%a3o%20de%20Fogo%202017%20%5bBluRay%5d%20%28720p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4caff22fc81124a52f51d033d86bdbd70e64c597&dn=COMANDO.TO%20-%20Cora%c3%a7%c3%a3o%20de%20Drag%c3%a3o%20-%20Vingan%c3%a7a%202020%20%5b720p%5d%20%5bDUBLADO%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/815mBGI5hsL._AC_SY550_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -785,14 +759,6 @@ Enredo: O ônibus espacial Churchill é designado para observar o cometa Halley,
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>No século XIII, soldados ingleses matam a mulher do escocês William Wallace (Mel Gibson), bem na sua noite de núpcias. Para vingar a amada, ele resolve liderar seu povo em uma luta contra o cruel Rei inglês Edward I (Patrick McGoohan). Com a ajuda de Robert e Bruce, ele vai deflagrar uma violenta batalha com o objetivo de libertar a Escócia de uma vez por todas.</info>
 </item>
-
-<item>
-<title>[COLOR silver][B] GLADIADOR [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FD5576760BE2DB1B8FAAA7E12874E5834A479CD&dn=Gladiador%20-%20Vers%c3%a3o%20Estendida%20Remasterizada%202000%20WWW.BLUDV.COM&tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2730%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
-<thumbnail>https://macmagazine.uol.com.br/wp-content/uploads/2014/06/21-filme.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Nos dias finais do reinado de Marcus Aurelius (Richard Harris), o imperador desperta a ira de seu filho Commodus (Joaquin Phoenix) ao tornar pública sua predileção em deixar o trono para Maximus (Russell Crowe), o comandante do exército romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Império Romano.</info>
-</item> 
 
 <item>
 <title>[COLOR silver][B] BOHEMIA RHAPSODY[/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
@@ -974,9 +940,7 @@ Superman: O Retorno (Superman Returns, 2006) – Um herói para o nosso milênio
 <thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/2589616/1002915896.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> De Volta para o Futuro: Um jovem (Michael J. Fox) aciona acidentalmente uma máquina do tempo construída por um cientista (Christopher Lloyd) em um Delorean, retornando aos anos 50. Lá conhece sua mãe (Lea Thompson), antes ainda do casamento com seu pai, que fica apaixonada por ele. Tal paixão põe em risco sua própria existência, pois alteraria todo o futuro, forçando-o a servir de cupido entre seus pais.
-
 De Volta para o Futuro – Parte 2: O cientista Doc Brown (Christopher Lloyd) leva Marty (Michael J. Fox) e sua namorada (Elisabeth Shue) para o ano 2015, com a finalidade de resolver uma questão familiar no futuro deles. Mas Biff (Thomas F. Wilson), velho inimigo da família, obriga-os a correrem contra o tempo (literalmente falando) para não alterarem os acontecimentos.
-
 De Volta para o Futuro – Parte 3: Após de receber uma carta de Doc (Christopher Lloyd) datada de 1885, Marty McFly (Michael J. Fox) decide viajar para o Velho Oeste, no dia 2 de setembro do mesmo ano. Lá ele descobre que o doutor está fugindo de uma gangue de bandidos e se apaixonou por uma professora da época. Agora, Marty tem apenas cinco dias para salvar a si e aos seus amigos e voltar para o futuro.</info>
 </item>
 
@@ -1003,8 +967,8 @@ De Volta para o Futuro – Parte 3: Após de receber uma carta de Doc (Christoph
 <thumbnail>https://cdn.cinepop.com.br/2015/12/independencedayhq_2.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>SINOPSE: 1 Naves imensas e poderosas estão sobre as principais cidades do mundo. Desta vez, o objetivo é claro: destruir a raça humana. A curiosidade rapidamente se transforma em pânico quando as naves iniciam o ataque com raios de fogo. Começa a contagem regressiva. Agora, a única esperança está nas mãos de sobreviventes que têm apenas uma chance para tentar o impossível, antes que seja o fim da humanidade
- 
 SINOPSE: 2 Vinte anos após uma invasão alienígena quase dizimar toda a humanidade, eles voltaram em busca de vingança nesta incrível e explosiva sequência de Independence Day! Usando parte da tecnologia recuperada da primeira invasão alienígena, liderados pelo brilhante cientista David Levinston (Jeff Goldblum está de volta ao papel), as nações da Terra desenvolveram um programa avançado para a proteção do planeta. Mas nada conseguiu prever o tamanho e a força dessa nova ameaça e agora apenas algumas pessoas corajosas e com recursos limitados irão tentar salvar nosso mundo da extinção. Também estrelando Liam Hemsworth, Jesse T. Usher e Bill Pullman, Independence Day está de volta numa trama ainda mais repleta de ação e suspense do início ao fim!</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ALÉM DA VIDA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
@@ -1053,7 +1017,6 @@ SINOPSE: 2 Vinte anos após uma invasão alienígena quase dizimar toda a humani
 <thumbnail>https://http2.mlstatic.com/olhos-famintos-1-olhos-famintos-2-blu-ray-D_NQ_NP_924411-MLB20548607234_012016-F.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>No filme Duologia Olhos Famintos Torrent – BluRay 720p/1080p Dual Áudio, Trish (Gina Phillips) e seu irmão Darryl (Justin Long) descobrem algo horrível no porão de uma igreja abandonada. Agora, em viagem de carro de volta para casa, eles são o alvo de uma força indescritível que deseja acabar com eles de qualquer maneira.
-
 Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-ray. A história retorna aos acontecimentos do primeiro filme, Olhos Famintos 3 terá a volta de Trish Jenner, agora uma mulher rica, bem sucedida e mãe de um filho. Mesmo após 23 anos, ela permanece com os traumas causados pela perseguição de uma criatura do mal que acabou assassinando o seu irmão. Atormentada por pesadelos que sentenciam o seu filho ao mesmo destino trágico, ela se unirá a outros sobreviventes para dar um fim à sanguinária entidade.</info>
 </item>
 
@@ -1336,7 +1299,7 @@ Rambo IV 2008: Vinte anos depois de ter estrelado o último filme da série, Syl
 </item>
 
 <item>
-<title>[COLOR silver][B] HULK - TEMPORADA COMPLETA DE 1977 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] HULK - TEMPORADA COMPLETA DE 1978 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DA5E885A616B0E8745274278EA62C5FEAB88437E&dn=%5bwww.TorrentDosFilmesHD.net%5d%20-%20O%20Incr%c3%advel%20Hulk%201978%20BluRay%201080p%20Dual</link>
 <thumbnail>https://http2.mlstatic.com/coleco-o-incrivel-hulk-1977-a-2008-D_NQ_NP_803801-MLB20417478548_092015-F.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -1654,6 +1617,15 @@ Enredo: No dia em que o furacão Katrina bate Nova Orleans, idosos Daisy William
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Chen Zhen, um estudante chinês de engenharia em Kyoto, que enfrenta os insultos e abusos de seus colegas japoneses por seu amor local, Mitsuko Yamada, filha do diretor, volta em 1937 a Shangai, sob o protetorado japonês – na verdade, ocupação militar. depois de ler sobre a morte de seu mestre de kung-fu Hou Ting-An em uma luta contra o campeão japonês Ryuichi Akutagawa.
 Enredo: Chen Zhen, um estudante de engenharia chinesa em Kyoto, que braves os insultos e abusos de seus colegas Japanse por seu amor locais Mitsuko Yamada, filha do diretor, retorna em 1937 a sua Shangai nativa, sob Japanse protetorado -in fato de militar para a profissão depois de ler sobre a morte de seu mestre de kung-fu Huo Yuanjia em uma luta contra o campeão japonês Ryuichi Akutagawa. Enquanto superar desconfiança e ambição dentro da escola kungfu, Chen desenterra seu mestre para provar a derrota de Hou foi o resultado de envenenamento. Ambas as nacionalidades tornar o caso um teste de honra, de modo chinês e orgulho japonês estão em jogo quando se culmina em duelo épico final de Chen contra a cruel, invicto Fujita geral japonês.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TOP  GUN - ASES INDOMAVEIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94be15d60f84188878c0ad9ed0a3a0d52fa3c251</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/91/70/69/20159091.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>cola naval de pilotos é onde o melhor dos melhores treinam para refinar suas habilidades de voo de elite. Quando o piloto Maverick é enviado para a escola, sua atitude irresponsável e comportamento arrogante o colocam em desacordo com os outros pilotos, especialmente Iceman. Porém Maverick não está apenas competindo para ser o piloto superior de caça, ele também está lutando pela atenção de sua bonita instrutora de voo, Charlotte Blackwood.
+Enredo: De codinome “Maverick”, Pete Mitchell, o temerário impetuoso ace Navy-piloto, é aceito na elite Escola lutador de Miramar, também conhecido como “Top Gun”. Lá, como as compete piloto impulsivas com o melhor dos melhores, não só ele vai atender Charlie, instrutor astrofísica curvilíneo da escola de vôo, mas também o colega brilhante e altamente competitivo, “Iceman”, com quem desde o início, ele vai envolver-se em um concurso imprudente. Como Maverick é assombrado pela morte misteriosa de seu pai, ele será capaz de suprimir a sua natureza selvagem para ganhar o prestigiado Troféu Top Gun?</info>
 </item>
 
 
