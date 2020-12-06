@@ -1638,6 +1638,14 @@ Enredo: De codinome “Maverick”, Pete Mitchell, o temerário impetuoso ace Na
 <info>Em uma época bem remota, na cidade de Gomorra, Memnon (Steven Brand), um governante maligno, estava determinado em massacrar todos que fossem contrários a ele. As poucas tribos sobreviventes, que nunca foram aliadas, se viram obrigadas a se unir pois senão iriam perecer. Sabendo que seu inimigo depende das visões de um feiticeiro contrataram Mathayus (The Rock), um eficaz mercenário, para eliminar o vidente. Após ter se infiltrado no campo inimigo, Mathayus descobre que o feiticeiro é na verdade Cassandra (Kelly Hu), uma linda mulher. Ao invés de eliminá-la ele a leva para o meio do deserto, sabendo que os servidores de Memnon fariam qualquer coisa para resgatá-la e levá-la de volta. É exatamente isto o que acontece, pois Memnon ordenou que um alguns guerreiros comandados por Thorak (Ralph Moeller) o eliminassem, mas Mathayus conseguiu suplantar a todos. No entanto foi ferido com uma flecha, que tinha veneno de escorpião, ficando então entre a vida e a morte.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O ULTIMO MESTRE DO AR  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5875ceaade8fd781f2c704e9f9f0c68c97f52221&dn=O+%26Atilde%3B%C5%A1ltimo+Mestre+do+Ar+%282010%29+720p+Dublado+pt-BR+%2F+Brazil&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://s2.glbimg.com/wBoG20wSik4bTc3dkU463tnddcE=/362x536/https://s2.glbimg.com/ZTv0LgLfpSIhJrL7U1WsNOR-GzA=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/J/s/NNXBrYS3GcZypb5SeWOA/2019-352-midia-kit-filme-o-ultimo-mestre-do-ar-poster.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ar, agua, terra e fogo. Quatro nações unidas pelo destino quando a nação do fogo inicia uma guerra brutal contra as outras. Um século se passou sem qualquer esperança em vista de uma mudança nesse caminho de destruição. No fogo cruzado entre o combate e a coragem, Aang (Noah Ringer) descobre que é o único com o poder de manipular todos os quatro elementos. Aang se reúne com Katara (Nicola Peltz), uma waterbender controladora das aguas e seu irmão Sokka (Jackson Rathbone), para restaurar o equilíbrio do seu mundo em guerra.</info>
+</item>
+
 
 
 
