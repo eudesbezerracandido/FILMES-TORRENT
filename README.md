@@ -1646,6 +1646,15 @@ Enredo: De codinome “Maverick”, Pete Mitchell, o temerário impetuoso ace Na
 <info> Ar, agua, terra e fogo. Quatro nações unidas pelo destino quando a nação do fogo inicia uma guerra brutal contra as outras. Um século se passou sem qualquer esperança em vista de uma mudança nesse caminho de destruição. No fogo cruzado entre o combate e a coragem, Aang (Noah Ringer) descobre que é o único com o poder de manipular todos os quatro elementos. Aang se reúne com Katara (Nicola Peltz), uma waterbender controladora das aguas e seu irmão Sokka (Jackson Rathbone), para restaurar o equilíbrio do seu mundo em guerra.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]  ÁGUAS RASAS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7f5702199b074a384fbd6ad198e779b9ebbd24c</link>
+<thumbnail>https://cinegarimpo.com.br/wp/content/uploads/2018/09/cinegarimpo.com.br-zjpscvn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nancy (Blake Lively) é uma jovem médica que está tendo de lidar com a recente perda da mãe. Seguindo uma dica sua, ela vai surfar em uma paradisíaca praia isolada, onde acaba sendo atacada por um enorme tubarão. Desesperada e ferida, ela consegue se proteger temporariamente em um recife de corais, mas precisa encontrar logo uma maneira de sair da água.
+Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfando em uma praia isolada, ela se encontra no campo de alimentação de um grande tubarão branco. Embora ela esteja a apenas 200 metros da costa, a sobrevivência prova ser o teste final das vontades, exigindo toda a engenhosidade, desenvoltura e coragem de Nancy.</info>
+</item>
+
 
 
 
