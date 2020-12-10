@@ -1655,6 +1655,19 @@ Enredo: De codinome “Maverick”, Pete Mitchell, o temerário impetuoso ace Na
 Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfando em uma praia isolada, ela se encontra no campo de alimentação de um grande tubarão branco. Embora ela esteja a apenas 200 metros da costa, a sobrevivência prova ser o teste final das vontades, exigindo toda a engenhosidade, desenvoltura e coragem de Nancy.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COLEÇÃO - PÂNICO  NA FLORESTA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:475ae27cbc6f709e1bb1f60e97c3bc321b3c9298&dn=Panico.na.Floresta.%5B2003.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0772c0d75b81bd7560522df1dd525a53385984dc&dn=Panico.na.Floresta.2.%5B2007.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2ca50ec25daef4c4f6ea43a27c1b37cb0c5d877&dn=Panico.na.Floresta.3.%5B2009.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8f6fb328b28e46d3833c97e2d6ea7269bed1196&dn=Panico.na.Floresta.4.%5B2011.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73e03e001f47cd174115c32b59ef8a8c1527bc22&dn=Panico.na.Floresta.5.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A3A4D8DA798C6E68F480C579D52BF1FC8E4362E&dn=P%c3%a2nico%20Na%20Floresta%206%20%282015%29%20-%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>https://www.animeserie.com/product_images/h/640/P%E2nico_na_Floresta__61962_zoom.png</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Pânico na Floresta (Wrong Turn) coleção completa com todos os filmes já lançados da violenta franquia de terror. Todos os filmes contam a história de um grupo de pessoas que são perseguidos por canibais deformados. Cinco amigos percorrem uma trilha na floresta, em pleno estado da Virginia. Após pegarem o caminho errado, eles se deparam com uma família de canibais, que possui o rosto desfigurado. Desesperados após serem capturados, os amigos agora querem apenas fugir do local o mais rápido possível.</info>
+</item>
+
 
 
 
