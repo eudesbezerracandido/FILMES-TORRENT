@@ -1676,6 +1676,14 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info>Nicolas Cage é Yuri Orlov, um negociante de armas que nunca viu sua prática profissional com olhos éticos. Apesar de fornecer armas para países pobres, imersos em conflitos civis, entre outros compradores, Yuri sempre encarou muito bem seu trabalho, que o deixou extremamente rico e poderoso. No entanto, começa a pensar melhor em sua vida quando é perseguido por Jack Valentine (Ethan Hawke), um agente da Interpol.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] VIAGEM AO MUNDO DOS SONHOS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>https://ia801407.us.archive.org/35/items/viagem-ao-mundo-dos-sonhos-1985-dublado-online-filmes-online-gratis-br/Viagem%20ao%20Mundo%20dos%20Sonhos%201985%20Dublado%20Onlin%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/210/265/21026576_20130812195548595.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O jovem Ben Crandall passa seu tempo livre assistindo filmes de ficção científica, jogando videogames e lendo revistas em quadrinhos. Surpreendentemente, sua afinidade com coisas fantásticas produz um resultado real. Quando ele tem um sonho vívido sobre tecnologia, seu amigo fã de ciências, Wolfgang Muller, consegue inventar uma aeronave. Junto com o amigo Darren Woods, os meninos partem para o espaço e encontram estranhos tipos de vida extraterrestre.</info>
+</item>
+
 
 
 
