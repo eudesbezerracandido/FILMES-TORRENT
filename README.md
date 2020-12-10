@@ -1668,6 +1668,15 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info>Pânico na Floresta (Wrong Turn) coleção completa com todos os filmes já lançados da violenta franquia de terror. Todos os filmes contam a história de um grupo de pessoas que são perseguidos por canibais deformados. Cinco amigos percorrem uma trilha na floresta, em pleno estado da Virginia. Após pegarem o caminho errado, eles se deparam com uma família de canibais, que possui o rosto desfigurado. Desesperados após serem capturados, os amigos agora querem apenas fugir do local o mais rápido possível.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O SENHOR DAS ARMAS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:883c3d9eace2fa0cc49198d479db9a6459b89f4c&dn=Senhor+das+Armas+%282005%29+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/87/18/00/19872824.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nicolas Cage é Yuri Orlov, um negociante de armas que nunca viu sua prática profissional com olhos éticos. Apesar de fornecer armas para países pobres, imersos em conflitos civis, entre outros compradores, Yuri sempre encarou muito bem seu trabalho, que o deixou extremamente rico e poderoso. No entanto, começa a pensar melhor em sua vida quando é perseguido por Jack Valentine (Ethan Hawke), um agente da Interpol.</info>
+</item>
+
+
 
 
 
