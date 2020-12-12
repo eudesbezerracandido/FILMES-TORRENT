@@ -1676,6 +1676,15 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info>Nicolas Cage é Yuri Orlov, um negociante de armas que nunca viu sua prática profissional com olhos éticos. Apesar de fornecer armas para países pobres, imersos em conflitos civis, entre outros compradores, Yuri sempre encarou muito bem seu trabalho, que o deixou extremamente rico e poderoso. No entanto, começa a pensar melhor em sua vida quando é perseguido por Jack Valentine (Ethan Hawke), um agente da Interpol.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] VIAGEM AO MUNDO DOS SONHOS [/COLOR][/B][COLOR yellow]   FULL HD   [B][/COLOR][/B]</title>
+<utube></utube>
+<thumbnail>https://www.google.com.br/search?tbm=isch&sxsrf=ALeKk03T2clA16R2sIs2QGN69TEiLGQj0g%3A1607803917817&source=hp&ei=DSTVX7-ZL-iz5OUP-8eX8A8&q=viagem+ao+mundo+dos+sonhos&oq=viagem&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQARgAMgQIIxAnMgUIABCxAzIFCAAQsQMyBQgAELEDMgUIABCxAzoHCCMQ6gIQJzoCCAA6BAgAEANQ6AlY1hFgwBZoAXAAeACAAYwCiAGHC5IBAzItNpgBAKABAbABBQ&sclient=mobile-gws-wiz-img#imgrc=dXMkSBdtdbQy4M</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg<fanart>
+<info>O jovem Ben Crandall passa seu tempo livre assistindo filmes de ficção científica, jogando videogames e lendo revistas em quadrinhos. Surpreendentemente, sua afinidade com coisas fantásticas produz um resultado real. Quando ele tem um sonho vívido sobre tecnologia, seu amigo fã de ciências, Wolfgang Muller, consegue inventar uma aeronave. Junto com o amigo Darren Woods, os meninos partem para o espaço e encontram estranhos tipos de vida extraterrestre</info>
+</item> 
+
+
 
 
 
