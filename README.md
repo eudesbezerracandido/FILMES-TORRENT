@@ -1683,6 +1683,7 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg<fanart>
 <info>O jovem Ben Crandall passa seu tempo livre assistindo filmes de ficção científica, jogando videogames e lendo revistas em quadrinhos. Surpreendentemente, sua afinidade com coisas fantásticas produz um resultado real. Quando ele tem um sonho vívido sobre tecnologia, seu amigo fã de ciências, Wolfgang Muller, consegue inventar uma aeronave. Junto com o amigo Darren Woods, os meninos partem para o espaço e encontram estranhos tipos de vida extraterrestre</info>
 </item>  
+ 
      
 
 
