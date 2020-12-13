@@ -1678,8 +1678,8 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 
 <item>
 <title>[COLOR silver][B] VIAGEM AO MUNDO DOS SONHOS [/COLOR][/B][COLOR yellow]   FULL HD   [B][/COLOR][/B]</title>
-<utube>tjoDsI5yYPo</utube>
-<thumbnail></thumbnail>
+<utube>tcdY9QQBXdY</utube>
+<thumbnail>https://br.web.img2.acsta.net/pictures/210/265/21026576_20130812195548595.jpg</thumbnail>
 <fanart>https://i
 <info>O jovem Ben Crandall passa seu tempo livre assistindo filmes de ficção científica, jogando videogames e lendo revistas em quadrinhos. Surpreendentemente, sua afinidade com coisas fantásticas produz um resultado real. Quando ele tem um sonho vívido sobre tecnologia, seu amigo fã de ciências, Wolfgang Muller, consegue inventar uma aeronave. Junto com o amigo Darren Woods, os meninos partem para o espaço e encontram estranhos tipos de vida extraterrestre</info>
 </item>  
