@@ -1676,6 +1676,16 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info>Nicolas Cage é Yuri Orlov, um negociante de armas que nunca viu sua prática profissional com olhos éticos. Apesar de fornecer armas para países pobres, imersos em conflitos civis, entre outros compradores, Yuri sempre encarou muito bem seu trabalho, que o deixou extremamente rico e poderoso. No entanto, começa a pensar melhor em sua vida quando é perseguido por Jack Valentine (Ethan Hawke), um agente da Interpol.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] EXTRAORDINÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:433FD60619B4CEA391397E753642951A614A2A5C&dn=Extraordin%c3%a1rio%202018%20%28720p%29%20DUBLADO%20%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/17/11/28/18/32/3262971.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Auggie Pullman é um garoto que nasceu com uma deformação facial. Pela primeira vez, ele irá frequentar uma escola regular, como qualquer outra criança. No quinto ano, ele irá precisar se esforçar para conseguir se encaixar em sua nova realidade.</info>
+</item>
+
+
+
 
  
      
