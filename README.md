@@ -1684,6 +1684,18 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info>Auggie Pullman é um garoto que nasceu com uma deformação facial. Pela primeira vez, ele irá frequentar uma escola regular, como qualquer outra criança. No quinto ano, ele irá precisar se esforçar para conseguir se encaixar em sua nova realidade.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O GAROTO DE OURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13887A20F52EBFA3F2956E39F6FF568423B0A460&dn=O%20Menino%20de%20Ouro%202016%20%5bWEB-DL%5d%20%5b1080p%5d%20BLUDV&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/16/01/26/21/23/317165.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Mats é apenas um garoto comum como qualquer outro. Mas quando encontra uma calça que contêm uma quantidade ilimitada de dinheiro, tudo muda! De repente, o mundo está a seus pés e ele pode realizar todos os seus sonhos. No entanto, ele percebe que tinha abusado do poder que vem com riqueza e passa a usar o dinheiro para melhorar a vida dos sem-teto da cidade, e dos menos afortunados. Enquanto isso, forças poderosas da cidade estão procurando pela calça e a chance de encontrar é sequestrar o pai de Mats. Os problemas não param por ai e Mats descobre que o dinheiro que sai dos bolsos da calça, na verdade, vem de vários cofres bancários em todo o país. Agora, além do pai sequestrado ele tem também a polícia atrás dele. Sem ninguém para ajudá-lo além de seus amigos de confiança, David e Livlí, ele tem que salvar seu pai e colocar tudo nos eixos, antes que seja tarde demais.</info>
+</item>
+
+
+
+
+
 
 
 
