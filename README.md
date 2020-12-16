@@ -1716,6 +1716,14 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info> Uma série de terríveis assassinatos aterroriza um bairro de Los Angeles. Os moradores da região creditam as mortes a CandyMan, o fantasma de um pintor que foi barbaramente torturado e morto há dois séculos. Ele usa um gancho no lugar de uma das mãos. A bela pintora Caroline McKeever, não acredita nas lendas de seu antepassado. Quando percebe que CandyMan voltou dos mortos para se vingar, é tarde demais. Ela precisa combater seu ancestral para continuar viva!</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O HOMEM SEM SOMBRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A53A0956E67A97F698A387FAC2F1CC0E23A3175F&dn=O%20Homem%20Sem%20Sombra%20%282000%29%20Bluray%201080p%20Dublado&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://http2.mlstatic.com/o-homem-sem-sombra-1-2-coleco-02-filmes-D_NQ_NP_864977-MLB28884138724_122018-F.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um laboratório militar ultra-secreto, um grupo de brilhantes cientistas faz uma das mais importantes descobertas do século: a fórmula da invisibilidade. Ansioso por analisar os efeitos da fórmula num ser humano, o líder da equipe, Sebastian Craine (Kevin Bacon), decide por testá-la em si mesmo. Entretanto, há um problema: a equipe ainda não tinha descoberto o antídoto para a fórmula. Começa então uma corrida contra o tempo, por parte dos demais cientistas, para tentar encontrar algo que impeça o cada vez maior rápido processo de invisibilização pelo qual passa o corpo de Craine. Mas aos poucos a intoxicação decorrente do novo poder obtido por Craine o afeta, e faz com que ele ele comece a acreditar que seus colegas são na verdade uma ameaça à sua existência.</info>
+</item>
+
 
 
 
