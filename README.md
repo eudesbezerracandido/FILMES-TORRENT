@@ -1700,6 +1700,14 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info>O renomado aventureiro Allan Quatermain (Sean Connery) lidera uma liga de figuras lendárias contra o terror tecnológico que vem sendo imposto por um maníaco conhecido como O Fantasma. Esta liga conta com o explorador oceánico e inventor Capitão Nemo (Naseeruddin Shah), a vampira Mina Harker (Peta Wilson), um homem invisível chamado Rodney Skinner (Tony Curran), um agente do serviço secreto americano Tom Sawyer (Shane West), o imortal e invencível Dorian Gray (Stuart Townsend), e o perigoso Dr. Jekyll/Mr. Hyde (Jason Flemyng) com sua dupla personalidade. Richard Roxburgh (de "Moulin Rouge") interpreta M. o enigmático responsável pelo recrutamento da Liga. Juntos eles terão que superar suas diferenças e unir suas forças, para destruir as planos fantasmagóricos de seu oponente que quer acabar com o planeta.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UMA MENTE BRILHANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b043c5fe98b60650bf06bdd9109731e74aedf41&dn=Uma+Mente+Brilhante+%282001%29+BDRip+720p+Dublado+-+Alan_680&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/b1/UmaMenteBrilhante.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> John Nash (Russell Crowe) é um gênio da matemática que, aos 21 anos, formulou um teorema que provou sua genialidade e o tornou aclamado no meio onde atuava. Mas aos poucos o belo e arrogante Nash se transforma em um sofrido e atormentado homem, que chega até mesmo a ser diagnosticado como esquizofrênico pelos médicos que o tratam. Porém, após anos de luta para se recuperar, ele consegue retornar à sociedade e acaba sendo premiado com o Nobel..</info>
+</item>
+
 
 
 
