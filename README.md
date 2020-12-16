@@ -1692,6 +1692,14 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info>Mats é apenas um garoto comum como qualquer outro. Mas quando encontra uma calça que contêm uma quantidade ilimitada de dinheiro, tudo muda! De repente, o mundo está a seus pés e ele pode realizar todos os seus sonhos. No entanto, ele percebe que tinha abusado do poder que vem com riqueza e passa a usar o dinheiro para melhorar a vida dos sem-teto da cidade, e dos menos afortunados. Enquanto isso, forças poderosas da cidade estão procurando pela calça e a chance de encontrar é sequestrar o pai de Mats. Os problemas não param por ai e Mats descobre que o dinheiro que sai dos bolsos da calça, na verdade, vem de vários cofres bancários em todo o país. Agora, além do pai sequestrado ele tem também a polícia atrás dele. Sem ninguém para ajudá-lo além de seus amigos de confiança, David e Livlí, ele tem que salvar seu pai e colocar tudo nos eixos, antes que seja tarde demais.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]  A LIGA EXTRAORDINÁRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cb1f70ced5a679c8940a402003488807c216d83&dn=A+Liga+Extraordin%26aacute%3Bria+%282003%29+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/a/ab/The_League_of_Extraordinary_Gentlemen.jpg/240px-The_League_of_Extraordinary_Gentlemen.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O renomado aventureiro Allan Quatermain (Sean Connery) lidera uma liga de figuras lendárias contra o terror tecnológico que vem sendo imposto por um maníaco conhecido como O Fantasma. Esta liga conta com o explorador oceánico e inventor Capitão Nemo (Naseeruddin Shah), a vampira Mina Harker (Peta Wilson), um homem invisível chamado Rodney Skinner (Tony Curran), um agente do serviço secreto americano Tom Sawyer (Shane West), o imortal e invencível Dorian Gray (Stuart Townsend), e o perigoso Dr. Jekyll/Mr. Hyde (Jason Flemyng) com sua dupla personalidade. Richard Roxburgh (de "Moulin Rouge") interpreta M. o enigmático responsável pelo recrutamento da Liga. Juntos eles terão que superar suas diferenças e unir suas forças, para destruir as planos fantasmagóricos de seu oponente que quer acabar com o planeta.</info>
+</item>
+
 
 
 
