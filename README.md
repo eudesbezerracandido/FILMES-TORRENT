@@ -1724,6 +1724,14 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info>Em um laboratório militar ultra-secreto, um grupo de brilhantes cientistas faz uma das mais importantes descobertas do século: a fórmula da invisibilidade. Ansioso por analisar os efeitos da fórmula num ser humano, o líder da equipe, Sebastian Craine (Kevin Bacon), decide por testá-la em si mesmo. Entretanto, há um problema: a equipe ainda não tinha descoberto o antídoto para a fórmula. Começa então uma corrida contra o tempo, por parte dos demais cientistas, para tentar encontrar algo que impeça o cada vez maior rápido processo de invisibilização pelo qual passa o corpo de Craine. Mas aos poucos a intoxicação decorrente do novo poder obtido por Craine o afeta, e faz com que ele ele comece a acreditar que seus colegas são na verdade uma ameaça à sua existência.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A MULA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26AB2738B5116A9F7039A2A74B53DCA88A6B0C8E&&dn=%5bWWW.BLUDV.TV%5d%20A%20Mula%202019%20%281080p%20-%20X265%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/11/01/23/40/0266976.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Versão dublada, dual áudio e legendada em bluray 4K UHD Ultra HD. Leo Sharp coleciona uma série de honras que vão desde de prêmios por seus trabalhos como paisagista e decorador até o reconhecimento por ter lutado contra os nazistas durante a Segunda Guerra Mundial. No entanto, foi aos 90 anos que conquistou algo surpreendente: ele foi preso por portar o equivalente a três milhões de dólares em cocaína no seu carro, uma picape velha, no Michigan. Sharp era o líder do Sinaloa, um cartel de drogas no México e foi sentenciado à três anos de cadeia. Um horticultor e veterano da Segunda Guerra Mundial de 90 anos é pego transportando uma quantidade de cocaína equivalente a $3 milhões de dólares para um quartel de drogas mexicano.</info>
+</item>
+
 
 
 
