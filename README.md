@@ -1732,6 +1732,15 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info> Versão dublada, dual áudio e legendada em bluray 4K UHD Ultra HD. Leo Sharp coleciona uma série de honras que vão desde de prêmios por seus trabalhos como paisagista e decorador até o reconhecimento por ter lutado contra os nazistas durante a Segunda Guerra Mundial. No entanto, foi aos 90 anos que conquistou algo surpreendente: ele foi preso por portar o equivalente a três milhões de dólares em cocaína no seu carro, uma picape velha, no Michigan. Sharp era o líder do Sinaloa, um cartel de drogas no México e foi sentenciado à três anos de cadeia. Um horticultor e veterano da Segunda Guerra Mundial de 90 anos é pego transportando uma quantidade de cocaína equivalente a $3 milhões de dólares para um quartel de drogas mexicano.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] STREET FIGHTER - PUNHO ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:409BAC1A7FEA2ED8E8FDC7008843EF074692D4FF&dn=Street%20Fighter%20-%20Punho%20Assassino%20%282015%29%20-%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>https://heroisx.com/wp-content/uploads/2014/05/Assassins_Fist_first_official_poster_Ken_and_Ryu.jpeg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um olhar de volta para os anos de formação de Ryu e Ken, na vida tradicional dos guerreiros isolados do Japão. Sem saber, os garotos são os últimos praticantes da arte marcial chamada Ansatsuken (Punho do Assassino). A série os acompanha enquanto eles aprendem sobre o misterioso passado do mestre Goken, e o trágico legado do estilo Ansatsuken.</info>
+</item>
+
+
 
 
 
