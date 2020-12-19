@@ -1740,6 +1740,15 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info>Um olhar de volta para os anos de formação de Ryu e Ken, na vida tradicional dos guerreiros isolados do Japão. Sem saber, os garotos são os últimos praticantes da arte marcial chamada Ansatsuken (Punho do Assassino). A série os acompanha enquanto eles aprendem sobre o misterioso passado do mestre Goken, e o trágico legado do estilo Ansatsuken.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] STREET FIGHTER - RESURRECTION (LEG.) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:160a7498dac584dfacd8df0fef13e67ce52c204c&dn=Street.Fighter.Resurrection.bluray.1080p.legendado&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://img.ibxk.com.br/2016/03/16/16191912236554.jpg?w=328</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> 10 anos após os eventos do filme Street Fighter: Assassins Fist, os heróis lendários Ken e Ryu estão novamente reunidos para enfrentar uma nova ameaça. Charlie Nash, supostamente morto, está de volta e colocando outros campeões de Street Fighter como alvo, por razões desconhecidas. Agora em Street Fighter: Resurrection depende de Ken e Ryu desvendar seus planos mortais e descobrir se ele é inimigo ou aliado.</info>
+</item>
+
+
 
 
 
