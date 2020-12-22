@@ -1764,6 +1764,13 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info>Em um futuro próximo um homem (David Thewlis) em missão militar sofre um acidente no seu avião e, depois de vários dias, é resgatado por um cientista que o leva a uma remota ilha, onde um famoso geneticista (Marlon Brando) vencedor do prêmio Nobel faz experiências com o DNA e tenta criar uma raça perfeita, transformando animais selvagens em seres humanos. Porém, esta estranha mutação vai criar situações imprevisíveis.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ABRAHAN LINCOLHN - CAÇADOR DE VAMPIROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/90/21/99/20227972.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Lincoln" recria um dos grandes presidentes dos EUA como um assassino vampiro altamente treinado, lançador de machados, que promete dar um novo contexto aos eventos históricos como a Guerra de Secessão e a ascensão de Lincoln até a Casa Branca. A história começa com o assassinato de sua mãe quando ele era criança e sua promessa de vingança. Adaptação do livro de Seth Grahame-Smith.</info>
+</item>
 
 
 
