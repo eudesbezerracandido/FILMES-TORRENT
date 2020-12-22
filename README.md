@@ -1756,6 +1756,15 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info> William Kamkwamba (Maxwell Simba) é um garoto de 13 anos que sai da escola que ama quando sua família não pode mais pagar pelos custos. Voltando em segredo para a biblioteca da escola, ele encontra um caminho, usando partes da bicicleta pertencente ao seu pai Trywell (Chiwetel Ejiofor), para construir um moinho que, em seguida, salva sua aldeia da fome. A viagem emocional de um pai e seu filho excepcional em seu coração, captura a determinação incrível de um menino cuja mente inquisitiva superou todos os obstáculos em seu caminho.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A ILHA Dr. MORREAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62DE27D5820C479831250A4CA2BDD7ED47BE5426&dn=A%20Ilha%20do%20Dr.%20Moreau%20%28The%20Island%20of%20Dr.%20Moreau%29%20%5b1996%5d%20BluRay%20720p%20DUBLADO.MP4&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=http%3a%2f%2ftracker.torrentyorg.pl%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fdenis.stalker.upeer.me%3a6969%2fannounce&tr=http%3a%2f%2ftracker.yoshi210.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2ftorrentclub.tech%3a6969%2fannounce&ws=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&ws=http%3a%2f%2ftracker.torrentyorg.pl%3a80%2fannounce&ws=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&ws=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&ws=udp%3a%2f%2fdenis.stalker.upeer.me%3a6969%2fannounce&ws=http%3a%2f%2ftracker.yoshi210.com%3a6969%2fannounce&ws=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&ws=udp%3a%2f%2ftorrentclub.tech%3a6969%2fannounce</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/6e/The_Island_of_Dr_Moreau.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um futuro próximo um homem (David Thewlis) em missão militar sofre um acidente no seu avião e, depois de vários dias, é resgatado por um cientista que o leva a uma remota ilha, onde um famoso geneticista (Marlon Brando) vencedor do prêmio Nobel faz experiências com o DNA e tenta criar uma raça perfeita, transformando animais selvagens em seres humanos. Porém, esta estranha mutação vai criar situações imprevisíveis.</info>
+</item>
+
+
 
 
 
