@@ -1748,6 +1748,17 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info> 10 anos após os eventos do filme Street Fighter: Assassins Fist, os heróis lendários Ken e Ryu estão novamente reunidos para enfrentar uma nova ameaça. Charlie Nash, supostamente morto, está de volta e colocando outros campeões de Street Fighter como alvo, por razões desconhecidas. Agora em Street Fighter: Resurrection depende de Ken e Ryu desvendar seus planos mortais e descobrir se ele é inimigo ou aliado.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O MENINO QUE DESCOBRIU O VENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:255e436bf94ea0b176f2c6088786ede7e69c58e7&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20O%20Menino%20que%20Descobriu%20o%20Vento%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUBLADO%5d</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/19/01/30/09/40/0392469.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> William Kamkwamba (Maxwell Simba) é um garoto de 13 anos que sai da escola que ama quando sua família não pode mais pagar pelos custos. Voltando em segredo para a biblioteca da escola, ele encontra um caminho, usando partes da bicicleta pertencente ao seu pai Trywell (Chiwetel Ejiofor), para construir um moinho que, em seguida, salva sua aldeia da fome. A viagem emocional de um pai e seu filho excepcional em seu coração, captura a determinação incrível de um menino cuja mente inquisitiva superou todos os obstáculos em seu caminho.</info>
+</item>
+
+
+
+
 
 
 
