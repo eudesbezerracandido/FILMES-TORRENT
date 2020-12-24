@@ -1780,6 +1780,21 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info>Fantasma enfrenta bandidos perigosos para evitar que eles se apoderem de três caveiras dotadas de poderes incríveis.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COLEÇÃO IP MAN - O MESTRE DO KUNG FU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bw4x23XoO684pPSai1YlreZlQea.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+
 
 
 
