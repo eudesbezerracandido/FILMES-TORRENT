@@ -1787,7 +1787,7 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12CBCDF7601FDA8B69A20C2BDC35309BBF03D090&dn=O%20Grande%20Mestre%203%202016%20720p%20Bluray%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04589926CE14CBAA5CDD6F20BB4B219383EF5B48&dn=Ip.Man.4.2019.HDRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b041138892eb656585efb670ddb0b43effc5d022&dn=COMOEUBAIXO.COM.-VERSAO-5.1-.MKV.LAPUMiA.Org%20-%20Ip.Man.O.Mestre.do.Kung.Fu.2020.720p.BluRay.x264.DUAL-TDF&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8fab7e295d6a307696e4beda156476f08790ec59&dn=O+Grande+Mestre+3%3A+Nasce+Uma+Lenda+%282010%29+BluRay+720p+Dublado</link>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://image.tmdb.org/t/p/original/bw4x23XoO684pPSai1YlreZlQea.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
