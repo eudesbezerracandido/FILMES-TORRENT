@@ -1790,6 +1790,7 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8fab7e295d6a307696e4beda156476f08790ec59&dn=O+Grande+Mestre+3%3A+Nasce+Uma+Lenda+%282010%29+BluRay+720p+Dublado</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF1F4DFDB0B2BFFD2DA0B27F3C2E8EB01E14BC67&dn=Master+Z%3A+Ip+Man+Legacy+%282018%29+720p+BRRip+999MB+-+MkvCage</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e19a6b71cc3dea3366c07bc945adc9b12c33c22&dn=COMOEUBAIXO.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-2.1-GB.Ip.Man.Crisis.Time.2020.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f7e72f781af90835fd1479dfcdb822db757e89f&dn=O+Grande+Mestre+%282014%29+BDRip+DualAudio+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://image.tmdb.org/t/p/original/bw4x23XoO684pPSai1YlreZlQea.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
