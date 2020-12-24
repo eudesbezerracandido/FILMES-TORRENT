@@ -1782,10 +1782,10 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO IP MAN - O MESTRE DO KUNG FU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:940bbde8394619b94bb2d1df0a76cc70c413639c&dn=O.Grande.Mestre.2008.720p.BRRip.x264-VTM_SL+%27%28Dublado%29%27&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5b655d9aa907f06de7b35d5ac84d3badd773a6c&dn=O+Grande+Mestre+2+%282010%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12CBCDF7601FDA8B69A20C2BDC35309BBF03D090&dn=O%20Grande%20Mestre%203%202016%20720p%20Bluray%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04589926CE14CBAA5CDD6F20BB4B219383EF5B48&dn=Ip.Man.4.2019.HDRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <link>plugin://plugin.video.elementum/play?uri=</link>
