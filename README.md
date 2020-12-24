@@ -1796,6 +1796,15 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info>Yip Man, um grande mestre da arte marcial Wing Chun, vive em Foshan, na província de Guangdong, no sul da China. Foshan é um famoso centro de aprendizagem para várias disciplinas marciais, mas Man é o mais respeitado dos professores da cidade. Sua vida é complicada pela desaprovação de sua esposa, bem como a presença em Foshan de Jin Shan Zhao, um mestre do norte, que está determinado a desafiar a supremacia de Man.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COLEÇÃO - BRUCE LEE O MESTRE DO KUNG FU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50A7CE4C9247C99706E27FF4585FFA40EB3B5A70&dn=Bruce%20Lee%20Cole%c3%a7%c3%a3o%20Premium%20720p%20%281971%20-%201981%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo</link>
+<thumbnail>https://blogdojotace.com.br/wp-content/uploads/2015/08/bruce2-514x600.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após uma infância de rigoroso treinamento nas artes marciais, Bruce Lee realiza o sonho de abrir sua própria escola de kung fu nos Estados Unidos. Algum tempo depois, ele é descoberto por um produtor de Hollywood e começa uma meteórica ascensão à fama. Apesar do reinado muito breve como um dos heróis de ação mais carismáticos da história do cinema, Lee também enfrentou muitos demônios pessoais na sua vida.
+</info>
+</item>
+
 
 
 
