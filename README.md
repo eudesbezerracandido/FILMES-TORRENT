@@ -1772,6 +1772,15 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info>Lincoln" recria um dos grandes presidentes dos EUA como um assassino vampiro altamente treinado, lançador de machados, que promete dar um novo contexto aos eventos históricos como a Guerra de Secessão e a ascensão de Lincoln até a Casa Branca. A história começa com o assassinato de sua mãe quando ele era criança e sua promessa de vingança. Adaptação do livro de Seth Grahame-Smith.</info>
 </item> 
 
+<item>
+<title>[COLOR silver][B] O FANTASMA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:898a6ff9b8951b4733906341314d3ea58f861baf&dn=O.Fantasma.1996.720p.BluRay.H264.5.1.AC3.Dublado-RICKSZ&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://9.rarbg.me:2830&tr=udp://9.rarbg.to:2960&tr=udp://9.rarbg.to:2740/announce&tr=udp://explodie.org:6969/announce&tr=http://glotorrents.pw:80/announce&tr=udp://p4p.arenabg.com:1337/announce&tr=udp://torrent.gresille.org:80/announce&tr=udp://tracker.aletorrenty.pl:2710/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.piratepublic.com:1337/announce</link>
+<thumbnail>https://www.spacetrek66.com.br/imagem/index/12038490/G/o_fantasma_billy_zane.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Fantasma enfrenta bandidos perigosos para evitar que eles se apoderem de três caveiras dotadas de poderes incríveis.</info>
+</item>
+
+
 
 
 
