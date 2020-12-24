@@ -1805,6 +1805,22 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 </info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COLEÇÃO -  JEAN CLAUDE VAN DAMME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6396428bca539d40a160577b34aba716058a7b7f</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29ad6ca45949c3852589ccf03ee8fe4c4e5c52ca</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:290d0c7fa001f1aa077628e9924d7a7e91c0c009</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc818777a1104e0bd345059d0f4e3fd5bcc7aabd</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa67fadd22141ad50a235409d83b880d581e0735</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb7a20f0da718bce2ce69c19c86e98d2f4654699</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA4E2CB87D22AECF56CE2E0E391B466BE0F1ACBB&dn=Olhos%20de%20Drag%c3%a3o%20%282012%29%20BluRay%20720p%20Dual%20%c3%81udio</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8ec9268c35e26a8a96cdb0cae3b9559f3235885</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92cd6978a32ec7cd90e925d5be47f52e4ae4f1ba</link>
+<thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/448a121993afbae88ea73c998b134eb8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>(Jean-Claude Van Damme) é um astro de Hollywood, que passa por uma grande maré de azar. Após chegar aos Estados Unidos e logo atingir o sucesso, ele vê sua derrocada a partir da batalha judicial que enfrenta para ter a custódia de sua filha (Saskia Flanders).</info>
+</item>
+
 
 
 
