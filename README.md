@@ -1846,6 +1846,15 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info> Há séculos humanos e vampiros estão em guerra, o que fez com que o planeta fosse devastado. Padre (Paul Bettany) é um guerreiro lendário que participou da guerra com os vampiros. Hoje ele vive na obscuridade, numa das cidades controladas pela igreja. Ele volta à ativa quando Lucy Pace (Lily Collins) é sequestrada por um grupo de vampiros liderados por Black Hat (Karl Urban). Ao lado do xerife Hicks (Cam Gigandet) e de Priestess (Maggie Q), uma integrante da legião de matadores de vampiros, Padre parte para resgatá-la.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A ANIQUILAÇÃO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f7696e20aebc30de6c64c250553881663be9c01</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/02/22/15/25/2917796.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois que seu marido desaparece em uma missão secreta, a bióloga Lena embarca numa expedição à uma misteriosa região interditada pelo governo dos EUA.
+Enredo: O marido de um biólogo desaparece. Ela coloca seu nome para uma expedição em uma zona de desastre ambiental, mas não encontra o que está esperando. A equipe de expedição é composta pelo biólogo, um antropólogo, um psicólogo, um agrimensor e um lingüista.</info>
+</item>
+
 
 
 
