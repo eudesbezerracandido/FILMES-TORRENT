@@ -1864,6 +1864,14 @@ Enredo: O marido de um biólogo desaparece. Ela coloca seu nome para uma expedi�
 Enredo: Em Pittsburgh, Pensilvânia, Sam Childers é libertado da prisão e descobre que sua esposa Lynn não é mais uma stripper, mas se converteu ao cristianismo. Uma noite, Sam e seu melhor amigo Donnie dão uma carona a um caroneiro que ameaça Donnie com um canivete; no entanto, Sam reage e vira a mesa para o estranho. Sam é afetado pelo incidente e é convencido por Lynn e sua mãe Daisy para se juntar a sua igreja, e ele é batizado. Sam encontra um emprego direto na construção. Quando ele encontra um pregador da África, ele decide visitar o continente. Sam viaja para o norte de Uganda e para o sul do Sudão muitas vezes e constrói um orfanato para as vítimas do cruel Exército de Resistência do Senhor (LRA). Além disso, ele luta sempre que necessário e se torna uma lenda conhecida como The Machine Gun Preacher.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COLEÇÃO - JOGOS MORTAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6C2A66708E32AF453B12C156B176C7A454E140D&dn=Jogos%20Mortais%20-%20Cole%c3%a7%c3%a3o%20Completa%202004-2010%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.sktorrent.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.ch%3a1337%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://http2.mlstatic.com/D_NQ_NP_841415-MLB26486966131_122017-O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jigsaw é um assassino que possui uma marca registrada: ele deixa em suas vítimas uma cicatriz em forma de quebra-cabeças, que faz com que elas cometam atos agonizantes para se salvar. O detetive David Tapp (Danny Glover) é designado para investigar os assassinatos, bem como a capturar seu autor. Porém o caminho evasivo seguido por Jigsaw leva o detetive a desenvolver uma obsessão por capturá-lo.</info>
+</item>
+
 
 
 
