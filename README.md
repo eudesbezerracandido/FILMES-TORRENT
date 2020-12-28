@@ -1821,6 +1821,22 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <info>(Jean-Claude Van Damme) é um astro de Hollywood, que passa por uma grande maré de azar. Após chegar aos Estados Unidos e logo atingir o sucesso, ele vê sua derrocada a partir da batalha judicial que enfrenta para ter a custódia de sua filha (Saskia Flanders).</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COLEÇÃO - JET LI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1FD3A611B5B963C6D06DCE14C5EB9EA5E857089&dn=O%20Confronto%202001%205.1%20DUBLADO%20%28720p%29%20LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a82%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08bbc8e3f8276d3b2c3b4b6b50ed85db1ff01168&dn=O+Reino+Proibido+%282008%29+BRrip+720p+Dublado+-+AndreTPF&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62084a92f995aa12f2aadf01bd2092ef30cb7b4e&dn=Lutar+ou+Morrer+DVDRip+XviD+Dual+Audio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84D2E95EC481D31F5790BF8ACBF68BB04380C654&dn=O%20Mestre%20das%20Armas%20%282006%29%20BRrip%20Blu-Ray%20720p%20Dublado%20-%20Wellington%20Torrent&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:282725088E19B4D36F0A3DF5418E43944409F2AE&dn=Heroi.2002.720p.BluRay.Dublado.TORRENTDOSFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64960cc2eff74409e9762f5e9d2471611f3ea743&dn=Batalha+de+honra+%281993%29+720p+dublado+by+Lindo2002</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
 
 
 
