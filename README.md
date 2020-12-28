@@ -1833,9 +1833,17 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:836187094fdb48a67e789157c628360548b0520f</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4mbaxv32w7okyjodbic42hyzvqqjbzlt</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40F264C6E8F74FD63DB34406B3A6AF73054B1B41&dn=M%c3%a1scara%20Negra%20%201996%20%28720p%29%20LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a81%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
-<thumbnail></thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51Z873VA70L._SY445_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PADRE - A GUERRA É ETERNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f1df14d21aa1d128a81a5ad32fdc29c6b021b02</link>
+<thumbnail>https://3.bp.blogspot.com/-3wY73kLo41g/TpCk_ZiPsTI/AAAAAAAAFpg/ZyeOy6A0Px0/s1600/Padre%2B1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Há séculos humanos e vampiros estão em guerra, o que fez com que o planeta fosse devastado. Padre (Paul Bettany) é um guerreiro lendário que participou da guerra com os vampiros. Hoje ele vive na obscuridade, numa das cidades controladas pela igreja. Ele volta à ativa quando Lucy Pace (Lily Collins) é sequestrada por um grupo de vampiros liderados por Black Hat (Karl Urban). Ao lado do xerife Hicks (Cam Gigandet) e de Priestess (Maggie Q), uma integrante da legião de matadores de vampiros, Padre parte para resgatá-la.</info>
 </item>
 
 
