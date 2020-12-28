@@ -1855,6 +1855,15 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 Enredo: O marido de um biólogo desaparece. Ela coloca seu nome para uma expedição em uma zona de desastre ambiental, mas não encontra o que está esperando. A equipe de expedição é composta pelo biólogo, um antropólogo, um psicólogo, um agrimensor e um lingüista.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3af5534c0215362e4aec32a92deaf1a79644170a</link>
+<thumbnail>https://lh3.googleusercontent.com/proxy/wZhJgob3Oy_1C31hyuxUrU9xTXnr-6pA2vzVwOGDGzbQ3d4r653tFr26dTGRWclP_fD_8XhojH2krVQ3becSFrqoO7ejVA5gx-g</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>História do ex-motoqueiro e traficante Sam Childers, que tornou-se um grande lutador em defesa das crianças do Sudão, obrigadas a virar soldados muito antes de se tornarem homens. O sujeito se dedica com paixão às crianças e acaba deixando um pouco de lado sua vida nos Estados Unidos, onde tem esposa e filha. Conhecido como “pastor da metralhadora”, ele não tem problema em pegar em armas para defender o que pensa.
+Enredo: Em Pittsburgh, Pensilvânia, Sam Childers é libertado da prisão e descobre que sua esposa Lynn não é mais uma stripper, mas se converteu ao cristianismo. Uma noite, Sam e seu melhor amigo Donnie dão uma carona a um caroneiro que ameaça Donnie com um canivete; no entanto, Sam reage e vira a mesa para o estranho. Sam é afetado pelo incidente e é convencido por Lynn e sua mãe Daisy para se juntar a sua igreja, e ele é batizado. Sam encontra um emprego direto na construção. Quando ele encontra um pregador da África, ele decide visitar o continente. Sam viaja para o norte de Uganda e para o sul do Sudão muitas vezes e constrói um orfanato para as vítimas do cruel Exército de Resistência do Senhor (LRA). Além disso, ele luta sempre que necessário e se torna uma lenda conhecida como The Machine Gun Preacher.</info>
+</item>
+
 
 
 
