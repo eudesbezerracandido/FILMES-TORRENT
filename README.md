@@ -1880,7 +1880,15 @@ Enredo: Em Pittsburgh, Pensilvânia, Sam Childers é libertado da prisão e desc
 <info>Sinopse: No filme, Saya, é uma vampira que trabalha para uma organização secreta do governo que caça e destrói demônios no Japão pós-Segunda Guerra. A missão da sanguessuga é se infiltrar em uma escola militar e descobrir qual estudante é um demônio disfarçado.</info>
 </item>
 
-
+<item>
+<title>[COLOR silver][B] DUOLOGIA - 50 TONS DE CINZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA69A1B0C7A05A74EC6D43AB4B26506EAC562295&dn=Cinquenta%20Tons%20de%20Cinza%20-%20Sem%20Censura%20%282015%29%20720p%205.1%20Dublado%20-%20Alan_680&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D0117BA0FA354B43A0BED49B54717C9651EF6558&dn=Cinquenta%20Tons%20Mais%20Escuros%202017%20Vers%c3%a3o%20de%20Cinema%20%28720p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51VUaA5zgUL._SX346_BO1,204,203,200_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Anastasia Steele (Dakota Johnson) é uma estudante de literatura de 21 anos, recatada e virgem. Uma dia ela deve entrevistar para o jornal da faculdade o poderoso magnata Christian Grey (Jamie Dornan). Nasce uma complexa relação entre ambos: com a descoberta amorosa e sexual, Anastasia conhece os prazeres do sadomasoquismo, tornando-se o objeto de submissão do sádico Grey.</info>
+<info>A continuação do polêmico filme 50 tons de cinza chegou. Nessa sequência Christian Grey (Jamie Dornan)tenta de tonas as formas reconquistar Anastasia (Dakota Johnson)e trazer ela de volta para sua vida. Será que ele vai conseguir novamente fazer Anastasia realizar todas as suas fantasias sexuais?</info>
+</item>
 
 
 
