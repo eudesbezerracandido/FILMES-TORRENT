@@ -1890,6 +1890,24 @@ Enredo: Em Pittsburgh, Pensilvânia, Sam Childers é libertado da prisão e desc
 <info>A continuação do polêmico filme 50 tons de cinza chegou. Nessa sequência Christian Grey (Jamie Dornan)tenta de tonas as formas reconquistar Anastasia (Dakota Johnson)e trazer ela de volta para sua vida. Será que ele vai conseguir novamente fazer Anastasia realizar todas as suas fantasias sexuais?</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DIVERGENTE - INSURGENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b4d7f6b067ba2a55c6761f3935982ac0c91d711</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2iUd6Bhtlzdwsf0UaCQyyHrjuSv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tris (Shailene Woodley) e Quatro (Theo James) agora são fugitivos e procurados por Jeanine Matthews (Kate Winslet), líder da Erudição. Em busca de respostas e assombrados por prévias escolhas, o casal enfrentará inimagináveis desafios enquanto tentam descobrir a verdade sobre o mundo em que vivem.
+Enredo: Enquanto ela procura por aliados e respostas após a revolta, Tris e Four estão fugindo. Sendo caçada por Jeanine Matthews, líder da facção Erudita, Tris e Four vão correr contra o tempo enquanto tentam descobrir o que a Abnegação sacrificou suas vidas para proteger, e porque os líderes eruditos farão qualquer coisa para detê-los. Assombrada por suas escolhas passadas, mas desesperada para proteger os que ela ama, Tris enfrenta um desafio impossível após o outro, como ela libera a verdade sobre o passado e, finalmente, o futuro do seu mundo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LEDOKOL - O QUEBRA GELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:384e6664a6faefabf82fc2ef45d7551892f2262a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vEQQ1VsN1upQhxbm8r1xPFBGt6y.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ao tentar um resgate no Oceano Antártico, um quebragelo russo colide com um iceberg gigantesco. O navio fica encalhado nos gelos da Antártica e seu capitão precisa controlar seus homens.
+Enredo: Em direção ao quebra-gelo “Mikhail Gromov” está se movendo um enorme iceberg. Partindo de colisão, o navio cai na armadilha de gelo e é forçado a deriva perto da costa da Antártica. Ao redor só um silêncio sinistro e um frio intenso. Combustível está acabando – Nervos na borda – E mesmo se seria possível ir, nenhum lugar para ir de qualquer maneira. A tripulação do navio quebra-gelo há margem para erro. Uma decisão errada e gelo pesado esmagou o na</info>
+</item>
+
 
 
 
