@@ -1493,7 +1493,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] BATMAN & ROBIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ea0ed162420fb328cd1e7607032cff8379e84a7&dn=Batman+e+Robin+%281997%29+BluRay+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8EA0ED162420FB328CD1E7607032CFF8379E84A7&dn=Batman%20e%20Robin%20%281997%29%20BluRay%201080p%20Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/9/9b/Batman_Robin_1997.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A dupla dinâmica enfrenta uma terrível dupla de vilões: o gélido Mr. Freeze (Arnold Schwarzenegger) e a delicada botânica que, ao sofrer um acidente, transforma-se na perigosa e vingativa Hera Venenosa (Uma Thurman). Mas, para poder livrar Gotham City das garras dos vilões, Batman (George Clooney) e Robin (Chris O’Donnell) contam com uma nova companheira, a Batgirl (Alicia Silverstone).</info>
