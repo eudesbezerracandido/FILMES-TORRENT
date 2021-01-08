@@ -1950,6 +1950,15 @@ Enredo: Os últimos membros de uma tribo de nativos americanos de morrer, o moic
 Enredo: Depois de testemunhar o seu companheiro e a morte da criança das mãos de Nolan, Orca, a baleia assassina, vai em uma agitação no porto dos pescadores. Sob pressão dos moradores, Nolan, Rachel e uma vela indiano após a grande besta, que irá levá-los em seu próprio território.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O ESTRANGEIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcea05d88f6c1c0e559e97924820fa2e7c95788b</link>
+<thumbnail>https://razaodeaspecto.com/wp-content/uploads/2018/01/pnLRNJXy0URPR5khEshbytlirDN-6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quan (Jackie Chan) é dono de um típico restaurantes chinês em Londres, capital da Inglaterra. Após um misterioso ataque de um grupo de terroristas irlandeses ao seu estabelecimento, ele tem sua vida e família devastadas. Sem muito apoio da polícia local, ele vai buscar vingança com suas próprias mãos.
+Enredo: A história do humilde empresário londrino Quan (Chan), cujo passado há muito enterrado irrompe em uma vingança abastecida por vingança quando a única pessoa que sobrou para ele amar – sua filha adolescente – é tirada dele em um ato sem sentido de terrorismo politicamente motivado. . Em sua busca incansável pela identidade dos terroristas, Quan é forçado a entrar em um conflito de gato e rato com um oficial do governo irlandês (Brosnan), cujo próprio passado pode conter pistas sobre as identidades dos assassinos ilusórios.</info>
+</item>
+
  
 
 
