@@ -1924,6 +1924,31 @@ Enredo: Em direção ao quebra-gelo “Mikhail Gromov” está se movendo um eno
 <info> O filme é baseado nos eventos de abril de 1980, quando seis homens armados invadiram a embaixada iraniana em Londres e tomaram mais de 20 pessoas como reféns por seis dias.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O ÚLTIMO DOS MOICANOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:vxqery2b47gebfzghaferzb422hghbjv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fvC4Z4kO62V3vKD230V8jmOEzE7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No período colonial, durante a guerra entre Inglaterra e França, o homem criado por índios Hawkeye (Daniel Day-Lewis) luta pela justiça e segue os valores moicanos. Ele se apaixona por Cora Munro (Madeleine Stowe), a filha de um oficial britânico e deve enfrentar o desacordo deste.
+Enredo: Os últimos membros de uma tribo de nativos americanos de morrer, o moicanos – Uncas, seu pai Chingachgook, e seu irmão adotivo meia-branco Hawkeye – viver em paz ao lado de colonos britânicos. Mas quando as filhas de um coronel britânico são sequestrados por um caçador de traidor, Hawkeye e Uncas deve resgatá-los no fogo cruzado de um conflito militar horrível de que não queria fazer parte: a guerra francesa e indiana.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O CORCEL NEGRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4780955148d82c614f7aeacb694774f8fb227855&dn=O.Corcel.Negro.%5B1979.DUAL.AUDIO%5D.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uZtNc31LR5Ik3ZVo2jxwOvhkNRC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1946, ao largo da costa africana. Enquanto viajava com seu pai, o jovem Alec Ramsey (Kelly Reno) ficou fascinado por um belo cavalo árabe, que tinha ido para bordo e estava sendo transportado. Quando o navio tragicamente afunda, apenas Alec e o cavalo sobrevivem e ambos vão parar em uma ilha deserta. Dentro das suas limitações cada um ajuda o outro como pode e surge uma amizade entre o garoto e o cavalo. Assim, quando Alec é resgatado, o cavalo vai para casa com ele. Um dia o garanhão se assusta e foge. Após muito procurar Alec o encontra no estábulo de Henry Dailey (Mickey Rooney), um ex-treinador de cavalos que resolve voltar à ativa, para treinar o cavalo mais rápido que ele já viu correr.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ORCA - A BALEIA ASSASSINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e6e382c30d5cbfc5d60d75624650b71a56e13d6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sPPE5rdxtv3yF4a9HkIyRVHV8Gp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Orca, uma baleia assassina, testemunhou a trágica morte de sua companheira prenha por Nolan, capitão de um navio pescador. A intenção era capturar um tubarão branco, mas o arpão acabou atingindo com tudo o animal. Inconformado, o macho levará toda a sua fúria e poder de morte para o porto de pescadores. Sob a pressão dos aldeões, Nolan terá que fazer alguma coisa para expulsar o animal das redondezas.
+Enredo: Depois de testemunhar o seu companheiro e a morte da criança das mãos de Nolan, Orca, a baleia assassina, vai em uma agitação no porto dos pescadores. Sob pressão dos moradores, Nolan, Rachel e uma vela indiano após a grande besta, que irá levá-los em seu próprio território.</info>
+</item>
 
  
 
