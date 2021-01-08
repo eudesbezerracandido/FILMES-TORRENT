@@ -1959,6 +1959,15 @@ Enredo: Depois de testemunhar o seu companheiro e a morte da criança das mãos 
 Enredo: A história do humilde empresário londrino Quan (Chan), cujo passado há muito enterrado irrompe em uma vingança abastecida por vingança quando a única pessoa que sobrou para ele amar – sua filha adolescente – é tirada dele em um ato sem sentido de terrorismo politicamente motivado. . Em sua busca incansável pela identidade dos terroristas, Quan é forçado a entrar em um conflito de gato e rato com um oficial do governo irlandês (Brosnan), cujo próprio passado pode conter pistas sobre as identidades dos assassinos ilusórios.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]  ZONA VERDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75dddb91512597f895d07544c5ab993a5f62ad4c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8xsN1CidLgq2H1wN5FnU3P6FIAo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Bagdá, 2003. Roy Miller (Matt Damon) lidera uma equipe, a serviço da inteligência do exército, em busca de armas de destruição em massa no Iraque. Depois de algumas tentativas frustradas, o militar se vê diante de um cenário caótico entre seus compatriotas, o que o deixa dividido entre aplacar o anseio do governo de encontrar algo que justificasse a invasão ou descobrir a verdade dos fatos.
+Enredo: Após a invasão americana do Iraque em 2003, Roy Miller e seus homens são acusados ??de encontrar as chamadas armas de destruição em massa, cuja existência justificava o envolvimento americano, segundo o Pentágono e seu homem em Bagdá, Poundstone. O agente veterano da CIA, Marty, diz a Miller que não há armas, é uma decepção permitir que os americanos controlem o país e instalem um líder fantoche. Também desconfiada de Poundstone está o repórter do Wall Street Journal Lawrie Dayne, que deixa escapar a Miller que Poundstone disse que tinha conversas secretas na Jordânia com um importante iraquiano, o codinome Magellan, que lhe contou sobre as armas, embora pareça provável que seja de Magalhães. a informação verdadeira era ao contrário. Então começa uma busca pela verdade. Quem está jogando quem?</info>
+</item>
+
  
 
 
