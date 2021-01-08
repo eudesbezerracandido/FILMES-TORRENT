@@ -1908,6 +1908,14 @@ Enredo: Enquanto ela procura por aliados e respostas após a revolta, Tris e Fou
 Enredo: Em direção ao quebra-gelo “Mikhail Gromov” está se movendo um enorme iceberg. Partindo de colisão, o navio cai na armadilha de gelo e é forçado a deriva perto da costa da Antártica. Ao redor só um silêncio sinistro e um frio intenso. Combustível está acabando – Nervos na borda – E mesmo se seria possível ir, nenhum lugar para ir de qualquer maneira. A tripulação do navio quebra-gelo há margem para erro. Uma decisão errada e gelo pesado esmagou o na</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CHAPPIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:005e2184ac94b1d66a90082aebc1cb1906a8e087&dn=COMANDO.TO%20-%20Chappie%202015%20%5b1080p%5d%20DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/18IydtBgq8aJZpbP6NxCAGjHhae.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em um futuro próximo, a África do Sul decidiu substituir os seus policiais humanos por uma frota de robôs ultra resistentes e dotados de inteligência artificial. O criador destes modelos, o brilhante cientista Deon (Dev Patel), sonha em embutir emoções nos robôs, mas a diretora da empresa de segurança (Sigourney Weaver) desaprova a ideia. Um dia, ele rouba um modelo defeituoso e faz experiências nele, até conseguir criar Chapp.ie (Sharlto Copley), um robô capaz de pensar e aprender por conta própria. Mas Chapp.ie é roubado por um grupo de ladrões que precisa da ajuda para um assalto a banco. Quando Vincent (Hugh Jackman), um engenheiro rival de Deon, decide sabotar as experiências do colega de trabalho, a segurança do país e o futuro de Chappie correm riscos.</info>
+</item>
+
 
 
 
