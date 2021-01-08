@@ -1916,6 +1916,14 @@ Enredo: Em direção ao quebra-gelo “Mikhail Gromov” está se movendo um eno
 <info> Em um futuro próximo, a África do Sul decidiu substituir os seus policiais humanos por uma frota de robôs ultra resistentes e dotados de inteligência artificial. O criador destes modelos, o brilhante cientista Deon (Dev Patel), sonha em embutir emoções nos robôs, mas a diretora da empresa de segurança (Sigourney Weaver) desaprova a ideia. Um dia, ele rouba um modelo defeituoso e faz experiências nele, até conseguir criar Chapp.ie (Sharlto Copley), um robô capaz de pensar e aprender por conta própria. Mas Chapp.ie é roubado por um grupo de ladrões que precisa da ajuda para um assalto a banco. Quando Vincent (Hugh Jackman), um engenheiro rival de Deon, decide sabotar as experiências do colega de trabalho, a segurança do país e o futuro de Chappie correm riscos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] 6 DAYS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3097BDE9125C0F0E8D9C8E0E93B5BB8833FB8797&dn=6%20Dias%202017%20%281080p%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81nGe1NQT5L._RI_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O filme é baseado nos eventos de abril de 1980, quando seis homens armados invadiram a embaixada iraniana em Londres e tomaram mais de 20 pessoas como reféns por seis dias.</info>
+</item>
+
 
 
 
