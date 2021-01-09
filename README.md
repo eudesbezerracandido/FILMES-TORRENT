@@ -1967,6 +1967,14 @@ Enredo: Após a invasão americana do Iraque em 2003, Roy Miller e seus homens s
 <info>Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão de mais de 20 metros de comprimento, o Megalodon. Para salvá-los, um oceanógrafo chinês contrata Jonas Taylor, um mergulhador especializado em resgates em água profundas que já encontrou com a criatura anteriormente.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UM DIA DEPOIS DE AMANHÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37F1BA6D8074A4C052521DA0B7DBC83F4F91DE6B&dn=O%20Dia%20Depois%20de%20Amanh%C3%A3%202004%20%28720p%29%20DUBLADO%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://i.pinimg.com/originals/c0/37/0b/c0370bae33c2abc198832641c1f08700.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Agora com qualidade de bluray O dia Depois de Amanhã vem com qualidade excelente e resoluções 1080p e 720p em dual áudio 5.1. A Terra sofre alterações climáticas que modificam drasticamente a vida da humanidade. Com o norte se resfriando cada vez mais e passando por uma nova era glacial, milhões de sobreviventes rumam para o sul. Porém o paleoclimatologista Jack Hall (Dennis Quaid) segue o caminho inverso e parte para Nova York, já que acredita que seu filho Sam (Jake Gyllenhaal) ainda está vivo.</info>
+</item>
+
 
 
 
