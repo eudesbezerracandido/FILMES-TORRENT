@@ -1943,7 +1943,7 @@ Enredo: Os últimos membros de uma tribo de nativos americanos de morrer, o moic
 
 <item>
 <title>[COLOR silver][B] ORCA - A BALEIA ASSASSINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e6e382c30d5cbfc5d60d75624650b71a56e13d6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E6E382C30D5CBFC5D60D75624650B71A56E13D6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sPPE5rdxtv3yF4a9HkIyRVHV8Gp.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Orca, uma baleia assassina, testemunhou a trágica morte de sua companheira prenha por Nolan, capitão de um navio pescador. A intenção era capturar um tubarão branco, mas o arpão acabou atingindo com tudo o animal. Inconformado, o macho levará toda a sua fúria e poder de morte para o porto de pescadores. Sob a pressão dos aldeões, Nolan terá que fazer alguma coisa para expulsar o animal das redondezas.
