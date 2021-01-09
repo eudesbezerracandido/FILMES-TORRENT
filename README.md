@@ -1968,6 +1968,7 @@ Enredo: A história do humilde empresário londrino Quan (Chan), cujo passado h�
 Enredo: Após a invasão americana do Iraque em 2003, Roy Miller e seus homens são acusados ??de encontrar as chamadas armas de destruição em massa, cuja existência justificava o envolvimento americano, segundo o Pentágono e seu homem em Bagdá, Poundstone. O agente veterano da CIA, Marty, diz a Miller que não há armas, é uma decepção permitir que os americanos controlem o país e instalem um líder fantoche. Também desconfiada de Poundstone está o repórter do Wall Street Journal Lawrie Dayne, que deixa escapar a Miller que Poundstone disse que tinha conversas secretas na Jordânia com um importante iraquiano, o codinome Magellan, que lhe contou sobre as armas, embora pareça provável que seja de Magalhães. a informação verdadeira era ao contrário. Então começa uma busca pela verdade. Quem está jogando quem?</info>
 </item>
 
+
  
 
 
