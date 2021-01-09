@@ -1968,6 +1968,16 @@ Enredo: A história do humilde empresário londrino Quan (Chan), cujo passado h�
 Enredo: Após a invasão americana do Iraque em 2003, Roy Miller e seus homens são acusados ??de encontrar as chamadas armas de destruição em massa, cuja existência justificava o envolvimento americano, segundo o Pentágono e seu homem em Bagdá, Poundstone. O agente veterano da CIA, Marty, diz a Miller que não há armas, é uma decepção permitir que os americanos controlem o país e instalem um líder fantoche. Também desconfiada de Poundstone está o repórter do Wall Street Journal Lawrie Dayne, que deixa escapar a Miller que Poundstone disse que tinha conversas secretas na Jordânia com um importante iraquiano, o codinome Magellan, que lhe contou sobre as armas, embora pareça provável que seja de Magalhães. a informação verdadeira era ao contrário. Então começa uma busca pela verdade. Quem está jogando quem?</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MEGATUBARÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:059866AF967921E6194C9F3649B9D84E81215094&dn=Megatubar%C3%A3o%202018%20%28720p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wrJkShDPK4TcV0nHix3HASEmkul.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão de mais de 20 metros de comprimento, o Megalodon. Para salvá-los, um oceanógrafo chinês contrata Jonas Taylor, um mergulhador especializado em resgates em água profundas que já encontrou com a criatura anteriormente.</info>
+</item>
+
+
+
 
  
 
