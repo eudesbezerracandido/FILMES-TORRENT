@@ -1975,6 +1975,15 @@ Enredo: Após a invasão americana do Iraque em 2003, Roy Miller e seus homens s
 <info>Agora com qualidade de bluray O dia Depois de Amanhã vem com qualidade excelente e resoluções 1080p e 720p em dual áudio 5.1. A Terra sofre alterações climáticas que modificam drasticamente a vida da humanidade. Com o norte se resfriando cada vez mais e passando por uma nova era glacial, milhões de sobreviventes rumam para o sul. Porém o paleoclimatologista Jack Hall (Dennis Quaid) segue o caminho inverso e parte para Nova York, já que acredita que seu filho Sam (Jake Gyllenhaal) ainda está vivo.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] BATTLESHIP - A BATALHA DOS MARES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67BAF3D3E595C2777ABC00612F7D8F870B5A0069&dn=%7bWWW.BLUDV.TV%7d%20Battleship%20A%20Batalha%20dos%20Mares%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vUTrHashD5jrUdQhwtpWzlmyyZf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Batalha dos Mares é a adaptação ao cinema do jogo de batalha naval da Hasbro. O filme coloca uma frota internacional para combater uma invasão alienígena</info>
+</item>
+
+
 
 
 
