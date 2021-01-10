@@ -1983,6 +1983,14 @@ Enredo: Após a invasão americana do Iraque em 2003, Roy Miller e seus homens s
 <info>Batalha dos Mares é a adaptação ao cinema do jogo de batalha naval da Hasbro. O filme coloca uma frota internacional para combater uma invasão alienígena</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SAMURAI X - TRILOGIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A88E7E938AAC52AC63A4F0E528C7FFD3191883C&dn=Samurai.X.Trilogia.BRRip.1080p.DUAL-RICKSZ&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/2374517/1002880061.jpg?v=637015876347030000</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxT4_rh4MojmmgKOL0PbeW2b_y70uozj6ZAg&usqp=CAU</fanart>
+<info>Todos os 3 filmes da franquia live action de Samurai X. Battousai Hitokiri ficou conhecido por ser um dos melhores assassinos do país. Seu apelido, o Retalhador, ecoou por todos os cantos do Japão. Cansado de tanta matança, Himura abandona sua espada em plena batalha e faz um juramento: defenderá a justiça, mas não matará mais ninguém. Sua arma, porém, foi recolhida por um dos derrotados, Udo Jin-e. Vivendo como andarilho e usando um novo nome, Himura Kenshin, o ex-assassino vagueia pelos vilarejos até que, dez anos depois de sua decisão, ele chega a Tóquio. Lá, ele conhece Kaoru, uma jovem que herdou o dojo de seu pai, e teve o nome humilhado por um espadachim que usava o nome Battousai Hitokiri. Para provar que a suspeita de Kaoru está errada, Himura mostra a ela que ele não carrega espada alguma, apenas uma sakabato, uma arma de lâmina inversa. Ao mesmo tempo, alguns crimes acontecem na região e deixam a polícia em polvorosa, pensando que o lendário Retalhador está na cidade. Na verdade, Udo Jin-e está matando e deixando a culpa cair sobre Himura. Quando os dois samurais duelam, tudo fica claro. Ao lado do oficial da polícia, o rapaz passa a caçar Jin-e para descobrir quem está por trás de tudo isso e limpar seu nome. Quando Kaoru é sequestrada, é hora do real Battousai mostrar sua força.</info>
+</item>
+
 
 
 
