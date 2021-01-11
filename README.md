@@ -1991,6 +1991,15 @@ Enredo: Após a invasão americana do Iraque em 2003, Roy Miller e seus homens s
 <info>FAVELA, s primeira franquia de CODENAME: FALCON, apresenta o ex-fuzileiro naval John "Falcon" Chapman, um obscuro anti-herói impulsionado pela culpa e sofrimento pós-traumático, que irá destruir a si mesmo a não ser que lhe seja dado algo mais para destruir - uma arma útil e último recurso do Departamento de Estado dos EUA. Quando a irmã de Chapman é brutalmente atacada enquanto estava em missão no Brasil, Chapman voa para Rio de Janeiro para rastrear seus agressores, rapidamente entra no submundo da cidade e descobre um mundo de drogas, comércio sexual, policiais corruptos e crime organizado lutando pelo controle.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O HOMEM MAIS PROCURADO DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wyv3tXoC6BtJsbCLwBUhGjTwFqK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Baseada na história real, a trama se foca na ação conjunta da CIA em parceria com os operativos das forças especiais do Exército norte-americano, os chamados SEALs. Em operação no Paquistão, eles estão em busca das pistas que enfim vão levar o governo dos EUA ao seu maior inimigo: trata-se do terrorista Osama Bin-Laden, o homem mais procurado do planeta.
+Enredo: Quando o paradeiro rumores de Osama bin Laden são revelados, a CIA se prepara uma equipe de experientes Navy SEALs EUA para a missão de uma vida. Apesar da evidência conclusiva de que Bin Laden está dentro do composto, e ignorando as possíveis ramificações de um ataque de surpresa em solo paquistanês, o Pentágono ordena o ataque. As bandas Seal Team juntos para completar sua missão de justiça em um confronto final fascinante.</info>
+</item>
+
 
 
 
