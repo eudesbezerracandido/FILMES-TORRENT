@@ -1983,6 +1983,15 @@ Enredo: Após a invasão americana do Iraque em 2003, Roy Miller e seus homens s
 <info>Todos os 3 filmes da franquia live action de Samurai X. Battousai Hitokiri ficou conhecido por ser um dos melhores assassinos do país. Seu apelido, o Retalhador, ecoou por todos os cantos do Japão. Cansado de tanta matança, Himura abandona sua espada em plena batalha e faz um juramento: defenderá a justiça, mas não matará mais ninguém. Sua arma, porém, foi recolhida por um dos derrotados, Udo Jin-e. Vivendo como andarilho e usando um novo nome, Himura Kenshin, o ex-assassino vagueia pelos vilarejos até que, dez anos depois de sua decisão, ele chega a Tóquio. Lá, ele conhece Kaoru, uma jovem que herdou o dojo de seu pai, e teve o nome humilhado por um espadachim que usava o nome Battousai Hitokiri. Para provar que a suspeita de Kaoru está errada, Himura mostra a ela que ele não carrega espada alguma, apenas uma sakabato, uma arma de lâmina inversa. Ao mesmo tempo, alguns crimes acontecem na região e deixam a polícia em polvorosa, pensando que o lendário Retalhador está na cidade. Na verdade, Udo Jin-e está matando e deixando a culpa cair sobre Himura. Quando os dois samurais duelam, tudo fica claro. Ao lado do oficial da polícia, o rapaz passa a caçar Jin-e para descobrir quem está por trás de tudo isso e limpar seu nome. Quando Kaoru é sequestrada, é hora do real Battousai mostrar sua força.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] VINGANÇA FATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c690d3b5544b2cfa1862d261fc89b1187d779a0b&dn=COMOEUBAIXO.COM..BLURAY.1080P.MKV.-DUBLADO-DUAL-AUDIO-..</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3RFvVREDcL3gN4uhCuQDs1q0KEr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>FAVELA, s primeira franquia de CODENAME: FALCON, apresenta o ex-fuzileiro naval John "Falcon" Chapman, um obscuro anti-herói impulsionado pela culpa e sofrimento pós-traumático, que irá destruir a si mesmo a não ser que lhe seja dado algo mais para destruir - uma arma útil e último recurso do Departamento de Estado dos EUA. Quando a irmã de Chapman é brutalmente atacada enquanto estava em missão no Brasil, Chapman voa para Rio de Janeiro para rastrear seus agressores, rapidamente entra no submundo da cidade e descobre um mundo de drogas, comércio sexual, policiais corruptos e crime organizado lutando pelo controle.</info>
+</item>
+
+
 
 
 
