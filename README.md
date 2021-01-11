@@ -2000,6 +2000,14 @@ Enredo: Após a invasão americana do Iraque em 2003, Roy Miller e seus homens s
 Enredo: Quando o paradeiro rumores de Osama bin Laden são revelados, a CIA se prepara uma equipe de experientes Navy SEALs EUA para a missão de uma vida. Apesar da evidência conclusiva de que Bin Laden está dentro do composto, e ignorando as possíveis ramificações de um ataque de surpresa em solo paquistanês, o Pentágono ordena o ataque. As bandas Seal Team juntos para completar sua missão de justiça em um confronto final fascinante.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A DESCOBERTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ACE1488EE9196F4DE1B7557CD12000BA1154F82&dn=A%20Descoberta%202017%20%5bWEBRip%5d%20%281080p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lgLyPfWHkmt8v8ulz04NL2FFHQ4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após um cientista conseguir provar que existe vida após a morte, sua descoberta fica fora de controle após uma onda de suicídios coletivos cometidos pela população. No meio de toda essa confusão, o filho desse cientista se apaixona por uma mulher que tem um passado marcado por tragédias. A Descoberta é um filme repleto de mistério, ficção e romance.</info>
+</item>
+
 
 
 
