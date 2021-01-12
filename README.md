@@ -2008,6 +2008,24 @@ Enredo: Quando o paradeiro rumores de Osama bin Laden são revelados, a CIA se p
 <info>Após um cientista conseguir provar que existe vida após a morte, sua descoberta fica fora de controle após uma onda de suicídios coletivos cometidos pela população. No meio de toda essa confusão, o filho desse cientista se apaixona por uma mulher que tem um passado marcado por tragédias. A Descoberta é um filme repleto de mistério, ficção e romance.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CONTAGEM REGRESSIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:314e14d4bfcfc38b286d5919a82dfd70e6197089</link>
+<thumbnail>https://br.web.img3.acsta.net/c_310_420/pictures/14/01/15/19/15/154302.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um homem (Paul Walker) tem que cuidar de seu bebê prematuro quando sua esposa falece durante o parto. Para piorar, o furacão Katrina passa por Louisiana e deixa um rastro de desespero e destruição.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO -  SOBRE CRACK ( DROGA ) DE 1980 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:536ad2f2b1c89d000b878baa79bca5ff8056339b</link>
+<thumbnail>https://i0.wp.com/solegendas.net/wp-content/uploads/2021/01/Crack-Cocaina-Corrupcao-e-Conspiracao-683x1024.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma droga barata e poderosa surge durante uma recessão, causando pânico moral alimentado pelo racismo. Explore a complexa história do crack nos anos 1980.</info>
+</item>
+
+
+
 
 
 
