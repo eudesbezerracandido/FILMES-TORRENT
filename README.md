@@ -2024,6 +2024,15 @@ Enredo: Quando o paradeiro rumores de Osama bin Laden são revelados, a CIA se p
 <info>Uma droga barata e poderosa surge durante uma recessão, causando pânico moral alimentado pelo racismo. Explore a complexa história do crack nos anos 1980.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ZATOICHI - O ESPADACHIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AD6242E243FB4FF5822568CA8117000B6E17449F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kesA1HArUi1HSbQj8SrFaMY93gK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Zatoichi é um mestre espadachim cego que chega a um vilarejo dividido por gangues em guerra, e se propõe a proteger o povo da cidade. Agora, ele deverá enfrentar inúmeros inimigos que cruzarão seu caminho até encarar o chefão do crime.</info>
+</item>
+
+
 
 
 
