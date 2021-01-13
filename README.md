@@ -2032,6 +2032,15 @@ Enredo: Quando o paradeiro rumores de Osama bin Laden são revelados, a CIA se p
 <info>Zatoichi é um mestre espadachim cego que chega a um vilarejo dividido por gangues em guerra, e se propõe a proteger o povo da cidade. Agora, ele deverá enfrentar inúmeros inimigos que cruzarão seu caminho até encarar o chefão do crime.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] TRILOGIA - ACE VENTURA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f93ab73bd8b4f1b9cbcc22cad175973c3c2da818</link>
+<thumbnail>https://photos.enjoei.com.br/ace-ventura-trilogia-1994-dublado/1200xN/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy8xMjU5ODAzMS9hZmVkYWE2MjljNmViNjEzMGZiZTQ5M2RmZTRlYmVkYy5qcGc</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ele é o melhor que existe! De fato, ele é o único que existe! Ace Ventura (Jim Carrey) assume o caso para encontrar a mascote desaparecida do time dos Miami Dolphins e também seu principal jogador, Dan Marino. Ele fica frente a frente com um tubarão faminto, arruma encrenca com os jogadores do Miami Dolphins e encanta e espanca as damas. Ainda que esteja disfarçado, dissimulado e desacreditado, ele sempre prende o culpado ou culpada?</info>
+</item>
+
+
 
 
 
