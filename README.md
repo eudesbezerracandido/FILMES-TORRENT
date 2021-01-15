@@ -2057,6 +2057,23 @@ Enredo: O Dr. Will Caster (Johnny Depp) é o principal pesquisador no campo da I
 <info>John Stratton (Dominic Cooper) é um agente secreto das forças especiais britânica. Ele usa suas habilidades para uma missão, cujo objetivo é pôr fim a uma organização terrorista, que atua na Ásia e possui ramificações na Europa.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ALADDIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:699f789166731292863fde42607c10b69472f11f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1d8HShFOmSWDwvqtvPEZqzlZbYl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um jovem humilde descobre uma lâmpada mágica, com um gênio que pode lhe conceder desejos. Agora o rapaz quer conquistar a moça por quem se apaixonou, mas o que ele não sabe é que a jovem é uma princesa que está prestes a se noivar. Agora, com a ajuda do Gênio (Will Smith), ele tenta se passar por um príncipe e para conquistar o amor da moça e a confiança de seu pai.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SEPULTADO VIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C86E6B534B0A08D62C4D3ACC3C19501AEF04924C</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jdpabZucc12RLHE1tZ2lkJkO1rv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Clint Goodman (Tim Matheson) constrói uma casa enorme para agradar a sua esposa (Jennifer Jason Leigh), mas ela não se acostuma com a nova moradia e acaba tendo um caso com um médico local. (William Atherton). Juntos eles decidem matar o marido. Lançado no Brasil em VHS com o título "Morto, Mas Nem Tanto", posteriormente passou na TV com o título "Sepultado Vivo".</info>
+</item>
+
+
 
 
 
