@@ -2073,6 +2073,14 @@ Enredo: O Dr. Will Caster (Johnny Depp) é o principal pesquisador no campo da I
 <info>Clint Goodman (Tim Matheson) constrói uma casa enorme para agradar a sua esposa (Jennifer Jason Leigh), mas ela não se acostuma com a nova moradia e acaba tendo um caso com um médico local. (William Atherton). Juntos eles decidem matar o marido. Lançado no Brasil em VHS com o título "Morto, Mas Nem Tanto", posteriormente passou na TV com o título "Sepultado Vivo".</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] JOÃO E MARIA - CAÇADORES DE BRUXAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:199e4fb7657b979f2612030e49f051fdfe90cf29</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pNAOG8mvstBhUE1jhbGkB87G2VV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os jovens João e Maria foram abandonados pelos pais na sombria floresta e acabam indo parar na casa de uma malvada bruxa. Mas o que parecia ser o fim acabou se tornando o começo de uma vida cheia de aventuras, uma vez que eles eliminaram a malvada e viraram verdadeiros exterminadores de criaturas do mal. Após o desaparecimento de várias crianças, os dois já adultos (Jeremy Renner e Gemma Arterton) são contratados pelas autoridades locais para desvendar o mistério. Só que eles não imaginavam que essa nova missão iria colocá-los diante da terrível Bruxa Negra (Famke Janssen), pronta para destruir não só a reputação de excelentes caçadores de bruxas, mas também as suas vidas.</info>
+</item>
+
 
 
 
