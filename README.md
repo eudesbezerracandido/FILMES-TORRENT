@@ -2051,7 +2051,7 @@ Enredo: O Dr. Will Caster (Johnny Depp) é o principal pesquisador no campo da I
 
 <item>
 <title>[COLOR silver][B] STRATTON - FORÇAS ESPECIAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B24DA90B17BAC9F64934922054B10F937D62CE56</link>
+<link>plugin://plugin.video.elementum/play?uri=t:?xt=urn:btih:B24DA90B17BAC9F64934922054B10F937D62CE56</link>
 <thumbnail>https://cinema10.com.br/upload/filmes/filmes_10519_srattonposter.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>John Stratton (Dominic Cooper) é um agente secreto das forças especiais britânica. Ele usa suas habilidades para uma missão, cujo objetivo é pôr fim a uma organização terrorista, que atua na Ásia e possui ramificações na Europa.</info>
