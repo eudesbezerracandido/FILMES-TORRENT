@@ -2041,12 +2041,20 @@ Enredo: Quando o paradeiro rumores de Osama bin Laden são revelados, a CIA se p
 </item>
 
 <item>
-<title>[COLOR silver][B] TRANSCEDENTE - A REVOLUÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] TRANSCEDENCE - A REVOLUÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:397B5B3CE2E07B82E1C955A5B11FD5A160D95762</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/14/05/07/22/45/272196.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Dr. Will Caster, a maior autoridade do mundo em inteligência artificial, está conduzindo experimentos altamente controversos, na intenção de criar um robô com grande variedade de emoções humanas. Quando extremistas antitecnologia tentam matá-lo, Caster convence sua esposa, Evelyn, e seu melhor amigo, Max Waters, a testar seu novo invento nele mesmo. Só que a grande questão não é se eles podem fazer isto, mas se eles devem fazer isto.
 Enredo: O Dr. Will Caster (Johnny Depp) é o principal pesquisador no campo da Inteligência Artificial, trabalhando para criar uma máquina sensível que combina a inteligência coletiva de tudo o que é conhecido com toda a gama de emoções humanas. Seus experimentos altamente controversos o tornaram famoso, mas também o tornaram o principal alvo dos extremistas antitecnológicos que farão o que for necessário para impedi-lo. No entanto, em sua tentativa de destruir Will, eles inadvertidamente se tornam o catalisador para ele ter sucesso – ser um participante em sua própria transcendência. Para sua esposa Evelyn (Rebecca Hall) e seu melhor amigo Max Waters (Paul Bettany), ambos colegas pesquisadores, a questão não é se eles podem … mas se deveriam. Seus piores medos são percebidos à medida que a sede de conhecimento de Will evolui para uma busca aparentemente onipresente de poder, para o que é desconhecido. A única coisa que está se tornando terrivelmente clara é que talvez não haja como detê-lo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] STRATTON - FORÇAS ESPECIAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B24DA90B17BAC9F64934922054B10F937D62CE56</link>
+<thumbnail>https://cinema10.com.br/upload/filmes/filmes_10519_srattonposter.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>John Stratton (Dominic Cooper) é um agente secreto das forças especiais britânica. Ele usa suas habilidades para uma missão, cujo objetivo é pôr fim a uma organização terrorista, que atua na Ásia e possui ramificações na Europa.</info>
 </item>
 
 
