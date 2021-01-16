@@ -2081,6 +2081,14 @@ Enredo: O Dr. Will Caster (Johnny Depp) é o principal pesquisador no campo da I
 <info>Os jovens João e Maria foram abandonados pelos pais na sombria floresta e acabam indo parar na casa de uma malvada bruxa. Mas o que parecia ser o fim acabou se tornando o começo de uma vida cheia de aventuras, uma vez que eles eliminaram a malvada e viraram verdadeiros exterminadores de criaturas do mal. Após o desaparecimento de várias crianças, os dois já adultos (Jeremy Renner e Gemma Arterton) são contratados pelas autoridades locais para desvendar o mistério. Só que eles não imaginavam que essa nova missão iria colocá-los diante da terrível Bruxa Negra (Famke Janssen), pronta para destruir não só a reputação de excelentes caçadores de bruxas, mas também as suas vidas.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] 22 BALAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8acd02d30608d16e38d9110d6b6fed6e59f8232</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3EkhsU6augJjLU83AiONvs3y97s.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de anos vivendo fora da lei, Charly Mattei(Jean Reno), resolveu nos últimos três anos se dedicar a família e viver harmoniosamente com sua esposa e seus dois filhos pequenos. No entanto, em uma manhã de inverno ele é encontrado em um estacionamento com 22 balas no corpo e apesar de muitos acreditarem que ele havia morrido, Charly misteriosamente sobrevive. Agora ele sai à caça de Tony Zacchia (Kad Merad), o único homem que se atreveria a tentar matá-lo. Zacchia cometeu apenas um erro: ele falhou.</info>
+</item>
+
 
 
 
