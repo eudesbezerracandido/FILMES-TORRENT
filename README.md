@@ -2087,7 +2087,7 @@ Enredo: O Dr. Will Caster (Johnny Depp) é o principal pesquisador no campo da I
 <thumbnail>https://www.themoviedb.org/t/p/original/3EkhsU6augJjLU83AiONvs3y97s.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Depois de anos vivendo fora da lei, Charly Mattei(Jean Reno), resolveu nos últimos três anos se dedicar a família e viver harmoniosamente com sua esposa e seus dois filhos pequenos. No entanto, em uma manhã de inverno ele é encontrado em um estacionamento com 22 balas no corpo e apesar de muitos acreditarem que ele havia morrido, Charly misteriosamente sobrevive. Agora ele sai à caça de Tony Zacchia (Kad Merad), o único homem que se atreveria a tentar matá-lo. Zacchia cometeu apenas um erro: ele falhou.</info>
-</item>
+</item> 
 
 
 
