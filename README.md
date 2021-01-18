@@ -2088,7 +2088,17 @@ Enredo: O Dr. Will Caster (Johnny Depp) é o principal pesquisador no campo da I
 <thumbnail>https://www.themoviedb.org/t/p/original/3EkhsU6augJjLU83AiONvs3y97s.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Depois de anos vivendo fora da lei, Charly Mattei(Jean Reno), resolveu nos últimos três anos se dedicar a família e viver harmoniosamente com sua esposa e seus dois filhos pequenos. No entanto, em uma manhã de inverno ele é encontrado em um estacionamento com 22 balas no corpo e apesar de muitos acreditarem que ele havia morrido, Charly misteriosamente sobrevive. Agora ele sai à caça de Tony Zacchia (Kad Merad), o único homem que se atreveria a tentar matá-lo. Zacchia cometeu apenas um erro: ele falhou.</info>
-</item> 
+</item>
+
+<item>
+<title>[COLOR silver][B] GI.JOE - 2 EM 1 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98409b2953892bae689f92779aa87e873dc83ad0</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C847967EDCDD92A6B0D8AE556FEC2F74F88D3F80</link>
+<thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/70/c5/20/70c52082-8872-3e93-3ece-f0731dc23b50/35641EU001_34392AP1_PT.lsr/1200x630bb.png</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um acordo entre as grandes potências define a redução das ogivas nucleares no mundo todo, mas os Estados Unidos, comandados pela organização Cobra, desconsideram o acerto e dão ínicio a um plano de proporções alarmantes. Enquanto isso, seguindo as ordens do presidente americano (Jonathan Pryce), o esquadrão de elite G.I. Joe é acusado de traição e, após ser atacado brutalmente, tem vários de seus integrantes mortos em combate. Agora, os poucos que sobreviveram vão contar com a ajuda do criador dos G.I. Joe, Joe Colton (Bruce Willis), para, liderados por Roadblock (Dwayne Johnson), revidar o ataque em grande estilo.
+Enredo: Os Joes re-equipe para impedir Cobra de alcançar o domínio total do mundo nesta sequela que pega logo após os eventos de G.I. Joe: A ascensão da cobra. A ameaça Nanomite foi neutralizada, e o governo dos EUA prendeu Cobra Commander e Destro em uma prisão subterrânea inescapável. Quando o líder do Paquistão é assassinado, o presidente dos EUA (Jonathan Pryce) pede aos Joes que assegurem as ogivas nucleares do Paquistão antes que caiam em mãos inimigas. Na sequência de completar com sucesso sua missão, no entanto, os Joes são dizimados em um ataque surpresa devastador. Quando a fumaça desaparece, Roadblock (Dwayne Johnson), Lady Jaye (Adrianne Palicki) e Flint (D.J. Cotrona) são os únicos sobreviventes. Eles estão convencidos de que algo está errado na Casa Branca, e como Lady Jaye teoriza que um impostor está fingindo ser o comandante em chefe, os bandidos Storm Shadow (Lee Byung-Hun) e Firefly (Ray Stevenson) se unem para quebrar Comandante da Cobra (Luke Bracey) fora de …</info>
+</item>
 
 
 
