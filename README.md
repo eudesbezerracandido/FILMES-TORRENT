@@ -2109,6 +2109,24 @@ Enredo: Os Joes re-equipe para impedir Cobra de alcançar o domínio total do mu
 Enredo: Caleb, um programador de 26 anos na maior empresa de internet do mundo, ganha uma competição para passar uma semana em um retiro na montanha privada pertencente a Nathan, o CEO recluso da empresa. Mas quando Caleb chega ao local remoto, ele descobre que ele terá de participar de uma experiência estranha e fascinante em que ele deve interagir com o primeiro de inteligência artificial verdade do mundo, alojado no corpo de uma menina bonita robô.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O CADAVER DE ANNA FRITZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6s14X6rpZYVWhjp6flPixdBiCkL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Infelizmente, Anna Fritz, a famosa jovem atriz e fã de carros velozes, morreu inexplicavelmente em uma festa particular. Com a notícia da morte de Anna se espalhando como fogo, fãs e seguidores de toda a Espanha tentam desesperadamente descobrir o nome do hospital onde a autópsia será realizada; no entanto, em vão. No entanto, quando um hospital que trabalha no turno da noite vaza fotos da mulher falecida para seus melhores amigos, um convite invisível para um olhar rápido atrai amigos e pervertidos. Agora, o que acontece a seguir, ninguém sabe.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CAÇA  AS  BRUXAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>hTwkJ5cB2qg</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/oNyEYVm295JdZXbRi40XcqjOs7G.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Behmen (Nicolas Cage) lutou por vários anos nas Cruzadas, perdeu batalhas, amigos e também a fé. Ao desistir de ajudar a Igreja em sua luta pelo poder, ele só encontra devastação, fome e a peste negra. Ao lado de seu fiel escudeiro Felton (Ron Perlman), ele torna-se inimigo dos governantes, mas acaba recebendo uma missão que pode liquidar seus débitos: levar uma jovem, suspeita de ser uma bruxa, para um monastério distante. Mas o caminho será bastante tortuoso e mesmo antes de chegar ao destino, eles descobrirão que estão diante de forças sobrenaturais e que o mal está além de toda e qualquer compreensão.</info>
+</item>
+
+
+
 
 
 
