@@ -2100,6 +2100,16 @@ Enredo: O Dr. Will Caster (Johnny Depp) é o principal pesquisador no campo da I
 Enredo: Os Joes re-equipe para impedir Cobra de alcançar o domínio total do mundo nesta sequela que pega logo após os eventos de G.I. Joe: A ascensão da cobra. A ameaça Nanomite foi neutralizada, e o governo dos EUA prendeu Cobra Commander e Destro em uma prisão subterrânea inescapável. Quando o líder do Paquistão é assassinado, o presidente dos EUA (Jonathan Pryce) pede aos Joes que assegurem as ogivas nucleares do Paquistão antes que caiam em mãos inimigas. Na sequência de completar com sucesso sua missão, no entanto, os Joes são dizimados em um ataque surpresa devastador. Quando a fumaça desaparece, Roadblock (Dwayne Johnson), Lady Jaye (Adrianne Palicki) e Flint (D.J. Cotrona) são os únicos sobreviventes. Eles estão convencidos de que algo está errado na Casa Branca, e como Lady Jaye teoriza que um impostor está fingindo ser o comandante em chefe, os bandidos Storm Shadow (Lee Byung-Hun) e Firefly (Ray Stevenson) se unem para quebrar Comandante da Cobra (Luke Bracey) fora de …</info>
 </item> 
 
+<item>
+<title>[COLOR silver][B] EX_MACHINA - INSTINTO ARTIFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:611b61044fc06d2b08baa49214e8189cecf152c1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hfpnFtgcYom9Gk9s1IyWiovpZYg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem programador chamado Caleb ganha um concurso e recebe a oportunidade de testar uma inteligência artificial criada por Nathan, um brilhante e recluso bilionário. Mas conforme os testes progridem, Caleb descobre que essa inteligência artificial é tão sofisticada e imprevisível que ele não sabe mais em quem confiar.
+Enredo: Caleb, um programador de 26 anos na maior empresa de internet do mundo, ganha uma competição para passar uma semana em um retiro na montanha privada pertencente a Nathan, o CEO recluso da empresa. Mas quando Caleb chega ao local remoto, ele descobre que ele terá de participar de uma experiência estranha e fascinante em que ele deve interagir com o primeiro de inteligência artificial verdade do mundo, alojado no corpo de uma menina bonita robô.</info>
+</item>
+
+
 
 
 
