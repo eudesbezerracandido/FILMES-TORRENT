@@ -2133,13 +2133,6 @@ Enredo: Caleb, um programador de 26 anos na maior empresa de internet do mundo, 
 <info>Jasão após retornar para sua casa de uma viagem de 20 anos, deve encontrar um mágico velo de ouro para reconquistar seu trono. Assim, ele lidera uma equipe, que inclui o heroico Hércules, para ir atrás do artefato, enfrentando perigos enormes como um gigante feito de bronze.</info>
 </item>
 
-<item>
-<title>[COLOR silver][B] VIAGEM AO MUNDO DOS SONHOS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<utube>tcdY9QQBXdY</utube>
-<thumbnail>https://www.themoviedb.org/t/p/original/59n9HYLOPFHMGAVqeZewHu7UvRw.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Os sonhos visionários de três meninos curiosos e aventureiros transformam-se em uma excitante realidade em Viagem ao Mundo dos Sonhos, a fantasia de ação do aclamado diretor Joe Dante (Gremlins), que combina humor inteligente, afeto e fantasia, com inesperadas reviravoltas. Em seu improvisado laboratório, os garotos usam sua genialidade e também uma surpreendente descoberta para construir sua própria nave espacial e lançarem-se em uma fantástica viagem interplanetária. Uma galáxia de aventuras para toda a família, estrelando os jovens River Phoenix (Conta Comigo, Quebra de Sigilo) e Ethan Hawke (Dia de Treinamento, Caindo na Real).</info>
-</item>
 
 
 
