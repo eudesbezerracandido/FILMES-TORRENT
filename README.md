@@ -2125,6 +2125,14 @@ Enredo: Caleb, um programador de 26 anos na maior empresa de internet do mundo, 
 <info> Behmen (Nicolas Cage) lutou por vários anos nas Cruzadas, perdeu batalhas, amigos e também a fé. Ao desistir de ajudar a Igreja em sua luta pelo poder, ele só encontra devastação, fome e a peste negra. Ao lado de seu fiel escudeiro Felton (Ron Perlman), ele torna-se inimigo dos governantes, mas acaba recebendo uma missão que pode liquidar seus débitos: levar uma jovem, suspeita de ser uma bruxa, para um monastério distante. Mas o caminho será bastante tortuoso e mesmo antes de chegar ao destino, eles descobrirão que estão diante de forças sobrenaturais e que o mal está além de toda e qualquer compreensão.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] JASÃO - E O VELOCINIO DE OURO (1963) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>t89cAmA3oec</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/fbCrWcThUpxpw8CdCIpaXJ3mtHn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jasão após retornar para sua casa de uma viagem de 20 anos, deve encontrar um mágico velo de ouro para reconquistar seu trono. Assim, ele lidera uma equipe, que inclui o heroico Hércules, para ir atrás do artefato, enfrentando perigos enormes como um gigante feito de bronze.</info>
+</item>
+
 
 
 
