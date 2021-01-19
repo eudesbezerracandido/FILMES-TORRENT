@@ -2133,6 +2133,15 @@ Enredo: Caleb, um programador de 26 anos na maior empresa de internet do mundo, 
 <info>Jasão após retornar para sua casa de uma viagem de 20 anos, deve encontrar um mágico velo de ouro para reconquistar seu trono. Assim, ele lidera uma equipe, que inclui o heroico Hércules, para ir atrás do artefato, enfrentando perigos enormes como um gigante feito de bronze.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UM HOMEM DE FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72ad7bddb6580c21d73fc9270b9e2d515929304e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cV4Nlsxdetem4Dk44t44YFaS8Li.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dane Jensen (Gerard Butler), um implacavél headhunter corporativo de Chicago, está disputando com uma colega de trabalho (Alison Brie) a chance de substituir o chefe da empresa (Willem Dafoe), prestes a se aposentar. Ele é o favorito, mas ainda assim precisa bater as metas nos últimos três meses do ano. Enquanto a rivalidade atinge níveis extremos, no entanto, uma tragédia familiar faz com que ele coloque na balança suas prioridades.</info>
+</item>
+
+
 
 
 
