@@ -2149,6 +2149,14 @@ Enredo: Caleb, um programador de 26 anos na maior empresa de internet do mundo, 
 <info>O tempo se tornou a maior moeda de todas. Os cientistas conseguiram descobrir uma forma de destruir o gene do envelhecimento. Então, quando uma pessoa chega aos 25 anos, para de envelhecer, mas possui apenas mais um ano de vida, a não ser que tenha dinheiro para pagar pelo tempo extra. Na busca por poder e tempo de vida, um homem (Timberlake) é acusado injustamente de homicídio e se vê obrigado a sequestrar uma bela jovem (Amanda Seyfried) para conseguir ganhar mais tempo e provar sua inocência.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O  TRIUNFO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>LBVf1valn5s</utube>
+<thumbnail>https://s1.static.brasilescola.uol.com.br/be/conteudo/images/424ec2c1f164e800b55f3619f7ec2cfc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Matthew Perry é um jovem professor impaciente, porém talentoso, que deixa sua casa na zona rural da Carolina do Norte para se aventurar a dar aulas nas escolas de Nova York. Enquanto luta para manter seu otimismo ao se defrontar com um obstáculo após o outro, ele desistirá de tudo para retornar à sua casa com o rabo entre as pernas, ou realizará sua ambição e transformá o futuro de alguns dos mais difíceis e vulneráveis garotos da cidade?…</info>
+</item>
+
 
 
 
