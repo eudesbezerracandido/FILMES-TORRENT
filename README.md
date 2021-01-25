@@ -2141,6 +2141,14 @@ Enredo: Caleb, um programador de 26 anos na maior empresa de internet do mundo, 
 <info>Dane Jensen (Gerard Butler), um implacavél headhunter corporativo de Chicago, está disputando com uma colega de trabalho (Alison Brie) a chance de substituir o chefe da empresa (Willem Dafoe), prestes a se aposentar. Ele é o favorito, mas ainda assim precisa bater as metas nos últimos três meses do ano. Enquanto a rivalidade atinge níveis extremos, no entanto, uma tragédia familiar faz com que ele coloque na balança suas prioridades.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O PREÇO DO AMANHÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d86a002317e6a4af525e043c0c990f097be374d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kE2TBF06eSTy0jUcj9P5LG3ohUo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O tempo se tornou a maior moeda de todas. Os cientistas conseguiram descobrir uma forma de destruir o gene do envelhecimento. Então, quando uma pessoa chega aos 25 anos, para de envelhecer, mas possui apenas mais um ano de vida, a não ser que tenha dinheiro para pagar pelo tempo extra. Na busca por poder e tempo de vida, um homem (Timberlake) é acusado injustamente de homicídio e se vê obrigado a sequestrar uma bela jovem (Amanda Seyfried) para conseguir ganhar mais tempo e provar sua inocência.</info>
+</item>
+
 
 
 
