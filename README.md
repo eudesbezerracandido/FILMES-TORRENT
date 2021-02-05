@@ -2241,6 +2241,15 @@ Enredo: Em um mundo onde as pessoas com habilidades “especiais” estão viven
 <info>Totalmente dublado e com qualidade de bluray! O X-men preferido de todos está volta no ano de 2029, Logan, mais conhecido como Wolverine, ganha a vida como motorista de limousine para cuidar do velho Charles Xavier, agora com mais de 90 anos. Debilitado fisicamente e esgotado emocionalmente, ele é procurado por Gabriela, uma mexicana que precisa da ajuda do antigo X-Men para proteger a pequena Laura Kinney / X-23. Agora Logan é perseguido pelo mercenário Donald Pierce, que está interessado na menina.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] X-MAN - APOCALIPSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7da5276c2d4a3a19b718541f8f3a4e8de3907e80</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91pP3bV2dyL._AC_SX425_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Apocalipse, o primeiro mutante de todos, consegue retornar à vida após milhares de anos. Agora, ele sai à procura de seguidores para dominar o mundo. Caberá aos X-Men se unirem para impedir os planos do vilão e evitar uma catástofre mundial.
+Enredo: Desde o alvorecer da civilização, ele foi adorado como um deus. Apocalypse, o primeiro e mais poderoso mutante do universo X-Men da Marvel, acumulou os poderes de muitos outros mutantes, tornando-se imortal e invencível. Ao despertar após milhares de anos, ele está desiludido com o mundo como ele o encontra e recruta uma equipe de poderosos mutantes, incluindo um desanimado Magneto, para limpar a humanidade e criar uma nova ordem mundial, sobre a qual ele reinará. Como o destino da Terra está na balança, Raven com a ajuda do Professor X deve liderar uma equipe de jovens X-Men para impedir seu maior inimigo e salvar a humanidade da completa destruição.</info>
+</item>
+
 
 
 
