@@ -2225,6 +2225,14 @@ Enredo: Em um mundo onde as pessoas com habilidades “especiais” estão viven
 <info>O longa conta a história do passado violento e romântico de Wolverine (Hugh Jackman), de seu complexo relacionamento com Dentes de Sabre  e do ameaçador programa Arma-X. Wolverine encontra muitos mutantes pelo seu caminho, tanto familiares quanto novos, incluindo aparições surpresas de várias lendas do universo dos X-Men.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] WOLVERINE - IMORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dec2b44ab48327a8e352813b39e689f6e11ad144</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kyH36VMtY98tAeYXr70aE1S6aF2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Wolverine tem de enfrentar um inimigo à sua altura nesta batalha de vida ou morte, repleta de ação, passada no Japão dos dias de hoje. Vulnerável pela primeira vez e desafiado até o limite, Logan (Jackman) enfrenta não só o letal samurai feito de aço, mas também uma batalha interna contra sua própria imortalidade numa luta épica que o mudará para sempre.</info>
+</item>
+
 
 
 
