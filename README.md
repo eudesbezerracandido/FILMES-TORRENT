@@ -2176,17 +2176,17 @@ Enredo: Em um mundo onde as pessoas com habilidades “especiais” estão viven
 </item>
 
 <item>
-<name>[COLOR silver][B] COLEÇÃO - X-MAN [/COLOR][/B][COLOR yellow]   FULL HD  [B][/COLOR][/B]</name>
+<name>[COLOR silver][B] COLEÇÃO - X-MEN [/COLOR][/B][COLOR yellow]   FULL HD  [B][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <item>
-<title>[COLOR silver][B] X-MAN - O FILME [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] X-MEN - O FILME [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39eb9768fc67a32861563fe0b3e4cef0472080bb</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Nascidos em um mundo cheio de preconceitos, estão algumas crianças que possuem poderes extraordinários e perigosos resultado de mutações genéticas. Sob a orientação do Prof. Xavier, eles aprendem a direcionar seus poderes em prol da humanidade.</info>
 
 <item>
-<title>[COLOR silver][B] X-MAN 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] X-MEN 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3077990e44b2d0f149d97875e61f4fcf14bb57fb</link>
 <thumbnail>http://vortexcultural.com.br/images/2019/06/x-men-2.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -2194,7 +2194,7 @@ Enredo: Em um mundo onde as pessoas com habilidades “especiais” estão viven
 </item>
 
 <item>
-<title>[COLOR silver][B] X-MAN 3 - O CONFRONTO FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] X-MEN 3 - O CONFRONTO FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:429436f4e5f7d05179f02a7b2df5e664a6c959d8</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71%2BawUoH43L._AC_SX569_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -2202,7 +2202,7 @@ Enredo: Em um mundo onde as pessoas com habilidades “especiais” estão viven
 </item>
 
 <item>
-<title>[COLOR silver][B] X-MAN - PRIMEIRA CLASSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] X-MEN - PRIMEIRA CLASSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f20640c5c8578e45e251817ddd2a7ca31873857</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1ytEXLIfyEVf12IQq2bKpEbHnBW.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -2210,7 +2210,7 @@ Enredo: Em um mundo onde as pessoas com habilidades “especiais” estão viven
 </item>
 
 <item>
-<title>[COLOR silver][B] X-MAN - DIAS DE UM FUTURO ESQUECIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] X-MEN - DIAS DE UM FUTURO ESQUECIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E868C0C950B1A06DA25AB20E1F216E002FBEB43 </link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bFBCWz9mfTXQ9fVwce8z99dGuXh.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -2218,7 +2218,7 @@ Enredo: Em um mundo onde as pessoas com habilidades “especiais” estão viven
 </item>
 
 <item>
-<title>[COLOR silver][B] X-MAN - ORIGENS- WOLVERINE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] X-MEN - ORIGENS- WOLVERINE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f82a8659c872ca84be24d1ca58c83d34e7e03486</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xS0qoaeYDcZN0kDDgQEBybhuzP7.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -2242,7 +2242,7 @@ Enredo: Em um mundo onde as pessoas com habilidades “especiais” estão viven
 </item>
 
 <item>
-<title>[COLOR silver][B] X-MAN - APOCALIPSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] X-MEN - APOCALIPSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7da5276c2d4a3a19b718541f8f3a4e8de3907e80</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91pP3bV2dyL._AC_SX425_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -2251,7 +2251,7 @@ Enredo: Desde o alvorecer da civilização, ele foi adorado como um deus. Apocal
 </item>
 
 <item>
-<title>[COLOR silver][B] X-MAN - FENIX NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] X-MEN - FENIX NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4E8F80B8AF3A5957EBB34FD181CF1D9B8717AB8C</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/w4mvEKtjawXdYaq1bORuodLX6ti.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
