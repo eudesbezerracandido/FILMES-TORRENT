@@ -2234,6 +2234,16 @@ Enredo: Desde o alvorecer da civilização, ele foi adorado como um deus. Apocal
 <info>Ambientado em 1992, Charles Xavier está lidando com o fato dos mutantes serem considerados heróis nacionais. Com o orgulho a flor da pele, ele envia sua equipe para perigosas missões, mas a primeira tarefa dos X-Men no espaço gera uma explosão solar, que acende uma força malévola e faminta por poder dentro de Jean Grey.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] BLACKOUT - A BATALHA FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9918a5745251095ad204488e21600062a16de24e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ciUTvwB0w2MhFUQjU3VuO9q9gZp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nenhum meteorito atingiu a Terra, nenhum terrorista colocou o mundo em perigo, nenhuma guerra atômica foi iniciada, mas algo deu errado. O contato entre a maioria das cidades da Terra foi cortado. Uma pequena área semelhante a um anel na Europa Oriental ainda tem eletricidade. O que forças militares encontram fora do Anel é chocante. Há cadáveres mortos em todos os lugares: nas lojas, nos carros, nas estradas, nos hospitais e nas estações ferroviárias. Quem ou o que está destruindo toda a vida na Terra? Por quanto tempo o último posto avançado da humanidade sobreviverá?
+Enredo: Não há meteoritos atingem a Terra, há terroristas colocar o mundo em perigo, nenhuma guerra atômica foi iniciado, mas algo fez de errado movimento. O contato entre a maioria das cidades da Terra foi cortada. Um pequeno anel-como a área na Europa Oriental ainda tem eletricidade, e talvez até mesmo a vida está sendo relatado a partir do espaço. Que forças militares encontrar fora do ringue é chocante. Há cadáveres por toda parte: nas lojas, nos carros, nas estradas, nos hospitais e estações ferroviárias. Quem ou o que é destruir toda a vida na Terra? Quanto tempo o último posto avançado da humanidade sobreviver?</info>
+</item>
+
+
 
 
 
