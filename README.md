@@ -2175,6 +2175,44 @@ Enredo: Uma equipe de pesquisadores de trabalho aquático para obter a seguranç
 Enredo: Em um mundo onde as pessoas com habilidades “especiais” estão vivendo na pobreza, Conner Reed (Robbie Amell) é um jovem poderosa que está lutando para pagar o tratamento médico de sua mãe doente. Para ganhar dinheiro, ele se junta a um mundo do crime lucrativo liderado por Garrett (Stephen Amell), que trabalha para um traficante (Greg Bryk).</info>
 </item>
 
+<channels></channels>
+<channel
+<name>[COLOR silver][B] COLEÇÃO - X-MAN [/COLOR][/B][COLOR yellow]   FULL HD  [B][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<item>
+<title>[COLOR silver][B] X-MAN - O FILME [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39eb9768fc67a32861563fe0b3e4cef0472080bb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nascidos em um mundo cheio de preconceitos, estão algumas crianças que possuem poderes extraordinários e perigosos resultado de mutações genéticas. Sob a orientação do Prof. Xavier, eles aprendem a direcionar seus poderes em prol da humanidade.</info>
+
+<item>
+<title>[COLOR silver][B] X-MAN 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3077990e44b2d0f149d97875e61f4fcf14bb57fb</link>
+<thumbnail>http://vortexcultural.com.br/images/2019/06/x-men-2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ainda vivendo em um mundo que os odeia, os mutantes passam a sofrer uma discriminação ainda maior quando um novo mutante provoca um ataque ao Presidente dos Estados Unidos, quase matando-o. A notícia faz com que a sociedade se manifeste ainda mais contra os mutantes, fazendo com que ganhe força o projeto do registro de mutantes. William Stryker (Brian Cox), um militar que tem experiência em lidar com mutantes e uma ligação com o passado de Wolverine (Hugh Jackman), torna-se um dos porta-vozes deste pedido, além de se tornar o responsável por um plano que tem por meta erradicar de uma vez por todas os mutantes. Com a autorização do Presidente, Stryker inicia uma grande ofensiva contra os mutantes, invadindo a mansão do Professor Charles Xavier e forçando que Magneto, que fugiu da prisão, se una aos X-Men para combater Stryker.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] X-MAN 3 - O CONFRONTO FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:429436f4e5f7d05179f02a7b2df5e664a6c959d8</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71%2BawUoH43L._AC_SX569_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> É descoberta uma cura para os mutantes, que agora podem optar por manter seus poderes ou se tornarem seres humanos normais. A descoberta põe em campos opostos Magneto, que acredita que esta cura se tornará uma arma contra os mutantes, e os X-Men, liderados pelo professor Charles Xavier.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] X-MAN - PRIMEIRA CLASSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f20640c5c8578e45e251817ddd2a7ca31873857</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1ytEXLIfyEVf12IQq2bKpEbHnBW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Veja como tudo começou neste emocionante primeiro capítulo da saga dos X-Men. Antes de Charles Xavier e Eric Lehnsherr passarem a ser conhecidos como professor X e Magneto, eles eram dois rapazes que ainda descobriam seus poderes. Antes de eles serem inimigos, eles eram amigos íntimos e reuniram uma elite de mutantes para formar os X-Men numa tentativa de impedir a 3° Guerra Mundial!</info>
+</item>
+</item>
+</channel>
+
+
 
 
 
