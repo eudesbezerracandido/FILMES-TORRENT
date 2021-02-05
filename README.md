@@ -2243,6 +2243,15 @@ Enredo: Desde o alvorecer da civilização, ele foi adorado como um deus. Apocal
 Enredo: Não há meteoritos atingem a Terra, há terroristas colocar o mundo em perigo, nenhuma guerra atômica foi iniciado, mas algo fez de errado movimento. O contato entre a maioria das cidades da Terra foi cortada. Um pequeno anel-como a área na Europa Oriental ainda tem eletricidade, e talvez até mesmo a vida está sendo relatado a partir do espaço. Que forças militares encontrar fora do ringue é chocante. Há cadáveres por toda parte: nas lojas, nos carros, nas estradas, nos hospitais e estações ferroviárias. Quem ou o que é destruir toda a vida na Terra? Quanto tempo o último posto avançado da humanidade sobreviver?</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O DESPERTAR DA LENDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:baeea42af4809fa3c185e8bf6aefe94ac1130823</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qWMDdJsyGv5oMnJj66ZCKVforqL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um extraordinário e muito habilidoso lutador de artes marciais (Eddie Peng) retorna a sua cidade natal onde seu pai foi assassinado. Sua intenção é enfrentar o impiedoso chefão do crime e trazer justiça não só para ele, mas para as pessoas do local.
+Enredo: Um órfão, cujo pai foi morto pelo poder das trevas, tenta trazer a justiça de volta à cidade.</info>
+</item>
+
 
 
 
