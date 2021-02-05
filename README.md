@@ -2233,6 +2233,14 @@ Enredo: Em um mundo onde as pessoas com habilidades “especiais” estão viven
 <info>Wolverine tem de enfrentar um inimigo à sua altura nesta batalha de vida ou morte, repleta de ação, passada no Japão dos dias de hoje. Vulnerável pela primeira vez e desafiado até o limite, Logan (Jackman) enfrenta não só o letal samurai feito de aço, mas também uma batalha interna contra sua própria imortalidade numa luta épica que o mudará para sempre.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] LOGAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:770A9166779280BE20A435BCD943699AF36E45E7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sPQ41s9XwRaawK4LuuU6meoYhEs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Totalmente dublado e com qualidade de bluray! O X-men preferido de todos está volta no ano de 2029, Logan, mais conhecido como Wolverine, ganha a vida como motorista de limousine para cuidar do velho Charles Xavier, agora com mais de 90 anos. Debilitado fisicamente e esgotado emocionalmente, ele é procurado por Gabriela, uma mexicana que precisa da ajuda do antigo X-Men para proteger a pequena Laura Kinney / X-23. Agora Logan é perseguido pelo mercenário Donald Pierce, que está interessado na menina.</info>
+</item>
+
 
 
 
