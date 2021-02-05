@@ -2217,6 +2217,14 @@ Enredo: Em um mundo onde as pessoas com habilidades “especiais” estão viven
 <info>No futuro, os mutantes são caçados impiedosamente pelos Sentinelas, gigantescos robôs criados por Bolívar Trask (Peter Dinklage). Os poucos sobreviventes precisam viver escondidos, caso contrário serão também mortos. Entre eles estão o professor Charles Xavier (Patrick Stewart), Magneto (Ian McKellen), Tempestade (Halle Berry), Kitty Pryde (Ellen Page) e Wolverine (Hugh Jackman), que buscam um meio de evitar que os mutantes sejam aniquilados. O meio encontrado é enviar a consciência de Wolverine em uma viagem no tempo, rumo aos anos 1970. Lá ela ocupa o corpo do Wolverine da época, que procura os ainda jovens Xavier (James McAvoy) e Magneto (Michael Fassbender) para que, juntos, impeçam que este futuro trágico para os mutantes se torne realidade. Com cenas inéditas e conteúdo inédito, a Edição Vampira te leva a uma imersão no universo dos X-men nunca vista antes. Veja o encontro dos personagens da franquia original enquanto eles unem forças com seus personagens mais jovens na luta contra o exército de Sentinelas que estão caçando mutantes e humanos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] X-MAN - ORIGENS- WOLVERINE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f82a8659c872ca84be24d1ca58c83d34e7e03486</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xS0qoaeYDcZN0kDDgQEBybhuzP7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O longa conta a história do passado violento e romântico de Wolverine (Hugh Jackman), de seu complexo relacionamento com Dentes de Sabre  e do ameaçador programa Arma-X. Wolverine encontra muitos mutantes pelo seu caminho, tanto familiares quanto novos, incluindo aparições surpresas de várias lendas do universo dos X-Men.</info>
+</item>
+
 
 
 
