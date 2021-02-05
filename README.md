@@ -2175,8 +2175,7 @@ Enredo: Uma equipe de pesquisadores de trabalho aquático para obter a seguranç
 Enredo: Em um mundo onde as pessoas com habilidades “especiais” estão vivendo na pobreza, Conner Reed (Robbie Amell) é um jovem poderosa que está lutando para pagar o tratamento médico de sua mãe doente. Para ganhar dinheiro, ele se junta a um mundo do crime lucrativo liderado por Garrett (Stephen Amell), que trabalha para um traficante (Greg Bryk).</info>
 </item>
 
-<channels></channels>
-<channel
+<item>
 <name>[COLOR silver][B] COLEÇÃO - X-MAN [/COLOR][/B][COLOR yellow]   FULL HD  [B][/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <item>
@@ -2209,8 +2208,7 @@ Enredo: Em um mundo onde as pessoas com habilidades “especiais” estão viven
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Veja como tudo começou neste emocionante primeiro capítulo da saga dos X-Men. Antes de Charles Xavier e Eric Lehnsherr passarem a ser conhecidos como professor X e Magneto, eles eram dois rapazes que ainda descobriam seus poderes. Antes de eles serem inimigos, eles eram amigos íntimos e reuniram uma elite de mutantes para formar os X-Men numa tentativa de impedir a 3° Guerra Mundial!</info>
 </item>
-</item>
-</channel>
+
 
 
 
