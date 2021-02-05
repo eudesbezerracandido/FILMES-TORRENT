@@ -2250,6 +2250,14 @@ Enredo: Em um mundo onde as pessoas com habilidades “especiais” estão viven
 Enredo: Desde o alvorecer da civilização, ele foi adorado como um deus. Apocalypse, o primeiro e mais poderoso mutante do universo X-Men da Marvel, acumulou os poderes de muitos outros mutantes, tornando-se imortal e invencível. Ao despertar após milhares de anos, ele está desiludido com o mundo como ele o encontra e recruta uma equipe de poderosos mutantes, incluindo um desanimado Magneto, para limpar a humanidade e criar uma nova ordem mundial, sobre a qual ele reinará. Como o destino da Terra está na balança, Raven com a ajuda do Professor X deve liderar uma equipe de jovens X-Men para impedir seu maior inimigo e salvar a humanidade da completa destruição.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] X-MAN - FENIX NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4E8F80B8AF3A5957EBB34FD181CF1D9B8717AB8C</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w4mvEKtjawXdYaq1bORuodLX6ti.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ambientado em 1992, Charles Xavier está lidando com o fato dos mutantes serem considerados heróis nacionais. Com o orgulho a flor da pele, ele envia sua equipe para perigosas missões, mas a primeira tarefa dos X-Men no espaço gera uma explosão solar, que acende uma força malévola e faminta por poder dentro de Jean Grey.</info>
+</item>
+
 
 
 
