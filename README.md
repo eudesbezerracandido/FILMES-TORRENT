@@ -2242,7 +2242,7 @@ Enredo: Não há meteoritos atingem a Terra, há terroristas colocar o mundo em 
 
 <item>
 <title>[COLOR silver][B] O DESPERTAR DA LENDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D9EC4B76BE99E94AA7936E4EA32446F1B9ABD21</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:baeea42af4809fa3c185e8bf6aefe94ac1130823</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qWMDdJsyGv5oMnJj66ZCKVforqL.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um extraordinário e muito habilidoso lutador de artes marciais (Eddie Peng) retorna a sua cidade natal onde seu pai foi assassinado. Sua intenção é enfrentar o impiedoso chefão do crime e trazer justiça não só para ele, mas para as pessoas do local.
