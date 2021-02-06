@@ -2152,9 +2152,6 @@ Enredo: Em um mundo onde as pessoas com habilidades “especiais” estão viven
 </item>
 
 <item>
-<name>[COLOR silver][B] COLEÇÃO - X-MEN [/COLOR][/B][COLOR yellow]   FULL HD  [B][/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<item>
 <title>[COLOR silver][B] X-MEN - O FILME [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39eb9768fc67a32861563fe0b3e4cef0472080bb</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg</thumbnail>
@@ -2187,7 +2184,7 @@ Enredo: Em um mundo onde as pessoas com habilidades “especiais” estão viven
 
 <item>
 <title>[COLOR silver][B] X-MEN - DIAS DE UM FUTURO ESQUECIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E868C0C950B1A06DA25AB20E1F216E002FBEB43 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E868C0C950B1A06DA25AB20E1F216E002FBEB43</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bFBCWz9mfTXQ9fVwce8z99dGuXh.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>No futuro, os mutantes são caçados impiedosamente pelos Sentinelas, gigantescos robôs criados por Bolívar Trask (Peter Dinklage). Os poucos sobreviventes precisam viver escondidos, caso contrário serão também mortos. Entre eles estão o professor Charles Xavier (Patrick Stewart), Magneto (Ian McKellen), Tempestade (Halle Berry), Kitty Pryde (Ellen Page) e Wolverine (Hugh Jackman), que buscam um meio de evitar que os mutantes sejam aniquilados. O meio encontrado é enviar a consciência de Wolverine em uma viagem no tempo, rumo aos anos 1970. Lá ela ocupa o corpo do Wolverine da época, que procura os ainda jovens Xavier (James McAvoy) e Magneto (Michael Fassbender) para que, juntos, impeçam que este futuro trágico para os mutantes se torne realidade. Com cenas inéditas e conteúdo inédito, a Edição Vampira te leva a uma imersão no universo dos X-men nunca vista antes. Veja o encontro dos personagens da franquia original enquanto eles unem forças com seus personagens mais jovens na luta contra o exército de Sentinelas que estão caçando mutantes e humanos.</info>
