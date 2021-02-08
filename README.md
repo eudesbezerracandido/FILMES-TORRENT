@@ -2266,6 +2266,14 @@ Enredo: Um órfão, cujo pai foi morto pelo poder das trevas, tenta trazer a jus
 Enredo: Nelson Mandela é um advogado Sul-Africano que se junta o Congresso Nacional Africano em 1940, quando a lei sob a tirania brutal do sistema de Apartheid prova inúteis para seu povo. Forçado a abandonar o protesto pacífico à resistência armada após o Massacre de Sharpeville, Mandela paga o preço quando ele e seus companheiros estão condenados à prisão perpétua por traição, enquanto sua esposa, Winnie, é abusado pelas autoridades si mesma. Ao longo das décadas em cadeias, o espírito de Mandela é unbowed como sua luta continua e além de seu cativeiro para tornar-se uma causa internacional. No entanto, como a determinação de Winnie endurece ao longo dos anos em uma crueldade violenta, própria estatura de Nelson sobe até que ele se torna o renomado líder de seu movimento. Este estatuto seria posta à prova como seus aproxima de libertação e uma maneira deve ser encontrada para uma vitória tranquila que vai deixar o seu país, e todos os seus povos, imaculado.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O DESAPARECIMENTO -  O MISTÉRIO DO FAROL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a12c068e5aa5b8d3881cf64e8c5afcedb5021ed4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fPgC3fcNUViQ8TTAG7ALSphErrL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em uma ilha desabitada ao longo da costa da Escócia, três faroleiros (Butler, Alwyn, Mullan) chegam para os seus seis turnos de semana. Quando eles se instalam em suas rotinas regulares, tropeçam em cima de um segredo inesperado e que vai mudar as suas vidas.</info>
+</item>
+
 
 
 
