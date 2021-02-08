@@ -2251,11 +2251,10 @@ Enredo: Um órfão, cujo pai foi morto pelo poder das trevas, tenta trazer a jus
 
 <item>
 <title>[COLOR silver][B] O DESTEMIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d906ec61b46821abcb360553777964420412dd34</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65BC3B3977FACA351BD2CF14BCF702143B87E46F</link>
 <thumbnail>https://capas-m.imagemfilmes.com.br/109800_000_m.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Su Qi-Er, um importante e competente general da dinastia Qing, decide se aposentar para realizar o seu sonho de se dedicar a família e de ter sua própria escola de artes marciais. Porém, os planos de Su são destruídos quando seu irmão adotivo, Yuan, tenta matá-lo e sequestra seu filho. Salvo por sua esposa e uma médica reclusa, Su resolve aperfeiçoar suas técnicas de luta para derrotar Yuan e reunir sua família novamente. Com a ajuda de um mestre considerado o Deus de Wushu e do excêntrico Velho Sábio, Su se torna um grande mestre e embarca em uma jornada que dará inicio a lenda do Rei dos Mendigos.
-Enredo: Su Qi-Er se aposentou de sua vida como um renomado general da dinastia Qing, a fim de perseguir seu sonho de uma família e sua própria escola de artes marciais. No entanto, a vida pacífica de Su é destruída quando seu irmão adotivo vingativo, Yuan Lie, seqüestra seu filho e deixa Su morto. Salvo de sua morte por sua esposa Ying e o médico recluso Yu, Su resolve aperfeiçoar sua técnica para que ele possa derrotar Yuan Lie e reunir sua família. Sofrendo de visões que ele ajudou em seu treinamento por dois dos “Oito Imortais” na forma do místico “Deus de Wushu” e do excêntrico “Sábio Antigo” mestre do Embriaguez do Boxe. Ele embarca no caminho que eventualmente daria origem à</info>
+<info>No final da Dinastia Qing, vivia Su Qi-Er, um homem rico que perde toda sua fortuna e reputação graças a uma conspiração feita pelo seu próprio meio-irmão. Após ser forçado a vagar pelas ruas, Su dedica sua vida às artes marciais e resurge como um herói pratriótico conhecido como o “Rei dos Mendigos.</info>
 </item>
 
 
