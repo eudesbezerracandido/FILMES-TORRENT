@@ -2274,6 +2274,15 @@ Enredo: Nelson Mandela é um advogado Sul-Africano que se junta o Congresso Naci
 <info>Em uma ilha desabitada ao longo da costa da Escócia, três faroleiros (Butler, Alwyn, Mullan) chegam para os seus seis turnos de semana. Quando eles se instalam em suas rotinas regulares, tropeçam em cima de um segredo inesperado e que vai mudar as suas vidas.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] HORAS DECISIVAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cc54c62581ad02622eac61684ee07cb32d32dc4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8VTYz8SkU8DcBgKNprMjqPNZBgt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> 1952, uma grande nevasca leva uma plataforma de petróleo a se rachar, lançando 84 tripulantes ao mar. Enquanto a tempestade dificulta a sobrevivência do grupo, uma equipe de guardas costeiros tenta resgatar as vítimas.</info>
+</item>
+
+
 
 
 
