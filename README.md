@@ -2285,7 +2285,7 @@ Enredo: Nelson Mandela é um advogado Sul-Africano que se junta o Congresso Naci
 <item>
 <title>[COLOR silver][B] EU SOU A LENDA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7EBB18788ADAEA8F111249BF9E0E5C64D48E3084</link>
-<thumbnail>https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.amazon.com.br%2FEu-Sou-Lenda-Edi%25C3%25A7%25C3%25A3o-Premium%2Fdp%2FB07R2FMHCZ&psig=AOvVaw1MF3GBovoKWc2rL_a0A_d7&ust=1613617158443000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIin2MX27-4CFQAAAAAdAAAAABAY</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/6urQ17k0Pepx8RoYVeRbwaCSVIS.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Dr. Neville é um cientista militar. Ele é a única pessoa que não foi contaminada por um vírus, criado 3 anos antes por uma cientista que buscava uma cura para o câncer, em toda a cidade de Nova Iorque e provavelmente em centenas de quilômetros. Ele já era o responsável por encontrar uma cura para esse vírus, por isso tem um laboratório no qual faz testes a partir do próprio sangue. As pessoas infectadas que não morreram imediatamente vivem como vampiros, apresentando sintomas parecidos aos da raiva e um comportamento selvagem e ameaçador. Por tanto, Neville tem que lutar diariamente tanto contra o risco de cometer um erro e ser pego pelas pessoas infectadas, como contra a solidão que o atormenta diariamente, algo que o faz esperar todos os dias no porto da cidade por alguém que escute sua mensagem de rádio.</info>
 </item>
