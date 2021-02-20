@@ -3,8 +3,8 @@ TORRENT FILMES
 
 <item>
 <title>[COLOR silver][B] GREYSTOKE- A LENDA DO TARZAN[/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7037C714ABA74FA8CA144D3EA734A64A401E7D25</link>
-<thumbnail>https://tvguide1.cbsistatic.com/feed/1/138/thumbs/11570138_1300x1733.jpg</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86cd0e5c304473e7ac40ce812f87f67d55802d98</link>
+<thumbnail>https://www.google.com.br/url?sa=i&url=http%3A%2F%2Fwww.eovideolevou.com.br%2Fdetalhe%2Fcompleto.asp%3Fcp%3D34296&psig=AOvVaw1B_T75bm6ZHpDFpzXWDoJZ&ust=1613908799299000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiAk4K1-O4CFQAAAAAdAAAAABAc</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em 1886, após um naufrágio na costa oeste da África, uma criança é criada por uma família de macacos na selva. Já adulto, ele é encontrado e levado de volta ao mundo da aristocracia britânica, onde descobre que a civilização pode ser muito cruel.</info>
 </item>
