@@ -2288,7 +2288,7 @@ Enredo: Nelson Mandela é um advogado Sul-Africano que se junta o Congresso Naci
 <thumbnail>https://www.themoviedb.org/t/p/original/6urQ17k0Pepx8RoYVeRbwaCSVIS.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Dr. Neville é um cientista militar. Ele é a única pessoa que não foi contaminada por um vírus, criado 3 anos antes por uma cientista que buscava uma cura para o câncer, em toda a cidade de Nova Iorque e provavelmente em centenas de quilômetros. Ele já era o responsável por encontrar uma cura para esse vírus, por isso tem um laboratório no qual faz testes a partir do próprio sangue. As pessoas infectadas que não morreram imediatamente vivem como vampiros, apresentando sintomas parecidos aos da raiva e um comportamento selvagem e ameaçador. Por tanto, Neville tem que lutar diariamente tanto contra o risco de cometer um erro e ser pego pelas pessoas infectadas, como contra a solidão que o atormenta diariamente, algo que o faz esperar todos os dias no porto da cidade por alguém que escute sua mensagem de rádio.</info>
-</item>
+</item> 
 
 
 
