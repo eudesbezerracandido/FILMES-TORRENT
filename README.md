@@ -2,7 +2,7 @@
 TORRENT FILMES
 
 <item>
-<title>[COLOR silver][B] GREYSTOKE- A LENDA DO TARZAN[/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] GREYSTOKE- A LENDA DO TARZAN (LEG.)[/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39ba595d03675bd822d413d408f9e245898b275a</link>
 <thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/099a39fdff3bcf2ba92c194fed82d265.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
