@@ -4,7 +4,7 @@ TORRENT FILMES
 <item>
 <title>[COLOR silver][B] GREYSTOKE- A LENDA DO TARZAN[/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86cd0e5c304473e7ac40ce812f87f67d55802d98</link>
-<thumbnail>https://www.google.com.br/url?sa=i&url=http%3A%2F%2Fwww.eovideolevou.com.br%2Fdetalhe%2Fcompleto.asp%3Fcp%3D34296&psig=AOvVaw1B_T75bm6ZHpDFpzXWDoJZ&ust=1613908799299000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiAk4K1-O4CFQAAAAAdAAAAABAc</thumbnail>
+<thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/099a39fdff3bcf2ba92c194fed82d265.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em 1886, após um naufrágio na costa oeste da África, uma criança é criada por uma família de macacos na selva. Já adulto, ele é encontrado e levado de volta ao mundo da aristocracia britânica, onde descobre que a civilização pode ser muito cruel.</info>
 </item>
@@ -2288,7 +2288,7 @@ Enredo: Nelson Mandela é um advogado Sul-Africano que se junta o Congresso Naci
 <thumbnail>https://www.themoviedb.org/t/p/original/6urQ17k0Pepx8RoYVeRbwaCSVIS.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Dr. Neville é um cientista militar. Ele é a única pessoa que não foi contaminada por um vírus, criado 3 anos antes por uma cientista que buscava uma cura para o câncer, em toda a cidade de Nova Iorque e provavelmente em centenas de quilômetros. Ele já era o responsável por encontrar uma cura para esse vírus, por isso tem um laboratório no qual faz testes a partir do próprio sangue. As pessoas infectadas que não morreram imediatamente vivem como vampiros, apresentando sintomas parecidos aos da raiva e um comportamento selvagem e ameaçador. Por tanto, Neville tem que lutar diariamente tanto contra o risco de cometer um erro e ser pego pelas pessoas infectadas, como contra a solidão que o atormenta diariamente, algo que o faz esperar todos os dias no porto da cidade por alguém que escute sua mensagem de rádio.</info>
-</item> 
+</item>  
 
 
 
