@@ -2288,7 +2288,18 @@ Enredo: Nelson Mandela é um advogado Sul-Africano que se junta o Congresso Naci
 <thumbnail>https://www.themoviedb.org/t/p/original/6urQ17k0Pepx8RoYVeRbwaCSVIS.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Dr. Neville é um cientista militar. Ele é a única pessoa que não foi contaminada por um vírus, criado 3 anos antes por uma cientista que buscava uma cura para o câncer, em toda a cidade de Nova Iorque e provavelmente em centenas de quilômetros. Ele já era o responsável por encontrar uma cura para esse vírus, por isso tem um laboratório no qual faz testes a partir do próprio sangue. As pessoas infectadas que não morreram imediatamente vivem como vampiros, apresentando sintomas parecidos aos da raiva e um comportamento selvagem e ameaçador. Por tanto, Neville tem que lutar diariamente tanto contra o risco de cometer um erro e ser pego pelas pessoas infectadas, como contra a solidão que o atormenta diariamente, algo que o faz esperar todos os dias no porto da cidade por alguém que escute sua mensagem de rádio.</info>
-</item>  
+</item>
+
+<item>
+<title>[COLOR silver][B] FEITIÇO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab7007e433ace7bbeb1e337f96658c73cf150530</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1sma2ElU39zmKAx7ZObfSQVQyJK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um homem sofre um acidente com seu avião, enquanto viaja para Appalachia rural com sua família para um funeral, quando acorda se encontra totalmente sozinho e sem orientação. Aliviado por ser descoberto por um casal de idosos aparentemente gentil, ele não tem como saber as maquinações sombrias que estão à sua espera enquanto ele é puxado cada vez mais fundo para um mundo sinistro.</info>
+</item>
+
+
+
 
 
 
