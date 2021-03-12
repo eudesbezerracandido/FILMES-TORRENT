@@ -2298,6 +2298,15 @@ Enredo: Nelson Mandela é um advogado Sul-Africano que se junta o Congresso Naci
 <info> Um homem sofre um acidente com seu avião, enquanto viaja para Appalachia rural com sua família para um funeral, quando acorda se encontra totalmente sozinho e sem orientação. Aliviado por ser descoberto por um casal de idosos aparentemente gentil, ele não tem como saber as maquinações sombrias que estão à sua espera enquanto ele é puxado cada vez mais fundo para um mundo sinistro.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A FAMILIA BUSCAPÉ (1993) BREVE AQUI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/210/462/21046245_2013100221150118.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jed Clampett (Jim Varney) decide se mudar do interior do Arkansas para a luxuosa cidade de Beverly Hills, na Califórnia, quando se torna um bilionário após encontrar petróleo. O caipira ingênuo leva toda sua família para a cidade grande, onde, diante daquele choque cultural, passa a procurar uma esposa.</info>
+</item>
+
+
 
 
 
