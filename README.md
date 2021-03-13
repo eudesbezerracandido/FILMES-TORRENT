@@ -2306,6 +2306,17 @@ Enredo: Nelson Mandela é um advogado Sul-Africano que se junta o Congresso Naci
 <info>Jed Clampett (Jim Varney) decide se mudar do interior do Arkansas para a luxuosa cidade de Beverly Hills, na Califórnia, quando se torna um bilionário após encontrar petróleo. O caipira ingênuo leva toda sua família para a cidade grande, onde, diante daquele choque cultural, passa a procurar uma esposa.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UM PRINCIPE EM NOVA YORK 1 (1988) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b0c49d741963a7c5bbb2d58e38d7b0d2dca60b8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p4tEfYSXFLl7qOXA7QwKF9R1qfV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Akeem (Eddie Murphy), príncipe herdeiro de Zamunda, África, se rebela contra o casamento arranjando por seu pai, o rei Jaffe Joffer (James Earl Jones), que concorda que o filho viaje por 40 dias. Assim Akeem vai para Nova York, se passando por um pobre estudante para encontrar uma noiva que não o ame por sua posição. Vai trabalhar em uma lanchonete e sente-se atraído por Lisa (Shari Hadley), a filha do seu patrão, Cleo McDowell (John Amos), que é interesseiro e atrapalha o romance, pois quer um bom partido para a filha, sem imaginar quem é na verdade seu funcionário. Akeem viajou com Semmi (Arsenio Hall), seu melhor amigo, que não gosta de se passar por pobre e faz gastos e toma atitudes que podem revelar a identidade de Akeem.
+Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar com uma mulher que nunca viu antes. Agora o príncipe rompe com a tradição e viaja para a América em busca do amor de sua vida.</info>
+</item>
+
+
+
 
 
 
