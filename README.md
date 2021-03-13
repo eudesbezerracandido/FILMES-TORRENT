@@ -2331,6 +2331,14 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 <info>Em 1978, quatro adolescentes embarcam numa louca aventura pelas estradas americanas rumo ao show de sua banda favorita, o KISS, na cidade de Detroit. Levados pela paixão pelo grupo de rock, nada poderá impedir o grupo de assistir ao grandioso espetáculo.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ÁRTICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0b238be258fdeb458ebf0d92542287117737442</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6Xqzvo7KG8oYj9DitvzN3NTI7rS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um homem fica perdido no Ártico e está prestes a ser socorrido. Contudo, um acidente trágico faz com que ele perca sua aguardada oportunidade de resgate. É aí que ele precisa decidir entre ficar relativamente seguro em seu acampamento ou seguir numa jornada incerta para escapar.</info>
+</item>
+
 
 
 
