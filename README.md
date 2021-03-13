@@ -2323,6 +2323,15 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 <info>Nastya é uma jovem mulher que viaja com seu futuro marido para a casa da família dele. Logo após chegar, ela percebe que a visita pode ter sido um erro terrível. Rodeada por pessoas estranhas, ela passa a ter visões horríveis à medida que a família do seu futuro esposo a prepara para uma tradicional cerimônia de casamento eslava.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] KISS DETROIT ROCK CITY (1978) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c4ec18b35cdafcae4b8807f354918711115a9d3</link>
+<thumbnail>https://ia601406.us.archive.org/25/items/kiss_20210313/unnamed.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1978, quatro adolescentes embarcam numa louca aventura pelas estradas americanas rumo ao show de sua banda favorita, o KISS, na cidade de Detroit. Levados pela paixão pelo grupo de rock, nada poderá impedir o grupo de assistir ao grandioso espetáculo.</info>
+</item>
+
+
 
 
 
