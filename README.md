@@ -2315,6 +2315,15 @@ Enredo: Nelson Mandela é um advogado Sul-Africano que se junta o Congresso Naci
 Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar com uma mulher que nunca viu antes. Agora o príncipe rompe com a tradição e viaja para a América em busca do amor de sua vida.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A NOIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8F52A79058352276B45C16090313A78990685EED</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mSL75MtJtl8mhMef7NZBMZMi9mA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nastya é uma jovem mulher que viaja com seu futuro marido para a casa da família dele. Logo após chegar, ela percebe que a visita pode ter sido um erro terrível. Rodeada por pessoas estranhas, ela passa a ter visões horríveis à medida que a família do seu futuro esposo a prepara para uma tradicional cerimônia de casamento eslava.</info>
+</item>
+
+
 
 
 
