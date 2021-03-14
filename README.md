@@ -2339,6 +2339,14 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 <info>Um homem fica perdido no Ártico e está prestes a ser socorrido. Contudo, um acidente trágico faz com que ele perca sua aguardada oportunidade de resgate. É aí que ele precisa decidir entre ficar relativamente seguro em seu acampamento ou seguir numa jornada incerta para escapar.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] FRAÇÃO DE SEGUNDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c804151e7c6a9ae4ea630fc729f57a7a9c2c288</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/om9LLjsNgwE36OEnIbFxlXK3YDn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um homem perde dez minutos de sua memória ao ser atingido por uma bala perdida durante um assalto, que levou à morte de seu irmão. Para tentar descobrir o que aconteceu, ele tenta recuperar o que desapareceu de sua mente.</info>
+</item>
+
 
 
 
