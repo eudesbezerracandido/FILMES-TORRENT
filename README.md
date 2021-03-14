@@ -2355,6 +2355,14 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 <info>Frank Farmer, um guarda-costas altamente eficiente e caro, é contratado para proteger Rachel Marron, uma grande cantora e atriz que está recebendo cartas anônimas e ameaçadoras. Frank é um ex-agente do Serviço Secreto que ainda não se perdoou do sentimento de culpa em relação à sua inabilidade de proteger o presidente Reagan, que quase foi assassinado. Frank e Rachel se apaixonam e logo ele se torna parte integrante do círculo íntimo dela. Paralelamente, novos atentados acontecem.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] FALLEN - O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E09D6F59D05510508B7DA7C246EAFC8C13612BE6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/t4wfwph9hvvrtLcQdNf0JwK3fVR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após ser responsabilizada pela misteriosa morte de seu namorado, Lucinda Price (Addison Timlin) vai parar em um reformatório. O reformatório se chama Sword & Cross e lá ela se aproxima de Daniel Grigori (Jeremy Irvine), sem saber que ele é um anjo apaixonado por ela há milhares de anos, e também não consegue se manter afastada de Cam Briel (Harrison Gilbertson), outro que luta há tempos por seu amor.</info>
+</item>
+
 
 
 
