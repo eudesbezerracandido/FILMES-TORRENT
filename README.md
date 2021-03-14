@@ -2347,6 +2347,14 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 <info>Um homem perde dez minutos de sua memória ao ser atingido por uma bala perdida durante um assalto, que levou à morte de seu irmão. Para tentar descobrir o que aconteceu, ele tenta recuperar o que desapareceu de sua mente.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O GUARDA-COSTAS (1992) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84c1d96f1662e0f9b59550ab8ea6d4854a76162b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/z9sDwQcCBYjA5DvNqmd8m5rkBqh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Frank Farmer, um guarda-costas altamente eficiente e caro, é contratado para proteger Rachel Marron, uma grande cantora e atriz que está recebendo cartas anônimas e ameaçadoras. Frank é um ex-agente do Serviço Secreto que ainda não se perdoou do sentimento de culpa em relação à sua inabilidade de proteger o presidente Reagan, que quase foi assassinado. Frank e Rachel se apaixonam e logo ele se torna parte integrante do círculo íntimo dela. Paralelamente, novos atentados acontecem.</info>
+</item>
+
 
 
 
