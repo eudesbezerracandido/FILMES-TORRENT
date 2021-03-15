@@ -2365,7 +2365,7 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 
 <item>
 <title>[COLOR silver][B] GREYSTOKE - A LENDA DE TARZAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<externallink>https://ia601506.us.archive.org/6/items/greystoke-a-lenda-de-tarzan-o-rei-das-selvas-1984/Greystoke%20-%20A%20Lenda%20de%20Tarzan%2C%20o%20Rei%20das%20Selvas%20%281984%29.mp4?cnt=0</externallink>
+<externallink>https://archive.org/details/greystoke-a-lenda-de-tarzan-o-rei-das-selvas-1984</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/rdtEIdzqJTVhSLsjuR4U9t1KKxp.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>>No século XIX, um navio naufraga perto da selva africana e um casal consegue chegar em terra firme. A mulher estava grávida e tem seu filho em uma casa nas árvores. Algum tempo depois os pais do menino são mortos por animais e ele é criado por uma macaca, que tinha perdido seu filhote. Ele cresce como se fosse um símio, mas após 20 anos, ele é descoberto e volta a civilização, onde é herdeiro de uma grande fortuna. Mas a adaptação com esta nova realidade.</info>
