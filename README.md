@@ -2363,6 +2363,16 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 <info>Após ser responsabilizada pela misteriosa morte de seu namorado, Lucinda Price (Addison Timlin) vai parar em um reformatório. O reformatório se chama Sword & Cross e lá ela se aproxima de Daniel Grigori (Jeremy Irvine), sem saber que ele é um anjo apaixonado por ela há milhares de anos, e também não consegue se manter afastada de Cam Briel (Harrison Gilbertson), outro que luta há tempos por seu amor.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] GREYSTOKE - A LENDA DE TARZAN [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02c4214302c84a1dae1b0aa8fb90a338ee189a41$nome=[COLOR cadetblue][B]TORRENT[/COLOR][/B]</link>
+<link>https://archive.org/download/greystoke-a-lenda-de-tarzan-o-rei-das-selvas-1984/Greystoke%20-%20A%20Lenda%20de%20Tarzan%2C%20o%20Rei%20das%20Selvas%20%281984%29.mp4$nome=[COLOR cadetblue][B]ALTERNATIVO[/COLOR[/B]</link>
+<thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/099a39fdff3bcf2ba92c194fed82d265.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1886, após um naufrágio na costa oeste da África, uma criança é criada por uma família de macacos na selva. Já adulto, ele é encontrado e levado de volta ao mundo da aristocracia britânica, onde descobre que a civilização pode ser muito cruel.</info>
+</item>
+
+
 
  
  
