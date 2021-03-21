@@ -2363,21 +2363,7 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 <info>Após ser responsabilizada pela misteriosa morte de seu namorado, Lucinda Price (Addison Timlin) vai parar em um reformatório. O reformatório se chama Sword & Cross e lá ela se aproxima de Daniel Grigori (Jeremy Irvine), sem saber que ele é um anjo apaixonado por ela há milhares de anos, e também não consegue se manter afastada de Cam Briel (Harrison Gilbertson), outro que luta há tempos por seu amor.</info>
 </item>
 
-<item>
-<title>[COLOR silver][B] NAS GARRAS DO TIGRE 2010   [/COLOR][/B][COLOR yellow]   FULL HD   [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=zJ_5qxrW978</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eWh8e4Czn0I3HABUyIYHvPs8Nvp.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg<fanart>
-<info>Kelly sente que sua vida está se desmanchando; a morte de sua mãe a deixou como guardiã de Tom, seu irmão autista de 12 anos de idade e acaba de descobrir que seu padrasto furtou dinheiro reservado para seu colégio e comprou um tigre para o seu parque safari; para piorar, um furacão está indo na direção da sua casa; mas Kelly tem algo mais a temer que os ventos de 120 quilômetros por hora do furacão o tigre selvagem, de alguma forma caiu dentro de sua casa.</info>
-</item> 
- 
-<item>
-<title>[COLOR silver][B] DRÁCULA II- A ASCENÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=ebGhpsVFZYI</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ngomDZt13JdOFjdJIisSCyLqwXh.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Depois de ficar anos desaparecido, o Príncipe das Trevas retorna em mais um filme de terror arrepiante. Um corpo totalmente carbonizado chega ao necrotério. Ao começar a autópsia, a Dra. Elizabeth nota que está de frente para um corpo completamente sem sangue. Inicia-se uma série de experiências que despertam o vampiro enfurecido e sedento. Ele quer secar as veias daquele grupo de homens e mulheres, mas Drácula não sabe que o padre Uffizi está à sua procura. Conhecido caçador de vampiros, ele não descansará enquanto não eliminar mais este sanguessuga. Uma luta desesperada está para começar.</info>
-</item>
+
  
  
 
