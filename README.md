@@ -2365,7 +2365,7 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 
 <item>
 <title>[COLOR silver][B] FORÇA  SINISTRA ( 1985 ) [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
-<link></link>
+<link>https://archive.org/download/forc-a-sinistra/FOR%C3%87A%20SINISTRA.mp4</link>
 <thumbnail>https://archive.org/download/nsDze9o/nsDze9o.A</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A população de Londres está em grande perigo: uma horda de vampiros espaciais surge na cidade e começa a infectar os habitantes.</info>
