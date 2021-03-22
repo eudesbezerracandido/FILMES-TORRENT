@@ -2363,6 +2363,14 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 <info>Após ser responsabilizada pela misteriosa morte de seu namorado, Lucinda Price (Addison Timlin) vai parar em um reformatório. O reformatório se chama Sword & Cross e lá ela se aproxima de Daniel Grigori (Jeremy Irvine), sem saber que ele é um anjo apaixonado por ela há milhares de anos, e também não consegue se manter afastada de Cam Briel (Harrison Gilbertson), outro que luta há tempos por seu amor.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] FORÇA  SINISTRA ( 1985 ) [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
+<link>https://archive.org/download/forc-a-sinistra-dublado/FOR%C3%87A%20SINISTRA%20DUBLADO.mp4</link>
+<thumbnail>https://archive.org/download/nsDze9o/nsDze9o.A</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A população de Londres está em grande perigo: uma horda de vampiros espaciais surge na cidade e começa a infectar os habitantes.</info>
+</item>
+
 
 
 
