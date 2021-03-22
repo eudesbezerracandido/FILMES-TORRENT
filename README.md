@@ -2366,7 +2366,7 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 <item>
 <title>[COLOR silver][B] FORÇA  SINISTRA ( 1985 ) archive [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
 <link>https://archive.org/download/forc-a-sinistra/FOR%C3%87A%20SINISTRA.mp4</link>
-<thumbnail>https://archive.org/download/nsDze9o/nsDze9o.A</thumbnail>
+<thumbnail>https://archive.org/download/nsDze9o/nsDze9o.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A população de Londres está em grande perigo: uma horda de vampiros espaciais surge na cidade e começa a infectar os habitantes da terra.</info>
 </item>
@@ -2388,7 +2388,7 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 </item>
 
 <item>
-<title>[COLOR silver][B] VIAGEM AO MUNDO DOS SONHOS [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
+<title>[COLOR silver][B] VIAGEM AO MUNDO DOS SONHOS - archive [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
 <link>https://archive.org/download/viagen-ao-mundo-dos-sonhos/Viagen%20ao%20mundo%20dos%20%20sonhos.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/59n9HYLOPFHMGAVqeZewHu7UvRw.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
