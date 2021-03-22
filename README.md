@@ -2387,6 +2387,15 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 <info>Clive Nicoli (Adrien Brody) e Elsa Kast (Sarah Polley) ficaram famosos no meio científico pelas suas experiências na combinação do DNA de vários animais, gerando criaturas bizarras. Eles são apaixonados, tanto pelo trabalho que fazem quanto um pelo outro. Agora eles querem dar um passo adiante e combinar o DNA de animais com o de seres humanos, só que seus financiadores vetam a ideia. Eles seguem adiante com a iniciativa, em segredo. O resultado desta experiência é Dren (Delphine Chanéac), um ser cujo ciclo de vida extremamente rápido faz com que atinja a fase adulta em questão de meses. Clive e Elsa tentam manter Dren em segredo, mas logo a ligação entre eles deixa de ser meramente científica para se tornar pessoal.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] VIAGEM AO MUNDO DOS SONHOS [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
+<link>https://archive.org/download/viagen-ao-mundo-dos-sonhos/Viagen%20ao%20mundo%20dos%20%20sonhos.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/59n9HYLOPFHMGAVqeZewHu7UvRw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os sonhos visionários de três meninos curiosos e aventureiros transformam-se em uma excitante realidade em Viagem ao Mundo dos Sonhos, a fantasia de ação do aclamado diretor Joe Dante (Gremlins), que combina humor inteligente, afeto e fantasia, com inesperadas reviravoltas. Em seu improvisado laboratório, os garotos usam sua genialidade e também uma surpreendente descoberta para construir sua própria nave espacial e lançarem-se em uma fantástica viagem interplanetária. Uma galáxia de aventuras para toda a família, estrelando os jovens River Phoenix (Conta Comigo, Quebra de Sigilo) e Ethan Hawke (Dia de Treinamento, Caindo na Real).</info>
+</item>
+
+
 
 
 
