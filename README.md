@@ -2,7 +2,7 @@
 TORRENT FILMES
 
 <item>
-<title>[COLOR silver][B] GREYSTOKE - A LENDA DE TARZAN [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
+<title>[COLOR silver][B] GREYSTOKE - A LENDA DE TARZAN - archive [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
 <link>https://archive.org/download/greystoke-a-lenda-de-tarzan-o-rei-das-selvas-1984/Greystoke%20-%20A%20Lenda%20de%20Tarzan%2C%20o%20Rei%20das%20Selvas%20%281984%29.mp4</link>
 <thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/099a39fdff3bcf2ba92c194fed82d265.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
