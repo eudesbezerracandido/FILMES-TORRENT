@@ -2364,7 +2364,7 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 </item>
 
 <item>
-<title>[COLOR silver][B] FORÇA  SINISTRA ( 1985 ) [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
+<title>[COLOR silver][B] FORÇA  SINISTRA ( 1985 ) archive [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
 <link>https://archive.org/download/forc-a-sinistra/FOR%C3%87A%20SINISTRA.mp4</link>
 <thumbnail>https://archive.org/download/nsDze9o/nsDze9o.A</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -2372,12 +2372,21 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 </item>
 
 <item>
-<title>[COLOR silver][B] NAS GARRAS DO TIGRE [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
+<title>[COLOR silver][B] NAS GARRAS DO TIGRE - archive [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
 <link>https://archive.org/download/nas-garras-do-tigre-filme-completo-e-dublado-em-hd/Nas%20Garras%20do%20Tigre%20-%20Filme%20Completo%20e%20Dublado%20em%20HD.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eWh8e4Czn0I3HABUyIYHvPs8Nvp.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Kelly (Briana Evigan) sente que sua vida está se desmanchando. A morte de sua mãe a deixou como guardiã de Tom (Charlie Tahan), seu irmão autista de 12 anos de idade, e acaba de descobrir que seu padrasto (Garret Dillahunt) furtou dinheiro reservado para seu colégio e comprou um tigre para o seu parque safari. Para piorar, um furacão está indo na direção da sua casa. Mas Kelly tem algo mais a temer que os ventos de 120 quilômetros por hora do furacão: o tigre selvagem, de alguma forma caiu dentro de sua casa. Agora, presos dentro de sua casa, Tom Kelly devem lutar por suas vidas contra um terrível devorador de homens que sente o cheiro do medo.e quer a sua carne.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] SPLICE - A NOVA ESPÉCIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb431c06244d01a1e18592740b72ecc4766efc92</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lxZibGnPJJTq47J63RUSxG2vDf5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Clive Nicoli (Adrien Brody) e Elsa Kast (Sarah Polley) ficaram famosos no meio científico pelas suas experiências na combinação do DNA de vários animais, gerando criaturas bizarras. Eles são apaixonados, tanto pelo trabalho que fazem quanto um pelo outro. Agora eles querem dar um passo adiante e combinar o DNA de animais com o de seres humanos, só que seus financiadores vetam a ideia. Eles seguem adiante com a iniciativa, em segredo. O resultado desta experiência é Dren (Delphine Chanéac), um ser cujo ciclo de vida extremamente rápido faz com que atinja a fase adulta em questão de meses. Clive e Elsa tentam manter Dren em segredo, mas logo a ligação entre eles deixa de ser meramente científica para se tornar pessoal.</info>
+</item>
+
 
 
 
