@@ -2416,6 +2416,15 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 <info> Pânico no Lago (Lake Placid) coleção completa com todos os filmes já lançados da franquia de terror dos crocodilos gigantes, Pânico no Lago 1, 2, 3 e 4. Um grupo de pesquisadores tenta desvendar o mistério que anda aterrorizando os banhistas de um lago e acabam encontrando uma verdadeira máquina de destruição: um crocodilo pré-histórico de nove metros. Agora, eles terão que lutar contra a fera para sobreviverem.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] EDD THOMAS - CAÇADOR DE FANTASMAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa42c58950347fe4f2e3f2eb353c27aa486f318f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pvYoFh0arHvN1bZDloz3kwB7xzE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O cozinheiro de frituras de cidade pequena Odd Thomas (Anton Yelchin) é um cara comum com um segredo paranormal: ele vê pessoas mortas, em todos os lugares. Quando um estranho assustador aparece com um séquito de bodachs fantasmagóricos – predadores que se alimentam de dor e promovem a destruição em massa -, Odd sabe que sua cidade está em sérios apuros. Juntando-se a sua namorada Stormy (Addison Timlin) e o xerife local (Willem Dafoe), Odd mergulha em uma batalha épica de bom contra o mal para tentar impedir um desastre de proporções apocalípticas. Baseado no thriller mais vendido por Dean Koontz.</info>
+</item>
+
+
 
 
 
