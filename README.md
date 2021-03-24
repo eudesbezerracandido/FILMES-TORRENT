@@ -2431,6 +2431,17 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 <info> Em 1950 nos Estados Unidos. Troy Maxson tem 53 anos e mora com sua esposa, Rose (Viola Davis), e o filho mais novo, Cory (Jovan Adepo). Ele trabalha recolhendo lixo das ruas e batalha na empresa para que consiga migrar para o posto de motorista do caminhão de lixo. Troy sente um profundo rancor por não ter conseguido se tornar jogador profissional de baseball, devido à cor de sua pele, e por causa disto não quer que o filho siga como esportista. Isto faz com que o jovem bata de frente com o pai, já que um recrutador está prestes a ser enviado para observá-lo em jogos de futebol americano.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] TRILOGIA - ONG BACK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NOQFTPAXSZVGMF5XWLCPKHEU7VMGHCJP</link>
+<thumbnail>https://archive.org/download/ONGBACK/ONGBACK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>SINOPSE: No filme Ong-Bak Trilogia Torrent – BluRay 1080p Dual Áudio, Quando uma pequena e tranquila cidade vê a cabeça de uma de suas principais estátuas, a do buda Ong Bak, ser roubada, tem no jovem guerreiro Ting (Tony Jaa) a esperança para a recuperação do objeto. Ting é lutador especializado em Muay Boran, um tipo de arte marcial, e está determinado a seguir o ladrão até Bangkok para buscar Ong Bak.
+SINOPSE 2: No Reino de Ayutthayan, em 1431, o jovem Tien (Tony Jaa) é resgatado por um grupo que preserva o legado de uma tradicional dança mascarada. Dominado pela determinação, Tien começa a se tornar um perito em um tipo especial de mistura das artes marciais com a dança e terá que lidar com os mais diversos obstáculos.
+SINOPSE 3: O jovem lutador Tien (Tony Jaa) perde progressivamente suas habilidades nas artes marciais enquanto seu padrasto caminha para a morte. Com a ajuda de Pim (Primrata Det-Udom), Mhen (Petthai Wongkhamlao) e moradores do vilarejo, além da meditação, Tien volta à sua melhor forma para combater o inimigo.</info>
+</item>
+
+
 
 
 
