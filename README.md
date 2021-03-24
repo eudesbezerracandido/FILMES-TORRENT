@@ -2432,6 +2432,15 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 <info> Um dia, o soldado David chega à casa da família Peterson. Ele diz ser um amigo do filho dos Peterson, morto em combate, e logo é acolhido neste lar. Aos poucos, no entanto, uma série de mortes começam a acontecer entre os membros da família.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UM LIMITE ENTRE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1E3CA59C200F78849656C0D05A8D117680132FE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iFVv22WNrXCAFkTZFHYR6u77mfr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em 1950 nos Estados Unidos. Troy Maxson tem 53 anos e mora com sua esposa, Rose (Viola Davis), e o filho mais novo, Cory (Jovan Adepo). Ele trabalha recolhendo lixo das ruas e batalha na empresa para que consiga migrar para o posto de motorista do caminhão de lixo. Troy sente um profundo rancor por não ter conseguido se tornar jogador profissional de baseball, devido à cor de sua pele, e por causa disto não quer que o filho siga como esportista. Isto faz com que o jovem bata de frente com o pai, já que um recrutador está prestes a ser enviado para observá-lo em jogos de futebol americano.</info>
+</item>
+
+
 
 
 
