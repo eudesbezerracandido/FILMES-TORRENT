@@ -652,15 +652,6 @@ O Exterminador do Futuro 4: A Salvação: O ano é 2018. O Dia do Julgamento Fin
 </item>
 
 <item>
-<title>[COLOR silver][B] FORÇA  SINISTRA LEG. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c28d7e339718dbcb65fda75b25adac43206d20f</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/68/Lifeforce_1985.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Tudo começa quando a tripulação de um ônibus espacial descobre, na cauda do cometa, uma espaçonave contendo alienígenas fossilizados, a maior parte semelhantes a grandes morcegos. Três dos alienígenas, em forma humana, são trazidos à Terra, revivem e, ao se alimentarem da força vital de suas vítimas, transformam as pessoas em um tipo de vampiro. As vítimas continuam o ciclo, e em breve todo o planeta está em perigo. O único sobrevivente do ônibus espacial segue em busca da líder dos vampiros do espaço.
-Enredo: O ônibus espacial Churchill é designado para observar o cometa Halley, sob o comando do coronel Tom Carlsen. Eles vêem uma forma estranha ligada ao cometa e Carlsen vai com uma equipe para investigar. Eles encontram três formas de vida humanóides em caixões e os trazem para o Churchill. No entanto, a Terra perde contato com o ônibus espacial e o Centro de Pesquisa Espacial envia outra espaçonave para revistar o Churchill. Eles acham a tripulação morta, o ônibus queimado e uma cápsula de resgate desaparecida. Eles trazem os humanóides para a Terra e logo o Dr. Hans Fallada e sua equipe descobrem que a Space Girl é uma espécie de vampiro e drena a força da vida das pessoas, transformando-as em zumbis. Quando as autoridades descobrem que o coronel Tom Carlsen sobreviveu, o convocam para explicar o que aconteceu em Churchill. Carlsen conta uma história incrível sobre os três alienígenas e se une ao coronel Colin Caine tentando salvar a humanidade dos vampiros do espaço.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] DUOLOGIA - HELBOY [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1BB01A0477B06FD743B6A7591757DA41CC4F97BE&dn=Hellboy%20-%20Duologia%20%282004-2008%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
 <thumbnail>https://plexcollectionposters.com/images/2018/05/08/Hellboy.jpg</thumbnail>
@@ -1508,9 +1499,9 @@ Em uma base localizada no deserto os vampiros dão a cartada decisiva em seus pl
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO - A  HISTÓRIA SEM FIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ec88e0e95b65029f4dc22b38ef7a1f453f19b02&dn=A+Hist%26oacute%3Bria+Sem+Fim+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52DCAB68E53F4ED46EA63481B730F07DF19D49F7&dn=A%20Hist%c3%b3ria%20Sem%20Fim%202%20%281990%29%201080p%20Dual%20-%201046&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2finferno.demonoid.ph%3a3389%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=http%3a%2f%2ftorrent.gresille.org%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0D8DA393E470F700CA9ED002E2C6BFED16B39E25&dn=A%20Hist%c3%b3ria%20Sem%20Fim%203%20%281996%29%20BluRay%201080p%20Dual%20%c3%81udio</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ec88e0e95b65029f4dc22b38ef7a1f453f19b02</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52DCAB68E53F4ED46EA63481B730F07DF19D49F7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0D8DA393E470F700CA9ED002E2C6BFED16B39E25</link>
 <thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/0f373d07d3fdbef17eb7014013b2b7e5.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O livro especial está novamente aberto para um interminável elenco mágico. A História Sem Fim II deliciosamente trás de volta os personagens e criaturas da obra de Michael Ende, para uma nova história na qual Bastian deve salvar Fantasia de uma terrível feiticeira e encontrar coragem que lhe falta na vida real. Velhos amigos, Atreyu o menino guereiro, Falkor o dragão da sorte e Come-Pedra se juntam a Bastian.</info>
