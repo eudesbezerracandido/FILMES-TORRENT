@@ -2424,6 +2424,15 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 <info> O cozinheiro de frituras de cidade pequena Odd Thomas (Anton Yelchin) é um cara comum com um segredo paranormal: ele vê pessoas mortas, em todos os lugares. Quando um estranho assustador aparece com um séquito de bodachs fantasmagóricos – predadores que se alimentam de dor e promovem a destruição em massa -, Odd sabe que sua cidade está em sérios apuros. Juntando-se a sua namorada Stormy (Addison Timlin) e o xerife local (Willem Dafoe), Odd mergulha em uma batalha épica de bom contra o mal para tentar impedir um desastre de proporções apocalípticas. Baseado no thriller mais vendido por Dean Koontz.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O HOSPEDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd318d4797c1a8cc06159ef53a787b0e363731f4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pHEMqPTvE7eWhEsK7PMHOa6xTTL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um dia, o soldado David chega à casa da família Peterson. Ele diz ser um amigo do filho dos Peterson, morto em combate, e logo é acolhido neste lar. Aos poucos, no entanto, uma série de mortes começam a acontecer entre os membros da família.</info>
+</item>
+
+
 
 
 
