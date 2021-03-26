@@ -2457,6 +2457,15 @@ SINOPSE 3: O jovem lutador Tien (Tony Jaa) perde progressivamente suas habilidad
 <info>A filha de um lobisomem mora em Paris, onde sua mãe e o padrasto tentam curá-la da licantropia, que herdou geneticamente. Mas nem tudo corre como o planejado e ela tenta se suicidar saltando da Torre Eiffel, sendo salva por um americano que viaja através da Europa com dois amigos. Os dois se apaixonam, mas ele logo se envolve em uma sociedade secreta de lobisomens e uma droga que permite que os lobisomens se transformem, sem necessidade de lua cheia.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SNIPER  AMERICANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9F1C55E57155DDB1828A65E585EC934F7ED93F2C</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1ZKgDa3R8UjU2kaPMucEO1MAIRd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Adaptado do livro American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Militar History, o filme conta a história real de Chris Kyle (Bradley Cooper), atirador de elite das forças especiais da marinha americana. Durante cerca de dez anos ele matou mais de 150 pessoas, tendo recebido diversas condecorações por sua atuação na Guerra do Iraque.</info>
+</item>
+
+
 
 
 
