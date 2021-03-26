@@ -2465,6 +2465,18 @@ SINOPSE 3: O jovem lutador Tien (Tony Jaa) perde progressivamente suas habilidad
 <info>Adaptado do livro American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Militar History, o filme conta a história real de Chris Kyle (Bradley Cooper), atirador de elite das forças especiais da marinha americana. Durante cerca de dez anos ele matou mais de 150 pessoas, tendo recebido diversas condecorações por sua atuação na Guerra do Iraque.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DOOM - A PORTA DO INFERNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7EA7D43F1B383F078D9FBA51A801327B6D9F1834</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zEF6MnsJyoVB6dgtNCGJLv6Ed2T.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Algo estranho aconteceu em uma estação espacial localizada em Marte. A tripulação local entrou em estado de quarentena cinco, antes da comunicação com a Terra ser bruscamente interrompida. Para investigar o caso é enviada uma equipe especialmente treinada para resolver problemas inesperados, que exijam que seus integrantes entrem em ação o mais rápido possível. Só que desta vez eles não tem a menor idéia de qual é o inimigo que precisam enfrentar.</info>
+</item>
+
+
+
+ 
+
 
 
 
