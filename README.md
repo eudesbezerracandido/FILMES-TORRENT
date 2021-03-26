@@ -2449,6 +2449,15 @@ SINOPSE 3: O jovem lutador Tien (Tony Jaa) perde progressivamente suas habilidad
 <info>Baseado num conto de Mark Twain o filme segue Zak, um jovem com síndrome de Down, que foge do lar onde vive para perseguir seu sonho de se tornar um lutador profissional. Por meio de circunstâncias fora do seu controle, um fugitivo da polícia torna-se o improvável treinador e aliado de Zak.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UM LOBISOMEM AMERICANO EM LONDRES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9C2AD16C86C4DCD7A1961469DCA04749E225CCE6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1NUOprbP7LLfKPArLJY7wziUiHT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A filha de um lobisomem mora em Paris, onde sua mãe e o padrasto tentam curá-la da licantropia, que herdou geneticamente. Mas nem tudo corre como o planejado e ela tenta se suicidar saltando da Torre Eiffel, sendo salva por um americano que viaja através da Europa com dois amigos. Os dois se apaixonam, mas ele logo se envolve em uma sociedade secreta de lobisomens e uma droga que permite que os lobisomens se transformem, sem necessidade de lua cheia.</info>
+</item>
+
+
 
 
 
