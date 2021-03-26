@@ -2441,6 +2441,15 @@ SINOPSE 2: No Reino de Ayutthayan, em 1431, o jovem Tien (Tony Jaa) é resgatado
 SINOPSE 3: O jovem lutador Tien (Tony Jaa) perde progressivamente suas habilidades nas artes marciais enquanto seu padrasto caminha para a morte. Com a ajuda de Pim (Primrata Det-Udom), Mhen (Petthai Wongkhamlao) e moradores do vilarejo, além da meditação, Tien volta à sua melhor forma para combater o inimigo.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O FALCÃO MANTEIGA DE AMENDOIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3YJDU7CHDQFLFIAMBXX2LYGMLR5OVA74</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k5SKnVfT9oP6pCo1fNPzeE4mFt5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Baseado num conto de Mark Twain o filme segue Zak, um jovem com síndrome de Down, que foge do lar onde vive para perseguir seu sonho de se tornar um lutador profissional. Por meio de circunstâncias fora do seu controle, um fugitivo da polícia torna-se o improvável treinador e aliado de Zak.</info>
+</item>
+
+
 
 
 
