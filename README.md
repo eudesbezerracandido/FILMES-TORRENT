@@ -2471,7 +2471,7 @@ SINOPSE 3: O jovem lutador Tien (Tony Jaa) perde progressivamente suas habilidad
 <thumbnail>https://ia601500.us.archive.org/19/items/dfdfdf_202103/DFDFDF.PNG</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Pânico no Lago (Lake Placid) coleção completa com todos os filmes já lançados da franquia de terror dos crocodilos gigantes, Pânico no Lago 1, 2, 3 e 4. Um grupo de pesquisadores tenta desvendar o mistério que anda aterrorizando os banhistas de um lago e acabam encontrando uma verdadeira máquina de destruição: um crocodilo pré-histórico de nove metros. Agora, eles terão que lutar contra a fera para sobreviverem.</info>
-</item>
+</item> 
 
 
 
