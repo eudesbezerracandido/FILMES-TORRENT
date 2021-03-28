@@ -227,7 +227,7 @@ TORRENT FILMES
 
 <item>
 <title>[COLOR silver][B] A MOSCA  I  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:609D250192FD75A291792FEF2216F5A6E631480F</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89df25fe6155b4d7c4b410a426c3907f932628a1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iItA02bR1oBFlI7w5qi7AndVvmt.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Seth Brundie (Jeff Goldblum) é um cientista excêntrico que trabalha numa nova invenção, uma máquina de teletransporte – a TelePod. Ao seu lado, tem Veronica (Geena Davis), uma jornalista que acompanha seus projetos acreditando ser essa a história do ano. Ao experimentar seu novo invento, Seth não percebe que uma mosca entrou na cabine do teletransporte. O imprevisto faz com que os padrões moleculares do homem e do inseto se misturem e, pouco a pouco, o cientista vai sofrendo terríveis transformações.
