@@ -249,7 +249,7 @@ Enredo: Seth Brundle (Jeff Goldblum), um cientista brilhante mas excêntrico ten
 <thumbnail>https://br.web.img3.acsta.net/pictures/15/07/21/21/04/518773.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Quatro adolescentes são conhecidos pela inteligência e pelas dificuldades de inserção social. Juntos, são enviados a uma missão perigosa em uma dimensão alternativa. Quando os planos falham, eles retornam à Terra com sérias alterações corporais. Munidos desses poderes especiais, eles se tornam o Senhor Fantástico (Miles Teller), a Mulher Invisível (Kate Mara), o Tocha Humana (Michael B. Jordan) e o Coisa (Jamie Bell). O grupo se une para proteger a humanidade do ataque do Doutor Destino (Toby Kebbell).</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] QUARTETO FANTASTICO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
