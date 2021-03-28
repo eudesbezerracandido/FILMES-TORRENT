@@ -424,7 +424,7 @@ Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos p
 
 <item>
 <title>[COLOR silver][B] TRILOGIA - HOMEM DE FERRO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D1F677634DF948A42C382EA7187693F39A74247&dn=Carregando.Download.Mais.Download.em.www.BRSHARES.com&tr=http%3A%2F%2Fbr2share.com%2Fannounce.php%3Fpasskey65940be6163205173e6aeb9f0448cc9&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=http%3A%2F%2Fmgtracker.org%3A2710%2Fannounce&tr=http%3A%2F%2Fbt.careland.com.cn%3A6969%2Fannounce&tr=udp%3A%2F%2Fwww.eddie4.nl%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.best-torrents.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2F121.14.98.151%3A9090%2Fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D1F677634DF948A42C382EA7187693F39A74247</link>
 <thumbnail>https://4.bp.blogspot.com/-Rv0KJAUAIrk/Uj44R5WjyKI/AAAAAAAAE0w/kTqwoUO81Ls/s400/Trilogia+Homem+de+Ferro+Dual+%C3%81udio.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Tony Stark é um industrial bilionário e inventor brilhante que realiza testes bélicos no exterior, mas é sequestrado por terroristas que o forçam a construir uma arma devastadora. Em vez disso, ele constrói uma armadura blindada e enfrenta seus sequestradores. Ao voltar para os EUA, Stark aprimora a armadura e a utiliza para combater o crime.</info>
@@ -432,7 +432,7 @@ Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos p
 
 <item>
 <title>[COLOR silver][B]  VINGADORES  -  A ERA DE ULTRON [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61D9EA2D5E6CBF6465DE9AC5758EEB6694CFBC8D&dn=Vingadores.Era.de.Ultron.2015.720p.BluRay.Dual-&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.publicbt.com:80&tr=udp://tracker.istole.it:80/announce&tr=udp://tracker.ccc.de:80&tr=udp://open.demonii.com:1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61D9EA2D5E6CBF6465DE9AC5758EEB6694CFBC8D</link>
 <thumbnail>https://uauposters.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/4/0/408420150509-uau-posters-filmes-avengers-os-vingadores-era-ultron.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Tentando proteger o planeta de ameaças como as vistas no primeiro Os Vingadores, Tony Stark busca construir um sistema de inteligência artifical que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron (voz de James Spader). Capitão América (Chris Evans), Homem de Ferro (Robert Downey Jr.), Thor (Chris Hemsworth), Hulk (Mark Ruffalo), Viúva Negra (Scarlett Johansson) e Gavião Arqueiro (Jeremy Renner) terão que se unir para mais uma vez salvar o dia.</info>
@@ -440,7 +440,7 @@ Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos p
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO - GUERRA NAS ESTRELAS STAR WARS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A387F00CD9BCA8859830C558ED149C62515D997F&dn=Carregando.Download.Mais.Download.em.www.BRSHARES.com&tr=http%3A%2F%2Fbr2share.com%2Fannounce.php%3Fpasskey65940be6163205173e6aeb9f0448cc9&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=http%3A%2F%2Fmgtracker.org%3A2710%2Fannounce&tr=http%3A%2F%2Fbt.careland.com.cn%3A6969%2Fannounce&tr=udp%3A%2F%2Fwww.eddie4.nl%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.best-torrents.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2F121.14.98.151%3A9090%2Fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A387F00CD9BCA8859830C558ED149C62515D997F</link>
 <thumbnail>https://i.pinimg.com/originals/3d/f5/33/3df533f0ef9dca953d902df1510accb5.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Quando a maquiavélica Federação Comercial planeja invadir o pacífico planeta Naboo, o guerreiro Jedi Qui-Gon Jinn (Liam Neeson) e seu aprendiz Obi-Wan Kenobi (Ewan McGregor) embarcam em uma aventura para tentar salvar o planeta. Viajam com eles a jovem Rainha Amidala (Natalie Portman), que é visada pela Federação pois querem forçá-la a assinar um tratado político. Eles têm de viajar para os distantes planetas Tatooine e Coruscant em uma desesperada tentativa de salvar o mundo de Darth Sidious (Ian McDiarmid), o demoníaco líder da Federação que sempre surge em imagens tridimensionais (a ameaça fantasma). Durante a viagem, Qui-Gon Jinn conhece um garoto de nove anos que deseja treiná-lo para ser tornar um Jedi, pois o menino tem todas as qualidades para isto. Mas o tempo revelará que nem sempre as coisas são o que aparentam.</info>
@@ -448,7 +448,7 @@ Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos p
 
 <item>
 <title>[COLOR silver][B] Dr. ESTRANHO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NM7TGD5NCHO5IVMWGMDXJGPU5UAFK4GU&dn=Doutor%20Estranho%202017%20%5BIMAX%5D%20WWW.BLUDV.COM</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NM7TGD5NCHO5IVMWGMDXJGPU5UAFK4GU</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/16/09/29/21/15/495786.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> No filme Doutor Estranho IMAX Torrent – BluRay 720p/1080p Dual Áudio, Stephen Strange (Benedict Cumberbatch) leva uma vida bem sucedida como neurocirurgião. Sua vida muda completamente quando sofre um acidente de carro e fica com as mãos debilitadas. Devido a falhas da medicina tradicional, ele parte para um lugar inesperado em busca de cura e esperança, um misterioso enclave chamado Kamar-Taj, localizado em Katmandu. Lá descobre que o local não é apenas um centro medicinal, mas também a linha de frente contra forças malignas místicas que desejam destruir nossa realidade. Ele passa a treinar e adquire poderes mágicos, mas precisa decidir se vai voltar para sua vida comum ou defender o mundo.</info>
@@ -456,9 +456,9 @@ Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos p
 
 <item>
 <title>[COLOR silver][B] QUADRILOGIA - ROBOCOP [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1d29cbe64e51e3f124e4c4eaba009ac95f03612&dn=RoboCop+%281987%29+Bluray+720p+Filmes+M.H.G</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59d41d1d225f7f6a6ea0c3b9b2b3f98755174fab&dn=RoboCop+2+%281990%29+Bluray+720p+Filmes+M.H.G</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ec099f7dbb299bf93852a4d6271231b0bfac63e&dn=RoboCop+3+%281993%29+Bluray+720p+Filmes+M.H.G</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1d29cbe64e51e3f124e4c4eaba009ac95f03612</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59d41d1d225f7f6a6ea0c3b9b2b3f98755174fab</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ec099f7dbb299bf93852a4d6271231b0bfac63e</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c827f297b4fe557f25e098411e99f575bc0e049</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71uPAK1T84L._AC_SX466_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -485,7 +485,7 @@ Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o 
 
 <item>
 <title>[COLOR silver][B] O HOMEM FORMIGA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QSVEYGDE5LYMW665OZQZH7N2IWTPWIE3&dn=Homem-Formiga%20(2015)%205.1%20CH%20Dublado%20720p%20(By-LuanHarper)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QSVEYGDE5LYMW665OZQZH7N2IWTPWIE3</link>
 <thumbnail>https://www.multisom.com.br/resizer/view/600/600/true/false/22289.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Dr. Hank Pym (Michael Douglas), o inventor da fórmula/ traje que permite o encolhimento, anos depois da descoberta, precisa impedir que seu ex-pupilo Darren Cross (Corey Stoll), consiga replicar o feito e vender a tecnologia para uma organização do mal. Depois de sair da cadeia, o trambiqueiro Scott Lang (Paul Rudd) está disposto a reconquistar o respeito da ex-mulher, Maggie (Judy Greer) e, principalmente, da filha. Com dificuldades de arrumar um emprego honesto, ele aceita praticar um último golpe. O que ele não sabia era que tudo não passava de um plano do Dr. Pym que, depois de anos observando o hábil ladrão, o escolhe para vestir o traje do Homem-Formiga.</info>
@@ -493,7 +493,7 @@ Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o 
 
 <item>
 <title>[COLOR silver][B] CÓDIGO DE CONDUTA [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab9ab37aefe8e4ba9354ce25afea557a7f22b37e&dn=C%26oacute%3Bdigo+de+Conduta+%282009%29+720p+BDRip+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab9ab37aefe8e4ba9354ce25afea557a7f22b37e</link>
 <thumbnail>https://http2.mlstatic.com/dvd-filme-codigo-de-conduta-D_NQ_NP_622860-MLB26701185439_012018-F.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Clyde (Gerard Butler) é um dedicado pai de família que testemunha sua esposa e filha serem assassinadas. Um dos culpados ganha liberdade graças a um acordo feito com o ambicioso promotor Nick (Jamie Foxx). Anos depois o assassino é encontrado morto e Clyde é preso mesmo sem provas contra ele. Seu único objetivo, é denunciar o corrupto sistema judicial nem que para isso tenha que matar um a um, todos os envolvidos. Mas, se Clyde já está na cadeia, como o promotor poderá impedi-lo se ele está sempre um passo a frente de todos?</info>
@@ -501,7 +501,7 @@ Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o 
 
 <item>
 <title>[COLOR silver][B] GLADIADOR [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FD5576760BE2DB1B8FAAA7E12874E5834A479CD&dn=Gladiador%20-%20Vers%c3%a3o%20Estendida%20Remasterizada%202000%20WWW.BLUDV.COM&tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2730%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FD5576760BE2DB1B8FAAA7E12874E5834A479CD</link>
 <thumbnail>https://i.pinimg.com/originals/07/89/7c/07897c1462220a8e8fed0e945f89c67f.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Nos dias finais do reinado de Marcus Aurelius (Richard Harris), o imperador desperta a ira de seu filho Commodus (Joaquin Phoenix) ao tornar pública sua predileção em deixar o trono para Maximus (Russell Crowe), o comandante do exército romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Império Romano.</info>
@@ -509,7 +509,7 @@ Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o 
 
 <item>
 <title>[COLOR silver][B] NINJA ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d367d415e4a0cc58c68fa30ac2e764fea26a645c&dn=Ninja+Assassino+%282009%29+1080p+BluRay+x264+Dublado+-+ContPlay&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d367d415e4a0cc58c68fa30ac2e764fea26a645c&</link>
 <thumbnail>https://2.bp.blogspot.com/-nMZh48METHs/TxtmBqXcAXI/AAAAAAAABTA/fgSDq2csOi4/s1600/ninja-assassin-affiche-france.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Raizo (Rain) é um dos assassinos mais temidos do mundo. Tirado das ruas na infância, foi treinado pelo clã Ozunu - um grupo secreto cuja existência em si já é considerada uma lenda - para ser um assassino exímio. No entanto, a execução sumária de seu amigo faz com que Raizo volte-se contra o grupo, aguardando o momento da vingança.</info>
