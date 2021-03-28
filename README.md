@@ -2481,6 +2481,13 @@ SINOPSE 3: O jovem lutador Tien (Tony Jaa) perde progressivamente suas habilidad
 <info> Pânico no Lago (Lake Placid) coleção completa com todos os filmes já lançados da franquia de terror dos crocodilos gigantes, Pânico no Lago 1, 2, 3 e 4. Um grupo de pesquisadores tenta desvendar o mistério que anda aterrorizando os banhistas de um lago e acabam encontrando uma verdadeira máquina de destruição: um crocodilo pré-histórico de nove metros. Agora, eles terão que lutar contra a fera para sobreviverem.</info>
 </item> 
 
+<item>
+<title>[COLOR silver][B] O REGRESSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2D5F3589F4AC5EEC112AFA9CF16DDFF34913F8B7</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/15/12/17/18/20/090910.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em uma expedição pelo desconhecido deserto americano, o lendário explorador Hugh Glass (Leonardo DiCaprio) é brutalmente atacado por um urso e deixado como morto pelos membros de sua própria equipe de caça. Em uma luta para sobreviver, Glass resiste à dor inimaginável, bem como à traição de seu confidente, John Fitzgerald (Tom Hardy). Guiado pela força de vontade 
+
 
 
  
