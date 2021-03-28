@@ -226,10 +226,18 @@ TORRENT FILMES
 </item>
 
 <item>
-<title>[COLOR silver][B] A MOSCA - 1 & 2 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] A MOSCA  I  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:609D250192FD75A291792FEF2216F5A6E631480F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iItA02bR1oBFlI7w5qi7AndVvmt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Seth Brundie (Jeff Goldblum) é um cientista excêntrico que trabalha numa nova invenção, uma máquina de teletransporte – a TelePod. Ao seu lado, tem Veronica (Geena Davis), uma jornalista que acompanha seus projetos acreditando ser essa a história do ano. Ao experimentar seu novo invento, Seth não percebe que uma mosca entrou na cabine do teletransporte. O imprevisto faz com que os padrões moleculares do homem e do inseto se misturem e, pouco a pouco, o cientista vai sofrendo terríveis transformações.
+Enredo: Seth Brundle (Jeff Goldblum), um cientista brilhante mas excêntrico tenta atrair a jornalista investigativa Veronica Quaife (Geena Davis), oferecendo-lhe uma colher sobre suas últimas pesquisas no campo de transporte de matéria, que contra todas as expectativas do establishment científico provaram bem sucedido. Até certo ponto. Brundle acha que resolveu o último problema ao transportar com sucesso uma criatura viva, mas quando tenta se teletransportar, uma mosca entra em uma das cabines de transmissão e Brundle descobre que ele é um homem mudado. Este filme “Science-Gone-Mad” é ??a fonte da citada frase “Tenha medo. Tenha muito medo”.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A MOSCA II  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3AF36914D40AD01E87110EF163B0F5E23DA7C0DB</link>
-<thumbnail>https://i.postimg.cc/1tRdMVBv/mos.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/6HpZIDsTvYiDBvBQwfn2UXhAojd.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Seth Brundie (Jeff Goldblum) é um cientista excêntrico que trabalha numa nova invenção, uma máquina de teletransporte – a TelePod. Ao seu lado, tem Veronica (Geena Davis), uma jornalista que acompanha seus projetos acreditando ser essa a história do ano. Ao experimentar seu novo invento, Seth não percebe que uma mosca entrou na cabine do teletransporte. O imprevisto faz com que os padrões moleculares do homem e do inseto se misturem e, pouco a pouco, o cientista vai sofrendo terríveis transformações.
 Enredo: Seth Brundle (Jeff Goldblum), um cientista brilhante mas excêntrico tenta atrair a jornalista investigativa Veronica Quaife (Geena Davis), oferecendo-lhe uma colher sobre suas últimas pesquisas no campo de transporte de matéria, que contra todas as expectativas do establishment científico provaram bem sucedido. Até certo ponto. Brundle acha que resolveu o último problema ao transportar com sucesso uma criatura viva, mas quando tenta se teletransportar, uma mosca entra em uma das cabines de transmissão e Brundle descobre que ele é um homem mudado. Este filme “Science-Gone-Mad” é ??a fonte da citada frase “Tenha medo. Tenha muito medo”.</info>
