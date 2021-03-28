@@ -25,7 +25,7 @@ TORRENT FILMES
 <info>Em uma Inglaterra do futuro, onde está em vigor um regime totalitário, vive Evey Hammond (Natalie Portman). Ela é salva de uma situação de vida ou morte por um homem mascarado, conhecido apenas pelo codinome V (Hugo Weaving), que é extremamente carismático e habilidoso na arte do combate e da destruição. Ao convocar seus compatriotas a se rebelar contra a tirania e a opressão do governo inglês, V provoca uma verdadeira revolução. Enquanto Evey tenta saber mais sobre o passado de V, ela termina por descobrir quem é e seu papel no plano de seu salvador para trazer liberdade e justiça ao país.</info>
 </item>
 
-<item>
+<item> 
 <title>[COLOR silver][B] MILAGRE   NA  CELA 7 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f1ee0a97e84dc07721256706472eac84b4ced51</link> 
 <thumbnail>https://br.web.img3.acsta.net/pictures/19/10/08/15/52/1926679.jpg</thumbnail>
