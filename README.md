@@ -228,7 +228,7 @@ TORRENT FILMES
 <item>
 <title>[COLOR silver][B] A MOSCA - 1 & 2 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89df25fe6155b4d7c4b410a426c3907f932628a1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3AF36914D40AD01E87110EF163B0F5E23DA7C0DB&</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3AF36914D40AD01E87110EF163B0F5E23DA7C0DB</link>
 <thumbnail>https://i.postimg.cc/1tRdMVBv/mos.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Seth Brundie (Jeff Goldblum) é um cientista excêntrico que trabalha numa nova invenção, uma máquina de teletransporte – a TelePod. Ao seu lado, tem Veronica (Geena Davis), uma jornalista que acompanha seus projetos acreditando ser essa a história do ano. Ao experimentar seu novo invento, Seth não percebe que uma mosca entrou na cabine do teletransporte. O imprevisto faz com que os padrões moleculares do homem e do inseto se misturem e, pouco a pouco, o cientista vai sofrendo terríveis transformações.
@@ -282,7 +282,7 @@ Enredo: Uma jovem família é visitada por fantasmas em sua casa. A princípio, 
 
 <item>
 <title>[COLOR silver][B] CARAVANA DA CORAGEM 1 & 2 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:488BF46B9942FB93684FAB652C4C23D90167B593&dn=Caravana%20Da%20Coragem%201%20e%202%20DVDRip%20XviD%20Dublado&tr=http%3a//tracker.thepiratebay.org/announce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:488BF46B9942FB93684FAB652C4C23D90167B593</link>
 <thumbnail>https://filmestipo.com/img_pt/movie/thumb/31/7908.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em Caravana da Coragem, a família Towani foi separada quando sua nave espacial cai em Endor. Os pais são logo capturados por um gigante conhecido como Gorax, e Mace e Cindel, o filho e a filha, estão desaparecidos. Quando os Ewoks encontram as crianças Towani nos destroços da nave, logo fica claro que será necessária confiança mútua para embarcar em uma aventura para resgatar os pais Towani.</info>
