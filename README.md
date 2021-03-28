@@ -2395,19 +2395,6 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 </item>
 
 <item>
-<title>[COLOR silver][B] PÂNICO NO LAGO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BB06C7D1FCFCD869F9848DCA9CFC8BB08EF8F58C</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BDC26076C6AD5E51EA53663E1E3D35EB240106B</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BB06C7D1FCFCD869F9848DCA9CFC8BB08EF8F58C</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BDC26076C6AD5E51EA53663E1E3D35EB240106B</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67C5490FD330D05928FBEC36E95D5D33E3F46EE7</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95EF80E9809E436A9299E18310F01357DBBCBD5E</link>
-<thumbnail>https://ia601500.us.archive.org/19/items/dfdfdf_202103/DFDFDF.PNG</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Pânico no Lago (Lake Placid) coleção completa com todos os filmes já lançados da franquia de terror dos crocodilos gigantes, Pânico no Lago 1, 2, 3 e 4. Um grupo de pesquisadores tenta desvendar o mistério que anda aterrorizando os banhistas de um lago e acabam encontrando uma verdadeira máquina de destruição: um crocodilo pré-histórico de nove metros. Agora, eles terão que lutar contra a fera para sobreviverem.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] EDD THOMAS - CAÇADOR DE FANTASMAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa42c58950347fe4f2e3f2eb353c27aa486f318f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pvYoFh0arHvN1bZDloz3kwB7xzE.jpg</thumbnail>
@@ -2471,6 +2458,19 @@ SINOPSE 3: O jovem lutador Tien (Tony Jaa) perde progressivamente suas habilidad
 <thumbnail>https://www.themoviedb.org/t/p/original/zEF6MnsJyoVB6dgtNCGJLv6Ed2T.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Algo estranho aconteceu em uma estação espacial localizada em Marte. A tripulação local entrou em estado de quarentena cinco, antes da comunicação com a Terra ser bruscamente interrompida. Para investigar o caso é enviada uma equipe especialmente treinada para resolver problemas inesperados, que exijam que seus integrantes entrem em ação o mais rápido possível. Só que desta vez eles não tem a menor idéia de qual é o inimigo que precisam enfrentar.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PÂNICO NO LAGO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BB06C7D1FCFCD869F9848DCA9CFC8BB08EF8F58C</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BDC26076C6AD5E51EA53663E1E3D35EB240106B</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BB06C7D1FCFCD869F9848DCA9CFC8BB08EF8F58C</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BDC26076C6AD5E51EA53663E1E3D35EB240106B</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67C5490FD330D05928FBEC36E95D5D33E3F46EE7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95EF80E9809E436A9299E18310F01357DBBCBD5E</link>
+<thumbnail>https://ia601500.us.archive.org/19/items/dfdfdf_202103/DFDFDF.PNG</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Pânico no Lago (Lake Placid) coleção completa com todos os filmes já lançados da franquia de terror dos crocodilos gigantes, Pânico no Lago 1, 2, 3 e 4. Um grupo de pesquisadores tenta desvendar o mistério que anda aterrorizando os banhistas de um lago e acabam encontrando uma verdadeira máquina de destruição: um crocodilo pré-histórico de nove metros. Agora, eles terão que lutar contra a fera para sobreviverem.</info>
 </item>
 
 
