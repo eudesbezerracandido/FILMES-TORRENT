@@ -456,10 +456,10 @@ Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos p
 
 <item>
 <title>[COLOR silver][B] QUADRILOGIA - ROBOCOP [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1d29cbe64e51e3f124e4c4eaba009ac95f03612</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59d41d1d225f7f6a6ea0c3b9b2b3f98755174fab</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ec099f7dbb299bf93852a4d6271231b0bfac63e</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c827f297b4fe557f25e098411e99f575bc0e049</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1d29cbe64e51e3f124e4c4eaba009ac95f03612$nome=ROBOCOP 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59d41d1d225f7f6a6ea0c3b9b2b3f98755174fab$nome=ROBOCOP 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ec099f7dbb299bf93852a4d6271231b0bfac63e$nome=ROBOCOP 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c827f297b4fe557f25e098411e99f575bc0e049$nome=ROBOCOP 4</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71uPAK1T84L._AC_SX466_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Filme 1:Num futuro não tão distante, uma grande cidade é dominada por marginais. A polícia tenta manter a ordem e controlar a situação, mas está impotente. Quando Murphy (Peter Weller), um dos melhores policiais da corporação é assassinado brutalmente por uma quadrilha de traficantes, o diretor do “Security Concepts”, um laboratório secreto, coloca em ação o projeto Robocop. Assim, criam o melhor e mais dedicado policial: um ser com os mais rápidos reflexos que a tecnologia moderna possui, acoplado a uma memória computadorizada. Manter a lei e a ordem serão as principais funções do Robocop.
