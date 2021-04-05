@@ -347,8 +347,8 @@ Enredo: Não faz nem um ano desde que um dono de uma fazenda chamado Louis perde
 
 <item>
 <title>[COLOR silver][B] IT, 1  &  2 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f851a5bf333f55105678af8483cfc2be4c136abb</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30AECF730A81E2FF31273A86FD618367D9C2A718</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f851a5bf333f55105678af8483cfc2be4c136abb$nome=IT 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30AECF730A81E2FF31273A86FD618367D9C2A718$nome=IT 2</link>
 <thumbnail>https://blob.cede.ch/catalog/16985000/16985575_1_92.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um grupo de sete adolescentes de Derry, uma cidade no Maine, formam o auto-intitulado “Losers Club”, o clube dos perdedores. A pacata rotina da cidade é abalada quando crianças começam a desaparecer e tudo o que pode ser encontrado delas são partes de seus corpos. Logo, os integrantes do “Losers Club” acabam ficando face a face com o responsável pelos crimes: o palhaço Pennywise /IT, CAPITULO 2, 27 anos depois dos eventos de \”It – Parte 1\”, o grupo de adolescentes que fazia parte do \”Losers Club\” – o clube dos perdedores – realiza uma reunião. No entanto, o que parece ser apenas um reencontro de velhos amigos acaba se tornando em uma verdadeira e sangrenta batalha quando Pennywise (Bill Skarsgard), o palhaço retorna.</info>
@@ -416,7 +416,7 @@ Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos p
 
 <item>
 <title>[COLOR silver][B]  THOR - RAGNAROK [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C0AA4604F615810B16D5BEC9392DAB1514514527&dn=Thor%20-%20Ragnarok%202018%20IMAX%20%28720p%29%20DUBLADO%20%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C0AA4604F615810B16D5BEC9392DAB1514514527</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/17/08/26/00/05/175443.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Thor está aprisionado do outro lado do universo, sem seu martelo, e se vê em uma corrida para voltar até Asgard e impedir o Ragnarok – a destruição de seu lar e o fim da civilização asgardiana – que está nas mãos de uma nova e poderosa ameaça, a terrível Hela. Mas primeiro ele precisa sobreviver a uma batalha de gladiadores que o coloca contra seu ex-aliado e vingador – o Incrível Hulk.</info>
