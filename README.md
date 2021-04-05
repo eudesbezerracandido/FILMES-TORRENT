@@ -517,9 +517,9 @@ Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o 
 
 <item>
 <title>[COLOR silver][B] TRILOGIA - PREDADOR [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4AA305E364BA951304E6466285BCC89097D44D1&dn=O%20Predador%20%5B1987%5D%20-%20BluRay%201080p%20Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:787304609BB38ABD57FC41623BF08A7C98BBAAB0&dn=Predador%202%20-%20A%20Ca%C3%A7ada%20Continua%20%5B1991%5D%20-%20BluRay%201080p%20Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7867331511D2DE3332993E218967E8942A698AE0&dn=Predadores%20%5B2010%5D%20-%20BluRay%201080p%20Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4AA305E364BA951304E6466285BCC89097D44D1$nome=PREDADOR 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:787304609BB38ABD57FC41623BF08A7C98BBAAB0$nome=PREDADOR 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7867331511D2DE3332993E218967E8942A698AE0$nome=PREDADOR 3</link>
 <thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/27778803f03fdd29c21710c8e6c04fab.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O major Dutch lidera uma equipe de resgate em selva da América Central. Após uma ação bem-sucedida contra um pelotão de guerrilheiros, eles descobrem que a missão era uma farsa e eles foram usados pela CIA. Para piorar, a floresta esconde uma ameaça mortal: um ser de outro planeta, fortemente armado, que sente enorme prazer em matar.</info>
