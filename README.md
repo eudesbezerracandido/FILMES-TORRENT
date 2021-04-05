@@ -11,7 +11,7 @@ TORRENT FILMES
 
 <item>
 <title>[COLOR silver][B]EM  ALGUM  LUGAR  DO  PASSADO[/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA5AB26F0A4FFDF6E26FA597F449A3E726CB0125&dn=em+algum+lugar+do+passado+1981+bluray+720p+dublado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA5AB26F0A4FFDF6E26FA597F449A3E726CB0125</link>
 <thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/273319/1004770777.jpg?v=636967498749770000</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Universidade de Millfield, maio de 1972. Richard Collier (Christopher Reeve) é um jovem teatrólogo que conhece na noite de estreia da sua primeira peça uma senhora idosa, que lhe dá um antigo relógio de bolso e diz: "volte para mim". Ela se retira sem mais dizer, deixando-o intrigado. Chicago, 1980. Richard não consegue terminar sua nova peça, decide viajar sem destino certo e se hospeda no Grand Hotel. Lá visita o Salão Histórico, repleto de antiguidades, e fica encantado com a fotografia de uma bela mulher, Elise McKenna (Jane Seymour), que descobre ser a mesma que lhe deu o relógio.</info>
@@ -339,7 +339,7 @@ Enredo: Não faz nem um ano desde que um dono de uma fazenda chamado Louis perde
 
 <item>
 <title>[COLOR silver][B] MAMA  TERROR [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7f3f4f29d3dfddfcedbe9aad8c80a0e34802a07&dn=Mama+%282013%29+1080p+Full+Hd+Dual+Audio+Pt+Br+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7f3f4f29d3dfddfcedbe9aad8c80a0e34802a07</link>
 <thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/93/35/86/20369169.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Há cinco anos, as irmãs Victoria (Megan Charpentier) e Lilly (Isabelle Nélisse) desapareceram da sua vizinhança sem deixar vestígios. Desde então, seu tio Lucas (Nikolaj Coster-Waldau) e sua namorada Annabel (Jessica Chastain) têm procurado por elas. Mas quando, incrivelmente, as crianças são encontradas vivas em uma decrépita cabana, o casal se pergunta se as meninas são os únicos hóspedes que eles receberam em sua casa. À medida que Annabel tenta apresentar às crianças uma vida normal, ela começa a se convencer que existe uma presença maligna em sua casa.</info>
