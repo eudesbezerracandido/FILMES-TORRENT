@@ -527,7 +527,7 @@ Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o 
 
 <item>
 <title>[COLOR silver][B] ALIEN VS PREDADOR - SEM SENSURA  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11B29B6706C98F87C2E102A086BA42815091C63B&dn=Alien%20vs.%20Predador%202004%20Sem%20Censura%20%28720p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11B29B6706C98F87C2E102A086BA42815091C63B</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cb/AVP_Alien_Vs._Predator.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Duas lendárias espécies alienígenas trazem sua mortal rivalidade para a terra em uma espetacular batalha que deverá ser o confronto final. No início do Séc. XXI, a descoberta de uma pirâmide antiga enterrada sob o gelo da Antártida atrai uma equipe de cientistas e aventureiros até o local. Mas o que os exploradores desconhecem é que há ovos alienígenas prestes a eclodir nas profundezas da pirâmide. Enquanto isso, na superfície, chegam os predadores para realizar um ritual. Como o tempo se esgotando, os humanos se vêem encurralados pela batalha até a morte das duas ferozes raças alienígenas.</info>
@@ -535,7 +535,7 @@ Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o 
 
 <item>
 <title>[COLOR silver][B] ALIEN VS PREDADOR  2 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e389062e7a5ecffb7ceb00986740944ad49036bd&dn=COMANDO.TO%20-%20Aliens%20vs.%20Predador%202_%20Vers%c3%a3o%20Estendida%202007%20%5b1080p%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e389062e7a5ecffb7ceb00986740944ad49036bd</link>
 <thumbnail>https://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/86/99/12/19880768.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Gunnison, uma pequena cidade localizada nas montanhas da área central do Colorado. Uma nave dos predatores aterrisa no local, mas os aliens que estavam escondidos nela conseguem matar a todos, com exceção de um. Para sobreviver ele precisará destruir todos os aliens remanescentes. Mas em meio a esta guerra há os humanos, residentes da pequena Gunnison, que assistem a esta batalha como vítimas e espectadores.</info>
@@ -543,7 +543,7 @@ Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o 
 
 <item>
 <title>[COLOR silver][B] O PREDADOR - A CAÇADA CONTINUA [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C579D6E0AE330B3F38DD5746C720837C3937B7CF&dn=%7bWWW.BLUDV.TV%7d%20O%20Predador%202018%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C579D6E0AE330B3F38DD5746C720837C3937B7CF</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sTaSUR11QJZKqQQ40dGahiWQWZw.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Dos confins longínquos do espaço até as ruas de bairros residenciais, a caçada chega a todos os lugares na reinvenção explosiva assinada por Shane Black da série Predador. Agora os mais letais caçadores do universo estão mais fortes, mais inteligentes e mais mortais do que antes, tendo se aperfeiçoado com o DNA de outras espécies. Quando um jovem acidentalmente causa seu retorno à Terra, apenas uma equipe improvável de ex-soldados e um professor de ciências amargurado podem evitar o extermínio da raça humana.</info>
@@ -551,7 +551,7 @@ Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o 
 
 <item>
 <title>[COLOR silver][B] ATÉ  O  ULTIMO  HOMEM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D79959476A20154018063CBE162AECA6AC4CC5C&dn=At%c3%a9%20o%20%c3%9altimo%20Homem%202017%20%28720p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D79959476A20154018063CBE162AECA6AC4CC5C</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/16/11/21/15/29/457312.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Durante a Segunda Guerra Mundial, o médico do exército Desmond T. Doss se recusa a pegar em uma arma e matar pessoas, porém, durante a Batalha de Okinawa ele trabalha na ala médica e salva mais de 75 homens, sendo condecorado. O que faz de Doss o primeiro Opositor Consciente da história norte-americana a receber a Medalha de Honra do Congresso.</info>
