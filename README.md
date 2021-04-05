@@ -365,8 +365,8 @@ Enredo: Não faz nem um ano desde que um dono de uma fazenda chamado Louis perde
 
 <item>
 <title>[COLOR silver][B] MOTOQUEIRO FANTASMA 1 & 2 [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4da5d18e9bc35d3686c57be8d8bbb824109e76b</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf71ee7f0232a12e8ab7d4586a000b639df1f9f8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4da5d18e9bc35d3686c57be8d8bbb824109e76b$nome=MOTOQUEIRO 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf71ee7f0232a12e8ab7d4586a000b639df1f9f8$nome=MOTOQUEIRO 2</link>
 <thumbnail>https://img01.mgo-images.com/image/thumbnail/v2/content/MMVE8D01ABAB952C8A5FA98AE58F6A4F0DE6.jpeg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Johnny Blaze (Nicolas Cage) trabalha como dublê e piloto de motocicleta. Há muito tempo ele fez um pacto com Mefisto (Peter Fonda) para proteger as duas pessoas que mais amava: seu pai, Barton (Brett Cullen), e sua namorada de adolescência, Roxanne Simpson (Eva Mendes). Em troca Johnny se transforma à noite no Motoqueiro Fantasma, o justiceiro de alguns demônios bastante cruéis. Forçado a obedecer as ordens de Mefisto, Johnny decide enfrentá-lo de forma a usar sua maldição para proteger pessoas inocentes.
