@@ -559,7 +559,7 @@ Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o 
 
 <item>
 <title>[COLOR silver][B] FOME DE PODER [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4B6EC9CE536BE433EE337B35FCBDAB44F52412F2&dn=Fome%20de%20Poder%202017%20%5bBluRay%5d%20%28720p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4B6EC9CE536BE433EE337B35FCBDAB44F52412F2</link>
 <thumbnail>https://www.gazetadigital.com.br/uploads/webdisco/2015/10/05/jpg/588x441/a73f375e1b1801a597a4eb981b0338a8.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Agora totalmente dublado, com qualidade de bluray e com excelente imagem e som. A história da criação e ascensão da empresa de fast food MC Donalds. Estrelada por Ray Kroc (Michael Keaton) e dirigido por John Lee Hancock. Como um pequeno restaurante de dois irmãos em uma cidadezinha dos Estado Unidos se tornou uma das maiores empresas alimentícias do mundo, tendo filiais em quase todos os países.</info>
@@ -568,7 +568,7 @@ Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o 
 
 <item>
 <title>[COLOR silver][B] SEMENTES  PODRES [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0628141547f6fca11d2976af53e983e1e20de17f&dn=Sementes%20Podres%202018%20%5bWEB-DL%5d%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounceSementes%20Podres%20%E2%80%93%20Dublado%20WEB-DL%20720p%20/%201080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0628141547f6fca11d2976af53e983e1e20de17f</link>
 <thumbnail>https://wolverdonfilmes.net/wp-content/uploads/2018/12/Sementes-Podres-Torrent-Wolverdon-Filmes.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>No Filme Download Sementes Podres (2018) – Torrent WEB-DL 720p/1080p Dublado – Atormentado pelo passado, um trapaceiro que vive de pequenos golpes com sua mãe adotiva encontra a redenção como mentor de grupo de estudantes com dificuldades.</info>
@@ -601,7 +601,7 @@ Enredo: A vida de Louis Zamperini, um atleta olímpico que se juntou às forças
 
 <item>
 <title>[COLOR silver][B] LIGA DA JUSTIÇA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ACC37BFF6743A3290C84C33798B08378835664C&dn=Liga%20da%20Justi%C3%A7a%202018%20%28720p%29%20DUBLADO%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ACC37BFF6743A3290C84C33798B08378835664C</link>
 <thumbnail>https://br.web.img2.acsta.net/pictures/17/10/23/19/55/0260439.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Impulsionado pela restauração de sua fé na humanidade e inspirado pelo ato altruísta do Superman (Henry Cavill), Bruce Wayne (Ben Affleck) convoca sua nova aliada Diana Prince (Gal Gadot) para o combate contra um inimigo ainda maior, recém-despertado. Juntos, Batman e Mulher-Maravilha buscam e recrutam com agilidade um time de meta-humanos, mas mesmo com a formação da liga de heróis sem precedentes – Batman, Mulher-Maraviha, Aquaman (Jason Momoa), Cyborg (Ray Fisher) e Flash (Ezra Miller) -, poderá ser tarde demais para salvar o planeta de um catastrófico ataque.</info>
@@ -609,7 +609,7 @@ Enredo: A vida de Louis Zamperini, um atleta olímpico que se juntou às forças
 
 <item>
 <title>[COLOR silver][B] BATMAN VS SUPERMAN [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55C33BC6C9291DE8405AE5B40239E1EBDDC03078&dn=Batman%20vs%20Superman%20-%20A%20Origem%20da%20Justi%c3%a7a%20%5bVers%c3%a3o%20Estendida%5d%20%282016%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55C33BC6C9291DE8405AE5B40239E1EBDDC03078</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71FNl3R8WHL._AC_SL1000_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O confronto entre Superman (Henry Cavill) e Zod (Michael Shannon) em Metrópolis fez com que a população mundial se dividisse acerca da existência de extra-terrestres na Terra. Enquanto muitos consideram o Superman como um novo deus, há aqueles que consideram extremamente perigoso que haja um ser tão poderoso sem qualquer tipo de controle. Bruce Wayne (Ben Affleck) é um dos que acreditam nesta segunda hipótese. Sob o manto de um Batman violento e obcecado, ele investiga o laboratório de Lex Luthor (Jesse Eisenberg), que descobriu uma pedra verde que consegue eliminar e enfraquecer os filhos de Krypton.</info>
@@ -617,7 +617,7 @@ Enredo: A vida de Louis Zamperini, um atleta olímpico que se juntou às forças
 
 <item>
 <title>[COLOR silver][B] AS AVENTURAS DE PI [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71262cd409cb34b8b0494e5f60713c9ea32d32a6&dn=As+aventuras+de+PI+%282012%29+BDRip+bluray+HD+720p+dublado+PT+BR-+de&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71262cd409cb34b8b0494e5f60713c9ea32d32a6</link>
 <thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/91/30/40/20328542.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Pi Patel (Suraj Sharma) é filho do dono de um zoológico localizado em Pondicherry, na Índia. Após anos cuidando do negócio, a família decide vender o empreendimento devido à retirada do incentivo dado pela prefeitura local. A ideia é se mudar para o Canadá, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terrível tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espaço disponível com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.</info>
@@ -641,7 +641,7 @@ Enredo: A vida de Louis Zamperini, um atleta olímpico que se juntou às forças
 
 <item>
 <title>[COLOR silver][B] DUOLOGIA - ESQUECERAM DE MIM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PG43X35YAJZRKJ2JGTS5R5O4MOEJ3XFA&dn=Duologia%20Esqueceram%20de%20Mim%20(1990-1992)%205.1%20BluRay%20Dual%20%C3%81udio%20720p%20By-LuanHarper</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PG43X35YAJZRKJ2JGTS5R5O4MOEJ3XFA</link>
 <thumbnail>https://www.pontofrio-imagens.com.br/dvdsebluray/FilmeseSeriados/Animacao/436053/243109677/Blu-Ray-Esqueceram-de-Mim-Esqueceram-de-Mim-2-2-Discos-436053.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Esqueceram de Mim (1990) Em Chicago, uma família inteira planeja passar o Natal em Paris. Porém, em meio às confusões de viagem um dos filhos (Macaulay Culkin), com apenas 8 anos, é esquecido em casa. Assim, o garoto se vê obrigado a se virar sozinho e a defender a casa de dois ladrões.
@@ -650,7 +650,7 @@ Esqueceram de Mim 2: Perdido em Nova York (1992) Garoto (Macaulay Culkin) se vê
 
 <item>
 <title>[COLOR silver][B] QUADRILOGIA - O EXTERMINADOR DO FUTURO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR]SKYNET[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a01d58b5af68ea5f8a9ae79e5de23a0ebb47fcad&dn=Quadrilogia+O+Exterminador+do+Futuro+1984+a+2009++BluRay+1080p+D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a01d58b5af68ea5f8a9ae79e5de23a0ebb47fcad</link>
 <thumbnail>https://http2.mlstatic.com/o-exterminador-do-futuro-a-quadrilogia-box-4-dvds-lacrado-D_NQ_NP_903953-MLB26503257270_122017-F.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O Exterminador do Futuro: Andróide (Arnold Schwarzenegger) vem do futuro com o objetivo de matar a mãe (Linda Hamilton) de um futuro líder guerrilherio humano e assim evitar o seu nascimento. Mas um guerrilheiro do futuro (Michael Biehl) vem também com o objetivo de proteger a mãe e garantir o nascimento da criança.
@@ -661,7 +661,7 @@ O Exterminador do Futuro 4: A Salvação: O ano é 2018. O Dia do Julgamento Fin
 
 <item>
 <title>[COLOR silver][B] DUOLOGIA - HELBOY [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1BB01A0477B06FD743B6A7591757DA41CC4F97BE&dn=Hellboy%20-%20Duologia%20%282004-2008%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1BB01A0477B06FD743B6A7591757DA41CC4F97BE</link>
 <thumbnail>https://plexcollectionposters.com/images/2018/05/08/Hellboy.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Coleção com todos os 3 filmes da franquia, sendo eles, Hellboy 1 (2004), Hellboy II: O Exército Dourado (2008) e Hellboy, o remake de 2019. Nimue (Milla Jovovich), a Rainha de Sangue, foi uma bruxa tão poderosa que nenhum mortal jamais conseguiu derrotá-la. Durante uma batalha, seu corpo foi dividido em seis partes e espalhado pelos lugares mais distantes da Terra. Anos depois, o massacre a um mosteiro próximo à Londres levanta a suspeita de que alguém pode estar querendo ressuscitá-la e Hellboy (David Harbour) recebe a missão de conter essa terrível ameaça. A humanidade quase não conseguiu sobreviver aos seus poderes da primeira vez e certamente não sobreviverá na segunda.</info>
@@ -669,7 +669,7 @@ O Exterminador do Futuro 4: A Salvação: O ano é 2018. O Dia do Julgamento Fin
 
 <item>
 <title>[COLOR silver][B] CAÇADORES DE EMOÇÃO - ALÉM DO LIMITE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3995B5918687F60DB03A15F5EC51E1F022997A53&dn=Ca%c3%a7adores%20de%20Emo%c3%a7%c3%a3o%20Al%c3%a9m%20do%20Limite%202016%20Bluray%20720p%20Dublado%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3995B5918687F60DB03A15F5EC51E1F022997A53</link>
 <thumbnail>https://jgdprod-blogs-us.s3.amazonaws.com/blogs/wp-content/uploads/sites/7/2016/02/02181227/202939.jpg-r_640_600-b_1_D6D6D6-f_jpg-q_x-xxyxx.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um jovem agente do FBI (Luke Bracey) tem como missão se infiltrar em meio a atletas de esportes radicais, suspeitos de cometerem uma série de roubos nunca vistos até então. Não demora muito para que ele se aproxime de Bodhi (Édgar Ramirez), o líder do grupo, e conquiste sua confiança.</info>
@@ -677,7 +677,7 @@ O Exterminador do Futuro 4: A Salvação: O ano é 2018. O Dia do Julgamento Fin
 
 <item>
 <title>[COLOR silver][B] DEPOIS DA TERRA  - COM WILL SMITH [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f630a3cd23cb36074c526ad6023df4b5781f964b&dn=Depois+da+Terra+%282013%29+BDRip+720p+dual+audio+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f630a3cd23cb36074c526ad6023df4b5781f964b</link>
 <thumbnail>https://3.bp.blogspot.com/-Itrt_nSxjdI/Ub4FnnQZyyI/AAAAAAAAMSM/F6_dY6vn2TQ/s1600/Depois-daTerra-poster.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um pouso forçado deixa o adolescente Kitai Raige (Jaden Smith) e seu lendário pai Cypher (Will Smith) encalhados na Terra, 1.000 anos depois que eventos cataclísmicos forçaram a humanidade a fugir. Com Cypher gravemente ferido, Kitai deve embarcar em uma perigosa jornada para pedir ajuda, enfrentando terreno desconhecido, evoluídas espécies animais que agora dominam o planeta, e uma implacável criatura alienígena que escapou durante o acidente. Pai e filho devem aprender a trabalhar juntos e confiar um no outro se quiserem alguma chance de voltar para casa.</info>
@@ -685,7 +685,7 @@ O Exterminador do Futuro 4: A Salvação: O ano é 2018. O Dia do Julgamento Fin
 
 <item>
 <title>[COLOR silver][B] A PROCURA DA FELICIDADE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DF13A0D0344105F71CCE7D01C7749B62B1936F4C&dn=%7bWWW.BLUDV.COM%7d%20%c3%80%20Procura%20da%20Felicidade%202006%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DF13A0D0344105F71CCE7D01C7749B62B1936F4C</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61GttXJDT9L._AC_SX569_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Chris Gardner (Will Smith) é um pai de família que enfrenta sérios problemas financeiros. Apesar de todas as tentativas em manter a família unida, Linda (Thandie Newton), sua esposa, decide partir. Chris agora é pai solteiro e precisa cuidar de Christopher (Jaden Smith), seu filho de apenas 5 anos. Ele tenta usar sua habilidade como vendedor para conseguir um emprego melhor, que lhe dê um salário mais digno. Chris consegue uma vaga de estagiário numa importante corretora de ações, mas não recebe salário pelos serviços prestados. Sua esperança é que, ao fim do programa de estágio, ele seja contratado e assim tenha um futuro promissor na empresa. Porém seus problemas financeiros não podem esperar que isto aconteça, o que faz com que sejam despejados. Chris e Christopher passam a dormir em abrigos, estações de trem, banheiros e onde quer que consigam um refúgio à noite, mantendo a esperança de que dias melhores virão.</info>
@@ -712,7 +712,7 @@ O Exterminador do Futuro 4: A Salvação: O ano é 2018. O Dia do Julgamento Fin
 
 <item>
 <title>[COLOR silver][B] DJANGO - LIVRE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1F54825B33ADA10CF043A6CA0B7DA3E7E73040F8&dn=Django%20Livre%20720p%20%282012%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1F54825B33ADA10CF043A6CA0B7DA3E7E73040F8</link>
 <thumbnail>https://64.media.tumblr.com/eeedccba3f8c0f0c9d13cb01e22fe287/tumblr_inline_p8qgen3mHZ1s2p9c8_500.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Django é um escravo liberto que, sob a tutela de um caçador de recompensas alemão, torna-se um mercenário perigoso. Depois de auxiliar seu mentor em alguns trabalhos por dinheiro, os dois partem para uma missão pessoal: encontrar e libertar a esposa de Django das garras de um fazendeiro inescrupuloso.</info>
@@ -728,7 +728,7 @@ O Exterminador do Futuro 4: A Salvação: O ano é 2018. O Dia do Julgamento Fin
 
 <item>
 <title>[COLOR silver][B] BOHEMIA RHAPSODY[/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:a6ab5eaa844d56a1d75203cd6361f92807176c81&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Bohemian%20Rhapsody%202019%20%5bBluRay%5d%20%5b720p%5d%20%5bDUBLADO%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:a6ab5eaa844d56a1d75203cd6361f92807176c81</link>
 <thumbnail>https://br.web.img2.acsta.net/pictures/18/08/24/21/29/2341995.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Freddie Mercury (Rami Malek) e seus companheiros, Brian May, Roger Taylor e John Deacon mudam o mundo da música para sempre ao formar a banda Queen durante a década de 1970. Porém, quando o estilo de vida extravagante de Mercury começa a sair do controle, a banda tem que enfrentar o desafio de conciliar a fama e o sucesso com suas vidas pessoais cada vez mais complicadas.</info>
@@ -744,7 +744,7 @@ O Exterminador do Futuro 4: A Salvação: O ano é 2018. O Dia do Julgamento Fin
 
 <item>
 <title>[COLOR silver][B] DEUSES DO EGITO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D2C4A592D40D7E9BE45EB5244C5FEDA5E7A3B916&dn=Deuses%20do%20Egito%202016%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.openbittorrent.com%3a80/announce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D2C4A592D40D7E9BE45EB5244C5FEDA5E7A3B916</link>
 <thumbnail>https://br.web.img2.acsta.net/pictures/16/02/14/13/03/358252.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Bek (Brenton Thwaites) é um mortal pacato que se considera apenas mais um soldado, e que vive em um Egito ancestral dominado por deuses e forças ocultas. Quando o impiedoso Set (Gerard Butler), deus da escuridão, toma o trono da nação e mergulha a sociedade no caos, o jovem se unirá a outros cidadãos e com o poderoso deus Horus (Nikolaj Coster-Waldau), para formar uma expressiva resistência.</info>
@@ -752,8 +752,8 @@ O Exterminador do Futuro 4: A Salvação: O ano é 2018. O Dia do Julgamento Fin
 
 <item>
 <title>[COLOR silver][B] DUOLOGIA - DEAD POOL  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8024064918D43CEED1700A459765ECC3C44FE62A&dn=Deadpool%202016%20Bluray%20720p%205.1%20CH%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30DFA6447A7ACAEAFC5FFA2D49833245955EB5C1&dn=%7bWWW.BLUDV.COM%7d%20Deadpool%202%202018%20%28720p%29%20DUBLADO%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8024064918D43CEED1700A459765ECC3C44FE62A$nome= DEAD POLL 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30DFA6447A7ACAEAFC5FFA2D49833245955EB5C1$nome= DEAD POLL 2</link>
 <thumbnail>https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6314/6314977_so.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O bocudo mercenário da Marvel está de volta! Maior, melhor e, ocasionalmente, mais pelado do que nunca. Quando um super soldado chega em uma missão assassina, Deadpool é forçado a pensar em amizade, família e o que realmente significa ser um herói – tudo isso, enquanto chuta 50 tons de bundas. Porque,? s vezes, para fazer a coisa certa, você precisa lutar sujo.</info>
@@ -761,7 +761,7 @@ O Exterminador do Futuro 4: A Salvação: O ano é 2018. O Dia do Julgamento Fin
 
 <item>
 <title>[COLOR silver][B] DJANGO - 1966 [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeb3be73c8d04317d0f931c5fa92c17b2f2b7815&dn=Django.1966.1080p.BluRay.x264.AC3-CaNNIBal&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeb3be73c8d04317d0f931c5fa92c17b2f2b7815</link>
 <thumbnail>https://1.bp.blogspot.com/-ZNj6tdsItvI/UPmDF4iAfVI/AAAAAAAAO-4/rAkOIlTRjGQ/s1600/DJANGO+1966+POSTER.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Na fronteira mexicana duas gangues rivais aterrorizam uma pequena cidade sem lei. Uma é liderada pelo Major Winchester Jack e a outra pelo General H. Rodrigues. De repente, os dois exércitos de bandidos são pegos de surpresa pelo mais temido pistoleiro do velho oeste, Django. Arrastando um misterioso caixão atrás de si, ele retorna para vingar a morte de sua esposa e banhar de sangue as ruas da cidade. Os tiroteios e confrontos são inevitáveis. Django está determinado em seu plano de vingança.</info>
@@ -834,7 +834,7 @@ Em Download Velozes e Furiosos 8 (2017) – HD 720p e 1080p Torrent | Depois que
 
 <item>
 <title>[COLOR silver][B] UM LOBISOMEM AMERICANO EM LONDRES [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B328C30F0ABEA1BFFA323CAED12EEE3D5421BE19&dn=Um%20Lobisomem%20Americano%20em%20Londres%20%281981%29%20BluRay%201080%20Dual%20%C3%81udio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B328C30F0ABEA1BFFA323CAED12EEE3D5421BE19</link>
 <thumbnail>https://pm1.narvii.com/6703/29dd0ce08d8d1f2897baaf864352e94ae093fecc_hq.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>David Kessler (David Naughton) e Jack Goodman (Griffin Dunne) são colegas de colégio, que vieram dos Estados Unidos para conhecer a Inglaterra. Pedindo carona nas estradas, eles chegam a uma pequena cidade. Lá vão ao bar, sendo friamente
@@ -843,7 +843,7 @@ recepcionados pelos moradores locais. A situação piora ainda mais quando Jack 
 
 <item>
 <title>[COLOR silver][B] SINISTRO -  A MALDIÇÃO DO LOBISOMEM [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://magnet</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C641E04F79CDF7C9C1C1EB13814C036063C2E35A</link>
 <thumbnail>https://media.fstatic.com/7JjWxMUxFyNkVGVFIMsyT1Col_8=/290x478/smart/media/movies/covers/2018/12/74018_f1.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A advogada de defesa Kate (A. J. Cook) começa a suspeitar de um dos seus clientes, que está sendo acusado do assassinato de uma família que estava de férias. Ele acha que o acusado está escondendo algo além do que aparenta ser.</info>
