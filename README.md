@@ -2486,6 +2486,15 @@ SINOPSE 3: O jovem lutador Tien (Tony Jaa) perde progressivamente suas habilidad
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em uma expedição pelo desconhecido deserto americano, o lendário explorador Hugh Glass (Leonardo DiCaprio) é brutalmente atacado por um urso e deixado como morto pelos membros de sua própria equipe de caça. Em uma luta para sobreviver, Glass resiste à dor inimaginável, bem como à traição de seu confidente, John Fitzgerald (Tom Hardy). Guiado pela força de vontade</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] TED [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99042f0b7f0f4ea7b3ba2ac942e9c72175e2b1c0$nome=TED 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C89C87EB863C4CB0638298C661BB4843EDD344B24nome=TED 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9oBK74TfxR2M3dTiuqOlnYKEDKp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No Natal o pequeno John fez um único pedido para o Papai Noel: que seu ursinho de pelúcia, Ted, ganhasse vida. O seu pedido se tornou realidade e logo se tornam grandes amigos. John e Ted vivem a infância e adolescência juntos, mas o ursinho de pelúcia acaba se tornando bastante mal humorado com o passar dos anos.</info>
+</item>
  
 
 
