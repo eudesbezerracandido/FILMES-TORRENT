@@ -2489,8 +2489,8 @@ SINOPSE 3: O jovem lutador Tien (Tony Jaa) perde progressivamente suas habilidad
 
 <item>
 <title>[COLOR silver][B] TED [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99042f0b7f0f4ea7b3ba2ac942e9c72175e2b1c0$nome=TED  1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C89C87EB863C4CB0638298C661BB4843EDD344B24$nome=TED 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99042f0b7f0f4ea7b3ba2ac942e9c72175e2b1c0$nome=TED 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E492684F7BB06D466D444F8E6F1181D6BCC730A$nome=TED 2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9oBK74TfxR2M3dTiuqOlnYKEDKp.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>No Natal o pequeno John fez um único pedido para o Papai Noel: que seu ursinho de pelúcia, Ted, ganhasse vida. O seu pedido se tornou realidade e logo se tornam grandes amigos. John e Ted vivem a infância e adolescência juntos, mas o ursinho de pelúcia acaba se tornando bastante mal humorado com o passar dos anos.</info>
