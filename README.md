@@ -2549,6 +2549,16 @@ Enredo: Em 1850 – contra o pano de fundo de agitação política, como a intri
 </info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SOLO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5c232bceba0d17739d2d9651289d066d29bfff9</link>
+<thumbnail>https://ia801506.us.archive.org/19/items/solo_20210411/Solo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Numa área remota das Ilhas Canárias, um surfista cai de um penhasco. Lutando pela sobrevivência, ele reflete sobre a vida e o amor do passado. Baseado em fatos reais.
+Enredo: Baseado em eventos reais. Em 6 de setembro de 2014, Álvaro Vizcaíno Albertos, um surfista que acorda em seu jipe ??na Ilha de Fuerteventura (uma das Ilhas Canárias) depois de estar bêbado demais na noite anterior, e depois de uma briga com o companheiro de sua namorada Ona , além de saber que seu amigo próximo Nelo vai deixá-lo viajar para o Canadá para criar uma família com sua namorada recente e grávida. Sozinho neste canto remoto de Fuerteventura e dominado pelo orgulho, raiva e inveja, Álvaro decide levar a sua mesa de surf à procura da onda perfeita, mas enquanto caminha pelas dunas costeiras perto do jipe, de repente, tropeça e desliza pela duna para um recife, onde ele mantém em uma posição delicada na fronteira tentando evitar bater contra as rochas. Calculando o ciclo natural das ondas, Álvaro se lança ao vazio, caindo na água, mas se ferindo seriamente na cabeça e quebrando o quadril esquerdo no outono. Incapaz de se levantar e andar, sem …</info>
+</item>
+
+
 
 
 
