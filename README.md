@@ -2514,6 +2514,24 @@ Rambo III 1988: John Rambo (Sylvester Stallone), agora vivendo num mosteiro budi
 Rambo IV 2008: Vinte anos depois de ter estrelado o último filme da série, Sylvester Stallone volta a encarnar o violento veterano do Vietnã, John Rambo. Nesta nova película, ele também assume a direção. Rambo agora está no norte da Tailândia, onde pilota um barco e tenta levar uma vida tranqüila novamente, mesmo estando próximo a uma região onde acontece um violento conflito civil. A calma ainda segue em sua vida até que um grupo de missionários dos diretos humanos o procura para buscar ajuda, já que os militares da região colocaram minas no caminho, deixando a viagem perigosa. Eles pedem que o veterano os guie rio abaixo para que possam distribuir os medicamentos e alimentos para uma tribo que está no conflito. Depois de ajudá-los, poucas semanas depois, ele recebe a informação de que os missionários foram capturados e concorda em guiar um grupo de resgate pelo caminho. Assim, mesmo relutante, ele acaba, mais uma vez, envolvendo-se em uma guerra que não é a sua.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] AMOR ALÉM DA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4814133f173e911b49174b722a3daad187e59fdb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gVI1AhFEUtf6KONC3rjsDYatom6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois da morte de seus dois filhos, Chris Nielson (Robin Williams) e sua mulher Annie (Annabella Sciorra) passam por insuperáveis dificuldades emocionais. Anos depois, acontece outra tragédia: Chris também morre. Ele vai para o Paraíso, onde conhece Albert (Cuba Gooding Jr), um rapaz de bom coração que vai ajudá-lo a se adaptar à nova existência. Para Annie, a morte do marido é a última gota que a prendia à vida, e ela acaba se suicidando. Porém, diferente de Chris, ela não vai ao Paraíso, mas sim a um lugar diferente, uma espécie de purgatório onde ficam as almas perturbadas. Quando descobre o destino da mulher, Chris pede ajuda a Albert e os dois saem em uma jornada em busca da salvação da alma de Annie, provando que o amor desafia qualquer infortúnio.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ALÉM DA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:931110ff8ebdbd5cfa6753e5f567d1a78575675b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xNnd2jFEV9KjNU6M31HoOosloDI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Três pessoas são tocadas pela morte de maneiras diferentes. George (Matt Damon) é um americano que desde pequeno consegue manter contato com a vida fora da matéria, mas considera o seu dom uma maldição e tenta levar uma vida normal. Marie (Cécile De France) é jornalista, francesa, e passou por uma experiência de quase morte durante um tsunami. Em Londres, o menino Marcus (Frankie McLaren/George McLaren) perde alguém muito ligado a ele e parte em busca desesperada por respostas. Enquanto cada um segue sua vida, o caminho deles irá se cruzar, podendo mundar para sempre as suas crenças.</info>
+</item>
+
+
+
 
 
 
