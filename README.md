@@ -2504,6 +2504,20 @@ SINOPSE 3: O jovem lutador Tien (Tony Jaa) perde progressivamente suas habilidad
 <info>A região de Azeroth sempre viveu em paz, até a chegada dos guerreiros Orc. Com a abertura de um portal, eles puderam chegar à nova Terra com a intenção de destruir o povo inimigo. Cada lado da batalha possui um grande herói, e os dois travam uma disputa pessoal, colocando em risco seu povo, sua família e todas as pessoas que amam.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] QUADRILOGIA - RAMBO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ca21ac052ca982974e23d0d0f28d9669a73be4a</link>
+<thumbnail>https://ia601400.us.archive.org/18/items/d-nq-np-682769-mlb-40028837836-122019-o/D_NQ_NP_682769-MLB40028837836_122019-O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Rambo – Programado Para Matar 1982: Herói da guerra do Vietnã é tratado como vagabundo pelas autoridades de uma pequena cidade do interior dos Estados Unidos. Toda a sua agressividade exercitada nos campos de batalha vem à tona quando é preso e torturado por policiais.
+Rambo II – A Missão 1985: Rambo sai da cadeia e é recrutado para uma missão secreta nas selvas do Vietnã. Sua tarefa é resgatar os prisioneiros norte-americanos que ficaram para trás. Vai enfrentar um exército.
+Rambo III 1988: John Rambo (Sylvester Stallone), agora vivendo num mosteiro budista, é convocado para mais uma missão: libertar seu ex-comandante, Coronel Trautman (Richard Crenna), que foi sequestrado e levado para o Afeganistão. No início, cansado de brigar, ele recusa. Mas assim que passa pela fronteira, Rambo volta a ser o combatente de sempre. Sozinho, ele arrasa com os inimigos e abre caminho para libertar seu amigo.
+Rambo IV 2008: Vinte anos depois de ter estrelado o último filme da série, Sylvester Stallone volta a encarnar o violento veterano do Vietnã, John Rambo. Nesta nova película, ele também assume a direção. Rambo agora está no norte da Tailândia, onde pilota um barco e tenta levar uma vida tranqüila novamente, mesmo estando próximo a uma região onde acontece um violento conflito civil. A calma ainda segue em sua vida até que um grupo de missionários dos diretos humanos o procura para buscar ajuda, já que os militares da região colocaram minas no caminho, deixando a viagem perigosa. Eles pedem que o veterano os guie rio abaixo para que possam distribuir os medicamentos e alimentos para uma tribo que está no conflito. Depois de ajudá-los, poucas semanas depois, ele recebe a informação de que os missionários foram capturados e concorda em guiar um grupo de resgate pelo caminho. Assim, mesmo relutante, ele acaba, mais uma vez, envolvendo-se em uma guerra que não é a sua.</info>
+</item>
+
+
+
+
 
 
  
