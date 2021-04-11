@@ -2539,6 +2539,17 @@ Rambo IV 2008: Vinte anos depois de ter estrelado o último filme da série, Syl
 Enredo: Depois de um acidente de carro horrível, Anna (Ricci) acorda para encontrar o funeral local Eliot Deacon (Neeson) preparando-a para seu funeral. Confusa, aterrorizada e ainda muito viva, Anna não acredita que esteja morta, apesar das garantias do agente funerário que ela está apenas em transição para a vida após a morte. Eliot a convence de que ele tem a habilidade de se comunicar com os mortos e é o único que pode ajudá-la. Presa dentro da casa funerária, sem ninguém a quem recorrer, exceto Eliot, Anna é forçada a aceitar sua própria morte. Mas o namorado de Anna, Paul (Long), não consegue afastar a suspeita de que Eliot não seja o que parece ser.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A LENDA DO ZORRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e56044f23f1cd08cef0d9c9ccc4af4cb28aa0f66</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dG28HziPyltTCpmMBLHmgGBbtRr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Don Alejandro de la Vega divide seu tempo agindo como o lendário justiceiro Zorro e cuidando da mulher e do filho. Dessa vez, o espadachim mascarado precisa enfrentar um conde europeu que está intimidando os moradores da Califórnia.
+Enredo: Em 1850 – contra o pano de fundo de agitação política, como a intrigante Jacob McGivens tenta parar Califórnia de adesão à União – o espadachim mascarado preto-caped misterioso, Alejandro de la Vega, também conhecido como Zorro, se encontra em uma situação inevitável. Depois de ter passado quase uma década protegendo seu povo e injustiça luta, a esposa de Alejandro, Elena, insiste que ele dá a máscara preta, e tornar-se um verdadeiro pai para seu filho de oito anos de idade, Joaquin. No entanto, quando Elena deixa para o conde francês, Armand, torna-se evidente que o aristocrata vaidoso é até bom. Pode Zorro, o defensor legendário do inocente, salvar tanto seu casamento e do país?
+</info>
+</item>
+
+
 
 
 
