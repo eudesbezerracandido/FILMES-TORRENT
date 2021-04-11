@@ -1229,7 +1229,7 @@ Enredo: Paleontologista Kate Lloyd é convidado pelo Dr. Sandor Halvorson para i
 
 <item>
 <title>[COLOR silver][B]  PERCY JACKSON - É O LADRÃO DE RAIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c260a8ee6ab0eed2e492536f236d575f52e41cfe&dn=Percy+Jackson+e+o+Ladr%26atilde%3Bo+de+Raios+%282010%29+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c260a8ee6ab0eed2e492536f236d575f52e41cfe</link>
 <thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/87/90/23/19962722.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Percy Jackson (Logan Lerman) é um jovem que enfrenta problemas na escola, devido ao que acredita ser dislexia e déficit de atenção. Ele foi criado por sua mãe, Sally (Catherine Keener), e vive com Gabe Ugliano (Joe Pantoliano), seu padrasto, que odeia. Após ser atacado em plena excursão escolar, é revelado a Percy que ele é um semideus, ou seja, filho do deus Poseidon (Kevin McKidd) com uma humana, e possui poderes.</info>
@@ -1237,7 +1237,7 @@ Enredo: Paleontologista Kate Lloyd é convidado pelo Dr. Sandor Halvorson para i
 
 <item>
 <title>[COLOR silver][B] TRILOGIA - MIB HOMENS DE PRETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA90C5A4CFAED0C5A0A6E95BEE89A24B76C78D00&dn=Trilogia%20Homens%20de%20Preto%201197%20-%202002%20-%202012%20%28720p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA90C5A4CFAED0C5A0A6E95BEE89A24B76C78D00</link>
 <thumbnail>https://http2.mlstatic.com/mib-homens-de-preto-a-trilogia-box-com-3-dvds-lacrado-D_NQ_NP_671872-MLB28355817426_102018-F.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Os Homens de Preto são uma agência secreta do governo que fiscaliza alienígenas que estão na terra. O primeiro filme MIB - Homens de Preto foi lançado nos anos 90, em 1997 e o último filme MIB - Homens de Preto 3 foi lançado em 2012. Os 3 filmes da trilogia MIB estão sendo disponibilizados para download via torrent em um único arquivo. Todos os filmes estão dublados e com ótima qualidade de áudio e vídeo.</info>
@@ -1245,9 +1245,9 @@ Enredo: Paleontologista Kate Lloyd é convidado pelo Dr. Sandor Halvorson para i
 
 <item>
 <title>[COLOR silver][B] TRILOGIA - CONAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9d3d7dc0a3e79fbdacb347e446d25ba7c0f2444&dn=Conan%2C+o+Destruidor+%281984%29+BRRip+Blu-Ray+720p+Dublado+Dat2014&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34a8f5b530ac27366443de9c3f1689d144e5c2e6&dn=Conan%2C+o+B%26aacute%3Brbaro+%281982%29+BRrip+Blu-Ray+720p+Dublado+Dat201&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c11915c004bfccf6af1399ad149f418b1b504bcc&dn=Conan+-+O+Barbaro+%282011%29+bluray+HD+720p+dublado+-+derew+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9d3d7dc0a3e79fbdacb347e446d25ba7c0f2444$nome=CONAN 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34a8f5b530ac27366443de9c3f1689d144e5c2e6$nome=CONAN 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c11915c004bfccf6af1399ad149f418b1b504bcc$nome=CONAN 3</link>
 <thumbnail>https://blogdojotace.com.br/wp-content/uploads/2010/10/conan_ed_thumb1.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> CONAN - O DESTRUIDOR 1984/ CONAN - O BÁRBARO 1982/ CONAN - O BÁRBARO 2011 - Para vingar a morte de seus pais, Conan (Arnold Schwarzenegger) enfrenta um perigoso feiticeiro em busca da liga de aço, que fará com que sua espada se torne invencível. Quando criança, Conan viu seus pais serem mortos na sua frente e seu povo massacrado. Criado em um campo de escravos, ele desenvolve uma enorme força física e se torna um gladiador. Mas Conan nunca esqueceu seu triste passado e está determinado a vingar o assassinato de sua família.</info>
@@ -1255,7 +1255,7 @@ Enredo: Paleontologista Kate Lloyd é convidado pelo Dr. Sandor Halvorson para i
 
 <item>
 <title>[COLOR silver][B] QUADRILOGIA - RAMBO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ca21ac052ca982974e23d0d0f28d9669a73be4a&dn=[ACESSE%20comandotorrents.org]%20Quadrilogia%20Rambo%201982-2008%20[720p]%20[BluRay]%20[DUAL]&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker4.piratux.com:6969/announce&tr=udp://coppersurfer.tk:6969/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.yify-torrents.com:80/announce&tr=http://www.h33t.com:3310/announce&tr=http://exodus.desync.com/announce&tr=http://tracker.coppersurfer.tk:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=http://tracker.blazing.de/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=http://tracker.yify-torrents.com/announce&tr=udp://tracker.prq.to/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://9.rarbg.com:2740/announce&tr=udp://tracker.ex.ua:80/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://12.rarbg.me:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://11.rarbg.com/announce&tr=udp://tracker.ccc.de:80/announce&tr=udp://fr33dom.h33t.com:3310/announce&tr=udp://public.popcorn-tracker.org:6969/announce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ca21ac052ca982974e23d0d0f28d9669a73be4a</link>
 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_966240-MLB40028869312_122019-O.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Rambo – Programado Para Matar 1982: Herói da guerra do Vietnã é tratado como vagabundo pelas autoridades de uma pequena cidade do interior dos Estados Unidos. Toda a sua agressividade exercitada nos campos de batalha vem à tona quando é preso e torturado por policiais.
@@ -1274,7 +1274,7 @@ Rambo IV 2008: Vinte anos depois de ter estrelado o último filme da série, Syl
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO COMPLETA - HARRY POTTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28EB43F88E9123B32058905B3DD1B94FB44BAB21&dn=COLE%c3%87%c3%83O%20COMPLETA%20-%20Harry%20Potter%20%282001-2011%29%20Dublado%205.1%20CH%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28EB43F88E9123B32058905B3DD1B94FB44BAB21</link>
 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_825517-MLB29930715864_042019-O.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Esse torrent contém todos os filmes da saga Harry Potter
@@ -1284,8 +1284,8 @@ Harry Potter e o Prisioneiro de Azkaban
 Harry Potter e o Cálice de Fogo
 Harry Potter e a Ordem da Fênix
 Harry Potter e o Enigma do Príncipe
-Harry Potter e as Relí­quias da Morte
-Harry Potter e as Relí­quias da Morte (Parte II)...Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger.</info>
+Harry Potter e as Relíquias da Morte
+Harry Potter e as Relíquias da Morte (Parte II)...Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger.</info>
 </item>
 
 <item>
