@@ -2558,6 +2558,16 @@ Enredo: Em 1850 – contra o pano de fundo de agitação política, como a intri
 Enredo: Baseado em eventos reais. Em 6 de setembro de 2014, Álvaro Vizcaíno Albertos, um surfista que acorda em seu jipe ??na Ilha de Fuerteventura (uma das Ilhas Canárias) depois de estar bêbado demais na noite anterior, e depois de uma briga com o companheiro de sua namorada Ona , além de saber que seu amigo próximo Nelo vai deixá-lo viajar para o Canadá para criar uma família com sua namorada recente e grávida. Sozinho neste canto remoto de Fuerteventura e dominado pelo orgulho, raiva e inveja, Álvaro decide levar a sua mesa de surf à procura da onda perfeita, mas enquanto caminha pelas dunas costeiras perto do jipe, de repente, tropeça e desliza pela duna para um recife, onde ele mantém em uma posição delicada na fronteira tentando evitar bater contra as rochas. Calculando o ciclo natural das ondas, Álvaro se lança ao vazio, caindo na água, mas se ferindo seriamente na cabeça e quebrando o quadril esquerdo no outono. Incapaz de se levantar e andar, sem …</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] 2012 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd4e3e8f2604a1a865a379e0c16766c59d703927</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6NGuxp2ysgv539S9EpfVngsUdD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Bilhões de habitantes da Terra não estão cientes de que o planeta tem uma data de expiração. Com os avisos de um cientista norte-americano, os líderes mundiais começam os preparativos secretos para a sobrevivência de alguns membros da sociedade. Quando o cataclisma global finalmente ocorre, o fracassado escritor Jackson Curtis tenta levar sua família para um lugar seguro quando o mundo começa a desmoronar.
+Enredo: Dr. Adrian Helmsley, parte de uma equipe geofísica em todo o mundo a investigar o efeito sobre a Terra da radiação de tempestades solares sem precedentes, descobre que o núcleo da Terra está a aquecer. Ele adverte o presidente EUA Thomas Wilson que a crosta da Terra está se tornando instável e que, sem preparação adequada para salvar uma fração da população do mundo, toda a raça está condenada. Enquanto isso, o escritor Jackson Curtis tropeça na mesma informação. Enquanto os líderes de corrida do mundo para construir “arcas” para escapar do cataclismo iminente, Curtis se esforça para encontrar uma maneira de salvar sua família. Enquanto isso, erupções vulcânicas e terremotos de intensidade sem precedentes causar estragos em todo o mundo</info>
+</item>
+
+
 
 
 
