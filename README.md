@@ -2530,6 +2530,16 @@ Rambo IV 2008: Vinte anos depois de ter estrelado o último filme da série, Syl
 <info> Três pessoas são tocadas pela morte de maneiras diferentes. George (Matt Damon) é um americano que desde pequeno consegue manter contato com a vida fora da matéria, mas considera o seu dom uma maldição e tenta levar uma vida normal. Marie (Cécile De France) é jornalista, francesa, e passou por uma experiência de quase morte durante um tsunami. Em Londres, o menino Marcus (Frankie McLaren/George McLaren) perde alguém muito ligado a ele e parte em busca desesperada por respostas. Enquanto cada um segue sua vida, o caminho deles irá se cruzar, podendo mundar para sempre as suas crenças.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ALÉM DA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2928a18c8b8b89d0c8f22b083c1cda712ed6f7c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4mGl52mR8rpAH5xj9Lq1KLMMcMi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após sofrer um terrível acidente de trânsito, Anna desperta em uma funerária. Eliot Deacon diretor do local, afirma que ela se encontra na transição entre a vida e a morte e que somente ele pode falar com ela, pois tem a capacidade de se comunicar com os mortos. Anna desconfia da situação, mas encontra-se presa. A única esperança é seu noivo Paul, que não aceita sua morte.
+Enredo: Depois de um acidente de carro horrível, Anna (Ricci) acorda para encontrar o funeral local Eliot Deacon (Neeson) preparando-a para seu funeral. Confusa, aterrorizada e ainda muito viva, Anna não acredita que esteja morta, apesar das garantias do agente funerário que ela está apenas em transição para a vida após a morte. Eliot a convence de que ele tem a habilidade de se comunicar com os mortos e é o único que pode ajudá-la. Presa dentro da casa funerária, sem ninguém a quem recorrer, exceto Eliot, Anna é forçada a aceitar sua própria morte. Mas o namorado de Anna, Paul (Long), não consegue afastar a suspeita de que Eliot não seja o que parece ser.</info>
+</item>
+
+
 
 
 
