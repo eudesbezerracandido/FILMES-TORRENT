@@ -769,7 +769,7 @@ O Exterminador do Futuro 4: A Salvação: O ano é 2018. O Dia do Julgamento Fin
 
 <item>
 <title>[COLOR silver][B] TRILOGIA - BONECO ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8AA5B6189B662D02023E33CC03C3C1DDA0D7B467&dn=Cole%c3%a7%c3%a3o%20Brinquedo%20Assassino%201988%20a%202017%20%28720p%29%20DUBLADO%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8AA5B6189B662D02023E33CC03C3C1DDA0D7B467</link>
 <thumbnail>https://4.bp.blogspot.com/-VTtvZdKUPn0/UhkugubXvXI/AAAAAAAAAX8/wGSkdDF8pFQ/s1600/Chucky+5+em+1_1600x1172.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>No aniversário de seu filho (Gabriel Bateman), Karen (Aubrey Plaza) o presenteia com o boneco mais aguardado dos últimos tempos. Quando crimes estranhos começam a acontecer pela vizinhança, eles passam a suspeitar que o brinquedo pode não ser tão inofensivo quanto parece</info>
@@ -777,7 +777,7 @@ O Exterminador do Futuro 4: A Salvação: O ano é 2018. O Dia do Julgamento Fin
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO - VELOZES &  FURIOSOS [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e4eaaaeb58abcc845e322e8b711aeda3a344996&dn=Cole%26ccedil%3Bao+Velozes+%26amp%3B+Furiosos+BluRay+1080p+Dublado+Coman&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e4eaaaeb58abcc845e322e8b711aeda3a344996</link>
 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_643576-MLB31126683028_062019-O.webp</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Domenic Toretto (Vin Diesel) é o líder de uma gangue de corridas de ruas em Los Angeles que está sendo investigado pela polícia por roubo de equipamentos eletrônicos. Para investigá-lo é enviado Brian Spindler (Paul Walker), que se infiltra na gangue na intenção de descobrir se Toretto é realmente o autor dos crimes e se há alguém mais por trás deles.
@@ -786,7 +786,7 @@ Em Download Velozes e Furiosos 8 (2017) – HD 720p e 1080p Torrent | Depois que
 
 <item>
 <title>[COLOR silver][B] A LENDA DO CAVALEIRO SEM CABEÇA [/COLOR][/B][COLOR yellow] FULL  HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9601D3F5B5049910B71E3A26B9EBF89E31EB2D9F&dn=A%20Lenda%20do%20Cavaleiro%20Sem%20Cabe%c3%a7a%20%281999%29%20-%20BDRip%201080p%20-%20Dublado&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9601D3F5B5049910B71E3A26B9EBF89E31EB2D9F</link>
 <thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/91/33/56/20140701.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em 1799, uma série de crimes envolvendo inocentes acontece no pequeno vilarejo de Sleepy Hollow. Para investigar o caso é chamado o detetive nova-iorquino Ichabod Crane (Johnny Depp), um excêntrico e determinado oficial de polícia com um jeito avant-garde de solucionar crimes. Os métodos investigativos de Ichabod serão postos à prova neste caso, que envolve um ser sobrenatural que pode ser o causador de todos os crimes.</info>
@@ -794,7 +794,7 @@ Em Download Velozes e Furiosos 8 (2017) – HD 720p e 1080p Torrent | Depois que
 
 <item>
 <title>[COLOR silver][B] Ó MÁSKARA [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:535a095bd8a73c3764848b2cb10ddd8a224c4635&dn=O+M%26aacute%3Bskara+%281994%29+BDRip+720p+dublado+-+Gilkerberus&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:535a095bd8a73c3764848b2cb10ddd8a224c4635</link>
 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_934077-MLB29028093465_122018-O.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em Edge City vive Stanley Ipkiss (Jim Carrey), um cara decente que trabalha em um banco mas é socialmente desajeitado e sem muito sucesso com as mulheres. Após um dos piores dias da sua vida, ele acha no mar a estranha máscara de Loki, um deus escandinavo. Quando Stanley coloca a máscara, se transforma em O Máskara, um ser com o rosto verde que possui a coragem para fazer as coisas mais arriscadas e divertidas que Stanley receia fazer, inclusive flertar com Tina Carlyle (Cameron Diaz), a bela e sensual cantora que se apresenta no Coco Bongo, a discoteca do momento. O Máskara tem velocidade sobre-humana e um humor não-convencional e, enquanto isto, o gângster Dorian Tyrrell (Peter Greene), que namora Tina, se esforça para destruir o Máskara e se apoderar da máscara para usar seus poderes para o mal.</info>
@@ -802,7 +802,7 @@ Em Download Velozes e Furiosos 8 (2017) – HD 720p e 1080p Torrent | Depois que
 
 <item>
 <title>[COLOR silver][B] O FILHO DO MÁSKARA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E757576B811CD68D191661803DBD7BA40BEDA581&dn=O%20Filho%20do%20M%c3%a1skara%20%5b2005%5d%20Bluray%201080p%20Dual%20%c3%81udio&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E757576B811CD68D191661803DBD7BA40BEDA581</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/210/208/21020893_2013071814071314.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Tim Avery (Jamie Kennedy) é um cartunista preocupado. Ele descobriu recentemente que seu filho Alvey possui habilidades incríveis, já que de alguma forma possui os poderes da Máscara de Loki, um objeto mitológico que transforma a pessoa que o usa. O problema é que o próprio Loki (Alan Cumming) deseja ter sua máscara de volta.</info>
@@ -810,7 +810,7 @@ Em Download Velozes e Furiosos 8 (2017) – HD 720p e 1080p Torrent | Depois que
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO PLANETA DOS MACACOS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61be4fc8b746fc197a65916d552dccaf4008d53b&dn=Cole%26ccedil%3B%26atilde%3Bo+Planeta+dos+Macacos+%281968-1973%29+720p+dubla&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61be4fc8b746fc197a65916d552dccaf4008d53b</link>
 <thumbnail>https://felipesilveiradesign.files.wordpress.com/2013/07/39598-282949_1445128_20120920084936.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Coleção completa com os filmes antigos e os novos. George Taylor, um astronauta americano, viaja por séculos em estado de hibernação. Ao acordar, ele e seus companheiros se vêem em um planeta dominado por macacos, no qual os humanos são tratados como escravos e nem mesmo tem o dom da fala.</info>
@@ -818,7 +818,7 @@ Em Download Velozes e Furiosos 8 (2017) – HD 720p e 1080p Torrent | Depois que
 
 <item>
 <title>[COLOR silver][B] O  LOBISOMEM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:562c20efabcbf1596244295c516a1d59f6cb8661&dn=O+Lobisomem%3A+Vers%26atilde%3Bo+Estendida+%282010%29+1080p+Dual+Audio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker-ccc.de%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:562c20efabcbf1596244295c516a1d59f6cb8661</link>
 <thumbnail>https://br.web.img2.acsta.net/pictures/210/560/21056024_20131107204243793.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O ator Lawrence Talbot (Benicio Del Toro), quando criança, sofreu com a morte de sua mãe e nunca mais voltou a morar com o pai (Anthony Hopkins). Mais de duas décadas depois do ocorrido, ele é chamado por sua futura cunhada Gwen Conliffe (Emily Blunt) para ajudá-la a encontrar o noivo desaparecido. Ao retornar para a casa do pai, Talbot acaba se envolvendo numa investigação sobre violentas mortes que acontecem nas noites de lua cheia, entrando em contato com o seu passado e descobrindo um segredo que mudará para sempre a sua vida.</info>
@@ -826,7 +826,7 @@ Em Download Velozes e Furiosos 8 (2017) – HD 720p e 1080p Torrent | Depois que
 
 <item>
 <title>[COLOR silver][B] BALA DE PRATA -  A HORA DO LOBISOMEM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6E57BDF333B927D173861FC21137B6502209F24&dn=Bala%20de%20Plata%20-%20Stephen%20King%20%281985%29%20Bluray%201080p%20Tri-%c3%81udio</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6E57BDF333B927D173861FC21137B6502209F24</link>
 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_645300-MLB25887820706_082017-O.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O filme tem dois nomes: Bala de Prata e A Hora do Lobisomem, a história aborda a drástica alteração no cotidiano da outrora pacata cidadezinha de Tarker's Mill, no interior dos EUA, quando na primavera de 1976, uma série de violentos assassinatos passam a se suceder, cada vez que a lua cheia surge no céu. Um garoto paralítico chamado Marty Coslaw, começa a desconfiar que o responsável pelos crimes seja um lobisomem, o que acaba se confirmando. Mais tarde, quando Marty, descobre a identidade do monstro, passa a ser perseguido pelo mesmo, e precisará encontrar uma forma de destruí-lo para salvar a própria vida.</info>
@@ -927,8 +927,8 @@ De Volta para o Futuro – Parte 3: Após de receber uma carta de Doc (Christoph
 
 <item>
 <title>[COLOR silver][B] INDEPENDENCE DAY  1 & 2 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C4F1F84149FEBB32F95158948032F55F8C75296A&dn=Independence%20Day%20Vers%c3%a3o%20Estendida%201996%20ACESSE%20COMANDO4KFILMES.COM&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.sktorrent.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.ch%3a1337%2fannounce</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485880C4FA34D9D52E247B2A2CD195B60A6170AA&dn=Independence%20Day%20O%20Ressurgimento%202016%20720p%20WEB-DL%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.istole.it%3a80/announce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C4F1F84149FEBB32F95158948032F55F8C75296A$nome=INDEPENDENCE DAY 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485880C4FA34D9D52E247B2A2CD195B60A6170AA$nome=INDEPENDENCE DAY 2</link>
 <thumbnail>https://cdn.cinepop.com.br/2015/12/independencedayhq_2.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>SINOPSE: 1 Naves imensas e poderosas estão sobre as principais cidades do mundo. Desta vez, o objetivo é claro: destruir a raça humana. A curiosidade rapidamente se transforma em pânico quando as naves iniciam o ataque com raios de fogo. Começa a contagem regressiva. Agora, a única esperança está nas mãos de sobreviventes que têm apenas uma chance para tentar o impossível, antes que seja o fim da humanidade
@@ -937,7 +937,7 @@ SINOPSE: 2 Vinte anos após uma invasão alienígena quase dizimar toda a humani
 
 <item>
 <title>[COLOR silver][B] ALÉM DA VIDA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:931110FF8EBDBD5CFA6753E5F567D1A78575675B&dn=Al%c3%a9m%20da%20Vida%20%282010%29%20720p%20Dublado%20-%20Alan_680&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:931110FF8EBDBD5CFA6753E5F567D1A78575675B</link>
 <thumbnail>https://s2.glbimg.com/YXhsmcLspd-r9ri0zCT8KlQDCvs=/362x536/https://s2.glbimg.com/af60lYrQ4aATGN-ystKDp3EZ8NQ=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/x/t/5aENVSSkyRAF9W3E6OrA/2019-491-warner-jul-part-2-alem-da-vida-poster.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Três pessoas são tocadas pela morte de maneiras diferentes. George (Matt Damon) é um americano que desde pequeno consegue manter contato com a vida fora da matéria, mas considera o seu dom uma maldição e tenta levar uma vida normal. Marie (Cécile De France) é jornalista, francesa, e passou por uma experiência de quase morte durante um tsunami. Em Londres, o menino Marcus (Frankie McLaren/George McLaren) perde alguém muito ligado a ele e parte em busca desesperada por respostas. Enquanto cada um segue sua vida, o caminho deles irá se cruzar, podendo mundar para sempre as suas crenças.</info>
@@ -945,7 +945,7 @@ SINOPSE: 2 Vinte anos após uma invasão alienígena quase dizimar toda a humani
 
 <item>
 <title>[COLOR silver][B] O IMPOSSIVEL [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edeb8f889e3b8d172a89eeab811ecae961443198&dn=O.Impossivel.%282012%29.Dublado.1080p+-+AndreTPF&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edeb8f889e3b8d172a89eeab811ecae961443198</link>
 <thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/90/80/64/20363523.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O casal Maria (Naomi Watts) e Henry (Ewan McGregor) está aproveitando as férias de inverno na Tailândia junto com os três filhos pequenos. Mas na manhã de 26 de dezembro de 2004, enquanto curtiam aquele paraíso após uma linda noite de Natal, um tsunami de proporções devastadoras atinge o local, arrastando tudo o que encontra pela frente. Separados em dois grupos, a mãe e o filho mais velho vão enfrentar situações desesperadoras para se manterem vivos, enquanto em algum outro lugar, o pai e as duas crianças menores não têm a menor ideia se os outros dois estão vivos. É quando eles começam a viver uma trágica lição de vida, movida pela esperança do reencontro e misturando os mais diversos sentimentos.</info>
@@ -953,7 +953,7 @@ SINOPSE: 2 Vinte anos após uma invasão alienígena quase dizimar toda a humani
 
 <item>
 <title>[COLOR silver][B] PLANETA DOS MACACOS -  A GUERRA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A116760BF0D1E28B8E04BD7230BC0B839F340C3B&dn=Planeta%20dos%20Macacos%20-%20A%20Guerra%202017%20%28720p%29%20DUBLADO%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A116760BF0D1E28B8E04BD7230BC0B839F340C3B</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/17/07/13/18/50/359962.png</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Com qualidade de bluray totalmente dublado e dual áudio 5.1 com resoluções de 1080p full hd e 720p hd. Humanos e macacos cruzam os caminhos novamente. César (Andy Serkis) e seu grupo são forçados a entrar em uma guerra contra um exército de soldados liderados por um impiedoso coronel (Woody Harrelson). Depois que vários macacos perdem suas vidas no conflito e outros são capturados, César luta contra seus instintos e parte em busca de vingança. Dessa jornada, o futuro do planeta poderá estar em jogo.</info>
@@ -961,7 +961,7 @@ SINOPSE: 2 Vinte anos após uma invasão alienígena quase dizimar toda a humani
 
 <item>
 <title>[COLOR silver][B] PLANETA DOS MACACOS - A ORIGEM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f21b3dc384a2c93ca832410ca6b037924c46e290&dn=Planeta+Dos+Macacos%3A+A+Origem+%282011%29+1080p+Dublado+%2F+Dual+Audio+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f21b3dc384a2c93ca832410ca6b037924c46e290</link>
 <thumbnail>https://www.reab.me/wp-content/uploads/2011/09/planeta-dos-macacos-origem-poster.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Will Rodman é um cientista que trabalha num laboratório onde são realizadas experiências com macacos. Ele está interessado em descobrir novos medicamentos para a cura do mal de Alzheimer, já que seu pai sofre da doença. Ao seu lado conta com a ajuda de Caroline, uma especialista em primatas. As experiências realizadas fazem com que a inteligência dos macacos aumente significativamente, ao ponto deles escaparem de suas gaiolas e enfrentarem os humanos pelo controle da Terra.</info>
@@ -969,7 +969,7 @@ SINOPSE: 2 Vinte anos após uma invasão alienígena quase dizimar toda a humani
 
 <item>
 <title>[COLOR silver][B] O ULTIMO SAMURAI [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:622a6367410c380870e71bde23b967522e92e261&dn=O+%26Uacute%3Bltimo+Samurai+%282003%29+BDRip+720p+Dublado+-+Alan_680&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:622a6367410c380870e71bde23b967522e92e261</link>
 <thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/91/70/70/20159112.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Nathan Algren (Tom Cruise) é um capitão ianque, herói de Guerra Civil, que vai para o Japão, com a missão de treinar as tropas japonesas e combater os samurais que atrapalham os planos de "modernização" do Imperador Japonês. Katsumoto (Ken Watanabe - indicado ao Oscar) é um líder Samurai que vive como poucos, seguindo um código de conduta que está desaparecendo. Dois experts na arte do combate, com diferentes visões de mundo e ética, cujos destinos estão entrelaçados de um forma que ninguém poderia supor. Dirigido por Edward Zwick (ganhador do prêmio de melhor direção do National Board of Review), é um tocante e comovente conto épico sobre o nascimento do Japão moderno.</info>
@@ -977,8 +977,8 @@ SINOPSE: 2 Vinte anos após uma invasão alienígena quase dizimar toda a humani
 
 <item>
 <title>[COLOR silver][B] DUOLOGIA - OLHOS FAMINTOS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC5B98C587F8EBCC6B154A1177DE71BE1B2AD347&dn=Duologia%20Olhos%20Famintos%202000%20e%202003%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:382AF4E525F5264B18ADAB9A6D8AC302EAEEEB60&dn=Olhos%20Famintos%203%202018%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGNAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC5B98C587F8EBCC6B154A1177DE71BE1B2AD347$nome= OLHOS FAMINTOS 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:382AF4E525F5264B18ADAB9A6D8AC302EAEEEB60$nome= OLHOS FAMINTOS 2</link>
 <thumbnail>https://http2.mlstatic.com/olhos-famintos-1-olhos-famintos-2-blu-ray-D_NQ_NP_924411-MLB20548607234_012016-F.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>No filme Duologia Olhos Famintos Torrent – BluRay 720p/1080p Dual Áudio, Trish (Gina Phillips) e seu irmão Darryl (Justin Long) descobrem algo horrível no porão de uma igreja abandonada. Agora, em viagem de carro de volta para casa, eles são o alvo de uma força indescritível que deseja acabar com eles de qualquer maneira.
@@ -987,7 +987,7 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO SEXTA FEIRA 13 JASON VIVE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97AD633019815D2477F8D1E6E5396FB8D269C4E6&dn=Cole%c3%a7%c3%a3o%20Sexta-Feira%2013%201980-2009%20%5bBluRay%5d%20%281080p%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97AD633019815D2477F8D1E6E5396FB8D269C4E6</link>
 <thumbnail>https://sebodomessias.com.br/imagens/produtos/94/947314_106.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Depois de muito tempo fechado, alguns monitores vêm passar uns dias no local que por muitos ficou conhecido como o “Acampamento Sangrento”. Ignorando os avisos, eles preferem se divertir e passar o final de semana cantando e fazendo amor. Mas não esperavam que alguém fosse brincar de “Mate o Monitor”. Assim, um por um eles vão morrendo sem que os outros descubram.</info>
