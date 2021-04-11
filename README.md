@@ -2495,6 +2495,17 @@ SINOPSE 3: O jovem lutador Tien (Tony Jaa) perde progressivamente suas habilidad
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>No Natal o pequeno John fez um único pedido para o Papai Noel: que seu ursinho de pelúcia, Ted, ganhasse vida. O seu pedido se tornou realidade e logo se tornam grandes amigos. John e Ted vivem a infância e adolescência juntos, mas o ursinho de pelúcia acaba se tornando bastante mal humorado com o passar dos anos.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] WARCRAFT - O PRIMEIRO ENCONTRO ENTRE DOIS MUNDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E16421AEF57E7C651E6D984BFC773D970CAD559</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2cPJhbIwsmMXsV9vihoPEFBFFHm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A região de Azeroth sempre viveu em paz, até a chegada dos guerreiros Orc. Com a abertura de um portal, eles puderam chegar à nova Terra com a intenção de destruir o povo inimigo. Cada lado da batalha possui um grande herói, e os dois travam uma disputa pessoal, colocando em risco seu povo, sua família e todas as pessoas que amam.</info>
+</item>
+
+
+
  
 
 
