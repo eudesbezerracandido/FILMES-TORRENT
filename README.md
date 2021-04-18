@@ -2567,6 +2567,17 @@ Enredo: Baseado em eventos reais. Em 6 de setembro de 2014, Álvaro Vizcaíno Al
 Enredo: Dr. Adrian Helmsley, parte de uma equipe geofísica em todo o mundo a investigar o efeito sobre a Terra da radiação de tempestades solares sem precedentes, descobre que o núcleo da Terra está a aquecer. Ele adverte o presidente EUA Thomas Wilson que a crosta da Terra está se tornando instável e que, sem preparação adequada para salvar uma fração da população do mundo, toda a raça está condenada. Enquanto isso, o escritor Jackson Curtis tropeça na mesma informação. Enquanto os líderes de corrida do mundo para construir “arcas” para escapar do cataclismo iminente, Curtis se esforça para encontrar uma maneira de salvar sua família. Enquanto isso, erupções vulcânicas e terremotos de intensidade sem precedentes causar estragos em todo o mundo</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COMANDO  KILL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50f65c854f606c3cc944bec758360fe62c4cc602</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xn6t1nYJaUMmudnHHiK390AORNu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Comando Kill se passa num futuro próximo onde a sociedade coloca o homem para combater suas próprias máquinas assassinas. Contra esse pano de fundo, existe uma unidade de elite do exército que é deixada por um helicóptero remoto, num centro de treinamento isolado. O que começa como um exercício de treinamento simples para o Capitão Bukes e sua unidade, se torna numa batalha terrível contra a morte, conforme os fuzileiros navais descobrem que a ilha é invadida por um inimigo que transcende o conceito humano do mal.
+Enredo: Situado em um futuro próximo, a sociedade tecnologia-suficiente é a criação de máquinas de matar. Contra esse pano de fundo uma unidade marinha elite é de helicóptero a um remoto, off-the-grid centro de treinamento ilha, para testar as capacidades das mais recentes protótipos. Eles montaram posições e fazer o trabalho dos alvos AI no campo de matança. No entanto, durante a noite a sua sentinela vai faltar, e quando encontram o cadáver no dia seguinte eles se encontram no campo de matança e as mesas viraram. Os Marines lutar para sobreviver em uma ilha que é invadida por uma inteligência inimigo muito além de seus antecessores, que aprende com todos os seus movimentos.</info>
+</item>
+
+
+
 
 
 
