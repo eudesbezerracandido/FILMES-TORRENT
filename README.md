@@ -2584,6 +2584,15 @@ Enredo: Situado em um futuro próximo, a sociedade tecnologia-suficiente é a cr
 <info>: Em um mundo futuro onde não há crime por causa de um sistema de vigilância extrema, um detetive (Clive Owen) acaba encontrando uma mulher (Amanda Seyfried) que descobriu uma falha no regime de não-privacidade e que ameaça toda a construção da sociedade.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A MALDIÇÃO DA SEREIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:def2a184902453d4932e95a060294c29a070cac5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2cjgA1jdZXfDhLx7mdfNW22Eua2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma sereia é arrancada do Pacífico, seu rabo é cortado e ela é jogada em um lar psíquico, onde ninguém acredita que ela é uma sereia.
+Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogado em um manicômio onde ninguém acredita que ela é uma sereia.</info>
+</item>
+
 
 
 
