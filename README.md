@@ -2576,6 +2576,14 @@ Enredo: Dr. Adrian Helmsley, parte de uma equipe geofísica em todo o mundo a in
 Enredo: Situado em um futuro próximo, a sociedade tecnologia-suficiente é a criação de máquinas de matar. Contra esse pano de fundo uma unidade marinha elite é de helicóptero a um remoto, off-the-grid centro de treinamento ilha, para testar as capacidades das mais recentes protótipos. Eles montaram posições e fazer o trabalho dos alvos AI no campo de matança. No entanto, durante a noite a sua sentinela vai faltar, e quando encontram o cadáver no dia seguinte eles se encontram no campo de matança e as mesas viraram. Os Marines lutar para sobreviver em uma ilha que é invadida por uma inteligência inimigo muito além de seus antecessores, que aprende com todos os seus movimentos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ANON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F74D09C987F3445A2D660874C59319A580C3BCCC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xhBTO9n3fxy3HJt7WlR9h9vvVmk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Em um mundo futuro onde não há crime por causa de um sistema de vigilância extrema, um detetive (Clive Owen) acaba encontrando uma mulher (Amanda Seyfried) que descobriu uma falha no regime de não-privacidade e que ameaça toda a construção da sociedade.</info>
+</item>
+
 
 
 
