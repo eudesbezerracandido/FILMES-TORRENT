@@ -2593,6 +2593,14 @@ Enredo: Situado em um futuro próximo, a sociedade tecnologia-suficiente é a cr
 Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogado em um manicômio onde ninguém acredita que ela é uma sereia.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DIANA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23dfb0edb1d319e40e0f7bb3a3eeb02ed1543d3c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a2fdd9ZcWeIh13PPNPnxKs2tbXm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Prestes a se divorcia de Charles, a princesa Diana (Naomi Watts) divide seu tempo entre a solidão da vida no palácio em que vive e os compromissos que possui com diversas entidades beneficentes. Um dia, ao saber que um amigo foi operado às pressas, ela vai até o hospital em que está internado e lá conhece o doutor Hasnat Khan (Naveen Andrews). Diana logo fica encantada pelo fato dele não a tratar como uma princesa, apesar de saber quem ela é. Não demora muito para que iniciem um relacionamento, mantido às escondidas devido ao desejo de Hasnat em ter uma vida reservada.</info>
+</item>
+
 
 
 
