@@ -2599,7 +2599,7 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <thumbnail>https://www.themoviedb.org/t/p/original/a2fdd9ZcWeIh13PPNPnxKs2tbXm.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Prestes a se divorcia de Charles, a princesa Diana (Naomi Watts) divide seu tempo entre a solidão da vida no palácio em que vive e os compromissos que possui com diversas entidades beneficentes. Um dia, ao saber que um amigo foi operado às pressas, ela vai até o hospital em que está internado e lá conhece o doutor Hasnat Khan (Naveen Andrews). Diana logo fica encantada pelo fato dele não a tratar como uma princesa, apesar de saber quem ela é. Não demora muito para que iniciem um relacionamento, mantido às escondidas devido ao desejo de Hasnat em ter uma vida reservada.</info>
-</item>
+</item> 
 
 
 
