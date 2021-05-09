@@ -2609,6 +2609,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Lara Croft é a independente filha de um aventureiro excêntrico que desapareceu há sete anos. Com a esperança de resolver o mistério do desaparecimento de seu pai, Lara embarca em uma perigosa jornada para seu último destino conhecido: Um túmulo lendário em uma ilha mítica que pode estar em algum lugar ao largo da costa do Japão. As apostas não podiam ser maiores, pois Lara deve confiar em sua mente aguçada, fé cega e teimosia para se aventurar no desconhecido.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MISSÃO IMPOSSIVEL - PROTOCOLO FANTASMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:742ce58d630d50fe8388efc86a95068b1a8ae3df</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9Odva4vcrL6D7NRhIMlYf8Dg5nC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O agente secreto Ethan Hunt (Tom Cruise) é desautorizado pelo presidente dos Estados Unidos após o país ser acusado por um bombardeio no Kremlin. Tem início o Protocolo Fantasma, que visa acabar com os agentes da IMF. Sem qualquer recurso ou apoio, Ethan precisa encontrar um meio de limpar seu nome e o da agência em que trabalha. Para tanto passa a trabalhar com Benji (Simon Pegg) e Jane (Paula Patton), agentes renegados como ele, e ainda Brandt (Jeremy Renner), um ex-agente que agora trabalha como analista.</info>
+</item>
+
+
 
 
 
