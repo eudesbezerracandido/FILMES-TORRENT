@@ -2622,7 +2622,7 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f3e5b479dc944c1ab77867ec9dbef64eebd9fe7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rRnc3XUGFLeQScHiMmdqqsyPpT9.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info>O soldado americano John Carter, para a tristeza de seus parentes, faleceu no planeta Terra. Contudo, para a alegria de outros, ressuscitou em Marte. Agora, em meio a uma guerra civil no planeta vermelho, habitado por seres de cor verde e criaturas gigantescas, ele é visto como a única esperança de ajudar a princesa Deja Thoris, a salvar o seu mundo, numa batalha que mudará para sempre o seu destino.</info>
 </item>
 
 
