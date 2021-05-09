@@ -2625,6 +2625,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>O soldado americano John Carter, para a tristeza de seus parentes, faleceu no planeta Terra. Contudo, para a alegria de outros, ressuscitou em Marte. Agora, em meio a uma guerra civil no planeta vermelho, habitado por seres de cor verde e criaturas gigantescas, ele é visto como a única esperança de ajudar a princesa Deja Thoris, a salvar o seu mundo, numa batalha que mudará para sempre o seu destino.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] HIGH LIFE- UMA NOVA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfe4b447fc27628d62b50e9d82a03b187d7b8380</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1OmHJI83sqYH2y82EJHkqqEKOt9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um Grupo de criminosos aceita um acordo para trocar suas penas pela participação em uma missão espacial à procura de energias alternativas, mas a viagem toma rumos inesperados quando uma tempestade de raios cósmicos atinge a nave.</info>
+</item>
+
+
 
 
 
