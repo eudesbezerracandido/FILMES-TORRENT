@@ -2633,6 +2633,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Um Grupo de criminosos aceita um acordo para trocar suas penas pela participação em uma missão espacial à procura de energias alternativas, mas a viagem toma rumos inesperados quando uma tempestade de raios cósmicos atinge a nave.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ANNAPOLIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7c3422082647ea33135a22bb2320ebfacecbbe9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hH6YeqFcihbZsz7iWl6MzQVzL8O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Produção que conta o drama de um garoto que sonha em ser aceito na famosa academia naval de Annapolis. James Franco (de Homem-Aranha) é Jake Huard, um jovem que tem como principal aspiração o sucesso na vida militar. Ele perdeu a mãe cedo e sofre uma série de problemas devido a isso. Quando a oportunidade surge, ele se alista e tenta a sorte em uma academia que é a mais disputada que existe, precisando vencer uma série de desafios e suas próprias dúvidas, além de profundas questões morais, para conseguir vencer. Com tudo isso, ele verá que nem sempre as coisas são fáceis e muitas vezes torna-se difícil atingir os seus objetivos. A disputa torna-se ainda mais difícil quando um superior com traços de personalidade sádico aparece. Agora cabe a Jake provar que tem mais valor do que muitos pensam, inclusive seu pessimista pai.</info>
+</item>
+
+
 
 
 
