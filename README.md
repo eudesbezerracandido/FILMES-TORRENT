@@ -2649,6 +2649,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Uma princesa Viking é forçada a fugir de seu reino depois de ser acusada pelo assassinato de seu pai, o rei. Sob a orientação do Deus Odin, ela viaja o mundo ganhando sabedoria e construindo o exército que ela precisa para conquistar o seu trono novamente.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A JORNADA DOS VIKINGS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C02570E06A99B2F65C1CA27BB0C97181B9D541EE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eyAWn3xlLlpAx7TeIXJfmXJC1Bf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Erick, um jovem guerreiro Viking, juntamente com um grupo rival tem a grande missão de resgatar a princesa que foi raptada pela grande serpente de Midgard.</info>
+</item>
+
+
 
 
 
