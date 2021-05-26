@@ -2641,6 +2641,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Produção que conta o drama de um garoto que sonha em ser aceito na famosa academia naval de Annapolis. James Franco (de Homem-Aranha) é Jake Huard, um jovem que tem como principal aspiração o sucesso na vida militar. Ele perdeu a mãe cedo e sofre uma série de problemas devido a isso. Quando a oportunidade surge, ele se alista e tenta a sorte em uma academia que é a mais disputada que existe, precisando vencer uma série de desafios e suas próprias dúvidas, além de profundas questões morais, para conseguir vencer. Com tudo isso, ele verá que nem sempre as coisas são fáceis e muitas vezes torna-se difícil atingir os seus objetivos. A disputa torna-se ainda mais difícil quando um superior com traços de personalidade sádico aparece. Agora cabe a Jake provar que tem mais valor do que muitos pensam, inclusive seu pessimista pai.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] VIKINGS - OS PERGAMINHOS SAGRADOS[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40d7d0d9718403428294f24b6586a0037716fb41</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ykufKnJ2zy2cb2MSJZ9Jt2CIn2S.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma princesa Viking é forçada a fugir de seu reino depois de ser acusada pelo assassinato de seu pai, o rei. Sob a orientação do Deus Odin, ela viaja o mundo ganhando sabedoria e construindo o exército que ela precisa para conquistar o seu trono novamente.</info>
+</item>
+
+
 
 
 
