@@ -1505,9 +1505,9 @@ Em uma base localizada no deserto os vampiros dão a cartada decisiva em seus pl
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO - A  HISTÓRIA SEM FIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ec88e0e95b65029f4dc22b38ef7a1f453f19b02$nome= A  HISTÓRIA SEM FIM 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52DCAB68E53F4ED46EA63481B730F07DF19D49F7$nome= A  HISTÓRIA SEM FIM 2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0D8DA393E470F700CA9ED002E2C6BFED16B39E25$nome= A  HISTÓRIA SEM FIM 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ec88e0e95b65029f4dc22b38ef7a1f453f19b02$nome=A HISTÓRIA SEM FIM 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52DCAB68E53F4ED46EA63481B730F07DF19D49F7$nome=A HISTÓRIA SEM FIM 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0D8DA393E470F700CA9ED002E2C6BFED16B39E25$nome=A HISTÓRIA SEM FIM 3</link>
 <thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/0f373d07d3fdbef17eb7014013b2b7e5.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O livro especial está novamente aberto para um interminável elenco mágico. A História Sem Fim II deliciosamente trás de volta os personagens e criaturas da obra de Michael Ende, para uma nova história na qual Bastian deve salvar Fantasia de uma terrível feiticeira e encontrar coragem que lhe falta na vida real. Velhos amigos, Atreyu o menino guereiro, Falkor o dragão da sorte e Come-Pedra se juntam a Bastian.</info>
