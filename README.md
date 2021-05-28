@@ -2657,6 +2657,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info> Erick, um jovem guerreiro Viking, juntamente com um grupo rival tem a grande missão de resgatar a princesa que foi raptada pela grande serpente de Midgard.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] QUADRILOGIA - MISSÃO IMPOSSIVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:182301e9ef59e96a84a32ad67fee3394870543b6</link>
+<thumbnail>https://ia601507.us.archive.org/35/items/tom_20210528/TOM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tom Cruise é Ethan Hunt, um agente secreto incriminado pela morte de sua equipe de espionagem. Fugindo dos assassinos do governo, invadindo a mais impenetrável fortaleza da CIA, pendurando-se no teto de um ultraveloz trem-bala, Hunt corre como um pavio aceso, tentando ficar um passo à frente de seus perseguidores… e um passo mais próximo de descobrir a terrível verdade. Sua missão, caso decida aceitá-la, será segurar-se no “melhor filme de ação da temporada!</info>
+</item>
+
+
 
 
 
