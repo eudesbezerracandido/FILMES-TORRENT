@@ -2665,6 +2665,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Tom Cruise é Ethan Hunt, um agente secreto incriminado pela morte de sua equipe de espionagem. Fugindo dos assassinos do governo, invadindo a mais impenetrável fortaleza da CIA, pendurando-se no teto de um ultraveloz trem-bala, Hunt corre como um pavio aceso, tentando ficar um passo à frente de seus perseguidores… e um passo mais próximo de descobrir a terrível verdade. Sua missão, caso decida aceitá-la, será segurar-se no “melhor filme de ação da temporada!</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UM LUGAR SILÊNCIOSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E29692853177FE9B9DD4DB3C047C13A94CCEF429</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jk1LYcbiuUr0tv37cVcmp4u9KcN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em uma fazenda dos Estados Unidos, uma família do meio-oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som.</info>
+</item>
+
+
 
 
 
