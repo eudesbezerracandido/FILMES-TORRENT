@@ -2681,6 +2681,17 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Um pistoleiro chamado Roland Deschain (Idris Elba) percorre o mundo em busca da famosa Torre Negra, prédio mágico que está prestes a desaparecer. Essa busca envolve uma intensa perseguição ao poderoso Homem de Preto (Matthew McConaughey), passagens entre tempos diferentes, encontros intensos e confusões entre o real e o imaginário. Baseado na obra literária homônima de Stephen King.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O ÓDIO QUE VOCÊ SEMEIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65B7A76D814EF069941566BA9340EA3EC3AD869E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e8ZaQNr1bb3iOg6NRWnkKKmbKu1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Starr Carter (Amandla Stenberg) é uma adolescente negra de dezesseis anos que presencia o assassinato de Khalil, seu melhor amigo, por um policial branco. Ela é forçada a testemunhar no tribunal por ser a única pessoa presente na cena do crime. Mesmo sofrendo uma série de chantagens, ela está disposta a dizer a verdade pela honra de seu amigo, custe o que custar.</info>
+</item>
+
+
+
+
 
 
 
