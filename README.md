@@ -399,7 +399,7 @@ Nicolas Cage está de volta no papel de Johnny Blaze em: O Motoqueiro Fantasma: 
 
 <item>
 <title>[COLOR silver][B] O ESPETACULAR - HOMEM ARANHA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1424c17050b2d793f368ca50efb12e74796df73f</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8086c8fe9eaf45d238dd0612f4598b7a0d0fdd27</link>
 <thumbnail>https://3.bp.blogspot.com/-fOq55Dwl2RU/UIPfsrFrOOI/AAAAAAAAJZ4/LcuhCSG0JyU/s1600/O+Espetacular+Homem+Aranha1.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Peter Parker está tentando saber mais sobre sua origem. Ele encontra uma pasta que pertenceu ao seu pai e quer descobrir por que seus pais desapareceram. Sua busca o leva a Oscorp e ao dr. Curt Connors, que tem como alterego o letal Lagarto.
