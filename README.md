@@ -2723,7 +2723,7 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 
 <item>
 <title>[COLOR silver][B] CISNE NEGRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:167c8c74eec2dd9e906a49da5c4830e86234cef1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dZucAEc4JNsO6z4fvvunXgLe3b8.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Nina é uma bailarina cuja obsessão pela dança supera todas as facetas de sua vida. Quando o diretor artístico da companhia decide substituir sua prima ballerina para a produção de estreia de "O Lago dos Cisnes", Nina é sua primeira escolha. Sua concorrente é a novata Lily. Embora Nina seja perfeita para o papel do Cisne Branco, Lily personifica o Cisne Negro. A rivalidade entre as duas bailarinas se transforma em uma amizade distorcida e o lado obscuro de Nina começa a vir à tona.</info>
