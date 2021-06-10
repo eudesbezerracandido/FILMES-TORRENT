@@ -2713,6 +2713,16 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Sam é um jornalista independente que aproveita o fato de conhecer bastante da cultura muçulmana para se infiltrar nos grupos fundamentalistas nos subúrbios de Paris. Ele se aproxima de um grupo de quatro jovens e descobre que para eles fora dada a tarefa de criar uma célula jihadista para semear o caos na cidade de Paris.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O GRANDE MILAGRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cbc73542c90b574d4d2a1c5750411721807f294</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/m9wQhRUrsycZN7mb3xMc42yp2Pj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1989, uma família de baleias ficou presa sob o gelo do Artico e o repórter Adam Carlson (John Krasinski) não se conformava com a situação. Disposto a mudar essa realidade, ele começa uma verdadeira batalha ao lado de Rachel Kramer (Drew Barrymore), ativista do Greenpeace, para salvar os animais, da espécie baleia-cinzenta. Juntos, eles conseguem mobilizar pessoas de variados grupos, como os nativos da região, funcionários de empresas petrolíferas e até americanos e russos, históricos inimigos durante a Guerra Fria.</info>
+</item>
+
+
+
 
 
 
