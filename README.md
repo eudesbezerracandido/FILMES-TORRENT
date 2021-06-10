@@ -2697,6 +2697,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>The King's Speech conta a história do homem que se tornou o rei George VI (Colin Firth), pai da rainha Elizabeth II . Após a abdicação de seu irmão, George ("Bertie") relutantemente assume o trono. Atormentado por uma gagueira terrível considerada imprópria para ser rei, Bertie envolve a ajuda de um terapeuta da fala pouco ortodoxo chamado Lionel Logue (Geoffrey Rush). Através de um conjunto de técnicas inesperadas Bertie é capaz de encontrar sua voz e corajosamente levar o país à guerra.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ENTERRADO VIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da89b9b22fa77b69ba805b58645d78deb3a2836b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8oI0wl6DZj0oKs2ccXN2UqEcKqH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história gira em torno de Paul Conroy (Ryan Reynolds), um empreiteiro americano que é sequestrado no Iraque e acorda enterrado vivo com nada além de um isqueiro, uma lanterna, um celular com metade da bateria e 90 minutos de oxigênio. Sem saber como, onde ou porque está ali, ele deve correr contra o tempo para tentar sobreviver.</info>
+</item>
+
+
 
 
 
