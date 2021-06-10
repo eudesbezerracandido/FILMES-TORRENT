@@ -2729,6 +2729,16 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Nina é uma bailarina cuja obsessão pela dança supera todas as facetas de sua vida. Quando o diretor artístico da companhia decide substituir sua prima ballerina para a produção de estreia de "O Lago dos Cisnes", Nina é sua primeira escolha. Sua concorrente é a novata Lily. Embora Nina seja perfeita para o papel do Cisne Branco, Lily personifica o Cisne Negro. A rivalidade entre as duas bailarinas se transforma em uma amizade distorcida e o lado obscuro de Nina começa a vir à tona.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O SEGREDO DA FLORESTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eafff9dde93a267e93cf9c51cbed88d09a9c63ed</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iuT8MCaIiCl0iTvsSFRDURET5Jc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal de médicos, Jay e Amy, decide fugir um pouco da sua rotina da cidade grande e parte para um retiro no campo, o que supostamente seria um momento de tranquilidade e intimidade para eles. Durante um passeio, Jay pede Amy em casamento e tudo parece perfeito, quando, na volta, eles acabam entrando pela floresta e se deparam com um ritual estranho - eles encontram uma menina amarrada dentro de uma cabana. Ao libertarem a garota, eles libertam também um terrível mal.</info>
+</item>
+
+
+
 
 
 
