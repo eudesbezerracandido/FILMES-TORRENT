@@ -2705,6 +2705,16 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>A história gira em torno de Paul Conroy (Ryan Reynolds), um empreiteiro americano que é sequestrado no Iraque e acorda enterrado vivo com nada além de um isqueiro, uma lanterna, um celular com metade da bateria e 90 minutos de oxigênio. Sem saber como, onde ou porque está ali, ele deve correr contra o tempo para tentar sobreviver.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] OS CAMINHOS DO TERROR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B94EC49F332E75CB329C936C06201865F3D065DF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/agKhGhwdtsfIxWxcVA6LQDQwTp7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sam é um jornalista independente que aproveita o fato de conhecer bastante da cultura muçulmana para se infiltrar nos grupos fundamentalistas nos subúrbios de Paris. Ele se aproxima de um grupo de quatro jovens e descobre que para eles fora dada a tarefa de criar uma célula jihadista para semear o caos na cidade de Paris.</info>
+</item>
+
+
+
 
 
 
