@@ -2721,6 +2721,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Em 1989, uma família de baleias ficou presa sob o gelo do Artico e o repórter Adam Carlson (John Krasinski) não se conformava com a situação. Disposto a mudar essa realidade, ele começa uma verdadeira batalha ao lado de Rachel Kramer (Drew Barrymore), ativista do Greenpeace, para salvar os animais, da espécie baleia-cinzenta. Juntos, eles conseguem mobilizar pessoas de variados grupos, como os nativos da região, funcionários de empresas petrolíferas e até americanos e russos, históricos inimigos durante a Guerra Fria.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CISNE NEGRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dZucAEc4JNsO6z4fvvunXgLe3b8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nina é uma bailarina cuja obsessão pela dança supera todas as facetas de sua vida. Quando o diretor artístico da companhia decide substituir sua prima ballerina para a produção de estreia de "O Lago dos Cisnes", Nina é sua primeira escolha. Sua concorrente é a novata Lily. Embora Nina seja perfeita para o papel do Cisne Branco, Lily personifica o Cisne Negro. A rivalidade entre as duas bailarinas se transforma em uma amizade distorcida e o lado obscuro de Nina começa a vir à tona.</info>
+</item>
+
+
 
 
 
