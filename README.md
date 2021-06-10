@@ -2689,6 +2689,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info> Starr Carter (Amandla Stenberg) é uma adolescente negra de dezesseis anos que presencia o assassinato de Khalil, seu melhor amigo, por um policial branco. Ela é forçada a testemunhar no tribunal por ser a única pessoa presente na cena do crime. Mesmo sofrendo uma série de chantagens, ela está disposta a dizer a verdade pela honra de seu amigo, custe o que custar.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O DISCURSO DO REI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1EF60F3569A8293657798DA5D9D0D6EE2A393A0A</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/poXqTEX1UpqgAvWdlsndTCxZhaJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>The King's Speech conta a história do homem que se tornou o rei George VI (Colin Firth), pai da rainha Elizabeth II . Após a abdicação de seu irmão, George ("Bertie") relutantemente assume o trono. Atormentado por uma gagueira terrível considerada imprópria para ser rei, Bertie envolve a ajuda de um terapeuta da fala pouco ortodoxo chamado Lionel Logue (Geoffrey Rush). Através de um conjunto de técnicas inesperadas Bertie é capaz de encontrar sua voz e corajosamente levar o país à guerra.</info>
+</item>
+
+
 
 
 
