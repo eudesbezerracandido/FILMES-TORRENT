@@ -2753,6 +2753,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info> Lucas acaba de dar entrada em seu divórcio. Ele tem um novo emprego na creche local, uma nova namorada e está ansioso pela visita de natal de seu filho, Marcus. Mas o espírito de natal desaparece quando Klara, uma aluna de cinco anos de idade, faz uma acusação de abuso sexual contra Lucas, o que desencadeia o ódio de toda a comunidade em que ele vive. </info>
 </item>
 
+<item>
+<title>[COLOR silver][B] PROMETHEUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce9161945ed4f0048dc15dd2a336c368c4380b5b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k1GZVllOORTiN0XTPdumt9CSAcc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma equipe de cientistas embarca em uma jornada espacial para descobrir a verdade sobre a origem da raça humana. No planeta de destino, eles encontram criaturas poderosas e revelações assustadoras.</info>
+</item>
+
+
 
 
 
