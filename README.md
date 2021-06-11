@@ -2745,6 +2745,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Jonah Hex (Josh Brolin) foi mais uma vítima do terrível Quentin Turnbull (John Malkovich) e seus capangas, um homem poderoso que lhe tirou tudo que ele possuía. Mas por razões misteriosas, Hex que deveria ter morrido num atentado contra sua vida, ressuscitou com poderes sobrenaturais e disposto a conseguir sua vingança.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A CAÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d155ea9693039457a65f0a1675a502649cc6cab</link>
+<thumbnail>https://ia601407.us.archive.org/10/items/61-t-7nvbkho-l.-ac-sx-425/61T7nvbkhoL._AC_SX425_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Lucas acaba de dar entrada em seu divórcio. Ele tem um novo emprego na creche local, uma nova namorada e está ansioso pela visita de natal de seu filho, Marcus. Mas o espírito de natal desaparece quando Klara, uma aluna de cinco anos de idade, faz uma acusação de abuso sexual contra Lucas, o que desencadeia o ódio de toda a comunidade em que ele vive. </info>
+</item>
+
+
 
 
 
