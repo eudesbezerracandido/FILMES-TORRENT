@@ -2737,6 +2737,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Um casal de médicos, Jay e Amy, decide fugir um pouco da sua rotina da cidade grande e parte para um retiro no campo, o que supostamente seria um momento de tranquilidade e intimidade para eles. Durante um passeio, Jay pede Amy em casamento e tudo parece perfeito, quando, na volta, eles acabam entrando pela floresta e se deparam com um ritual estranho - eles encontram uma menina amarrada dentro de uma cabana. Ao libertarem a garota, eles libertam também um terrível mal.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] JONAH HEX - CAÇADOR DE RECOMPENSAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10d66702dd0309c0e665c9f55852fa3e6138274e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ageBP5EWpmdGKJmp0RhsNDIDRh5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jonah Hex (Josh Brolin) foi mais uma vítima do terrível Quentin Turnbull (John Malkovich) e seus capangas, um homem poderoso que lhe tirou tudo que ele possuía. Mas por razões misteriosas, Hex que deveria ter morrido num atentado contra sua vida, ressuscitou com poderes sobrenaturais e disposto a conseguir sua vingança.</info>
+</item>
+
+
 
 
 
