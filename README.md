@@ -2761,6 +2761,16 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Uma equipe de cientistas embarca em uma jornada espacial para descobrir a verdade sobre a origem da raça humana. No planeta de destino, eles encontram criaturas poderosas e revelações assustadoras.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A ONDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:673DABFBE7276322A894ABE4EFA91FC75094DEA7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1y2F6xuKuSpXd7OaMa6K4vetzGb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A Onda – Localizado na Noruega, o fiorde de Geiranger é um dos pontos turísticos mais espetaculares da região, mas também é um local propício para cataclismas. Após anos no centro de alerta do local, o geólogo Kristian (Kristoffer Joner) sente que alguma coisa não está normal, os substratos estão mudando. Em plena alta temporada turística, uma onda gigante atinge o local, colocando a montanha abaixo e dando apenas dez minutos para que as pessoas consigam chegar a um terreno elevado.</info>
+</item>
+
+
+
 
 
 
