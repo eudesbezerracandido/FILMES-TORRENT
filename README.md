@@ -2769,6 +2769,16 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>A Onda – Localizado na Noruega, o fiorde de Geiranger é um dos pontos turísticos mais espetaculares da região, mas também é um local propício para cataclismas. Após anos no centro de alerta do local, o geólogo Kristian (Kristoffer Joner) sente que alguma coisa não está normal, os substratos estão mudando. Em plena alta temporada turística, uma onda gigante atinge o local, colocando a montanha abaixo e dando apenas dez minutos para que as pessoas consigam chegar a um terreno elevado.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A 5° ONDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51AFDDEFCA9C226BF44DC051BD202C1AE48DAC24</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/asPv5M6bUn270EcUXUnEnC8CkB7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No futuro, a Terra é tomada por alienígenas. Na primeira onda de ataques, um pulso eletromagnético acaba com toda a eletricidade do planeta. Na segunda, um tsunami mata 40% da população. Na terceira onda, os pássaros começam a transmitir um vírus que mata 97% das pessoas que resistiram aos outros ataques. Já na quarta onda, a adolescente Cassie Sullivan (Chlöe Grace Moretz) precisa se virar sozinha para sobreviver e ainda reencontrar seu irmão.</info>
+</item>
+
+
+
 
 
 
