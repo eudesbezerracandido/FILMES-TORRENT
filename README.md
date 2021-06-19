@@ -2777,6 +2777,16 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>No futuro, a Terra é tomada por alienígenas. Na primeira onda de ataques, um pulso eletromagnético acaba com toda a eletricidade do planeta. Na segunda, um tsunami mata 40% da população. Na terceira onda, os pássaros começam a transmitir um vírus que mata 97% das pessoas que resistiram aos outros ataques. Já na quarta onda, a adolescente Cassie Sullivan (Chlöe Grace Moretz) precisa se virar sozinha para sobreviver e ainda reencontrar seu irmão.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DEPOIS DO APOCALIPSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:733865025DFFFDA8D1AC744362CE5A8FA42F7134</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bDuE9wvdil8rm5x3i6ZSDwFa5uh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dublado e com qualidade de blu-ray. Juliette sempre desejou que o mundo acabasse. Depois de sobreviver ao apocalipse, ela se vê sozinha e sem esperança em um deserto sem fim. Cidades vazias, estradas abandonadas. A jovem segue sem rumo em seu carro, buscando sobreviver mais um dia. Distraída com suas lembranças, Juliette perde o controle do veículo e capota no meio do nada. Horas depois, ela desperta e se vê com a perna ferida e cercada por criaturas noturnas assustadoras. Determinada a sobreviver, a jovem tem pela frente uma longa noite e se entregar não é uma opção. </info>
+</item>
+
+
+
 
 
 
