@@ -2785,6 +2785,16 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info> Dublado e com qualidade de blu-ray. Juliette sempre desejou que o mundo acabasse. Depois de sobreviver ao apocalipse, ela se vê sozinha e sem esperança em um deserto sem fim. Cidades vazias, estradas abandonadas. A jovem segue sem rumo em seu carro, buscando sobreviver mais um dia. Distraída com suas lembranças, Juliette perde o controle do veículo e capota no meio do nada. Horas depois, ela desperta e se vê com a perna ferida e cercada por criaturas noturnas assustadoras. Determinada a sobreviver, a jovem tem pela frente uma longa noite e se entregar não é uma opção. </info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A MÚMIA  COM TOM CRUISE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8576963854563A6915C85160A12A11EEBD1E76C7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dGsaMBjfz8L6mAWUY1l9burcthY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A Múmia (the Mummy) 4K Ultra HD dublado e com qualidade de blu-ray. Nas profundezas do deserto, uma antiga rainha (Sofia Boutella) cujo destino foi injustamente tirado está mumificada. Apesar de estar sepultada em sua cripta, ela desperta nos dias atuais. Com uma maldade acumulada ao longo dos anos, ela espelha terror desde as areais do Oriente Médio até os becos de Londres. O longa vai iniciar uma série de filmes de monstros da Universal, que espera construir um universo cinematográfico interligando personagens como Drácula, Frankenstein, Van Helsing e outros.</info>
+</item>
+
+
+
 
 
 
