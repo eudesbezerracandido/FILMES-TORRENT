@@ -2809,6 +2809,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Uma pequena cidade do estado de Washington acorda para um acontecimento chocante e surreal: é o alvo principal de uma invasão aos EUA por militares estrangeiros. Rapidamente e sem aviso, a cidade fica sob ocupação inimiga e os seus cidadãos são feitos prisioneiros. Determinados a resistir e lutar, alguns jovens patriotas procuram refúgio nos bosques vizinhos, treinando e reorganizando-se num grupo de guerrilha. Inspirando-se na mascote do Liceu, passam a chamar-se Wolverines, tendo como missão protegerem, resgatarem a cidade dos invasores e conquistarem a sua liberdade.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] BLISS: EM BUSCA DA FELICIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c0d5b9191082de776113cdf6140b6c3fd739a8d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/b7BllsQkD6nTkAdtd28UVCmKqVi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma alucinante história de amor vivida por Greg, recentemente divorciado e demitido, quando ele conhece a misteriosa Isabel, que vive nas ruas e está convencida de que o mundo poluído e deteriorado ao redor deles é só uma simulação virtual. A princípio descrente, Greg descobre que pode haver alguma verdade na louca teoria de Isabel.</info>
+</item>
+
+
 
 
 
