@@ -2801,6 +2801,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Em 1977 foi aprovada pelo congresso norte-americano a Lei Keene, que proibia as atividades de mascarados no combate ao crime. Isto fez com que vários super-heróis deixassem a carreira, como o Coruja (Patrick Wilson) e Espectral (Malin Akerman). Outros, como o Comediante (Jeffrey Dean Morgan) e o Dr. Manhattan (Billy Crudup), passaram a trabalhar para o governo. Dois anos antes da implementação desta lei Adrian Veidt (Matthew Goode) decidiu revelar sua identidade como Ozymandias, dedicando-se a partir de então na construção de um império econômico. Em 1985 o mundo vive o clima da Guerra Fria, no qual um ataque nuclear pode acontecer a qualquer momento, vindo dos Estados Unidos ou da União Soviética. Neste clima de tensão política Edward Blake, o Comediante, é assassinado. Em seu funeral comparecem, em momentos diversos, seus antigos companheiros. Entre eles está Rorschach (Jackie Earle Haley), que acredita que sua morte seja o indício da existência de um assassino de mascarados.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] AMANHECER VIOLENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c1affba73af8f87942498ef58ba044311d48bd1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rq9EOXrBIWvDb5bey2vrUHlIui1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma pequena cidade do estado de Washington acorda para um acontecimento chocante e surreal: é o alvo principal de uma invasão aos EUA por militares estrangeiros. Rapidamente e sem aviso, a cidade fica sob ocupação inimiga e os seus cidadãos são feitos prisioneiros. Determinados a resistir e lutar, alguns jovens patriotas procuram refúgio nos bosques vizinhos, treinando e reorganizando-se num grupo de guerrilha. Inspirando-se na mascote do Liceu, passam a chamar-se Wolverines, tendo como missão protegerem, resgatarem a cidade dos invasores e conquistarem a sua liberdade.</info>
+</item>
+
+
 
 
 
