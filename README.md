@@ -2793,6 +2793,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>A Múmia (the Mummy) 4K Ultra HD dublado e com qualidade de blu-ray. Nas profundezas do deserto, uma antiga rainha (Sofia Boutella) cujo destino foi injustamente tirado está mumificada. Apesar de estar sepultada em sua cripta, ela desperta nos dias atuais. Com uma maldade acumulada ao longo dos anos, ela espelha terror desde as areais do Oriente Médio até os becos de Londres. O longa vai iniciar uma série de filmes de monstros da Universal, que espera construir um universo cinematográfico interligando personagens como Drácula, Frankenstein, Van Helsing e outros.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] WATCHMEN - O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff839e02f131f6dbbf3b52699535d779ce62359d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oYEF02pi6goGRAXgfL0MZq5jFEo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1977 foi aprovada pelo congresso norte-americano a Lei Keene, que proibia as atividades de mascarados no combate ao crime. Isto fez com que vários super-heróis deixassem a carreira, como o Coruja (Patrick Wilson) e Espectral (Malin Akerman). Outros, como o Comediante (Jeffrey Dean Morgan) e o Dr. Manhattan (Billy Crudup), passaram a trabalhar para o governo. Dois anos antes da implementação desta lei Adrian Veidt (Matthew Goode) decidiu revelar sua identidade como Ozymandias, dedicando-se a partir de então na construção de um império econômico. Em 1985 o mundo vive o clima da Guerra Fria, no qual um ataque nuclear pode acontecer a qualquer momento, vindo dos Estados Unidos ou da União Soviética. Neste clima de tensão política Edward Blake, o Comediante, é assassinado. Em seu funeral comparecem, em momentos diversos, seus antigos companheiros. Entre eles está Rorschach (Jackie Earle Haley), que acredita que sua morte seja o indício da existência de um assassino de mascarados.</info>
+</item>
+
+
 
 
 
