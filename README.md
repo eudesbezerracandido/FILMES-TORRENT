@@ -2817,6 +2817,16 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Uma alucinante história de amor vivida por Greg, recentemente divorciado e demitido, quando ele conhece a misteriosa Isabel, que vive nas ruas e está convencida de que o mundo poluído e deteriorado ao redor deles é só uma simulação virtual. A princípio descrente, Greg descobre que pode haver alguma verdade na louca teoria de Isabel.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ALEXANDRE - O GRANDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd507d9295298eb5c6202136de446df994224762</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7JTsbi6Tw9ieR4stSKNGXgwFJnN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um destemido rei guerreiro, cheio de ambição, coragem e a arrogância própria da juventude, lidera as suas forças em muito menor número contra os massivos exércitos persas... Um filho desejando ansiosamente a aprovação do seu severo pai, marcado pelas cicatrizes das batalhas, dilacerado e em conflito com o legado da mãe... um impiedoso conquistador que nunca perdeu uma batalha e levou os seus soldados até aos limites do mundo como era então conhecido... um visionário cujos sonhos, feitos e destino ecoou através da eternidade, ajudando a moldar a face do mundo como hoje o conhecemos. Ele foi tudo isto e muito mais. Ele foi Alexandre, o Grande</info>
+</item>
+
+
+
 
 
 
