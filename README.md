@@ -2825,6 +2825,38 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Um destemido rei guerreiro, cheio de ambição, coragem e a arrogância própria da juventude, lidera as suas forças em muito menor número contra os massivos exércitos persas... Um filho desejando ansiosamente a aprovação do seu severo pai, marcado pelas cicatrizes das batalhas, dilacerado e em conflito com o legado da mãe... um impiedoso conquistador que nunca perdeu uma batalha e levou os seus soldados até aos limites do mundo como era então conhecido... um visionário cujos sonhos, feitos e destino ecoou através da eternidade, ajudando a moldar a face do mundo como hoje o conhecemos. Ele foi tudo isto e muito mais. Ele foi Alexandre, o Grande</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] LOBO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A76700569F9A8AC03341CCEF8D072AF83A4C7DBA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gvJIPESk2yHzUAOujnFKD5ghA3H.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Vindo de Vermont tarde da noite, o editor de livros Will Randall (Jack Nicholson) ao retornar para casa atropela um lobo. Quando sai do carro para ver se o animal morreu, acaba sendo mordido. Deste instante em diante começa a se transformar em um lobo. Paralelamente sua vida particular e profissional é afetada, pois é traído por sua mulher e está prestes em ser despedido. Além disto Laura Alden (Michelle Pfeiffer), a bela filha de Raymond Alden (Christopher Plummer), futuro comprador da editora; se apaixona por Randall, sem imaginar que o homem que ela ama está se transformando em uma fera capaz de atos animalescos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ACREDITE EM LOBISOMENS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b74f6aa9b159d4e131538f614aa081bd5e722b7</link>
+<thumbnail>https://www.themoviedb.org/movie/29896-never-cry-werewolf</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Garota descobre que seu novo vizinho é na verdade um lobisomem, e arriscará sua vida para destruí-lo. O problema é que ele acredita que ela seja a reencarnação de sua falecida esposa. Filme feito pelo canal Sci-Fi.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LUA NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E3895F81325EBE2D555BFF7D127F1ED06C6572AE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AhllURgLD729iJYAZJRP2YvaUf6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O que prometia ser apenas uma noite romântica transforma-se em momentos de medo e pavor quando o fotógrafo Ted Harrison (Michael Paré, de "A Fúria dos Anjos") e sua namorada são atacados por um sanguinário lobisomen, que acaba estraçalhando a moça e mordendo o rapaz. Meses mais tarde, Ted já deixou o Nepal e vai visitar sua irmã Janet (Mariel Hemingway de "Manhattan") que vive com o filho de 10 anos Brett (Mason Gamble) e um pastor alemão chamado Thor. No entanto, inexplicáveis mortes estão acontecendo na região. Janet então convida o irmão para ficar com eles na casa. Mas até o fiel e astuto Thor começa a comportar-se de modo estranho. O perigo está cada vez mais perto. E talvez não seja preciso esperar a próxima lua cheia. Escrito e dirigido por Eric Red, baseado na obra de Wayne Smith, Thor.</info>
+</item>
+
+
+
+
+
+
+
+
+
 
 
 
