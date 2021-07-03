@@ -2849,6 +2849,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>O que prometia ser apenas uma noite romântica transforma-se em momentos de medo e pavor quando o fotógrafo Ted Harrison (Michael Paré, de "A Fúria dos Anjos") e sua namorada são atacados por um sanguinário lobisomen, que acaba estraçalhando a moça e mordendo o rapaz. Meses mais tarde, Ted já deixou o Nepal e vai visitar sua irmã Janet (Mariel Hemingway de "Manhattan") que vive com o filho de 10 anos Brett (Mason Gamble) e um pastor alemão chamado Thor. No entanto, inexplicáveis mortes estão acontecendo na região. Janet então convida o irmão para ficar com eles na casa. Mas até o fiel e astuto Thor começa a comportar-se de modo estranho. O perigo está cada vez mais perto. E talvez não seja preciso esperar a próxima lua cheia. Escrito e dirigido por Eric Red, baseado na obra de Wayne Smith, Thor.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MAX  STEEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:292F3C0321BA845761CCA0D3A9B21BDFFE7F2C4B</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AuEzNLF8yvzd169guYEFisqvy5z.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O adolescente Max McGrath e a mãe acabaram de regressar a Copper Canyon, a cidade onde Max nasceu e o seu pai, cientista, morreu em condições misteriosas. Max tem dificuldades em adaptar-se à nova escola e a situação torna-se ainda mais complicada quando o seu corpo começa a gerar ondas de energias estranhas que ele não consegue controlar. À beira da combustão fatal, Max é salvo por Steel, um extraterrestre techno-orgânico que tem acompanhado os progressos de Max em segredo. Os dois descobrem que juntos podem controlar a energia e transformá-la numa força super-humana - mas separados nenhum deles sobrevive.</info>
+</item>
+
+
 
 
 
