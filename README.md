@@ -2857,6 +2857,16 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>O adolescente Max McGrath e a mãe acabaram de regressar a Copper Canyon, a cidade onde Max nasceu e o seu pai, cientista, morreu em condições misteriosas. Max tem dificuldades em adaptar-se à nova escola e a situação torna-se ainda mais complicada quando o seu corpo começa a gerar ondas de energias estranhas que ele não consegue controlar. À beira da combustão fatal, Max é salvo por Steel, um extraterrestre techno-orgânico que tem acompanhado os progressos de Max em segredo. Os dois descobrem que juntos podem controlar a energia e transformá-la numa força super-humana - mas separados nenhum deles sobrevive.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] LENDAS DA PAIXÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5632CD92C563028DC168E112591CF9F20466F739</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uVSUm5Ad0mDF2cASwFNM5AuBdZF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Três irmãos, três destinos. Alfred (Aidan Quinn) é o reservado, o caçula Samuel (Henry Thomas) é o protegido, e o do meio, Tristan (Brad Pitt), aprendeu com os índios a ter um espírito aventureiro. Ao trazer de volta para o rancho do pai (Anthony Hopkins) uma bela jovem (Julia Ormond), Samuel inicia um conflito de paixões que pode terminar em tragédia para sua família.</info>
+</item>
+
+
+
 
 
 
