@@ -1346,11 +1346,11 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO -  INVOCAÇÃO DO MAL & ANABELLE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1f9a56e44fa97de2bc229df59e47321fbd4cbf2&dn=Invocacao+do+Mal+%282013%29+BDRip+1080p+Dublado+ToTTi9&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2364d904170733f18b55c9229c4d90547a5c42bd&dn=Invocacao.do.Mal.2.2016.720p.BluRay.DUAL-LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d2eaccb828df980a4e34abff6cfc8ae6196fceb</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f644491e553f7182cefe97058333ee6f517c6189&dn=Annabelle%202%20-%20A%20Cria%c3%a7%c3%a3o%20do%20Mal%202017%20%5b720p%5d%20%5bDUBLADO%5d%20COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BB1AB5E4E7F78E186F348F43988FCF7B5AC14A0&dn=%5bWWW.BLUDV.TV%5d%20Annabelle%203%20-%20De%20Volta%20para%20Casa%202019%20%28720p%20-%20BluRay%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1f9a56e44fa97de2bc229df59e47321fbd4cbf2$nome=INVOCAÇÃO DO MAL 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2364d904170733f18b55c9229c4d90547a5c42bd$nome=INVOCAÇÃO DO MAL 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d2eaccb828df980a4e34abff6cfc8ae6196fceb$nome=INVOCAÇÃO DO MAL 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f644491e553f7182cefe97058333ee6f517c6189$nome=INVOCAÇÃO DO MAL 4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BB1AB5E4E7F78E186F348F43988FCF7B5AC14A0$nome=INVOCAÇÃO DO MAL 5</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Kae9p8BQXfckAhtWgKTwSIFwKDCrQFnyMQHNdlZEusFqG1S4QY_vRPDFbhouhd7g4ac7PQoadvIV403PyL2eu-UfAIlA4bQ&usqp=CAU&ec=45725304</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Antes de Amityville, houve Harrisville. “Invocação do Mal” narra o conto horripilante de Ed e Lorraine Warren (Patrick Wilson, Vera Farmiga), investigadores paranormais de renome mundial, que foram chamados para ajudar uma família aterrorizada por uma presença maligna em uma fazenda isolada. Forçados a confrontar uma poderosa entidade demoníaca, os Warrens encontram-se presos no caso mais terrível de suas vidas.</info>
@@ -1358,7 +1358,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B]  COLEÇÃO COMPLETA - AMERICAN  PIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57F04D2DE998BE7B88A1F082FD0599AC4D06A4E6&dn=Cole%c3%a7%c3%a3o%20American%20Pie%20%28720p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57F04D2DE998BE7B88A1F082FD0599AC4D06A4E6</link>
 <thumbnail>https://www.thepiratefilmestorrent.me/wp-content/uploads/2019/12/American-Pie-colecao-torrent.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Jim Levenstein, Kevin Myers, Oz Ostreicher e Paul Finch são quatro amigos virgens às vésperas do baile de formatura. Em meio a suas tentativas frustradas de fazer sexo com as namoradas, olhar mulheres nuas na internet e até mesmo atacar uma torta recém-saída do forno, os rapazes fazem um pacto e prometem deixar a virgindade para trás antes do baile de formatura. Agora eles têm 24 horas para cumprir esse acordo.</info>
@@ -1366,7 +1366,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] B13 - 13° DISTRITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c8f75225743977f502e7023813107eba0c4b81c&dn=B13%2C+Decimo+Terceiro+Distrito+%282004%29+720p+MKV+dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c8f75225743977f502e7023813107eba0c4b81c</link>
 <thumbnail>https://capas-g.wmixvideo.com.br/cx108665.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Paris, 2010. Diante do aumento inevitável da criminalidade em alguns subúrbios, o governo autoriza a construção de um muro de isolamento ao redor dos bairros classificados como de alto risco. O pior de todos é o 13º distrito, que é controlado por um chefão do crime, Taha (Dominique Dorol). Um jovem punk íntegro, Leïto (David Belle), está determinador em acabar com seu poder. Quando Taha retalia seqüestrando a irmã de Leito, Lola (Dany Verissimo), seu irmão tenta resgatá-la, mas é traído pelo chefe da delegacia do 13º distrito, que temia o poder de Taha.</info>
@@ -1374,7 +1374,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] GUERRA DOS MUNDOS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb5540b9522f1946fe934fdfaaaa0c1331424b0c&dn=Guerra+dos+Mundos+%282005%29+BDRip+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb5540b9522f1946fe934fdfaaaa0c1331424b0c</link>
 <thumbnail>https://maxiverso.com.br/wp-content/uploads/2018/03/GUERRA-DOS-MUNDOS.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Dirigido por Steven Spielberg, o filme trará uma adaptação contemporânea do clássico da ficção científica de H.G. Wells. A história mostrará a batalha pelo futuro da humanidade vista através dos olhos de uma família estadunidense comum, que luta para sobreviver em meio à devastação.</info>
@@ -1382,7 +1382,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] CÓPIAS -  DE VOLDA A VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NAKOIPVOW27ZBBPVCT7M7KXNZTADUB3L&dn=%5BWWW.BLUDV.TV%5D%20C%C3%B3pias%20-%20De%20Volta%20%C3%A0%20Vida%202019%20(720p)%20%5BDUBLADO%5D%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NAKOIPVOW27ZBBPVCT7M7KXNZTADUB3L</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/19/02/12/13/17/0875127.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Depois de um grave acidente de trânsito que matou toda a sua família, um neurocientista (Keanu Reeves) sente que perdeu o sentido da vida. Utilizando seu meio de trabalho, ele se torna obcecado em trazê-los de volta, mesmo que isso signifique desafiar boa parte do governo e, principalmente, as leis da física.</info>
@@ -1390,7 +1390,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO COMPLETA -  INDIANA JONES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03dcdbe43adc048137017f303b433d02ba520d6d&dn=Cole%26ccedil%3B%26atilde%3Bo+Indiana+Jones+DVDRip+Dual+Audio+Dublado+-+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03dcdbe43adc048137017f303b433d02ba520d6d</link>
 <thumbnail>https://photos.enjoei.com.br/indiana-jones-colecao-completa-dvd/1200xN/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy83Mjk0Mzg2L2ZlNTE2YzkyNzFjNjJjMWRmY2UwMWY5OWNlNWJjOTIwLmpwZw</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O arqueólogo Indiana Jones precisa encontrar a Arca da Aliança, uma relíquia bíblica que contém os dez mandamentos. Como o portador do artefato se torna invencível, os nazistas também vão fazer de tudo para adquirir esse precioso objeto.</info>
@@ -1406,9 +1406,9 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] TRILOGIA - ROTA DE FUGA 1,2,3  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60c1d8cbe90e24340ef86937a685921456ee2e79</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c804ccf2d3a40ccbad463a4dd7fd269409a58bb&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Rota%20de%20Fuga%202%20(2018)%20%5bBluRay%5d%20%5b720p%5d%20%5bMP4%5d%20%5bDUBLADO%5d</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39620e07ab5e82dc8607385a7d6a5346bcc885bb&dn=%5bACESSE%20comandotorrents.org%5d%20Rota%20de%20Fuga%203%20%e2%80%93%20O%20Resgate%202019%20%5b720p%5d%20%5bBluRay%5d%20%5bDUBLADO%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60c1d8cbe90e24340ef86937a685921456ee2e79$nome=ROTA DE FUGA 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c804ccf2d3a40ccbad463a4dd7fd269409a58bb$nome=ROTA DE FUGA 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39620e07ab5e82dc8607385a7d6a5346bcc885bb$nome=ROTA DE FUGA 3</link>
 <thumbnail>https://i.pinimg.com/originals/b1/f1/14/b1f114c9d3a4aab195d810354b17bd70.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Ray Breslin (Sylvester Stallone) é a maior autoridade existente ao se falar em segurança. Após analisar diversas prisões de segurança máxima, ele desenvolve um modelo à prova de fugas. Quando é preso, Ray é enviado justamente para a prisão que criou. Lá ele precisa encontrar uma brecha não imaginada até então, que permita sua fuga.</info>
@@ -1416,7 +1416,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] CONSTANTINE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67b4a0fe44977cda2f81db10fac2a45df10dce87&dn=CINETERROR.ORG%20-%20Constantine%20(2005)%20BluRay%20720p%20Dual%20%c3%81udio&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67b4a0fe44977cda2f81db10fac2a45df10dce87</link>
 <thumbnail>https://limaomecanico.com.br/wp-content/uploads/2019/08/constantine.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> John Constantine é um experiente ocultista e exorcista, que literalmente chegou ao inferno. Juntamente com Angela Dodson, uma policial cética, ele investiga o misterioso assassinato da irmã gêmea dela, Isabel. As investigações levam a dupla a um mundo sombrio, em que precisam lidar com demônios e anjos malvados.</info>
@@ -1424,7 +1424,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] UM SONHO DE LIBERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CDEA2E3CEBA8555F8DADE56521E9479FDFE71F3C&dn=Um%20Sonho%20de%20Liberdade%20720p%20(1994)%20Dual%20%C3%81udio%20BluRay%205.1%20--%20By-%20Lucas%20Firmo&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.ccc.de:80/announce&tr=udp://9.rarbg.com:2710/announce&tr=udp://9.rarbg.com:2710/announce&tr=udp://tracker.leechers-paradise.org:6969</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CDEA2E3CEBA8555F8DADE56521E9479FDFE71F3C</link>
 <thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/90/16/48/20083748.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em 1946, Andy Dufresne (Tim Robbins), um jovem e bem sucedido banqueiro, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicídio de sua esposa e do amante dela. Ele é mandado para uma prisão que é o pesadelo de qualquer detento, a Penitenciária Estadual de Shawshank, no Maine. Lá ele irá cumprir a pena perpétua. Andy logo será apresentado a Warden Norton (Bob Gunton), o corrupto e cruel agente penitenciário, que usa a Bíblia como arma de controle e ao Capitão Byron Hadley (Clancy Brown) que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding (Morgan Freeman), um prisioneiro que cumpre pena há 20 anos e controla o mercado negro da instituição.</info>
@@ -1432,7 +1432,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] LUTA POR JUSTIÇA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3da14a98636e6647d4a8fba3915a37800564257e&dn=COMANDO.TO%20-%20Luta%20por%20Justica%202020%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3da14a98636e6647d4a8fba3915a37800564257e</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/610SVEf8QoL._AC_SX569_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Com base no livro "Just Mercy: Uma história de justiça e redenção", segue a verdadeira história de Bryan Stevenson, um advogado talentoso que luta pela justiça num país com o sistema legal falido.</info>
@@ -1440,7 +1440,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO - A HORA DO PESADELO FREDDY KRUEGER   [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c493313076d7089aa8ead200ffffb73c65d2b414&dn=Cole%c3%a7%c3%a3o%20-%20A%20Hora%20do%20Pesadelo.(1984-1995).Dublado.1080p.By.Luan.Harper&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce%22</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c493313076d7089aa8ead200ffffb73c65d2b414</link>
 <thumbnail>https://3.bp.blogspot.com/-dLckgie40pE/UehyywhYsPI/AAAAAAAAGdo/Yci87JkU1JQ/s1600/Cole%C3%A7%C3%A3o+Freddy+Krueger.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Pelas mãos do mestre do terror moderno, Wes Craven, surge a sensacional e horripilante saga de Freddy Krueger, que até hoje permanece um ícone do gênero no cinema. Tudo se inicia quando a jovem Nancy começa a ter pesadelos assustadores. Enquanto guarda apenas para si estas terríveis experiências noturnas, suas amigas do colégio também estão compartilhando o mesmo tipo de sonho aterrorizante. Porém, quando uma das garotas acaba sendo brutal e misteriosamente assassinada durante o sono, Nancy procura a polícia. Seus relatos a respeito do hediondo maníaco que habita seus pesadelos, contudo, são absolutamente ignorados pelos policiais. Nancy está sozinha e apavorada, mas sabe que cedo ou tarde terá que enfrentar o assassino em seu próprio mundo sombrio e irreal. Contém todos os filmes da franquia a hora do pesadelo.</info>
@@ -1448,9 +1448,9 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] TRILOGIA - BOYKA - O IMBATIVÉL   [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:feadb2d1dda7c21e93378a48b57095cfe68b5971&dn=Boyka%20-%20O%20Imbat%c3%advel%202017%20%5bBluRay%5d%20%5b720p%5d%20%5bDUAL%5d%20COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7e1dddc9db1adf37bdcd12a1e6bdc28667798d3&dn=O+Lutador+%282006%29+720p+Dublado+Bluray&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e883ab9ae329eb492840d026c78b6430a48c057</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:feadb2d1dda7c21e93378a48b57095cfe68b5971$nome=BOYKA 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7e1dddc9db1adf37bdcd12a1e6bdc28667798d3$nome=BOYKA 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e883ab9ae329eb492840d026c78b6430a48c057$nome=BOYKA 3</link>
 <thumbnail>https://i.imgur.com/CLmQQRo.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Boyka está ansiando pelas grandes ligas quando uma morte acidental no ringue o faz questionar tudo o que representa. Quando ele descobre que a esposa do homem que ele matou acidentalmente está em apuros, Boyka se oferece para lutar em uma série de batalhas impossíveis para libertá-la de uma vida de servidão.</info>
@@ -1458,7 +1458,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] SELMA - UMA LUTA PELA IGUALDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31A6909C11F40C7ADEAD1B2996AA63DCB5A5DBB9&dn=Selma.Uma.Luta.Pela.Igualdade.2015.720p.Dual-WOLVERDONFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31A6909C11F40C7ADEAD1B2996AA63DCB5A5DBB9</link>
 <thumbnail>https://fr.web.img5.acsta.net/pictures/15/02/04/11/17/060744.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Cinebiografia do pastor protestante e ativista social Martin Luther King, Jr (David Oyelowo), que acompanha as históricas marchas realizadas por ele e manifestantes pacifistas em 1965, entre a cidade de Selma, no interior do Alabama, até a capital do estado, Montgomery, em busca de direitos eleitorais iguais para a comunidade afro-americana.</info>
@@ -1466,7 +1466,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] BATMAN & ROBIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8EA0ED162420FB328CD1E7607032CFF8379E84A7&dn=Batman%20e%20Robin%20%281997%29%20BluRay%201080p%20Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8EA0ED162420FB328CD1E7607032CFF8379E84A7</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/9/9b/Batman_Robin_1997.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A dupla dinâmica enfrenta uma terrível dupla de vilões: o gélido Mr. Freeze (Arnold Schwarzenegger) e a delicada botânica que, ao sofrer um acidente, transforma-se na perigosa e vingativa Hera Venenosa (Uma Thurman). Mas, para poder livrar Gotham City das garras dos vilões, Batman (George Clooney) e Robin (Chris O’Donnell) contam com uma nova companheira, a Batgirl (Alicia Silverstone).</info>
@@ -1474,7 +1474,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO - PIRATAS DO CARIBE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74d86dc47fe4bff7a2bfe0209113ff6f96f36cbd&dn=COMOEUBAIXO.COM..BLURAY.MP4.Quadrilogia+Piratas+do+Caribe+%282003%2F2011%29+1080p+5.1+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74d86dc47fe4bff7a2bfe0209113ff6f96f36cbd</link>
 <thumbnail>https://3.bp.blogspot.com/-i_teSkNt_Ik/WVasmS08cDI/AAAAAAAAAHc/Z2SD9-Ob3OQv11QPs04Lj1t1ERLhdggqgCLcBGAs/s1600/apontadl_img_destacada134.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Elizabeth Swann (Keira Knightley), a filha do governador Weatherby (Jonathan Pryce), está prestes a se casar com o ferreiro Will Turner (Orlando Bloom). Porém o evento é atrapalhado pela ameaça de Davy Jones (Bill Nighy), o capitão do assombrado navio Flying Dutchman, que tem uma dívida de sangue com o capitão Jack Sparrow (Johnny Depp), amigo do casal. Temendo ser amaldiçoado a uma vida após a morte como escravo de Jones, Sparrow precisa encontrar o misterioso baú da morte para escapar da ameaça.</info>
@@ -1482,7 +1482,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] DESTINO DE JUPTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E4ADD1723D951AE2448F5ED0854E0C44F703D2B&dn=O.Destino.de.Jupiter.2015.720p.Dual-&tr=udp%3a%2f%2fexodus.desync.com%3a6969&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E4ADD1723D951AE2448F5ED0854E0C44F703D2B</link>
 <thumbnail>https://br.web.img2.acsta.net/pictures/15/01/12/20/03/030184.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A nova sequência reúne o dueto dinâmico, Frank Vega (Danny Trejo) e Bernie Pope (Danny Glover), quando viajam para Louisiana para assistir ao casamento de sua querida amiga Carmen Gutierrez (Loni Love). O que era retratado como um final de semana de casamento no sul transforma-se violentamente em loucura e caos, fazendo com que nossos velhos heróis, mais uma vez, sirvam à justiça.</info>
@@ -1490,9 +1490,9 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 
 <item>
 <title>[COLOR silver][B] TRILOGIA - BLADE O QUE ANDA DE DIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F23772F3EA9614C2FCD6B4ADA80FB50A897211DF&dn=Blade%20-%20O%20Ca%c3%a7ador%20de%20Vampiros%20%281998%29%20Dublado%201080p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EAC8016B1B8AE5D2C55C523208D3336A6C05E3E6&dn=Blade%20II%20-%20O%20Ca%c3%a7ador%20de%20Vampiros%20%282002%29%20Dublado%201080p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C312EB6493759202F88468F6A94511F584A11DA6&dn=Blade%20-%20Trinity%20%282004%29%20Dublado%201080p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F23772F3EA9614C2FCD6B4ADA80FB50A897211DF$nome=BLADE 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EAC8016B1B8AE5D2C55C523208D3336A6C05E3E6$nome=BLADE 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C312EB6493759202F88468F6A94511F584A11DA6$nome=BLADE 3</link>
 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_828725-MLB31195464086_062019-O.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Blade – O Caçador de Vampiros:
@@ -1505,7 +1505,7 @@ Em uma base localizada no deserto os vampiros dão a cartada decisiva em seus pl
 
 <item>
 <title>[COLOR silver][B] ALADDIN  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2290ffcc7e3e6d05593934cd4877a4d01a92d45&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Aladdin%202019%20%5b720p%5d%20%5bBluRay%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2290ffcc7e3e6d05593934cd4877a4d01a92d45</link>
 <thumbnail>https://almanaquevirtual.com.br/wp-content/uploads/2019/05/Aladdin-poster.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um jovem humilde descobre uma lâmpada mágica, com um gênio que pode lhe conceder desejos. Agora o rapaz quer conquistar a moça por quem se apaixonou, mas o que ele não sabe é que a jovem é uma princesa que está prestes a se noivar. Agora, com a ajuda do Gênio (Will Smith), ele tenta se passar por um príncipe e para conquistar o amor da moça e a confiança de seu pai.</info>
@@ -1585,7 +1585,7 @@ Enredo: No dia em que o furacão Katrina bate Nova Orleans, idosos Daisy William
 
 <item>
 <title>[COLOR silver][B] LUTAR  OU  MORRER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62084a92f995aa12f2aadf01bd2092ef30cb7b4e&dn=Lutar+ou+Morrer+DVDRip+XviD+Dual+Audio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62084a92f995aa12f2aadf01bd2092ef30cb7b4e</link>
 <thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/93/69/84/20271744.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Chen Zhen, um estudante chinês de engenharia em Kyoto, que enfrenta os insultos e abusos de seus colegas japoneses por seu amor local, Mitsuko Yamada, filha do diretor, volta em 1937 a Shangai, sob o protetorado japonês – na verdade, ocupação militar. depois de ler sobre a morte de seu mestre de kung-fu Hou Ting-An em uma luta contra o campeão japonês Ryuichi Akutagawa.
@@ -1603,9 +1603,9 @@ Enredo: De codinome “Maverick”, Pete Mitchell, o temerário impetuoso ace Na
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO - ESCORPIÃO REI   [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51005e74ed0541c5abeba7156c3ca3e371c97893&dn=O+Escorpi%26atilde%3Bo+Rei+720p+%282002%29+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:279d25a8ad327e5bb0f3b04caf97d0184f8fbd13&dn=O+Escorpi%26atilde%3Bo+Rei+2%3A+A+Saga+De+Um+Guerreiro+720p+%282008%29+Dub&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e422aac0cc1b9b2b9bfad57fc3f76785278166f0</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51005e74ed0541c5abeba7156c3ca3e371c97893$nome=ESCORPIÃO REI 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:279d25a8ad327e5bb0f3b04caf97d0184f8fbd13$nome=ESCORPIÃO REI 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e422aac0cc1b9b2b9bfad57fc3f76785278166f0$nome=ESCORPIÃO REI 3</link>
 <thumbnail>https://image.tmdb.org/t/p/w500/780EOM2tBZEy7leFgwGY0Jh1ZLX.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em uma época bem remota, na cidade de Gomorra, Memnon (Steven Brand), um governante maligno, estava determinado em massacrar todos que fossem contrários a ele. As poucas tribos sobreviventes, que nunca foram aliadas, se viram obrigadas a se unir pois senão iriam perecer. Sabendo que seu inimigo depende das visões de um feiticeiro contrataram Mathayus (The Rock), um eficaz mercenário, para eliminar o vidente. Após ter se infiltrado no campo inimigo, Mathayus descobre que o feiticeiro é na verdade Cassandra (Kelly Hu), uma linda mulher. Ao invés de eliminá-la ele a leva para o meio do deserto, sabendo que os servidores de Memnon fariam qualquer coisa para resgatá-la e levá-la de volta. É exatamente isto o que acontece, pois Memnon ordenou que um alguns guerreiros comandados por Thorak (Ralph Moeller) o eliminassem, mas Mathayus conseguiu suplantar a todos. No entanto foi ferido com uma flecha, que tinha veneno de escorpião, ficando então entre a vida e a morte.</info>
@@ -1613,7 +1613,7 @@ Enredo: De codinome “Maverick”, Pete Mitchell, o temerário impetuoso ace Na
 
 <item>
 <title>[COLOR silver][B] O ULTIMO MESTRE DO AR  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5875ceaade8fd781f2c704e9f9f0c68c97f52221&dn=O+%26Atilde%3B%C5%A1ltimo+Mestre+do+Ar+%282010%29+720p+Dublado+pt-BR+%2F+Brazil&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5875ceaade8fd781f2c704e9f9f0c68c97f52221</link>
 <thumbnail>https://s2.glbimg.com/wBoG20wSik4bTc3dkU463tnddcE=/362x536/https://s2.glbimg.com/ZTv0LgLfpSIhJrL7U1WsNOR-GzA=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/J/s/NNXBrYS3GcZypb5SeWOA/2019-352-midia-kit-filme-o-ultimo-mestre-do-ar-poster.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Ar, agua, terra e fogo. Quatro nações unidas pelo destino quando a nação do fogo inicia uma guerra brutal contra as outras. Um século se passou sem qualquer esperança em vista de uma mudança nesse caminho de destruição. No fogo cruzado entre o combate e a coragem, Aang (Noah Ringer) descobre que é o único com o poder de manipular todos os quatro elementos. Aang se reúne com Katara (Nicola Peltz), uma waterbender controladora das aguas e seu irmão Sokka (Jackson Rathbone), para restaurar o equilíbrio do seu mundo em guerra.</info>
@@ -1630,12 +1630,12 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO - PÂNICO  NA FLORESTA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:475ae27cbc6f709e1bb1f60e97c3bc321b3c9298&dn=Panico.na.Floresta.%5B2003.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0772c0d75b81bd7560522df1dd525a53385984dc&dn=Panico.na.Floresta.2.%5B2007.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2ca50ec25daef4c4f6ea43a27c1b37cb0c5d877&dn=Panico.na.Floresta.3.%5B2009.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8f6fb328b28e46d3833c97e2d6ea7269bed1196&dn=Panico.na.Floresta.4.%5B2011.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73e03e001f47cd174115c32b59ef8a8c1527bc22&dn=Panico.na.Floresta.5.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A3A4D8DA798C6E68F480C579D52BF1FC8E4362E&dn=P%c3%a2nico%20Na%20Floresta%206%20%282015%29%20-%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:475ae27cbc6f709e1bb1f60e97c3bc321b3c9298$nome=PÂNICO  NA FLORESTA 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0772c0d75b81bd7560522df1dd525a53385984dc$nome=PÂNICO  NA FLORESTA 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2ca50ec25daef4c4f6ea43a27c1b37cb0c5d877$nome=PÂNICO  NA FLORESTA 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8f6fb328b28e46d3833c97e2d6ea7269bed1196$nome=PÂNICO  NA FLORESTA 4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73e03e001f47cd174115c32b59ef8a8c1527bc22$nome=PÂNICO  NA FLORESTA 5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A3A4D8DA798C6E68F480C579D52BF1FC8E4362E$nome=PÂNICO  NA FLORESTA 6</link>
 <thumbnail>https://3.bp.blogspot.com/-KEbUbiW5wT8/V7qDGrJ17YI/AAAAAAAAFDA/vqJzHjFwS3Aa3RBoJU1HYPjjBcjCMzjSACLcB/s1600/page.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Pânico na Floresta (Wrong Turn) coleção completa com todos os filmes já lançados da violenta franquia de terror. Todos os filmes contam a história de um grupo de pessoas que são perseguidos por canibais deformados. Cinco amigos percorrem uma trilha na floresta, em pleno estado da Virginia. Após pegarem o caminho errado, eles se deparam com uma família de canibais, que possui o rosto desfigurado. Desesperados após serem capturados, os amigos agora querem apenas fugir do local o mais rápido possível.</info>
@@ -1643,7 +1643,7 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 
 <item>
 <title>[COLOR silver][B] O SENHOR DAS ARMAS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:883c3d9eace2fa0cc49198d479db9a6459b89f4c&dn=Senhor+das+Armas+%282005%29+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:883c3d9eace2fa0cc49198d479db9a6459b89f4c</link>
 <thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/87/18/00/19872824.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Nicolas Cage é Yuri Orlov, um negociante de armas que nunca viu sua prática profissional com olhos éticos. Apesar de fornecer armas para países pobres, imersos em conflitos civis, entre outros compradores, Yuri sempre encarou muito bem seu trabalho, que o deixou extremamente rico e poderoso. No entanto, começa a pensar melhor em sua vida quando é perseguido por Jack Valentine (Ethan Hawke), um agente da Interpol.</info>
@@ -1651,7 +1651,7 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 
 <item>
 <title>[COLOR silver][B] EXTRAORDINÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:433FD60619B4CEA391397E753642951A614A2A5C&dn=Extraordin%c3%a1rio%202018%20%28720p%29%20DUBLADO%20%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:433FD60619B4CEA391397E753642951A614A2A5C</link>
 <thumbnail>https://br.web.img2.acsta.net/pictures/17/11/28/18/32/3262971.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Auggie Pullman é um garoto que nasceu com uma deformação facial. Pela primeira vez, ele irá frequentar uma escola regular, como qualquer outra criança. No quinto ano, ele irá precisar se esforçar para conseguir se encaixar em sua nova realidade.</info>
@@ -1659,7 +1659,7 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 
 <item>
 <title>[COLOR silver][B] O GAROTO DE OURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13887A20F52EBFA3F2956E39F6FF568423B0A460&dn=O%20Menino%20de%20Ouro%202016%20%5bWEB-DL%5d%20%5b1080p%5d%20BLUDV&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13887A20F52EBFA3F2956E39F6FF568423B0A460</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/16/01/26/21/23/317165.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Mats é apenas um garoto comum como qualquer outro. Mas quando encontra uma calça que contêm uma quantidade ilimitada de dinheiro, tudo muda! De repente, o mundo está a seus pés e ele pode realizar todos os seus sonhos. No entanto, ele percebe que tinha abusado do poder que vem com riqueza e passa a usar o dinheiro para melhorar a vida dos sem-teto da cidade, e dos menos afortunados. Enquanto isso, forças poderosas da cidade estão procurando pela calça e a chance de encontrar é sequestrar o pai de Mats. Os problemas não param por ai e Mats descobre que o dinheiro que sai dos bolsos da calça, na verdade, vem de vários cofres bancários em todo o país. Agora, além do pai sequestrado ele tem também a polícia atrás dele. Sem ninguém para ajudá-lo além de seus amigos de confiança, David e Livlí, ele tem que salvar seu pai e colocar tudo nos eixos, antes que seja tarde demais.</info>
@@ -1667,7 +1667,7 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 
 <item>
 <title>[COLOR silver][B]  A LIGA EXTRAORDINÁRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cb1f70ced5a679c8940a402003488807c216d83&dn=A+Liga+Extraordin%26aacute%3Bria+%282003%29+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cb1f70ced5a679c8940a402003488807c216d83</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/a/ab/The_League_of_Extraordinary_Gentlemen.jpg/240px-The_League_of_Extraordinary_Gentlemen.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O renomado aventureiro Allan Quatermain (Sean Connery) lidera uma liga de figuras lendárias contra o terror tecnológico que vem sendo imposto por um maníaco conhecido como O Fantasma. Esta liga conta com o explorador oceánico e inventor Capitão Nemo (Naseeruddin Shah), a vampira Mina Harker (Peta Wilson), um homem invisível chamado Rodney Skinner (Tony Curran), um agente do serviço secreto americano Tom Sawyer (Shane West), o imortal e invencível Dorian Gray (Stuart Townsend), e o perigoso Dr. Jekyll/Mr. Hyde (Jason Flemyng) com sua dupla personalidade. Richard Roxburgh (de "Moulin Rouge") interpreta M. o enigmático responsável pelo recrutamento da Liga. Juntos eles terão que superar suas diferenças e unir suas forças, para destruir as planos fantasmagóricos de seu oponente que quer acabar com o planeta.</info>
@@ -1675,7 +1675,7 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 
 <item>
 <title>[COLOR silver][B] UMA MENTE BRILHANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b043c5fe98b60650bf06bdd9109731e74aedf41&dn=Uma+Mente+Brilhante+%282001%29+BDRip+720p+Dublado+-+Alan_680&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b043c5fe98b60650bf06bdd9109731e74aedf41</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/b1/UmaMenteBrilhante.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> John Nash (Russell Crowe) é um gênio da matemática que, aos 21 anos, formulou um teorema que provou sua genialidade e o tornou aclamado no meio onde atuava. Mas aos poucos o belo e arrogante Nash se transforma em um sofrido e atormentado homem, que chega até mesmo a ser diagnosticado como esquizofrênico pelos médicos que o tratam. Porém, após anos de luta para se recuperar, ele consegue retornar à sociedade e acaba sendo premiado com o Nobel..</info>
@@ -1683,7 +1683,7 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 
 <item>
 <title>[COLOR silver][B] CANDYMAN 3 - DIA DOS MORTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A9AFB43F8D83387A00204F94964321AA44E01A4&dn=COMANDOTORRENTSHD.NET%20-%20Candyman%203%20-%20Dia%20dos%20Mortos%20Dublado%20720p%20%28Bluray%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A9AFB43F8D83387A00204F94964321AA44E01A4</link>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/Candyman_-_Day_of_the_Dead.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Uma série de terríveis assassinatos aterroriza um bairro de Los Angeles. Os moradores da região creditam as mortes a CandyMan, o fantasma de um pintor que foi barbaramente torturado e morto há dois séculos. Ele usa um gancho no lugar de uma das mãos. A bela pintora Caroline McKeever, não acredita nas lendas de seu antepassado. Quando percebe que CandyMan voltou dos mortos para se vingar, é tarde demais. Ela precisa combater seu ancestral para continuar viva!</info>
@@ -1691,7 +1691,7 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 
 <item>
 <title>[COLOR silver][B] O HOMEM SEM SOMBRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A53A0956E67A97F698A387FAC2F1CC0E23A3175F&dn=O%20Homem%20Sem%20Sombra%20%282000%29%20Bluray%201080p%20Dublado&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A53A0956E67A97F698A387FAC2F1CC0E23A3175F</link>
 <thumbnail>https://http2.mlstatic.com/o-homem-sem-sombra-1-2-coleco-02-filmes-D_NQ_NP_864977-MLB28884138724_122018-F.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em um laboratório militar ultra-secreto, um grupo de brilhantes cientistas faz uma das mais importantes descobertas do século: a fórmula da invisibilidade. Ansioso por analisar os efeitos da fórmula num ser humano, o líder da equipe, Sebastian Craine (Kevin Bacon), decide por testá-la em si mesmo. Entretanto, há um problema: a equipe ainda não tinha descoberto o antídoto para a fórmula. Começa então uma corrida contra o tempo, por parte dos demais cientistas, para tentar encontrar algo que impeça o cada vez maior rápido processo de invisibilização pelo qual passa o corpo de Craine. Mas aos poucos a intoxicação decorrente do novo poder obtido por Craine o afeta, e faz com que ele ele comece a acreditar que seus colegas são na verdade uma ameaça à sua existência.</info>
@@ -1699,7 +1699,7 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 
 <item>
 <title>[COLOR silver][B] A MULA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26AB2738B5116A9F7039A2A74B53DCA88A6B0C8E&&dn=%5bWWW.BLUDV.TV%5d%20A%20Mula%202019%20%281080p%20-%20X265%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26AB2738B5116A9F7039A2A74B53DCA88A6B0C8E</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/18/11/01/23/40/0266976.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Versão dublada, dual áudio e legendada em bluray 4K UHD Ultra HD. Leo Sharp coleciona uma série de honras que vão desde de prêmios por seus trabalhos como paisagista e decorador até o reconhecimento por ter lutado contra os nazistas durante a Segunda Guerra Mundial. No entanto, foi aos 90 anos que conquistou algo surpreendente: ele foi preso por portar o equivalente a três milhões de dólares em cocaína no seu carro, uma picape velha, no Michigan. Sharp era o líder do Sinaloa, um cartel de drogas no México e foi sentenciado à três anos de cadeia. Um horticultor e veterano da Segunda Guerra Mundial de 90 anos é pego transportando uma quantidade de cocaína equivalente a $3 milhões de dólares para um quartel de drogas mexicano.</info>
