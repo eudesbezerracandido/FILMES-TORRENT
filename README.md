@@ -2873,6 +2873,16 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Três irmãos, três destinos. Alfred (Aidan Quinn) é o reservado, o caçula Samuel (Henry Thomas) é o protegido, e o do meio, Tristan (Brad Pitt), aprendeu com os índios a ter um espírito aventureiro. Ao trazer de volta para o rancho do pai (Anthony Hopkins) uma bela jovem (Julia Ormond), Samuel inicia um conflito de paixões que pode terminar em tragédia para sua família.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UM CADÁVER PARA SOBREVIVER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19C038E6FC297F0CE481E23D19351A4D1A81C8AF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oFhdGecjFcxZlo7VE2nyQLz0aAx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Hank (Paul Dano), um homem perdido no deserto, e sem esperanças, encontra um corpo no meio do caminho. Decidido em ficar amigo do morto, eles vão partir, juntos, em uma jornada surrealista para voltar para casa. Ao mesmo tempo em que Hank descobre que o corpo é a chave para sua sobrevivência, ele é forçado a convencer o morto o quanto vale a pena viver.</info>
+</item>
+
+
+
 
 
 
