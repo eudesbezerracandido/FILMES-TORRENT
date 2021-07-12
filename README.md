@@ -2881,6 +2881,14 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Hank (Paul Dano), um homem perdido no deserto, e sem esperanças, encontra um corpo no meio do caminho. Decidido em ficar amigo do morto, eles vão partir, juntos, em uma jornada surrealista para voltar para casa. Ao mesmo tempo em que Hank descobre que o corpo é a chave para sua sobrevivência, ele é forçado a convencer o morto o quanto vale a pena viver.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A CURA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8BE7818728058019CADC968DF694264203A07975</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iEuhU1Ty1glOGLxj7uUgbm2n0Ym.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Agora totalmente dublado, trazemos até vocês um dos melhores filmes de 2017, a história de um jovem e ambicioso executivo (Dane DeHaan) é enviado para os Alpes Suíços com a missão de trazer de volta o CEO da empresa, em tratamento em um Centro de Cura. Após sofrer um acidente automobilístico, no entanto, o rapaz acaba internado na mesma instituição, cujo corpo médico promete purificar os pacientes por meio de uma água milagrosa, e que se localiza em um lugar de passado misterioso. Incapacitado de retornar para casa, o personagem passa a duvidar da própria sanidade, ao mesmo tempo em que desconfia da motivação do doutor responsável pelo spa.</info>
+</item>
+
 
 
 
