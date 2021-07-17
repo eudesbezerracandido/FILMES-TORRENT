@@ -2897,6 +2897,16 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Alfa (Alpha) é uma aventura épica que se passa na última Era Glacial na Europa, 20.000 anos atrás. No meio de sua primeira caçada com o grupo de elite de sua tribo, um jovem é ferido e deixado para morrer. Ao acordar fraco e sozinho, ele deve aprender a sobreviver e abrir caminho na natureza dura e cruel. Acompanhado por um lobo abandonado pela sua alcateia, os dois aprendem a confiar um no outro, tornando-se aliados na luta contra o inverno rigoroso que está chegando.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] INTELIGÊNCIA ARTIFICIAL-Ascensão das Máquinas [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NHKQQ2W6RMXEYDCSAW6HIQIT56ENKLS3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tyxIX3Fz1G49AKeYOqAFSyM9Fp7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em uma missão solitária para Alpha Centauri, o astronauta Milutin se une a uma ciborgue chamada Nimani 1345. Desesperado por contato humano, Milutin altera as respostas programadas de Nimani, mas ao fazer isso ele arrisca não só a segurança da missão, como a sua própria vida.</info>
+</item>
+
+
+
 
 
 
