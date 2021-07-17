@@ -2905,6 +2905,16 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Em uma missão solitária para Alpha Centauri, o astronauta Milutin se une a uma ciborgue chamada Nimani 1345. Desesperado por contato humano, Milutin altera as respostas programadas de Nimani, mas ao fazer isso ele arrisca não só a segurança da missão, como a sua própria vida.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A ESPERA DO AMAHNÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MFEY6YI4BDK3VIBCZ3HNPVPTPKCGBUTC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3v0VuiG1ZlWM6lfvLqSY93Quw1b.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ed Hemsler passa a vida se preparando para um desastre que pode nunca acontecer. Ronnie Meisner passa sua vida comprando coisas que ela nunca pode usar. Em uma pequena cidade em algum lugar da América, essas duas pessoas vão tentar encontrar o amor enquanto tentam não se perder nas coisas um do outro.</info>
+</item>
+
+
+
 
 
 
