@@ -2930,6 +2930,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info> Quando seres interplanetários deixam marcas na Terra, a Dra. Louise Banks (Amy Adams), uma linguista especialista no assunto, é procurada por militares para traduzir os sinais e desvendar se os alienígenas representam uma ameaça ou não. No entanto, a resposta para todas as perguntas e mistérios pode ameaçar a vida de Louise e a existência de toda a humanidade.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ENTRE  MUNDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0CCA80873483236A34C68273B9689F778DC85739</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/r4IHBuno4AmRkDyoHY7YBPyr49Q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O motorista de caminhão Joe (Nicolas Cage) vive assombrado pela morte da sua esposa e de seu filho. Até que ele conhece Julie (Franka Potente), uma mulher com dons espirituais e que o ajuda a encontrar a alma perdida de Billie (Penelope Mitchell), sua filha que está em coma. Mas as coisas acabam não saindo como planejado.</info>
+</item>
+
+
 
 
 
