@@ -2938,6 +2938,16 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info> O motorista de caminhão Joe (Nicolas Cage) vive assombrado pela morte da sua esposa e de seu filho. Até que ele conhece Julie (Franka Potente), uma mulher com dons espirituais e que o ajuda a encontrar a alma perdida de Billie (Penelope Mitchell), sua filha que está em coma. Mas as coisas acabam não saindo como planejado.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CALIBRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EBEACDF8C99B9BA4FCA570EF91522CBF0D4B7437</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sWVu79OzN6b9be1jIGnpWh5ZALd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois amigos de longa data viajam até uma isolada vila escocesa para um final de semana onde possam caçar juntos. Mas nada os preparariam pro que iria acontecer. O longa começa com dois amigos, Vaughn (Jack Lowden) e Marcus (Martin McCann) se preparando para irem caçar. Vaughn se despede da noiva que está grávida e adentra na viagem inédita com o amigo.</info>
+</item>
+
+
+
 
 
 
