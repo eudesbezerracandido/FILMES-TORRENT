@@ -2946,6 +2946,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Dois amigos de longa data viajam até uma isolada vila escocesa para um final de semana onde possam caçar juntos. Mas nada os preparariam pro que iria acontecer. O longa começa com dois amigos, Vaughn (Jack Lowden) e Marcus (Martin McCann) se preparando para irem caçar. Vaughn se despede da noiva que está grávida e adentra na viagem inédita com o amigo.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O CORVO BRANCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3SLDUYFDZ6ODQIWMHUOUDIGJVHTEJES6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sOirlm1YRz0zDTyjbllzOacHPa4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Biografia de lendário bailarino russo Rudolf Nureyev, conhecido por quebrar grandes barreiras entre o balé clássico e o moderno, além de ter ajudado a transformar o papel do homem da dança.</info>
+</item>
+
+
 
 
 
