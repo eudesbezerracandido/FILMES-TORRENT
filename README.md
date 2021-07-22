@@ -2954,6 +2954,15 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Biografia de lendário bailarino russo Rudolf Nureyev, conhecido por quebrar grandes barreiras entre o balé clássico e o moderno, além de ter ajudado a transformar o papel do homem da dança.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ACUSADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6243ca9c96acfef14f682e5745a77ddbf0d28a18</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qXknhDC48eVkn5dtJYtCxT6CBJo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dolores Dreier vive a vida de uma jovem estudante, até que sua melhor amiga é brutalmente assassinada. Dois anos depois, ela é a única acusada do crime, um caso de grande exposição na mídia que a transformou no assunto mais quente: todo mundo tem uma opinião sobre sua inocência ou culpa. Dolores se prepara para o julgamento isolada em casa, enquanto a família Dreier está disposta a fazer tudo para defender sua filha. Mas à medida que o processo avança e a pressão aumenta, segredos e suspeitas aparecem dentro da família. Encurralada pelas provas, Dolores terá que enfrentar suas próprias dúvidas sobre o que realmente aconteceu. Produção argentina indicado ao Leão de Ouro no Festival de Veneza 2018.</info>
+</item>
+
+
 
 
 
