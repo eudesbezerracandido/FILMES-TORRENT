@@ -2970,6 +2970,14 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <info>Depois de ficar sabendo que seu irmão morreu em uma missão na Romênia, um antigo soldado se junta a dois aliados para caçar e se vingar de um inimigo misterioso.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A SOMBRA DO SAMURAI 1980/2002 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbcd4a80d2498f0fd8f746a3d2b334b2a60e6684</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hdM5abIbokQGPr1qtr7Feywppyc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Shingen, um poderoso Senhor da Guerra, seriamente ferido, ordena ao clã que use algum sósia para o substituir caso faleça – para manter a sua morte em segredo, evitando assim o ataque dos seus inimigos. Mas este é um vulgar criminoso que tem de aprender a transformar-se num grande líder e comandar um exército de 25.000 leais guerreiros Samurai…</info>
+</item>
+
 
 
 
