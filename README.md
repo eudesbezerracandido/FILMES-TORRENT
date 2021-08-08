@@ -2,6 +2,14 @@
 TORRENT FILMES
 
 <item>
+<title>[COLOR silver][B] UM HOMEM ENTRE GIGANTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2805B33D9AE8B8CAC685E6A37E2FA90E90624DB0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/n8dQeUiQPs46U9nRSJdMsiXth69.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dr. Bennet Omalu (Will Smith), neuropatologista forense, diagnostica um severo trauma cerebral em um jogador de futebol americano e, investigando o assunto, descobre se tratar de um mal comum entre os profissionais do esporte. Determinado a reverter o quadro e expôr para o mundo a grave situação, ele trava uma guerra contra a poderosa NFL.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O ENCANTADOR DE CAVALOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/o-encantador-de-cavalos/O%20encantador%20de%20cavalos.mkv</link>
 <thumbnail>https://ia601409.us.archive.org/6/items/o-encantador-de-cavalos_202107/o%20encantador%20de%20cavalos.PNG</thumbnail>
