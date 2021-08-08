@@ -11,7 +11,8 @@ TORRENT FILMES
 
 <item>
 <title>[COLOR silver][B] O ENCANTADOR DE CAVALOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/o-encantador-de-cavalos/O%20encantador%20de%20cavalos.mkv</link>
+<link>https://archive.org/download/o-encantador-de-cavalos/O%20encantador%20de%20cavalos.mkv$nome=DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84fb6434d7439a30f9b71088783d0e5a199af6e1$nome=LEGENDADO</link>
 <thumbnail>https://ia601409.us.archive.org/6/items/o-encantador-de-cavalos_202107/o%20encantador%20de%20cavalos.PNG</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma adolescente (Scarlett Johansson) em companhia de uma amiga sofrem um acidente quando andavam a cavalo e são atropeladas por um caminhão, sendo que sua colega morre e ela perde uma perna. Seu cavalo fica também bastante ferido e querem sacrificá-lo, mas a mãe da jovem (Kristin Scott Thomas), a editora de uma conhecida revista, não autoriza que o matem e tenta trazer para Nova York um especialista em cavalos (Robert Redford) que se recusa a ir. Assim, a mulher deixa o marido (Sam Neill) em casa, põe a filha no carro, o cavalo em um trailer e viaja até Montana para conhecer este rancheiro, esperando que ele ajude a curar algumas feridas internas, tanto da sua filha quanto do animal. O processo de recuperação é lento, mas após algum tempo os resultados começam a aparecer e paralelamente a editora e o rancheiro se apaixonam.</info>
