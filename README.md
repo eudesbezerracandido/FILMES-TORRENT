@@ -5,8 +5,8 @@ TORRENT FILMES
 
 <item>
 <title>[COLOR silver][B] O HOMEM NAS TREVAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E36C316A80D5ACC06005F454D2922071F5E86A1E</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/b4mJz9qvh4i328aIO0Ciqqy2DGA.jpg</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e36c316a80d5acc06005f454d2922071f5e86a1e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ylz5zbIxVW91SbWZYD2MlTY5PbC.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> O Homem nas Trevas (Dont Breathe) dublado e com qualidade de blu-ray. Três adolescentes escapam de roubos perfeitamente planejados. Mas, quando eles estão prestes a realizar seu último crime, assaltar a casa de um senhor cego, o jogo muda. Os jovens estão encarcerados e precisam lutar por suas vidas contra um psicopata cheio de segredos.</info>
 </item>
