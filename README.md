@@ -4,6 +4,14 @@ TORRENT FILMES
 
 
 <item>
+<title>[COLOR silver][B] NO CORAÇÃO DO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/v0f6zLv2TwhscRFDRnbcw8McBeI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Inverno de 1820. O navio baleeiro Essex parte em busca de óleo de baleia. O navio é liderado pelo nada experiente capitão George Pollard (Benjamin Walker), que tem Owen Chase (Chris Hemsworth) como seu primeiro oficial. Owen sonha em ser capitão e tem o objetivo de superar a meta traçada por seu empregador. Eles navegam por meses em busca de baleias, mas quando encontram se deparam com uma grande ameaça, uma gigantesca baleia branca que irá lutar por sua sobrevivência e acabará atacando o navio e sua tripulação.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O HOMEM NAS TREVAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e36c316a80d5acc06005f454d2922071f5e86a1e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ylz5zbIxVW91SbWZYD2MlTY5PbC.jpg</thumbnail>
