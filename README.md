@@ -2,7 +2,6 @@
 TORRENT FILMES
 
 
-
 <item>
 <title>[COLOR silver][B] NO CORAÇÃO DO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D8F8AE595D14612844AFD81C5941EC5D5174DAA9</link>
