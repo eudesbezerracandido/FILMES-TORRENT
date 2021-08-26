@@ -2,6 +2,15 @@
 TORRENT FILMES
 
 
+
+<item>
+<title>[COLOR silver][B] UPGRADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81825e6771ed8345a63bcf5bce97bee6a7bc9420</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x6DsGuZlY9JLcoTQ2j8eZaLkiDe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No futuro próximo, a tecnologia controla quase todos os aspectos da vida. Mas quando Gray, um tecnofóbico, tem o seu mundo virado de cabeça para baixo, a sua única esperança de vingança é um implante experimental de chips de computador chamado Stem.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NO CORAÇÃO DO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D8F8AE595D14612844AFD81C5941EC5D5174DAA9</link>
