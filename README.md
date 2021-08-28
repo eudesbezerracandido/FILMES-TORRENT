@@ -3,7 +3,7 @@ TORRENT FILMES
 
 <item>
 <title>[COLOR silver][B] THE TITAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04342F836DE5A420725BBC59A3F6B1C29941DED4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:821D2DB8973690394D439C1082F9CC7F4CDA5CB5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qRmQazyIBZR4pQIk9VruiZul0Au.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Num futuro não muito distante, uma família ligada às forças armadas aceita fazer parte de um programa científico secreto. Eles são realojados para o espaço e vão participar numa experiência inovadora de evolução genética do ser humano.</info>
