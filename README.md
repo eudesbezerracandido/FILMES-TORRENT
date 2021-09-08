@@ -3,6 +3,14 @@ TORRENT FILMES
 
 
 <item>
+<title>[COLOR silver][B] O REI DOS LADRÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3778f2a31ddc4726dd5f43f3d1b536dc046f6922</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nCw4aC5BmQMmmETLJKJLVpW7T5a.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Janosik é um lendário personagem da Europa Central (com base em documentos reais do século XVII), no estilo Robin Hood. Como líder de um bando de foras da lei, este ladrão da montanha roubava dos ricos e ajudava os pobres. Está recente versão da aclamada diretora polonesa Agnieszka Holland, é um filme repleto de ação, aventuras, lutas, duelos, perseguições e armadilhas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THE TITAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:821D2DB8973690394D439C1082F9CC7F4CDA5CB5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qRmQazyIBZR4pQIk9VruiZul0Au.jpg</thumbnail>
