@@ -4,8 +4,8 @@ TORRENT FILMES
 
 <item>
 <title>[COLOR silver][B] TRILOGIA - RIDDICK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bfe5eb78a53f9b0346216ab5b62eec65999827c4$nome=RIDDICK 3</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C2AFBCAA2A87EEE3392A12F9E5CF4FCF1F6B70EE$nome=RIDDICK A BATALHA</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=RIDDICK 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2afbcaa2a87eee3392a12f9e5cf4fcf1f6b70ee$nome=RIDDICK A BATALHA</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2126a5d315a4b99b4961139c7a08ffe33fc6453d$nome=RIDDICK-ECLIPSE MORTAL</link>
 <thumbnail>https://ia601403.us.archive.org/32/items/8d-0e-7b-1c-6342e-7da-4ee-635df-01872249/8d0e7b1c6342e7da4ee635df01872249.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
