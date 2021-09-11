@@ -1,6 +1,21 @@
 # FILMES-TORRENT
 TORRENT FILMES
 
+<item>
+<title>[COLOR silver][B] ELA CONTRA O SERIAL KILLER DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JZ2RZXM6UJJPPA5C2GKKTOXFWSKCUGR2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j9CuECCbDTpAymAf71ZvwHKlpT1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Este documentário acompanha uma chefe de polícia e a mãe de uma vítima de assassinato numa busca incansável por um serial killer na Paris dos anos 1990.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]IRMÃOS DE SANGUE-MUHAMMAD ALI E MALCOLM DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FDQNIJAGTEEFGMWX4DVFCXCE7HIFHT6W</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8niel2KjxfcOGmLWQc6p2fo5pUm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>De um encontro casual a uma queda trágica, o vínculo extraordinário de Malcolm X e Muhammad Ali se rompe sob o peso da desconfiança e da mudança de ideais.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] TRILOGIA - RIDDICK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
