@@ -2,6 +2,14 @@
 TORRENT FILMES
 
 <item>
+<title>[COLOR silver][B] GRAVIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1addc483d982db0380269b5417d13570af90855</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eHLufJ1bHy4PtEBJdPSTu4jIhZ0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A Dra. Ryan Stone é uma brilhante engenheira médica na sua primeira missão espacial, com o astronauta veterano Matt Kowalsky, no comando do seu último vôo antes de se reformar. Mas numa caminhada espacial de rotina acontece um desastre. A nave é destruída, deixando Stone e Kowalsky completamente sozinhos – amarrados apenas um ao outro e caindo em espiral pela escuridão. O silêncio ensurdecedor diz-lhes que perderam qualquer ligação com a Terra...e qualquer hipótese de salvamento. O medo transforma-se em pânico e cada respiração rouba o pouco oxigénio que têm disponível. O único caminho para voltarem a casa pode ser irem mais longe na imensidão aterrorizante do espaço..</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ASCENSÃO E QUEDA DE UM IMPERIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d2d2cd6ac4b29692f468ef342b4971e1c6a2b6e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gTBHQaRqvQDaF6yQa17tOSEzch4.jpg</thumbnail>
