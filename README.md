@@ -2,6 +2,14 @@
 TORRENT FILMES
 
 <item>
+<title>[COLOR silver][B] SULLY- O HERÓI DO RIO HUDSON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c4d17706c2b5a91083656e095d2c87ae746ff89</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ouxowmfrAv6lswjk10ZGC4pL2Vy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A 15 de Janeiro de 2009, o mundo testemunhou o “Milagre no Hudson” quando o piloto “Sully” Sullenberger fez deslizar o seu disfuncional avião na gelada água do Rio Hudson, salvando a vida de todos os 155 passageiros que se encontravam a bordo. No entanto, enquanto Sully era acarinhado pelo público e os media, pela sua manobra singular e hábil de aviação, uma investigação sobre o caso foi iniciada, ameaçando a sua carreira e reputação.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ELA CONTRA O SERIAL KILLER DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JZ2RZXM6UJJPPA5C2GKKTOXFWSKCUGR2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/j9CuECCbDTpAymAf71ZvwHKlpT1.jpg</thumbnail>
