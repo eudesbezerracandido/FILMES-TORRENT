@@ -2,6 +2,14 @@
 TORRENT FILMES
 
 <item>
+<title>[COLOR silver][B] ASCENSÃO E QUEDA DE UM IMPERIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d2d2cd6ac4b29692f468ef342b4971e1c6a2b6e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gTBHQaRqvQDaF6yQa17tOSEzch4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Situado em 1398. Kim Min-Jae (Shin Ha-Kyun) é o comandante supremo da Dinastia Joseon. Ele se apaixona pela primeira vez e por aquela mulher ele se arrisca. Yi Bang-Won (Jang Hyuk) é o filho do rei. Ele ajudou seu pai a configurar a era da dinastia Joseon, mas não foi escolhido como o príncipe herdeiro. Ele ainda tem ambições de se tornar o Rei um dia. Jin (Kang Ha-Neul) é filho de Kim Min-Jae e genro do rei. Devido à sua posição de genro do rei, ele está impossibilitado de fazer política e apenas busca o prazer.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BLOOD -  CAÇADORES DE VAMPIROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9fd57ec493812a6096b113c17b6b3539ceca3a3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uzuYpbdFkNYqnBdOvhWqZxhHa5C.jpg</thumbnail>
