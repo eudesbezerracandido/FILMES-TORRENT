@@ -2,6 +2,14 @@
 TORRENT FILMES
 
 <item>
+<title>[COLOR silver][B] OS AVENTUREIROS DO BAIRRO PROIBIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:341077bf19499fc90e594288f2deb4ddbd1233a5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wjziUc5HK1emyez9lBGHre3jD4i.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jack Burton, um condutor de camiões com muita garganta, tem uma vida aborrecida de viajante solitário pelas estradas que sofre uma viragem sobrenatural quando a noiva do seu melhor amigo é raptada. Tentando salvá-la, Jack vai até aos confins da Chinatown em São Francisco, um mundo sujo, governado por Lo Pan, um feiticeiro com 2000 anos que preside impiedosamente um reino de espíritos. Lutando contra demónios e presenciando horrores, Jack luta com as suas armas no domínio obscuro de Lo Pan para salvar a rapariga.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SULLY- O HERÓI DO RIO HUDSON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c4d17706c2b5a91083656e095d2c87ae746ff89</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ouxowmfrAv6lswjk10ZGC4pL2Vy.jpg</thumbnail>
