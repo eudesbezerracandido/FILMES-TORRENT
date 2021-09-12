@@ -2,6 +2,14 @@
 TORRENT FILMES
 
 <item>
+<title>[COLOR silver][B] BLOOD -  CAÇADORES DE VAMPIROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9fd57ec493812a6096b113c17b6b3539ceca3a3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uzuYpbdFkNYqnBdOvhWqZxhHa5C.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Saya tem uma alma atormentada de 4 séculos e sobrevive de sangue, assim como os vampiros que caça. Quando vai para a base militar norte-americana pela entidade secreta em que trabalha, vê sua oportunidade de eliminar Onigen, chefe de todos os vampiros. Durante sua caçada, faz sua primeira amizade com um ser humano: a filha de um general.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OS AVENTUREIROS DO BAIRRO PROIBIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:341077bf19499fc90e594288f2deb4ddbd1233a5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wjziUc5HK1emyez9lBGHre3jD4i.jpg</thumbnail>
