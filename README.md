@@ -1,6 +1,16 @@
 # FILMES-TORRENT
 TORRENT FILMES
 
+
+
+<item>
+<title>[COLOR silver][B] SEM PERDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:801DCA39AED131CB4F0B31591B638AB76A437164</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aGnRRS3tpDeBeAtqf4YzaYdk3ky.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Não há punição pior para um homem do que ter sua família arrancada de seus braços. A vida de Vitaliy Kaloev parou no momento em que o avião com sua esposa e filhos cai. Agora, ele busca justiça para punir os responsáveis e um pedido de perdão para aliviar sua alma.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] FREE WILLY - COLECTION [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:377A4A5957E99F95D6415173AFCBACA08689B275$nome=FREE WILLY 1</link>
