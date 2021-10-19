@@ -2,6 +2,13 @@
 TORRENT FILMES
 
 
+<item>
+<title>[COLOR silver][B] DEPOIS DAQUELA MONTANHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:036131D92C0713A3A2D086EC495FDD218947627F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tVO5tD6HN5tyyhBzOqNA9ee6rjw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Alex (Kate Winslet), uma jornalista que está indo preparar seu casamento, e Ben (Idris Elba), um doutor voltando de uma conferência médica, iriam pegar o mesmo avião, mas o voo é cancelado e os dois estranhos decidem fretar um jatinho. Durante a viagem o piloto sofre um ataque cardíaco e o avião cai em uma região montanhosa coberta por neve. Um romance começa a ganhar força enquanto eles tentam sobreviver, feridos e perdidos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SEM PERDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
