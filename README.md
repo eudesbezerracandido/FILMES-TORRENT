@@ -2,6 +2,16 @@
 TORRENT FILMES
 
 
+
+
+<item>
+<title>[COLOR silver][B] HOMEM ARANHA 3 EM 1 TRILOGIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1132c2966c9b92ae17f69d6c9f043b05cdb15147</link>
+<thumbnail>https://ia601402.us.archive.org/20/items/7586384-1598589664421-75d-30cf-741b-21/7586384-1598589664421-75d30cf741b21.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Homem-aranha 1: Orfão desde criança, Peter Parker vive em Nova York com sua querida tia May e seu estimado Tio Bem. Peter leva a vida normal de qualquer jovem estudante, trabalhando como fotógrafo no jornal Daily Buble, sob a tutela do editor J. Jonah correndo atrás da atraente Mary Jane e divertindo-se com seu amigo Harry Osborn. Durante uma excursão da escola, onde Peter e seus colegas assistem a demonstrações científicas com aranhas, Peter é mordido por uma aranha geneticamente modificada. Pouco depois, ele descobre que adquiriu poderes incríveis: ele vê-se dotado com força e agilidade de aranhas, bem como uma aguçada percepção extrasensorial “aracnídea”. Como Homem Aranha, Peter entende as palavras do tio e decide usar seus extraordinários poderes na luta contra o crime. Enquanto isso, o empresário megalomaníaco Norman Osborn, pai de seu amigo Harry, também anda passando por transformações. Um teste com uma fórmula experimental explore, aumentando sua força e inteligência, mas também levando-o à insanidade. Agora, ele é o Duende Verde, que irá desafiar a determinação do jovem Peter Parker de combater o crime e ajudar inocentes. Homem-aranha 2: Dois anos se passaram desde que o tranqüilo Peter Parker (Tobey Maguire) separou-se do grande amor de sua vida, Mary Jane Watson (Kirsten Dunst), e decidiu assumir o compromisso e a responsabilidade de seguir sendo o Homem-Aranha. Peter enfrenta novos desafios enquanto aprende a lidar com 'seu dom e sua maldição', tentando desesperadamente harmonizar suas duas identidades: a do super-herói aracnídeo, o Homem-Aranha, e a do estudante universitário. A continuação do maior sucesso dos quadrinhos, Homem-Aranha! Homem-aranha 3: Em Homem-Aranha 3, Peter Parker (Tobey Maguire) finalmente conseguiu encontrar o equilíbrio entre sua devoção a M. J. (Kirsten Dunst) e suas obrigações de super-herói. Mas uma tempestade se aproxima de seu horizonte. Quando a sua roupa de Homem-Aranha repentinamente se transforma, tornando-se negra.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DEPOIS DAQUELA MONTANHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:036131D92C0713A3A2D086EC495FDD218947627F</link>
