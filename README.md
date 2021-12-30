@@ -1,6 +1,18 @@
 # FILMES-TORRENT
 TORRENT FILMES
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] MIB-HOMENS DE PRETO INTERNACIONAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F8A102076FD7B932F5F9683A2468158A49AE68D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mxopI5VyShCeAlJf3X4Q1T40Bub.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> M (Tessa Thompson) é uma agente que durante sua jornada de auto-afirmação, estreia na divisão londrina do MIB. Lá, ela conhece um agente conhecido por seus talentos, H (Chris Hemsworth). Os dois estão envolvidos em um caso de assassinato misterioso, que vai levá-los ao redor do mundo para encontrar a solução.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SILÊNCIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D99DB92BCBB169E5225DBAC022F609463E965D4</link>
