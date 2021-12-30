@@ -1,9 +1,13 @@
 # FILMES-TORRENT
 TORRENT FILMES
 
-
-
-
+<item>
+<title>[COLOR silver][B] SILÊNCIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D99DB92BCBB169E5225DBAC022F609463E965D4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wO8XKAt3JUpdij27gIq6Maq4JMp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Século XVII. Dois padres jesuítas portugueses, Sebastião Rodrigues (Andrew Garfield) e Francisco Garupe (Adam Driver), viajam até o Japão em uma época onde o catolicismo foi banido. À procura do mentor deles, padre Ferreira (Liam Neeson) os jesuítas enfrentam a violência e perseguição de um governo que deseja expurgar todas as influências externas.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] HOMEM ARANHA 3 EM 1 TRILOGIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
