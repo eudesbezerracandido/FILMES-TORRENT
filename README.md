@@ -22,6 +22,14 @@ TORRENT FILMES
 </item>
 
 <item>
+<title>[COLOR silver][B] MISSÃO SECRETA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LX3HNYZWPQBXRJ6EMV4YVSOTQAZC2MVA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/61ZXVq9I2nzC9kcgTga7DYPegeG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O detetive norte-coreano Im Chul-Ryung (Hyun-Bin) é enviado para a Coreia do Sul para pegar Cha Ki-Sung (Kim Ju-Hyeok). Cha Ki-Sung é o chefe de uma organização de refugiados da Coreia do Norte. Ali, Im Chul-Ryung coopera com o detetive da Coreia do Sul, Kang Jin-Tae (Yu Hae-Jin). Pela primeira vez, os dois países cooperam para derrubar um criminoso.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HOMEM ARANHA 3 EM 1 TRILOGIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1132c2966c9b92ae17f69d6c9f043b05cdb15147</link>
 <thumbnail>https://ia601402.us.archive.org/20/items/7586384-1598589664421-75d-30cf-741b-21/7586384-1598589664421-75d30cf741b21.jpg</thumbnail>
