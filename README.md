@@ -429,15 +429,15 @@ Enredo: Seth Brundle (Jeff Goldblum), um cientista brilhante mas excêntrico ten
 </item>
 
 <item>
-<title>[COLOR silver][B] QUARTETO FANTASTICO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6EDA2E425557635CC90756571C7B2A45912854F9</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/15/07/21/21/04/518773.jpg</thumbnail>
+<title>[COLOR silver][B] QUARTETO FANTASTICO 2015 [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AA22E35E89F00A5810E5D1F539B687AC7512844D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aVGL67lLyUJmmpgmrsgRDkDY8Nm.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Quatro adolescentes são conhecidos pela inteligência e pelas dificuldades de inserção social. Juntos, são enviados a uma missão perigosa em uma dimensão alternativa. Quando os planos falham, eles retornam à Terra com sérias alterações corporais. Munidos desses poderes especiais, eles se tornam o Senhor Fantástico (Miles Teller), a Mulher Invisível (Kate Mara), o Tocha Humana (Michael B. Jordan) e o Coisa (Jamie Bell). O grupo se une para proteger a humanidade do ataque do Doutor Destino (Toby Kebbell).</info>
 </item> 
 
 <item>
-<title>[COLOR silver][B] QUARTETO FANTASTICO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] QUARTETO FANTASTICO 2005 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d4c6c1ee5af23781111db87ed08e6d51deb1a9b</link>
 <thumbnail>https://a-static.mlcdn.com.br/1500x1500/dvd-quarteto-fantastico-fox/universocultural/1678014729/595debf9d204e6eeffe3ecdfbbd33219.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -446,7 +446,7 @@ Enredo: Reed Richards, um cientista brilhante, mas tímido e falido, está conve
 </item>
 
 <item>
-<title>[COLOR silver][B] QUARTETO FANTASTICO - E O SURFISTA PRATEADO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] QUARTETO FANTASTICO - E O SURFISTA PRATEADO 2007 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50005e771b2797939494e97701d66269d011918e</link>
 <thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/93/01/84/20230847.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
