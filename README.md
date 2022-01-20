@@ -61,7 +61,7 @@ TORRENT FILMES
 <thumbnail>https://ia801404.us.archive.org/3/items/419rzw-7-y-5r-l/419rzw7Y5rL.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Todos os 3 filmes da franquia clássica Free Willy de 1993 até 1997 dublados e com qualidade de bluray. Free Willi de 1993, Free Willy 2 - A Aventura Continua de 1995 e Free Willy 3 - O Resgate lançado em 1997. Todos os filmes tem excelente qualidade de áudio e vídeo.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] GRAVIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
