@@ -2,8 +2,13 @@
 TORRENT FILMES
 
 
-
-
+<item>
+<title>[COLOR silver][B] NINJA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:240B8BEADB1EA11C1EDE7E538FD6B5E7DCFC5172</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/t24R7on3ngFfWjtvKIC9O69c3MM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ocidental chamado Casey, estudando Ninjutsu no Japão, é convidado pelo Sensei para retornar a Nova York para proteger o lendário Yoroi Bitsu, uma caixa blindada que contém as armas do passado Koga Ninja.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MIB-HOMENS DE PRETO INTERNACIONAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
