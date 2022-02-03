@@ -3,9 +3,13 @@ TORRENT FILMES
 
 
 
-
-
-
+<item>
+<title>[COLOR silver][B] AEON FLUX [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf2af7d83177767f8f69984f05664e3ed011f455</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9AeMjcnsKw5zG85RJI5gU2idp3O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Daqui a 400 anos no futuro, uma doença dizimou grande parte da população da Terra. A cidade de Bregna é povoada por sobreviventes e também por cientistas, que comandam o local. Lá também existe um grupo de rebeldes liderado por Handler (Frances McDormand) e que conta com a participação da justiceira Aeon Flux (Charlize Theron), que é enviada a uma missão em meio aos cientistas. É quando ela descobre os segredos guardados da atual realidade do planeta.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] NINJA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
