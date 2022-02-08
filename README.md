@@ -4,6 +4,14 @@ TORRENT FILMES
 
 
 <item>
+<title>[COLOR silver][B] O SEQUESTRO DO ÔNIBUS 657 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E047DEC47E38D21407F56C4153D77158072E23C2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/88MF5TO8GdpIqRJqTH4N9hnaVtY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um pai está sem condições para pagar o tratamento médico de sua filha. Como último recurso, ele pede ajuda a um colega de trabalho ganancioso que propõe roubar um casino. Quando as coisas dão errado eles são forçados a seqüestrar um ônibus da cidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AEON FLUX [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf2af7d83177767f8f69984f05664e3ed011f455</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9AeMjcnsKw5zG85RJI5gU2idp3O.jpg</thumbnail>
