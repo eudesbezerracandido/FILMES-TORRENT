@@ -3,7 +3,7 @@
 
 <item>
 <title>[COLOR silver][B] DRÁCULA - A HISTÓRIA NUNCA CONTADA [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:919e6c3f6dda9fb6346ba00d07811c3ad4f45a2c</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b03f58e179be6c681cf3db78768c476f6c8da46</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p1iFpraKTgghZSA1h1MNZT9pORX.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mPuociUYZOCKwUdVdtQdAb5JpAw.jpg</fanart>
 <info>Os habitantes da Transilvânia sempre foram inimigos dos turcos, com quem tiveram batalhas épicas. Para evitar que sua população fosse massacrada, o rei local aceitou entregar aos turcos centenas de crianças. Entre elas estava seu próprio filho, Vlad Tepes (Luke Evans), que aprendeu com os turcos a arte de guerrear. Logo Vlad ganhou fama pela ferocidade nas batalhas e também por empalar os derrotados. De volta à Transilvânia, onde é nomeado príncipe, ele governa em paz por 10 anos. Só que o rei Mehmed (Dominic Cooper) mais uma vez exige que 100 crianças sejam entregues aos turcos. Vlad se recusa e, com isso, inicia uma nova guerra.</info>
