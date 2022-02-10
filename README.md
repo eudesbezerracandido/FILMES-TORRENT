@@ -23,7 +23,7 @@
 <thumbnail>https://ia601401.us.archive.org/3/items/a-1mdz-zmv-73-l.-ac-sl-1500/A1mdzZmv73L._AC_SL1500_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Harry Potter é uma série de sete romances de fantasia escrita pela autora britânica J. K. Rowling. A série narra as aventuras de um jovem chamado Harry James Potter, que descobre aos 11 anos de idade que é um bruxo ao ser convidado para estudar na Escola de Magia e Bruxaria de Hogwarts.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] O SEQUESTRO DO ÔNIBUS 657 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
