@@ -3,6 +3,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] HIGHLANDER- O GUEREIRO IMORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b17f1a74a555c718dd0b9af088a1096e249d3b0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Aq7svK5vv8Ex5BXoTWpyhJzkVsj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Connor MacLeod, um guerreiro escocês do século XVI, imortal e, após algum tempo, encontra Juan Ramirez, imortal como ele. Ramirez o ensina a manejar uma espada, pois a única forma de matar um imortal é cortando sua cabeça. Após alguns séculos, surge um inimigo, imortal como ambos, que pretende decapitar Connor, para se tornar o único imortal da face da Terra.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A.I INTELIGÊNCIA ARTIFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cd987821bd558b94f5ea381f988392578727f0a</link>
