@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A.I INTELIGÊNCIA ARTIFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cd987821bd558b94f5ea381f988392578727f0a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sQasyc5byDqjCZYXQDK215Jo7RD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> em um futuro não tão distante, as calotas polares derreteram e o aumento resultante das águas do oceano afogou todas as cidades costeiras do mundo. Retirada para o interior dos continentes, a raça humana continua avançando, chegando ao ponto de criar robôs realistas (chamados mechas) para servi-los. Uma das empresas produtoras de mecha constrói David, um garoto artificial que é o primeiro a ter sentimentos reais, especialmente um amor sem fim por sua “mãe”, Monica. Monica é a mulher que o adotou como substituto de seu verdadeiro filho, que permanece em crioestase, atingido por uma doença incurável. David está vivendo feliz com Monica e seu marido, mas quando o filho real volta para casa após a descoberta da cura, sua vida muda drasticamente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  DRÁCULA - A HISTÓRIA NUNCA CONTADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b03f58e179be6c681cf3db78768c476f6c8da46</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p1iFpraKTgghZSA1h1MNZT9pORX.jpg</thumbnail>
