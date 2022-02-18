@@ -12,22 +12,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] SONÂMBULOS ( 1992 ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e52ce15e04d0ddbaf109472bf8de695cc304f81</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zOJc9y2jqaYoyPYAdHMfpJMMFyM.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/vmOjLZ80DtdiqDwB5fdsLPAo4XA.jpg</fanart>
-<info>Brian Krause e Alice Krige estrelam este aterrorizante conto de vampiros à caça de jovens garotas. Madchen Amick é a virgem sexualmente curiosa que se apaixona pelo novo rapaz de escola (Brian Krause) apenas para aprender, muito tarde, que ele é um sonâmbulo devorador de carne humana. A mutação transforma o garoto encantador num monstro selvagem, que se aproxima da garota para atacar sua sedutora mãe.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] LASSIE - UMA VERDADEIRA AMIZADE ( 1994 ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EDB4211E7CD20FEE4D5334E3B15A02D494ACDAAC</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/cfzw59pOKSwl5CL0cabavw9IuPy.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Determinada a começar uma vida nova no campo, a família Turner – o pai Steve (Jon Tenney), a madrasta Laura (Helen Slater), a pequena Jennifer (Brittany Boyd) e o adolescente Matt (Tom Guiry) – trocam a cidade pelas paisagens naturais da Virginia. A mudança causa problemas a todos, em especial a Matt, que se sente sozinho e perdido neste novo ambiente. Felizmente, eles são ajudados por Lassie, um cão pastor abandonado, que passa a fazer parte das suas vidas e Matt cresce bastante com a sua lealdade.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] O CIRCULO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7C6F256D5A75E1DD295756AFBF3BDFAB0E59069</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fHOLNgnV82ZXleXESKJoKtaWYxx.jpg</thumbnail>
@@ -73,14 +57,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/88MF5TO8GdpIqRJqTH4N9hnaVtY.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um pai está sem condições para pagar o tratamento médico de sua filha. Como último recurso, ele pede ajuda a um colega de trabalho ganancioso que propõe roubar um casino. Quando as coisas dão errado eles são forçados a seqüestrar um ônibus da cidade.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DRÁCULA - O PRINCIPE DAS TREVAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E022FA9CC47066AB6936D49D1A7F2F67F4B5B966</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/xHhBLyMIwoy0B6EVsB7ms3gZGBJ.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Drácula, o príncipe da Valáquia, se volta para o lado das trevas após o assassinato de sua amada esposa. Muitos anos depois ele conhece Alina, e a considera a reencarnação de seu amor perdido e a sequestra. Os companheiros de Alina, liderados pelo famoso caçador de vampiros Van Helsing, partem em sua perseguição. Sua emocionante viagem leva-os a um país selvagem onde eles devem lutar contra mortos-vivos, culminando em uma batalha épica contra um poder assustador e malícia do senhor dos vampiros.</info>
 </item>
 
 <item>
