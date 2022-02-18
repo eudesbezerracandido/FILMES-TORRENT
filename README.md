@@ -6,7 +6,7 @@
 <item>
 <title>[COLOR silver][B] AMAZING-SPIDER-MAN ( 1977 ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/homem-aranha-filme-de-1977/Homem-Aranha%20Filme%20de%201977.mp4</link>
-<thumbnail>https://archive.org/download/89184/89184.jpg</thumbnail>
+<thumbnail>https://ia601407.us.archive.org/9/items/1977_20220218/1977.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Spider-Man é um telefilme live-action de ação e superaventura que teve lançado em cinemas no exterior, que serve como piloto para a série de televisão de 1977 The Amazing Spider-Man.</info>
 </item>
