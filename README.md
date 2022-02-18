@@ -1,6 +1,16 @@
 # FILMES-TORRENT
 
 
+
+
+<item>
+<title>[COLOR silver][B] AMAZING-SPIDER-MAN ( 1977 ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/homem-aranha-filme-de-1977/Homem-Aranha%20Filme%20de%201977.mp4</link>
+<thumbnail>https://archive.org/download/89184/89184.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Spider-Man é um telefilme live-action de ação e superaventura que teve lançado em cinemas no exterior, que serve como piloto para a série de televisão de 1977 The Amazing Spider-Man.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SONÂMBULOS ( 1992 ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e52ce15e04d0ddbaf109472bf8de695cc304f81</link>
