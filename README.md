@@ -1,6 +1,18 @@
 # FILMES-TORRENT
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] LASSIE - UMA VERDADEIRA AMIZADE ( 1994 ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EDB4211E7CD20FEE4D5334E3B15A02D494ACDAAC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cfzw59pOKSwl5CL0cabavw9IuPy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Determinada a começar uma vida nova no campo, a família Turner – o pai Steve (Jon Tenney), a madrasta Laura (Helen Slater), a pequena Jennifer (Brittany Boyd) e o adolescente Matt (Tom Guiry) – trocam a cidade pelas paisagens naturais da Virginia. A mudança causa problemas a todos, em especial a Matt, que se sente sozinho e perdido neste novo ambiente. Felizmente, eles são ajudados por Lassie, um cão pastor abandonado, que passa a fazer parte das suas vidas e Matt cresce bastante com a sua lealdade.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O CIRCULO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7C6F256D5A75E1DD295756AFBF3BDFAB0E59069</link>
