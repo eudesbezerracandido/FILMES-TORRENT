@@ -1,8 +1,13 @@
 # FILMES-TORRENT
 
 
-
-
+<item>
+<title>[COLOR silver][B] O CIRCULO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7C6F256D5A75E1DD295756AFBF3BDFAB0E59069</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fHOLNgnV82ZXleXESKJoKtaWYxx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Mae (Emma Watson) é uma universitária cujo sonho é trabalhar na maior empresa de tecnologia do mundo, O Círculo. A organização foi fundada por Eamon Bailey (Tom Hanks) e o seu principal produto é o SeeChange, uma pequena câmera que permite aos usuários compartilharem detalhes de suas vidas com o mundo. Mae vê sua vida mudar completamente quando é contratada pela empresa e sua função passa a ser documentar sua vida em tempo integral. O que ela não imaginava, no entanto, é que toda essa exposição teria um preço, não só para ela, mas também para todos ao seu redor.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] HIGHLANDER- O GUEREIRO IMORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
