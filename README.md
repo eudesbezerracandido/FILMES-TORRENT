@@ -6,7 +6,7 @@
 
 
 <item>
-<title>[COLOR silver][B] SONÃMBULOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] SONÃMBULOS (1977) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E52CE15E04D0DDBAF109472BF8DE695CC304F81</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zOJc9y2jqaYoyPYAdHMfpJMMFyM.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
