@@ -4,6 +4,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] LASSIE - A FORÇA DO CORAÇÃO (1943) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/a-forca-do-coracao/A%20For%C3%A7a%20do%20Cora%C3%A7%C3%A3o.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/t8PwuoH4Mo0lAa9cqmwnjK8PSWV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A cadela Lassie é vendida por sua família, que está com sérios problemas financeiros. Não satisfeita, Lassie viaja 1.000 milhas para retornar à casa de seus verdadeiros donos. Baseado no romance de Eric Knight.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SONÃMBULOS (1977) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
