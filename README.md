@@ -247,7 +247,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]EM  ALGUM  LUGAR  DO  PASSADO[/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] EM  ALGUM  LUGAR  DO  PASSADO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA5AB26F0A4FFDF6E26FA597F449A3E726CB0125</link>
 <thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/273319/1004770777.jpg?v=636967498749770000</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -505,7 +505,6 @@ Enredo: Tudo parece estar indo muito bem para o Quarteto Fantástico. Reed e Sue
 <thumbnail>https://br.web.img2.acsta.net/pictures/15/11/12/14/38/323812.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Família é visitada por fantasmas, que inicialmente se manifestam apenas movendo objetos pela casa, mas gradativamente vão aterrorizando-os cada vez mais, chegando a sequestrar a caçula através do televisor. Os pais se desesperam e uma especialista em fenômenos paranormais sugere que eles busquem a ajuda de uma mulher com poderes mediúnicos.
-
 Enredo: Uma jovem família é visitada por fantasmas em sua casa. A princípio, os fantasmas parecem amistosos, movendo objetos pela casa para a diversão de todos, então eles se tornam desagradáveis ??e começam a aterrorizar a família antes de “sequestrar” a filha mais nova.</info>
 </item>
 
@@ -949,7 +948,7 @@ O Exterminador do Futuro 4: A Salvação: O ano é 2018. O Dia do Julgamento Fin
 
 <item>
 <title>[COLOR silver][B] CORAÇÃO VALENTE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WFFLYPRSQIASVEM24BHSFLJVTEXRKPWD&dn=Coracao%20Valente%20(1995)%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WFFLYPRSQIASVEM24BHSFLJVTEXRKPWD</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61nn9YeREAL._AC_SL1000_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>No século XIII, soldados ingleses matam a mulher do escocês William Wallace (Mel Gibson), bem na sua noite de núpcias. Para vingar a amada, ele resolve liderar seu povo em uma luta contra o cruel Rei inglês Edward I (Patrick McGoohan). Com a ajuda de Robert e Bruce, ele vai deflagrar uma violenta batalha com o objetivo de libertar a Escócia de uma vez por todas.</info>
@@ -981,8 +980,8 @@ O Exterminador do Futuro 4: A Salvação: O ano é 2018. O Dia do Julgamento Fin
 
 <item>
 <title>[COLOR silver][B] DUOLOGIA - DEAD POOL  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8024064918D43CEED1700A459765ECC3C44FE62A$nome= DEAD POLL 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30DFA6447A7ACAEAFC5FFA2D49833245955EB5C1$nome= DEAD POLL 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8024064918D43CEED1700A459765ECC3C44FE62A$nome=DEAD POLL 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30DFA6447A7ACAEAFC5FFA2D49833245955EB5C1$nome=DEAD POLL 2</link>
 <thumbnail>https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6314/6314977_so.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O bocudo mercenário da Marvel está de volta! Maior, melhor e, ocasionalmente, mais pelado do que nunca. Quando um super soldado chega em uma missão assassina, Deadpool é forçado a pensar em amizade, família e o que realmente significa ser um herói – tudo isso, enquanto chuta 50 tons de bundas. Porque,? s vezes, para fazer a coisa certa, você precisa lutar sujo.</info>
@@ -1148,7 +1147,7 @@ De Volta para o Futuro – Parte 3: Após de receber uma carta de Doc (Christoph
 
 <item>
 <title>[COLOR silver][B] REI ARTHUT - A VOLTA DE EXCALIBUR [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:122f86798e75cb752e133e1a1e014939264b7176&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Rei%20Arthur%20A%20Volta%20da%20Excalibur%20(2018)%20%5bBluRay%5d%20%5b720p%5d%20%5bDUAL%5d</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:122f86798e75cb752e133e1a1e014939264b7176</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/18/10/04/19/47/5328528.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Uma re-imaginação da lenda do rei Artur centrado em torno do filho ilegítimo de Arthur Owain que devem aprender a assumir o manto de seu pai como rei.</info>
@@ -1206,8 +1205,8 @@ SINOPSE: 2 Vinte anos após uma invasão alienígena quase dizimar toda a humani
 
 <item>
 <title>[COLOR silver][B] DUOLOGIA - OLHOS FAMINTOS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC5B98C587F8EBCC6B154A1177DE71BE1B2AD347$nome= OLHOS FAMINTOS 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:382AF4E525F5264B18ADAB9A6D8AC302EAEEEB60$nome= OLHOS FAMINTOS 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC5B98C587F8EBCC6B154A1177DE71BE1B2AD347$nome=OLHOS FAMINTOS 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:382AF4E525F5264B18ADAB9A6D8AC302EAEEEB60$nome=OLHOS FAMINTOS 2</link>
 <thumbnail>https://http2.mlstatic.com/olhos-famintos-1-olhos-famintos-2-blu-ray-D_NQ_NP_924411-MLB20548607234_012016-F.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>No filme Duologia Olhos Famintos Torrent – BluRay 720p/1080p Dual Áudio, Trish (Gina Phillips) e seu irmão Darryl (Justin Long) descobrem algo horrível no porão de uma igreja abandonada. Agora, em viagem de carro de volta para casa, eles são o alvo de uma força indescritível que deseja acabar com eles de qualquer maneira.
@@ -1288,10 +1287,10 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 
 <item>
 <title>[COLOR silver][B] QUADRILOGIA - KARATE KID  [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62dfd7ab5291214a3967d354795f77ffed71a633$nome= KARATE KID 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:242f9ad2b2a47cc74598c8149bafcfc242931afa$nome= KARATE KID 2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f04b4b2d05e8d18a780348e4b190c1e2af58da0$nome= KARATE KID 3</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B5080FB82BA8DA88ED27D93F4E07BBD33714665$nome= KARATE KID 4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62dfd7ab5291214a3967d354795f77ffed71a633$nome=KARATE KID 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:242f9ad2b2a47cc74598c8149bafcfc242931afa$nome=KARATE KID 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f04b4b2d05e8d18a780348e4b190c1e2af58da0$nome=KARATE KID 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B5080FB82BA8DA88ED27D93F4E07BBD33714665$nome=KARATE KID 4</link>
 <thumbnail>https://http2.mlstatic.com/karat-kid-coleco-5-em-1-D_NQ_NP_955711-MLB26018681820_092017-F.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Daniel Larusso (Ralph Macchio) e sua mãe (Randee Heller) recentemente se mudaram de Nova Jersey para o sul da Califórnia. Porém, Daniel não consegue se ambientar em sua nova morada, até que conhece Ali Mills (Elisabeth Shue), uma garota atraente que gosta dele. Porém, a situação de Daniel se complica quando o ex-namorado de Ali, Johnny Lawrence (William Zabka), e sua gangue começam a atormentá-lo. Um dia, quando é cercado pela gangue de Johnny, ele é salvo por um Miyagi, um veterano japonês (Pat Morita) mestre na arte do karatê. Disposto a ajudar Daniel, Miyagi resolve passar-lhe os ensinamentos do karatê, para que ele possa se defender da gangue de Johnny.</info>
@@ -1299,7 +1298,7 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 
 <item>
 <title>[COLOR silver][B] O CARA CERTO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0A58A73D53130C2246AF5DA6678ECFA0570DE110&dn=O%20Cara%20Certo%202017%20%28720p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0A58A73D53130C2246AF5DA6678ECFA0570DE110</link>
 <thumbnail>https://www.cafecomfilme.com.br/media/k2/items/cache/b3f8a286b21bfd52d3c9b12463d21b53_XL.jpg?t=20171230_113435</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Após o doloroso fim de um relacionamento, uma garota encontra um homem que parece ser o homem perfeito para ela. Porém, a medida que o relacionamento deles se desenvolve, ela descobre que que o cara perfeito é um ex-assassino que está fugindo do antigo cartel criminoso do qual era contratado.</info>
@@ -1307,7 +1306,7 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 
 <item>
 <title>[COLOR silver][B]  CORRA   [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:541DDA554560DD898680273EEAA9C83295FF8589&dn=Corra%21%202017%20%5bBluRay%5d%20%281080p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:541DDA554560DD898680273EEAA9C83295FF8589</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/17/04/19/21/08/577190.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um jovem fotógrafo descobre um segredo sombrio quando conhece os pais aparentemente amigáveis da sua namorada.</info>
@@ -1315,7 +1314,7 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 
 <item>
 <title>[COLOR silver][B] RITMAN -  AGENTE 47 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2656F28AE6910227D9C0C38510EEE907036EE7E8&dn=Hitman%20Agente%2047%20%282015%29%201080p%205.1Ch%20Dublado%20-%20Alan_680&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ft1.pow7.com%2fannounce&tr=http%3a%2f%2fsecure.pow7.com%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftracker.pubt.net%3a2710%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.ch%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fwww.eddie4.nl%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2656F28AE6910227D9C0C38510EEE907036EE7E8</link>
 <thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/262452/1003003287.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Agente 47 (Rupert Friend) é um assassino de elite geneticamente modificado criado para ser a máquina de matar perfeita. Ele precisa caçar uma mega operação que pretende usar o segredo de sua criação para a formação de um exército imbátivel. Ao juntar forças com uma misteriosa jovem, que pode ser o diferencial para o sucesso da missão, ele vai descobrir segredos de sua origem em uma batalha épica contra seu maior inimigo.</info>
@@ -2189,7 +2188,7 @@ Enredo: Após a invasão americana do Iraque em 2003, Roy Miller e seus homens s
 
 <item>
 <title>[COLOR silver][B] VINGANÇA FATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c690d3b5544b2cfa1862d261fc89b1187d779a0b&dn=COMOEUBAIXO.COM..BLURAY.1080P.MKV.-DUBLADO-DUAL-AUDIO-..</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c690d3b5544b2cfa1862d261fc89b1187d779a0b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3RFvVREDcL3gN4uhCuQDs1q0KEr.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>FAVELA, s primeira franquia de CODENAME: FALCON, apresenta o ex-fuzileiro naval John "Falcon" Chapman, um obscuro anti-herói impulsionado pela culpa e sofrimento pós-traumático, que irá destruir a si mesmo a não ser que lhe seja dado algo mais para destruir - uma arma útil e último recurso do Departamento de Estado dos EUA. Quando a irmã de Chapman é brutalmente atacada enquanto estava em missão no Brasil, Chapman voa para Rio de Janeiro para rastrear seus agressores, rapidamente entra no submundo da cidade e descobre um mundo de drogas, comércio sexual, policiais corruptos e crime organizado lutando pelo controle.</info>
@@ -2197,7 +2196,7 @@ Enredo: Após a invasão americana do Iraque em 2003, Roy Miller e seus homens s
 
 <item>
 <title>[COLOR silver][B] O HOMEM MAIS PROCURADO DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9579d108f050384bc0c55ce1d3d714b23eb1396a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wyv3tXoC6BtJsbCLwBUhGjTwFqK.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Baseada na história real, a trama se foca na ação conjunta da CIA em parceria com os operativos das forças especiais do Exército norte-americano, os chamados SEALs. Em operação no Paquistão, eles estão em busca das pistas que enfim vão levar o governo dos EUA ao seu maior inimigo: trata-se do terrorista Osama Bin-Laden, o homem mais procurado do planeta.
@@ -2206,7 +2205,7 @@ Enredo: Quando o paradeiro rumores de Osama bin Laden são revelados, a CIA se p
 
 <item>
 <title>[COLOR silver][B] A DESCOBERTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ACE1488EE9196F4DE1B7557CD12000BA1154F82&dn=A%20Descoberta%202017%20%5bWEBRip%5d%20%281080p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ACE1488EE9196F4DE1B7557CD12000BA1154F82</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lgLyPfWHkmt8v8ulz04NL2FFHQ4.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Após um cientista conseguir provar que existe vida após a morte, sua descoberta fica fora de controle após uma onda de suicídios coletivos cometidos pela população. No meio de toda essa confusão, o filho desse cientista se apaixona por uma mulher que tem um passado marcado por tragédias. A Descoberta é um filme repleto de mistério, ficção e romance.</info>
@@ -2295,8 +2294,8 @@ Enredo: O Dr. Will Caster (Johnny Depp) é o principal pesquisador no campo da I
 
 <item>
 <title>[COLOR silver][B] GI.JOE - 2 EM 1 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98409b2953892bae689f92779aa87e873dc83ad0</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C847967EDCDD92A6B0D8AE556FEC2F74F88D3F80</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98409b2953892bae689f92779aa87e873dc83ad0$nome=1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C847967EDCDD92A6B0D8AE556FEC2F74F88D3F80$nome=2</link>
 <thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/70/c5/20/70c52082-8872-3e93-3ece-f0731dc23b50/35641EU001_34392AP1_PT.lsr/1200x630bb.png</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um acordo entre as grandes potências define a redução das ogivas nucleares no mundo todo, mas os Estados Unidos, comandados pela organização Cobra, desconsideram o acerto e dão ínicio a um plano de proporções alarmantes. Enquanto isso, seguindo as ordens do presidente americano (Jonathan Pryce), o esquadrão de elite G.I. Joe é acusado de traição e, após ser atacado brutalmente, tem vários de seus integrantes mortos em combate. Agora, os poucos que sobreviveram vão contar com a ajuda do criador dos G.I. Joe, Joe Colton (Bruce Willis), para, liderados por Roadblock (Dwayne Johnson), revidar o ataque em grande estilo.
@@ -2313,27 +2312,11 @@ Enredo: Caleb, um programador de 26 anos na maior empresa de internet do mundo, 
 </item>
 
 <item>
-<title>[COLOR silver][B] O CADAVER DE ANNA FRITZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<title>[COLOR silver][B] O CADAVER DE ANNA FRITZ ( LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:833BF363BACDD510352356EE8760775E9FE1BA0E</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6s14X6rpZYVWhjp6flPixdBiCkL.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Infelizmente, Anna Fritz, a famosa jovem atriz e fã de carros velozes, morreu inexplicavelmente em uma festa particular. Com a notícia da morte de Anna se espalhando como fogo, fãs e seguidores de toda a Espanha tentam desesperadamente descobrir o nome do hospital onde a autópsia será realizada; no entanto, em vão. No entanto, quando um hospital que trabalha no turno da noite vaza fotos da mulher falecida para seus melhores amigos, um convite invisível para um olhar rápido atrai amigos e pervertidos. Agora, o que acontece a seguir, ninguém sabe.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] CAÇA  AS  BRUXAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<utube>hTwkJ5cB2qg</utube>
-<thumbnail>https://www.themoviedb.org/t/p/original/oNyEYVm295JdZXbRi40XcqjOs7G.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Behmen (Nicolas Cage) lutou por vários anos nas Cruzadas, perdeu batalhas, amigos e também a fé. Ao desistir de ajudar a Igreja em sua luta pelo poder, ele só encontra devastação, fome e a peste negra. Ao lado de seu fiel escudeiro Felton (Ron Perlman), ele torna-se inimigo dos governantes, mas acaba recebendo uma missão que pode liquidar seus débitos: levar uma jovem, suspeita de ser uma bruxa, para um monastério distante. Mas o caminho será bastante tortuoso e mesmo antes de chegar ao destino, eles descobrirão que estão diante de forças sobrenaturais e que o mal está além de toda e qualquer compreensão.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] JASÃO - E O VELOCINIO DE OURO (1963) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<utube>t89cAmA3oec</utube>
-<thumbnail>https://www.themoviedb.org/t/p/original/fbCrWcThUpxpw8CdCIpaXJ3mtHn.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Jasão após retornar para sua casa de uma viagem de 20 anos, deve encontrar um mágico velo de ouro para reconquistar seu trono. Assim, ele lidera uma equipe, que inclui o heroico Hércules, para ir atrás do artefato, enfrentando perigos enormes como um gigante feito de bronze.</info>
 </item>
 
 <item>
@@ -2350,14 +2333,6 @@ Enredo: Caleb, um programador de 26 anos na maior empresa de internet do mundo, 
 <thumbnail>https://www.themoviedb.org/t/p/original/kE2TBF06eSTy0jUcj9P5LG3ohUo.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O tempo se tornou a maior moeda de todas. Os cientistas conseguiram descobrir uma forma de destruir o gene do envelhecimento. Então, quando uma pessoa chega aos 25 anos, para de envelhecer, mas possui apenas mais um ano de vida, a não ser que tenha dinheiro para pagar pelo tempo extra. Na busca por poder e tempo de vida, um homem (Timberlake) é acusado injustamente de homicídio e se vê obrigado a sequestrar uma bela jovem (Amanda Seyfried) para conseguir ganhar mais tempo e provar sua inocência.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] O  TRIUNFO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<utube>LBVf1valn5s</utube>
-<thumbnail>https://s1.static.brasilescola.uol.com.br/be/conteudo/images/424ec2c1f164e800b55f3619f7ec2cfc.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Matthew Perry é um jovem professor impaciente, porém talentoso, que deixa sua casa na zona rural da Carolina do Norte para se aventurar a dar aulas nas escolas de Nova York. Enquanto luta para manter seu otimismo ao se defrontar com um obstáculo após o outro, ele desistirá de tudo para retornar à sua casa com o rabo entre as pernas, ou realizará sua ambição e transformá o futuro de alguns dos mais difíceis e vulneráveis garotos da cidade?…</info>
 </item>
 
 <item>
@@ -2523,14 +2498,6 @@ Enredo: Nelson Mandela é um advogado Sul-Africano que se junta o Congresso Naci
 <thumbnail>https://www.themoviedb.org/t/p/original/1sma2ElU39zmKAx7ZObfSQVQyJK.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um homem sofre um acidente com seu avião, enquanto viaja para Appalachia rural com sua família para um funeral, quando acorda se encontra totalmente sozinho e sem orientação. Aliviado por ser descoberto por um casal de idosos aparentemente gentil, ele não tem como saber as maquinações sombrias que estão à sua espera enquanto ele é puxado cada vez mais fundo para um mundo sinistro.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] A FAMILIA BUSCAPÉ (1993) BREVE AQUI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>http://br.web.img3.acsta.net/pictures/210/462/21046245_2013100221150118.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Jed Clampett (Jim Varney) decide se mudar do interior do Arkansas para a luxuosa cidade de Beverly Hills, na Califórnia, quando se torna um bilionário após encontrar petróleo. O caipira ingênuo leva toda sua família para a cidade grande, onde, diante daquele choque cultural, passa a procurar uma esposa.</info>
 </item>
 
 <item>
