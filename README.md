@@ -525,14 +525,6 @@ Enredo: Uma jovem família é visitada por fantasmas em sua casa. A princípio, 
 </item>
 
 <item>
-<title>[COLOR silver][B] AS SETE FACE Dr. LAU [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>https://archive.org/download/as-sete-faces-dr.-lau_202106/AS%20SETE%20FACES%20DR.LAU.mp4</link>
-<thumbnail>https://static.carrefour.com.br/medias/sys_master/images/images/hba/h70/h00/h00/10793012920350.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Dr. Lao (Tony Randall), chinês gentil e idoso de 7322 anos chega em Abalone, com seu circo. Ele rapidamente nota que a cidade é dominada por um rico rancheiro, Clint Stark (Arthur O’Connell), que alega que em seis meses não haverá mais água, pois o aqueduto está quase inutilizado. Stark quer comprar toda a cidade e só Ed Cunningham (John Ericson), o dono do jornal local, se opõe. Mas em poucos dias o Dr. Lao irá alterar a vida dos moradores de Abalone.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] ET. O EXTRATERRESTRE [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1139baa426f2130fba35c37a45591e1e0ffe5a1</link>
 <thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/95/16/34/20384584.jpg</thumbnail>
@@ -813,7 +805,7 @@ Enredo: A vida de Louis Zamperini, um atleta olímpico que se juntou às forças
 
 <item>
 <title>[COLOR silver][B] DEMOLIDOR - O HOMEM SE MEDO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a4de8b92e341b4b2d045438dd7c647edc2779cf&dn=Demolidor+-+O+Homem+Sem+Medo+%282003%29+720p+Dublado+-+Alan_680&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a4de8b92e341b4b2d045438dd7c647edc2779cf</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71mpL6uYeSL.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Após descobrir o verdadeiro trabalho de seu pai, o jovem Matt Murdock (Ben Affleck) sofre um acidente que faz com que fique cego e tenha seus sentidos ampliados, além de ganhar um apurado radar mental, que faz com que consiga perceber o que ocorre à sua volta. Já adulto, Matt estuda Direito e passa a treinar arduamente artes marciais. Com isso passa a ter uma vida dupla: durante o dia é um conceituado advogado e à noite passa a usar suas habilidades super-humanas para combater o crime, sob o codinome Demolidor.</info>
@@ -821,7 +813,7 @@ Enredo: A vida de Louis Zamperini, um atleta olímpico que se juntou às forças
 
 <item>
 <title>[COLOR silver][B] DARKMAN - VINGANÇA SEM  ROSTO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91673D84E2D1BA74FA726172AFC35EE02AFEF7F7&dn=Darkman.A.Vingan%c3%a7a.Sem.Rosto.1990.720p.Dual-WOLVERDONFILMES.COM&tr=udp%3a%2f%2fexodus.desync.com%3a6969&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91673D84E2D1BA74FA726172AFC35EE02AFEF7F7</link>
 <thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/90/59/50/20103805.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Peyton Westlake (Liam Neeson) é um cientista que descobriu recentemente uma pele sintética. Peytoné atacado por uma quadrilha e dado como morto, mas ele sobrevive e graças ao seu invento pode se vingar, pois pode ter qualquer rosto. Mas há um problema: a pele sintética só dura 99 minutos quando é exposta à luz.</info>
