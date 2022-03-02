@@ -2,6 +2,16 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] O ENCANTADOR DE CAVALOS (1998) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93dc6137d41e6eeed4cf5ade498ccba4ef97f4c1$nome=LEGENDADO 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84fb6434d7439a30f9b71088783d0e5a199af6e1$nome=LEGENDADO 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/64V3LgOYPY6xNadOzmzW5ONNIlm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma nova-iorquina leva sua a filha e o cavalo dela a um homem conhecido como o "encantador de cavalos" no estado de Montana, pois a jovem e o animal estão traumatizados após um terrível acidente.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SONÃMBULOS (1977) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E52CE15E04D0DDBAF109472BF8DE695CC304F81</link>
