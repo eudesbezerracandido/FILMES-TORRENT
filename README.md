@@ -1,8 +1,13 @@
 # FILMES-TORRENT
 
 
-
-
+<item>
+<title>[COLOR silver][B] MEU MOSTRO DE ESTIMAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0575668A72F3B3D02361B1D25E744B9C3E5F19FB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sbgXMq4vvOq9S3n3hlJiZ7wCCq1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Meu Monstro de Estimação Torrent – BluRay Rip 1080p Dual Áudio 5.1 (2007) Quando um garotinho solitário chamado Angus descobre um grande e misterioso ovo na praia do lago Ness, ninguém está preparado para o que virá lá de dentro. Ele logo descobre que o estranho e arteiro ser que sai do ovo é nada menos que um cavalo das águas, a criatura mais misteriosa e fantástica que já existiu no lago! Mas com o monstro crescendo dez vezes seu próprio tamanho por dia, Angus descobre que fica cada vez mais difícil manter essa nova amizade em segredo. Emily Watson , Alex Etel, Ben Chaplin e Brian Cox estrelam esta lenda terna dirigida por Jay Russell e escrita por Robert Nelson Jacobs.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O TIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
