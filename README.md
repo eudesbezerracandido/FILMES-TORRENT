@@ -6,10 +6,10 @@
 
 <item>
 <title>[COLOR silver][B] O TIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4893bb19a95c27bc350178e721207dde273dd0ea</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zRGBGjdeGf12Pmalr1adT9IpoId.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info>John Moon (Sam Rockwell) está em crise: enquanto tenta reatar os laços com sua família e corrigir os erros do passado, esse caçador profissional tem que escapar de um crime que cometeu, quando uma bala acidentalmente casou a morte de uma pessoa.</info>
 </item>
 
 <item>
