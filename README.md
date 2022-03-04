@@ -3,6 +3,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] O TIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zRGBGjdeGf12Pmalr1adT9IpoId.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O ENCANTADOR DE CAVALOS (1998) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93dc6137d41e6eeed4cf5ade498ccba4ef97f4c1$nome=LEGENDADO 1</link>
