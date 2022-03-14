@@ -8,7 +8,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ec813c84c95d6984f684a7bbc7c2fcdc7c8b3e0$nome=PLANETA DOS MACACOS</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb6d56ab5ae66539fb1f1eab22570a812c49aa21$nome=PLANETA DOS MACACOS</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E6410E6510C911D3C3512C5E587F1A0CFAB3BDDA$nome=PLANETA DOS MACACOS</link>
-<thumbnail>https://www.google.com.br/search?q=COLE%C3%87%C3%83O+PLANETA+DOS+MACACOS&hl=pt-BR&tbm=isch&source=hp&biw=1920&bih=937&ei=FUAvYuH-MqO65OUP2N-f6A0&iflsig=AHkkrS4AAAAAYi9OJS7Pola4JQG0orfuTav5_0MkegXa&ved=0ahUKEwih3fTc18X2AhUjHbkGHdjvB90Q4dUDCAc&uact=5&oq=COLE%C3%87%C3%83O+PLANETA+DOS+MACACOS&gs_lcp=CgNpbWcQAzIFCAAQgAQ6CAgAELEDEIMBOggIABCABBCxAzoGCAAQBRAeOgYIABAIEB46BAgAEB5QAFjPJWCWJ2gAcAB4AIAB6gGIAZckkgEGMC4yMi41mAEAoAEBqgELZ3dzLXdpei1pbWc&sclient=img#imgrc=0HfipxJx0LnxGM&imgdii=BNdNhe7ITeXrfM</thumbnail>
+<thumbnail>https://archive.org/download/filmes-o-planeta-dos-macacos/filmes-o-planeta-dos-macacos.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info></info>
 </item>
