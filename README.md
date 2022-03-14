@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] HIP HOP BEATS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2791eabc602ff27a4f60a31591c772810929dd5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/b8P13nIvkkizVBzd2RpegsRt5zP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No berço da black music de Chicago, o prodígio do hip-hop August Monroe conta com um mentor improvável para lidar com a ansiedade e com os limites da criatividade.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] EU SOU A FÚRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13B8B4B9C405A529DD40AC2D3426C64CD7AC2D12</link>
