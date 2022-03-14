@@ -1,6 +1,15 @@
 # FILMES-TORRENT
 
 
+
+<item>
+<title>[COLOR silver][B] EU SOU A FÚRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13B8B4B9C405A529DD40AC2D3426C64CD7AC2D12</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aivG9fJXA4P7vg5BKCxR9Vy74GD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após o assassinato de sua esposa, um homem se vê diante da imobilidade da justiça e descobre um esquema de corrupção na polícia. Ele se torna a fúria em pessoa para destruir aqueles que abusam de seu poder.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MEU MOSTRO DE ESTIMAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0575668A72F3B3D02361B1D25E744B9C3E5F19FB</link>
