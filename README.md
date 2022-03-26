@@ -250,7 +250,7 @@
 
 <item>
 <title>[COLOR silver][B] TRILOGIA - RIDDICK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10D36E521249F8BA84EA651657B1EB95DDF4C2CE$nome=RIDDICK 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f08b6dc04cb139d8022b6b9fc0303341eb4aeddd$nome=RIDDICK 3</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2afbcaa2a87eee3392a12f9e5cf4fcf1f6b70ee$nome=RIDDICK A BATALHA</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2126a5d315a4b99b4961139c7a08ffe33fc6453d$nome=RIDDICK-ECLIPSE MORTAL</link>
 <thumbnail>https://ia601403.us.archive.org/32/items/8d-0e-7b-1c-6342e-7da-4ee-635df-01872249/8d0e7b1c6342e7da4ee635df01872249.jpg</thumbnail>
