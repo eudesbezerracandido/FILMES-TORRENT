@@ -1,6 +1,13 @@
 # FILMES-TORRENT
 
 
+<item>
+<title>[COLOR silver][B] LOBISOMENS DO TERCEIRO REICH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6dae713eb84936c2d46bae6c88dea7001293f148</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fAXacAiYRuVAzoCTfGnzGHXzeMu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na Alemanha, no auge da Segunda Guerra Mundial, um grupo de soldados americanos descobre o plano diabólico do doutor Mengele de criar um exército imparável de lobisomens nazistas.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DIREÇÃO EXPLOSIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
