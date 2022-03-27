@@ -176,7 +176,7 @@
 
 <item>
 <title>[COLOR silver][B] SEM PERDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:707f906e1c244c296725f04cad981eab8a74abc8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcfa8954f0814bee705c4502ef9f10042b10caef</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aGnRRS3tpDeBeAtqf4YzaYdk3ky.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Não há punição pior para um homem do que ter sua família arrancada de seus braços. A vida de Vitaliy Kaloev parou no momento em que o avião com sua esposa e filhos cai. Agora, ele busca justiça para punir os responsáveis e um pedido de perdão para aliviar sua alma.</info>
