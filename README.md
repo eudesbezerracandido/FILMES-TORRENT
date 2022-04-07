@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] QUERIDA, ENCOLHI AS CRIANÇAS 1989 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B26A37C34EC10BBE98A04C36BFF332CED0A9473</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9Jlqv5VpNxEzgcdm5jNHEDqOKdt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Wayne Szalinski é o típico cientista louco e atrapalhado. Ultimamente, gasta quase todo seu tempo desenvolvendo uma máquina capaz de reduzir o tamanho das coisas. Porém, um acidente em casa muda totalmente sua vida: seus filhos acionam a máquina de encolhimento e ficam reduzidos a poucos centímetros.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DIREÇÃO EXPLOSIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed6c5b814882d170e5a2f8d57d2bf75fe10425ac</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dqIfx0MCCnCyCA0k0hdBccWiJMk.jpg</thumbnail>
