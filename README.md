@@ -11,7 +11,7 @@
 
 <item>
 <title>[COLOR silver][B] O ATAQUE DAS FORMIGAS GIGANTES 1977 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://www1033.ff-03.com/token=7uY8PhFJdeZlyMd9Om7VvA/1649378228/2804:954::/140/7/06/3f3996190e639cd272913a16f94f1067-480p.mp4</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/d6u9yqilFo3poFQcLOFA507ghNI.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Algumas formigas têm contato acidental com material radioativo e se tornam gigantes e assassinas. Uma agressiva empresária do ramo imobiliário que planeja drenar uma zona pantanosa, para levantar um condomínio residencial exclusivo, visita com seus potenciais clientes ao canteiro de obras, com objetivo de fechar negócios. Aluga um iate de um experiente capitão do rio e passeia com seus convidados. Quando descobrem que um desastre radioativo, que causou uma mutação nas formigas, que em breve lapso de tempo, alcançam o tamanho de um ser humano e evoluíram tanto, que dominam telepaticamente a população do povoado próximo. Um terror diferente, cine "B" realizado com orçamento baixo e atores iniciantes, mas o resultado é um filme apavorante e gracioso. "Trash" clássico dos anos 1980, inédito e indispensável aos amantes do gênero.</info>
