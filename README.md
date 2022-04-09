@@ -3,22 +3,7 @@
 
 
 
-<item>
-<title>[COLOR silver][B] LOBISOMENS DO TERCEIRO REICH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6dae713eb84936c2d46bae6c88dea7001293f148</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fAXacAiYRuVAzoCTfGnzGHXzeMu.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Na Alemanha, no auge da Segunda Guerra Mundial, um grupo de soldados americanos descobre o plano diabólico do doutor Mengele de criar um exército imparável de lobisomens nazistas.</info>
-</item>
 
-<item>
-<title>[COLOR silver][B] O ATAQUE DAS FORMIGAS GIGANTES 1977 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://www1033.ff-03.com/token=gYK1eREprWrw9xsWhVxm7Q/1649400603/2804:954::/140/7/06/3f3996190e639cd272913a16f94f1067-480p.mp4$nome=[B]LINK 1[/B]</link>
-<link>https://vd297.mycdn.me/?expires=1649474189798&srcIp=186.233.111.137&pr=10&srcAg=CHROME&ms=185.226.53.6&type=1&sig=BVbe8ymVQT4&ct=4&urls=185.226.52.6&clientType=0&id=692047055498&bytes=0-5635$nome=[B]LINK 2[/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/d6u9yqilFo3poFQcLOFA507ghNI.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Algumas formigas têm contato acidental com material radioativo e se tornam gigantes e assassinas. Uma agressiva empresária do ramo imobiliário que planeja drenar uma zona pantanosa, para levantar um condomínio residencial exclusivo, visita com seus potenciais clientes ao canteiro de obras, com objetivo de fechar negócios. Aluga um iate de um experiente capitão do rio e passeia com seus convidados. Quando descobrem que um desastre radioativo, que causou uma mutação nas formigas, que em breve lapso de tempo, alcançam o tamanho de um ser humano e evoluíram tanto, que dominam telepaticamente a população do povoado próximo. Um terror diferente, cine "B" realizado com orçamento baixo e atores iniciantes, mas o resultado é um filme apavorante e gracioso. "Trash" clássico dos anos 1980, inédito e indispensável aos amantes do gênero.</info> 
-</item>
 
 <item>
 <title>[COLOR silver][B] QUERIDA, ENCOLHI AS CRIANÇAS 1989 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -1875,7 +1860,7 @@ Enredo: Astronauta Roy McBride (Brad Pitt) viaja para as bordas exteriores do si
 <item>
 <title>[COLOR silver][B] O CURIOSO CASO DE BENJAMIM BUTTON  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdce4404839461cee3fda2afd7148f7f825f936e</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/8/88/ButtonPoster.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/7fNRILGSHFzZ9BLUgkraGEHRaBb.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Benjamin Button é um homem que nasce idoso e rejuvenesce à medida que o tempo passa. Doze anos depois de seu nascimento, ele conhece Daisy, uma criança que entra e sai de sua vida enquanto cresce para ser dançarina. Embora tenha todos os tipos de aventuras incomuns, sua relação com Daisy o faz acreditar que os dois se encontrarão no momento certo da vida.
 Enredo: No dia em que o furacão Katrina bate Nova Orleans, idosos Daisy Williams (nee Fuller) está em seu leito de morte em um hospital de Nova Orleans. Ao seu lado é sua filha adulta, Caroline. Daisy pede Caroline para ler para ela em voz alta o diário de amigo ao longo da vida de Daisy, Benjamin Button. O diário de Benjamin narra toda a sua vida extraordinária, o aspecto incomum principal dos quais era o seu envelhecimento para trás, ser diagnosticado com várias doenças do envelhecimento no nascimento e, portanto, dada pouca chance de sobrevivência, mas que não sobrevivem e fica mais jovem com o tempo. Abandonado por seu pai biológico, Thomas Button, depois de a mãe biológica de Benjamin morreu no parto, Benjamin foi criado por Queenie, uma mulher negra e cuidador em uma casa de idosos. A avó de Margarida era um residente naquela casa, que é onde ela conheceu Benjamin. Embora separados ao longo dos anos, Daisy e Benjamin permanecer em contato durante toda a vida, voltar a ligar em seus quarenta anos, quando em idade eles finalmente igualar-se. Algumas das revelações …</info>
@@ -2130,7 +2115,7 @@ Enredo: O marido de um biólogo desaparece. Ela coloca seu nome para uma expedi�
 <item>
 <title>[COLOR silver][B] REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3af5534c0215362e4aec32a92deaf1a79644170a</link>
-<thumbnail>https://lh3.googleusercontent.com/proxy/wZhJgob3Oy_1C31hyuxUrU9xTXnr-6pA2vzVwOGDGzbQ3d4r653tFr26dTGRWclP_fD_8XhojH2krVQ3becSFrqoO7ejVA5gx-g</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/u9QD9ddSVeYJABMSqBwfqe0NmsJ.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>História do ex-motoqueiro e traficante Sam Childers, que tornou-se um grande lutador em defesa das crianças do Sudão, obrigadas a virar soldados muito antes de se tornarem homens. O sujeito se dedica com paixão às crianças e acaba deixando um pouco de lado sua vida nos Estados Unidos, onde tem esposa e filha. Conhecido como “pastor da metralhadora”, ele não tem problema em pegar em armas para defender o que pensa.
 Enredo: Em Pittsburgh, Pensilvânia, Sam Childers é libertado da prisão e descobre que sua esposa Lynn não é mais uma stripper, mas se converteu ao cristianismo. Uma noite, Sam e seu melhor amigo Donnie dão uma carona a um caroneiro que ameaça Donnie com um canivete; no entanto, Sam reage e vira a mesa para o estranho. Sam é afetado pelo incidente e é convencido por Lynn e sua mãe Daisy para se juntar a sua igreja, e ele é batizado. Sam encontra um emprego direto na construção. Quando ele encontra um pregador da África, ele decide visitar o continente. Sam viaja para o norte de Uganda e para o sul do Sudão muitas vezes e constrói um orfanato para as vítimas do cruel Exército de Resistência do Senhor (LRA). Além disso, ele luta sempre que necessário e se torna uma lenda conhecida como The Machine Gun Preacher.</info>
@@ -2598,7 +2583,7 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 <item>
 <title>[COLOR silver][B] KISS DETROIT ROCK CITY (1978) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c4ec18b35cdafcae4b8807f354918711115a9d3</link>
-<thumbnail>https://ia601406.us.archive.org/25/items/kiss_20210313/unnamed.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/pu3i9y4kO78fRxHQzZGzkdBzFAI.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em 1978, quatro adolescentes embarcam numa louca aventura pelas estradas americanas rumo ao show de sua banda favorita, o KISS, na cidade de Detroit. Levados pela paixão pelo grupo de rock, nada poderá impedir o grupo de assistir ao grandioso espetáculo.</info>
 </item>
@@ -3095,7 +3080,7 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <item>
 <title>[COLOR silver][B] ACREDITE EM LOBISOMENS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b74f6aa9b159d4e131538f614aa081bd5e722b7</link>
-<thumbnail>https://www.themoviedb.org/movie/29896-never-cry-werewolf</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/w7jZwDFv2ExZvfmPuh9m7vFF4RW.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Garota descobre que seu novo vizinho é na verdade um lobisomem, e arriscará sua vida para destruí-lo. O problema é que ele acredita que ela seja a reencarnação de sua falecida esposa. Filme feito pelo canal Sci-Fi.</info>
 </item>
