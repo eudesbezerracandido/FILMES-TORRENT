@@ -1614,7 +1614,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <item>
 <title>[COLOR silver][B] GUERRA DOS MUNDOS [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</item>               
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb5540b9522f1946fe934fdfaaaa0c1331424b0c</link>
-<thumbnail>https://s2.glbimg.com/fZyg1qEX27ObTk4KIWtZi72gWG4=/362x536/https://s2.glbimg.com/GkXMpg4OpkCxQAsFWHT2NWJJ1Zw=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/4/J/sJh5BISRykKFTuwBifAA/2019-653-mk-filmes-paramount-guerra-dos-mundos-poster.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/uQeGcReMaNf3XhELojGUknVzyQu.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Dirigido por Steven Spielberg, o filme trará uma adaptação contemporânea do clássico da ficção científica de H.G. Wells. A história mostrará a batalha pelo futuro da humanidade vista através dos olhos de uma família estadunidense comum, que luta para sobreviver em meio à devastação.</info>
 </item> 
@@ -1642,7 +1642,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <item>
 <title>[COLOR silver][B]  COLEÇÃO COMPLETA - AMERICAN  PIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57F04D2DE998BE7B88A1F082FD0599AC4D06A4E6</link>
-<thumbnail>https://www.thepiratefilmestorrent.me/wp-content/uploads/2019/12/American-Pie-colecao-torrent.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/zd6vScAUAp3blRMa2ZCsFY2SUNk.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Jim Levenstein, Kevin Myers, Oz Ostreicher e Paul Finch são quatro amigos virgens às vésperas do baile de formatura. Em meio a suas tentativas frustradas de fazer sexo com as namoradas, olhar mulheres nuas na internet e até mesmo atacar uma torta recém-saída do forno, os rapazes fazem um pacto e prometem deixar a virgindade para trás antes do baile de formatura. Agora eles têm 24 horas para cumprir esse acordo.</info>
 </item>
@@ -1650,7 +1650,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <item>
 <title>[COLOR silver][B] B13 - 13° DISTRITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c8f75225743977f502e7023813107eba0c4b81c</link>
-<thumbnail>https://capas-g.wmixvideo.com.br/cx108665.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/AoWK4Y4m3bBRmW1XXcQqXyo9gAj.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Paris, 2010. Diante do aumento inevitável da criminalidade em alguns subúrbios, o governo autoriza a construção de um muro de isolamento ao redor dos bairros classificados como de alto risco. O pior de todos é o 13º distrito, que é controlado por um chefão do crime, Taha (Dominique Dorol). Um jovem punk íntegro, Leïto (David Belle), está determinador em acabar com seu poder. Quando Taha retalia seqüestrando a irmã de Leito, Lola (Dany Verissimo), seu irmão tenta resgatá-la, mas é traído pelo chefe da delegacia do 13º distrito, que temia o poder de Taha.</info>
 </item> 
@@ -1789,7 +1789,7 @@ Em uma base localizada no deserto os vampiros dão a cartada decisiva em seus pl
 <item>
 <title>[COLOR silver][B] ALADDIN  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2290ffcc7e3e6d05593934cd4877a4d01a92d45</link>
-<thumbnail>https://almanaquevirtual.com.br/wp-content/uploads/2019/05/Aladdin-poster.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/1d8HShFOmSWDwvqtvPEZqzlZbYl.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um jovem humilde descobre uma lâmpada mágica, com um gênio que pode lhe conceder desejos. Agora o rapaz quer conquistar a moça por quem se apaixonou, mas o que ele não sabe é que a jovem é uma princesa que está prestes a se noivar. Agora, com a ajuda do Gênio (Will Smith), ele tenta se passar por um príncipe e para conquistar o amor da moça e a confiança de seu pai.</info>
 </item>
