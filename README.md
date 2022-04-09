@@ -472,7 +472,7 @@
 <item>
 <title>[COLOR silver][B] PANTERA  NEGRA [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:562fdeeab269ce0d3c5e0fec2c03565710850f2e</link>
-<thumbnail>https://capas-g.wmixvideo.com.br/cx173895.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/t3ISCnnSuaF2kKiiVMwsXZw9VMA.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A história de T’Challa (Chadwick Boseman), príncipe do reino de Wakanda, que perde o seu pai e viaja para os Estados Unidos, onde tem contato com os Vingadores. Entre as suas habilidades estão a velocidade, inteligência e os sentidos apurados.</info>
 </item>
