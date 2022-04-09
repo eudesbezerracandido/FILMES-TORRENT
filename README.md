@@ -519,8 +519,8 @@
 
 <item>
 <title>[COLOR silver][B] CÃO DE BRIGA [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:271f38bc71980ed2dc2ee1a8c2d3a2b70b70e202</link>
-<thumbnail>https://static.carrefour.com.br/medias/sys_master/images/images/h6f/hfd/h00/h00/13985340751902.jpg</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51517d84346ab6e1d24df4468aab762ca74f7869</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2LCejE5Hkg5g5KvhnT8hBYJwZ8G.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Desde que Bart (Bob Hoskins) retirou Danny (Jet Li) das ruas, quando tinha apenas 4 anos, sempre o tratou como um cão, tendo treinado-o para sempre atacar. Danny é hoje uma arma mortal, sendo capaz de partir para cima de qualquer pessoa após uma simples ordem, sem lhe dar qualquer chance de vitória. Isolado do mundo, Danny não tem outra escolha senão aceitar o destino escolhido por Bart. Até que, por acaso, ele encontra Sam (Morgan Freeman), um cego que ganha a vida como afinador de pianos. Sam e Victoria (Kerry Condon), sua nora, fazem com que Danny descubra uma humanidade que ele jamais acreditou que possuísse. A partir de então sua percepção da vida muda radicalmente, o que faz com que Bart e seus asseclas decidam eliminá-lo.</info>
 </item>
