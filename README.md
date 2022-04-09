@@ -1,10 +1,6 @@
 # FILMES-TORRENT
 
 
-
-
-
-
 <item>
 <title>[COLOR silver][B] QUERIDA, ENCOLHI AS CRIANÇAS 1989 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B26A37C34EC10BBE98A04C36BFF332CED0A9473</link>
@@ -1610,14 +1606,6 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O dedicado funcionário executivo da FedEx, Chuck Noland, viaja a trabalho para a Malásia quando o avião da empresa cai sobre o Oceano Pacífico durante uma tempestade. Como o único sobrevivente do acidente, Chuck vai parar em uma ilha deserta. Quando suas tentativas de socorro se esgotam, Chuck aprende a sobreviver na ilha.</info>
 </item>
-
-<item>
-<title>[COLOR silver][B] GUERRA DOS MUNDOS [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</item>               
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb5540b9522f1946fe934fdfaaaa0c1331424b0c</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/uQeGcReMaNf3XhELojGUknVzyQu.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Dirigido por Steven Spielberg, o filme trará uma adaptação contemporânea do clássico da ficção científica de H.G. Wells. A história mostrará a batalha pelo futuro da humanidade vista através dos olhos de uma família estadunidense comum, que luta para sobreviver em meio à devastação.</info>
-</item> 
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO COMPLETA - CREPÚSCULO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
