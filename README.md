@@ -1315,7 +1315,7 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 <item>
 <title>[COLOR silver][B] PARASITA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1171e608f0d31b7f99a49c365a92eac478fdd217</link>
-<thumbnail>https://cdn.ayobandung.com/images-bandung/post/articles/2020/02/11/79106/parasite.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Parasita Torrent – oda a família de Ki-taek está desempregada, vivendo num porão sujo e apertado. Uma obra do acaso faz com que o filho adolescente da família comece a dar aulas de inglês à garota de uma família rica. Fascinados com a vida luxuosa destas pessoas, pai, mãe, filho e filha bolam um plano para se infiltrarem também na família burguesa, um a um. No entanto, os segredos e mentiras necessários à ascensão social custarão caro a todos.</info>
 </item>
