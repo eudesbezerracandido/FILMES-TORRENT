@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] FEITIÇO DE ÁQUILA 1985 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aW8F2qBW8Ewv0lgTJB6y9bjoAUq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Europa, século XII. O Bispo de Áquila (John Wood) toma consciência que sua amada, a bela Isabeau (Michelle Pfeiffer), está apaixonada por Etienne Navarre (Rutger Hauer), um cavaleiro. Áquila fica possuído de raiva e ciúme e lança uma maldição sobre o casal: De dia ela sempre será um falcão e de noite Navarre toma a forma de um lobo, sendo que desta forma fica o casal impedido de se entregar um ao outro. Eles têm como único aliado Phillipe Gaston (Matthew Broderick), mais conhecido como Rato, que é o único prisioneiro que escapou das muralhas de Áquila.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] QUERIDA, ENCOLHI AS CRIANÇAS 1989 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B26A37C34EC10BBE98A04C36BFF332CED0A9473</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9Jlqv5VpNxEzgcdm5jNHEDqOKdt.jpg</thumbnail>
