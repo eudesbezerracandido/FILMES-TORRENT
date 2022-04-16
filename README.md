@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GUERREIROS DA VIRTUDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8253e264805820644b01a16da18103cd78a07e5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cMOiGCbyfEjC95Dzhe4ueVWKjFw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Numa distante terra mágica, o menino Ryan, ajuda os cinco guerreiros cangurus, guardiões do Reino de Tao, a defender a última fonte da vida das más intenções do diabólico Komodo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] QUERIDA, ENCOLHI AS CRIANÇAS 1989 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B26A37C34EC10BBE98A04C36BFF332CED0A9473</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9Jlqv5VpNxEzgcdm5jNHEDqOKdt.jpg</thumbnail>
