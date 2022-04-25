@@ -18,6 +18,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MENTE CRIMINOSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1dadaab3d1d9d936f29bd5e5978c6f135137a7f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/60QTTSHQubpl4C78N6UWmb4TgQP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Bill Pope (Ryan Reynolds) é um agente da CIA em meio a uma importante investigação. Ele acaba assassinado por um temível anarquista, deixando seus superiores na agência repletos de dúvidas sobre seu último caso, que envolvia a proteção de uma testemunha. Com a ajuda de um médico (Tommy Lee Jones), o chefe de Pope (Gary Oldman) transfere todos seus segredos, memórias, sentimentos e habilidades para prisioneiro imprevisível e perigoso (Kevin Costner). Instável, ele será a única solução da CIA para evitar consequências terríveis para os Estados Unidos e o mundo. Ao mesmo tempo em que tenta seguir sua vida, o criminoso terá que aprender a lidar com novos sentimentos, inclusive um certo carinho pela esposa (Gal Gadot) e pela filha do falecido agente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SEM LIMITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DZDF6TUQYSCICKZH7XRMCHDXSG7INAKP</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/poiTgNzPbT3ZuS4QnmrLNv2M6rD.jpg</thumbnail>
