@@ -18,6 +18,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SEM LIMITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DZDF6TUQYSCICKZH7XRMCHDXSG7INAKP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/poiTgNzPbT3ZuS4QnmrLNv2M6rD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Há anos o escritor Eddie Morra (Bradley Cooper) está sofrendo um bloqueio criativo. Quando um velho amigo lhe apresenta um remédio revolucionário, sua vida muda instantaneamente. Com o remédio, Eddie passa a usar 100% do seu cérebro. Ele consegue lembrar de tudo que já leu, ouviu ou viu em toda sua vida. Aprende línguas, faz cálculos, consegue ler e escrever muito rapidamente. Porém, para que tudo isto ocorra, ele precisa tomar o remédio todo dia. Em poucas semanas Eddie vira o rei de Wall Street chamando a atenção do mega empresário Carl Van Loon (Robert De Niro) que o contrata para fechar um dos maiores negócios da história. Tendo se tornado uma pessoa perfeita, ele agora passará a viver sem limites.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GUERREIROS DA VIRTUDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8253e264805820644b01a16da18103cd78a07e5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cMOiGCbyfEjC95Dzhe4ueVWKjFw.jpg</thumbnail>
