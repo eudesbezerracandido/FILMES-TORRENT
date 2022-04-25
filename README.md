@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O SEQUESTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C593BF9D7E9EB96962880B1883BE16C590F24876</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qAQvp24IWGnXL1DkYnpT0vfbOz2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Karla Dyson (Halle Berry) trabalha como garçonete em uma lanchonete e tem a vida voltada para a criação do filho, o pequeno Frankie (Sage Correa). Um dia, ao atender o telefone em um parque, ela descobre que o garoto simplesmente desapareceu. Ao vê-lo sendo colocado dentro de um carro, Karla parte em seu encalço em uma busca desesperada, perseguindo os sequestradores em seu próprio carro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GUERREIROS DA VIRTUDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8253e264805820644b01a16da18103cd78a07e5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cMOiGCbyfEjC95Dzhe4ueVWKjFw.jpg</thumbnail>
