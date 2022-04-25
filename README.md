@@ -18,6 +18,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SEM PERDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07477705fd89c2ecf39d227658ead517ccc89c10</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6RAWLTk2kk1RmrjIqdadNtZ0aRs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Victor trabalha como o braço direito de um grande criminoso em Nova York. Um dia, ele encontra Beatrice, vítima de um crime, que considera Victor o homem perfeito para ajudá-la em sua vingança. Para convencê-lo a cooperar, ela o chantageia com provas de um assassinato que Victor cometeu.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MENTE CRIMINOSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1dadaab3d1d9d936f29bd5e5978c6f135137a7f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/60QTTSHQubpl4C78N6UWmb4TgQP.jpg</thumbnail>
