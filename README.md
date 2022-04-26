@@ -599,15 +599,6 @@ Enredo: Não faz nem um ano desde que um dono de uma fazenda chamado Louis perde
 </item>
 
 <item>
-<title>[COLOR silver][B] O ESPETACULAR - HOMEM ARANHA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8086c8fe9eaf45d238dd0612f4598b7a0d0fdd27</link>
-<thumbnail>https://3.bp.blogspot.com/-fOq55Dwl2RU/UIPfsrFrOOI/AAAAAAAAJZ4/LcuhCSG0JyU/s1600/O+Espetacular+Homem+Aranha1.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Peter Parker está tentando saber mais sobre sua origem. Ele encontra uma pasta que pertenceu ao seu pai e quer descobrir por que seus pais desapareceram. Sua busca o leva a Oscorp e ao dr. Curt Connors, que tem como alterego o letal Lagarto.
-Enredo: Peter Parker (Garfield) é um colegial pária que foi abandonado pelos pais quando menino, deixando-o para ser criado por seu tio Ben (Sheen) e tia May (Field). Como a maioria dos adolescentes, Peter está tentando descobrir quem ele é e como ele se tornou a pessoa que é hoje. Peter também está encontrando seu caminho com sua primeira paixão pelo ensino médio, Gwen Stacy (Stone), e juntos, eles lutam com amor, compromisso e segredos. Quando Peter descobre uma misteriosa maleta que pertencia ao pai, ele inicia uma busca para entender o desaparecimento de seus pais – levando-o diretamente à Oscorp e ao laboratório do Dr. Curt Connors (Ifans), ex-parceiro de seu pai. Como o Homem-Aranha está em rota de colisão com o alter-ego de Connors, O Lagarto, Peter fará escolhas que alteram a vida para usar seus poderes e moldar seu destino para se tornar um herói</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] COLEÇÃO - GUERRA NAS ESTRELAS STAR WARS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A387F00CD9BCA8859830C558ED149C62515D997F</link>
 <thumbnail>https://i.pinimg.com/originals/3d/f5/33/3df533f0ef9dca953d902df1510accb5.jpg</thumbnail>
