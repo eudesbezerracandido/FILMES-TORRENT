@@ -18,6 +18,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BLACKOUT- A BATALHA FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:temkk5cskeevvuqejchccyaamkqw3yso</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ntKsMxLTgSrvRoZA6vezQ6dOQj2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um futuro próximo, a vida na Terra será destruída, exceto por uma pequena área na Europa Oriental. Militares russos lutam contra hordas de humanos restantes controlados por alienígenas e trabalham para impedir uma invasão bem-sucedida por uma força alienígena determinada a conquistar a planta.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SEM PERDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07477705fd89c2ecf39d227658ead517ccc89c10</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6RAWLTk2kk1RmrjIqdadNtZ0aRs.jpg</thumbnail>
