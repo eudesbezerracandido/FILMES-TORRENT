@@ -10,6 +10,16 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MAZE RUNNER -  (TRILOGIA) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8F8297EBC549F8C069B4A0909EB5EB1AE643B5FD$nome=MAZE RUNNER - A CURA MORTAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EA891A34479E0A97BFEF526FBAEFB84E2D618713$nome=MAZE RUNNER - PROVA DE FOGO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FFD675C228F69B287F9F2DA1CF1F91729B558366$nome=MAZE RUNNER - CORRER OU MORRER</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/785Yjzv3HD2zcdf2gGU3I7ziFUb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Maze Runner - A Cura Mortal (Maze Runner The Death Cure) dublado e com qualidade de BluRay. No terceiro filme da saga, Thomas (Dylan O Brien) embarca em uma missão para encontrar a cura para uma doença mortal e descobre que os planos da C.R.U.E.L podem trazer consequências catastróficas para a humanidade. Agora, ele tem que decidir se vai se entregar para a C.R.U.E.L e confiar na promessa da organização de que esse será seu último experimento.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O SEQUESTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C593BF9D7E9EB96962880B1883BE16C590F24876</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qAQvp24IWGnXL1DkYnpT0vfbOz2.jpg</thumbnail>
