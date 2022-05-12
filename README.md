@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] MAZE RUNNER -  (TRILOGIA) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] MAZE RUNNER - (TRILOGIA) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8F8297EBC549F8C069B4A0909EB5EB1AE643B5FD$nome=MAZE RUNNER - A CURA MORTAL</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EA891A34479E0A97BFEF526FBAEFB84E2D618713$nome=MAZE RUNNER - PROVA DE FOGO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FFD675C228F69B287F9F2DA1CF1F91729B558366$nome=MAZE RUNNER - CORRER OU MORRER</link>
@@ -306,7 +306,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]IRMÃOS DE SANGUE-MUHAMMAD ALI E MALCOLM DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] IRMÃOS DE SANGUE-MUHAMMAD ALI E MALCOLM DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FDQNIJAGTEEFGMWX4DVFCXCE7HIFHT6W</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8niel2KjxfcOGmLWQc6p2fo5pUm.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -377,14 +377,6 @@
 <thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/273319/1004770777.jpg?v=636967498749770000</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Universidade de Millfield, maio de 1972. Richard Collier (Christopher Reeve) é um jovem teatrólogo que conhece na noite de estreia da sua primeira peça uma senhora idosa, que lhe dá um antigo relógio de bolso e diz: "volte para mim". Ela se retira sem mais dizer, deixando-o intrigado. Chicago, 1980. Richard não consegue terminar sua nova peça, decide viajar sem destino certo e se hospeda no Grand Hotel. Lá visita o Salão Histórico, repleto de antiguidades, e fica encantado com a fotografia de uma bela mulher, Elise McKenna (Jane Seymour), que descobre ser a mesma que lhe deu o relógio.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] V  VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2959f47d3e5329887af52441ec37fa532b7e6e5</link>
-<thumbnail>https://br.web.img2.acsta.net/pictures/210/506/21050637_20131017235623573.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Em uma Inglaterra do futuro, onde está em vigor um regime totalitário, vive Evey Hammond (Natalie Portman). Ela é salva de uma situação de vida ou morte por um homem mascarado, conhecido apenas pelo codinome V (Hugo Weaving), que é extremamente carismático e habilidoso na arte do combate e da destruição. Ao convocar seus compatriotas a se rebelar contra a tirania e a opressão do governo inglês, V provoca uma verdadeira revolução. Enquanto Evey tenta saber mais sobre o passado de V, ela termina por descobrir quem é e seu papel no plano de seu salvador para trazer liberdade e justiça ao país.</info>
 </item>
 
 <item> 
