@@ -436,7 +436,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]INVASÃO AO SERVIÇO SECRETO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] INVASÃO AO SERVIÇO SECRETO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B9953B93AB353F9EAD3B2DB94A139CDC42CE3ACA</link>
 <thumbnail>https://br.web.img2.acsta.net/pictures/19/06/12/14/10/0645123.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -715,9 +715,9 @@ Sinopse Filme 3:É a luta do Mega-policial contra a Mega-corporação, quando o 
 <item>
 <title>[COLOR silver][B] SEMENTES  PODRES [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0628141547f6fca11d2976af53e983e1e20de17f</link>
-<thumbnail>https://wolverdonfilmes.net/wp-content/uploads/2018/12/Sementes-Podres-Torrent-Wolverdon-Filmes.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/6X7dxxWYcKpZRhMTldgWFATxnJG.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>No Filme Download Sementes Podres (2018) – Torrent WEB-DL 720p/1080p Dublado – Atormentado pelo passado, um trapaceiro que vive de pequenos golpes com sua mãe adotiva encontra a redenção como mentor de grupo de estudantes com dificuldades.</info>
+<info>No  Atormentado pelo passado, um trapaceiro que vive de pequenos golpes com sua mãe adotiva encontra a redenção como mentor de grupo de estudantes com dificuldades.</info>
 </item>
 
 <item>
