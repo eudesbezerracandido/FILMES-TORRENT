@@ -20,6 +20,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O PEQUENO ÓRFÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5hgv4oiz2khn4n6wyym4fzlxsb36tg3h </link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9cdGOnHbMVqoUNcRfRNAKVZv3nm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>As aventuras do jovem Rémi, cuidado pela gentil Sra Barberin. Aos 10 anos, ele é arrancado de sua mãe adotiva e confiado ao senhor Vitalis, um músico itinerante misterioso. Ao seu lado, ele vai aprender a dura vida de showman e cantar para ganhar o pão. Acompanhado pelo fiel cão Capi e o macaco Joli-Coeur, sua longa viagem através da França, de encontros, amizades e apoio mútuo, leva o segredo de suas origens…</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O SEQUESTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C593BF9D7E9EB96962880B1883BE16C590F24876</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qAQvp24IWGnXL1DkYnpT0vfbOz2.jpg</thumbnail>
