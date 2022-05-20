@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CIDADE DOS ANJOS 1998 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b347e46a6dce62b749ce9d5590801314b6dc95c2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iUcDXPGWNLqKkFmmcoK3uri6BjE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Seth é um anjo que vaga pela Terra consolando aqueles que estão com problemas. Maggie é uma cirurgiã prática e racional que se abala ao perder um paciente, aparentemente, sem motivo algum. No fundo de seu coração, ela sente a presença de algo divino, mas se recusa a acreditar em qualquer coisa que não pode explicar logicamente. Até que a força do destino une Maggie e Seth em um amor poderoso e irresistível. Um amor tão forte que faz com que Seth abra mão da sua imortalidade, enquanto Maggie abre seu coração aos mistérios da vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MAZE RUNNER - (TRILOGIA) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8F8297EBC549F8C069B4A0909EB5EB1AE643B5FD$nome=MAZE RUNNER - A CURA MORTAL</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EA891A34479E0A97BFEF526FBAEFB84E2D618713$nome=MAZE RUNNER - PROVA DE FOGO</link>
