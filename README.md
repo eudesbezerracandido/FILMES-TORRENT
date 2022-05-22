@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TOP GUN - ASIS INDOMÁVEIS 1986 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SS7BLVQPQQMIQ6GAVWPNBI5A2UX2HQSR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/13lFpjaAYT1y2g4A9tPNK2cDZIj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/o4jH603FDXVPuNx0gjTSkNebhoP.jpg</fanart>
+<info>A escola naval de pilotos é onde o melhor dos melhores treinam para refinar suas habilidades de voo de elite. Quando o piloto Maverick é enviado para a escola, sua atitude irresponsável e comportamento arrogante o colocam em desacordo com os outros pilotos, especialmente Iceman. Porém Maverick não está apenas competindo para ser o piloto superior de caça, ele também está lutando pela atenção de sua bonita instrutora de voo, Charlotte Blackwood.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CIDADE DOS ANJOS 1998 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b347e46a6dce62b749ce9d5590801314b6dc95c2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iUcDXPGWNLqKkFmmcoK3uri6BjE.jpg</thumbnail>
