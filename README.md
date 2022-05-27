@@ -10,8 +10,10 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] OS GAROTOS PERDIDOS 1987 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B78B9C37E5DEB8D9E9291AA1CC55E8AFF311D67F</link>
+<title>[COLOR silver][B] TRILOGIA - OS GAROTOS PERDIDOS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B78B9C37E5DEB8D9E9291AA1CC55E8AFF311D67F$nome=OS GAROTOS PERDIDOS</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32EBAA4FA9CF23A7B78909FD746A037FF8A1B4C8$nome=OS GAROTOS PERDIDO-A SEDE</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5C6B83FC24E202A204414B277A9E554F4F2BCAF$nome=OS GAROTOS PERDIDOS - A TRIBO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jVMnvx1hYaKvhYhBnTFCDqamlqR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hDjaJcbrwaCpGc8lsAdpnot5fWS.jpg</fanart>
 <info>Os irmãos adolescentes Michael e Sam se mudam com a sua mãe para uma pequena cidade no norte da Califórnia. Enquanto o jovem Sam encontra novos amigos com interesses semelhantes, o angustiado Michael acaba se apaixonando por Star, que está envolvida com David, o líder de uma gangue local de vampiros. Ao se dar conta do que está acontecendo, Sam e seus novos amigos embarcam na missão de salvar Michael e Star dos mortos-vivos.</info>
