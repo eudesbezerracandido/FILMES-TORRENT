@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OS GAROTOS PERDIDOS 1987 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B78B9C37E5DEB8D9E9291AA1CC55E8AFF311D67F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jVMnvx1hYaKvhYhBnTFCDqamlqR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hDjaJcbrwaCpGc8lsAdpnot5fWS.jpg</fanart>
+<info>Os irmãos adolescentes Michael e Sam se mudam com a sua mãe para uma pequena cidade no norte da Califórnia. Enquanto o jovem Sam encontra novos amigos com interesses semelhantes, o angustiado Michael acaba se apaixonando por Star, que está envolvida com David, o líder de uma gangue local de vampiros. Ao se dar conta do que está acontecendo, Sam e seus novos amigos embarcam na missão de salvar Michael e Star dos mortos-vivos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TOP GUN - ASIS INDOMÁVEIS 1986 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SS7BLVQPQQMIQ6GAVWPNBI5A2UX2HQSR</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/13lFpjaAYT1y2g4A9tPNK2cDZIj.jpg</thumbnail>
