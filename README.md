@@ -26,6 +26,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]A MONTANHA ENFEITIÇADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57afba5a346704195d4aa753188665e370977018</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5qSbUfDVILkBNowkmbUibGsqLwp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jack Bruno, um taxista de Las Vegas, esforçando-se para permanecer no caminho certo, recebe incentivos de outro mundo quando dois alienígenas disfarçados de adolescentes aparecem no seu táxi repentinamente. Em uma corrida contra o tempo, agentes do governo e um caçador de alienígenas, Jack tem que ajudar as crianças a recuperarem sua espaçonave perdida para que elas possam voltar para casa e salvar o seu planeta e a Terra também.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TRILOGIA - OS GAROTOS PERDIDOS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B78B9C37E5DEB8D9E9291AA1CC55E8AFF311D67F$nome=OS GAROTOS PERDIDOS</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32EBAA4FA9CF23A7B78909FD746A037FF8A1B4C8$nome=OS GAROTOS PERDIDO-A SEDE</link>
