@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VELHALLA - A LENDA DE THOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4de54fabc0792473b56bd55a16d03e1c9f2136b9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5oD7ujF444E6lMnqnf8MqwNIpyc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>As crianças Vikings Røskva e Tjalfe embarcam em uma viagem de aventura de Midgard a Valhalla com os deuses Thor e Loki. A vida em Valhalla, no entanto, acaba por ser ameaçada pelo temido lobo Fenrir e pelos arqui-inimigos bárbaros do deus, o Jotnar. Lado a lado com os deuses, os dois filhos devem lutar para salvar Valhalla do fim do mundo – Ragnarok.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TRILOGIA - OS GAROTOS PERDIDOS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B78B9C37E5DEB8D9E9291AA1CC55E8AFF311D67F$nome=OS GAROTOS PERDIDOS</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32EBAA4FA9CF23A7B78909FD746A037FF8A1B4C8$nome=OS GAROTOS PERDIDO-A SEDE</link>
