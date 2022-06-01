@@ -18,6 +18,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TEMPESTADE - PLANETA EM FÚRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F7109CD06887B6D70B807FD282225B44E29EA76</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uGNyIpD9bTFVvXMaMOxo7RwNUSN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após uma série de desastres naturais sem precedentes ameaçam o planeta, líderes mundiais se reúnem para criar um sistema de satélites capaz de controlar o clima e manter todos a salvo. Mas alguma coisa dá errado, e o sistema criado para proteger a Terra na verdade está atacando-a. Assim começa uma corrida contra o relógio para descobrir a real ameaça antes que uma tempestade mundial acabe com tudo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TRILOGIA - OS GAROTOS PERDIDOS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B78B9C37E5DEB8D9E9291AA1CC55E8AFF311D67F$nome=OS GAROTOS PERDIDOS</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32EBAA4FA9CF23A7B78909FD746A037FF8A1B4C8$nome=OS GAROTOS PERDIDO-A SEDE</link>
