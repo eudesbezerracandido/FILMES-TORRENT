@@ -36,6 +36,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DRAGONBALL EVOLUTION [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c2596e1aa7c6a06531ae0eec185c1b1440810c2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/23PcKOqNdhKeMFzORzQGn5eC44N.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em seu aniversário de 18 anos, Goku ganha uma esfera do dragão mística de presente de seu avô. Existem apenas seis outras no mundo todo, e reza a lenda que será concedido um desejo a quem possuir todas as sete. Quando uma força obscura provoca uma tragédia, Goku e seus amigos embarcam em uma jornada épica para recolher as sete esferas do dragão e salvar o planeta da destruição.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TOP GUN - ASIS INDOMÁVEIS 1986 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SS7BLVQPQQMIQ6GAVWPNBI5A2UX2HQSR</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/13lFpjaAYT1y2g4A9tPNK2cDZIj.jpg</thumbnail>
