@@ -18,6 +18,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MAQUINAS MORTAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4151edfe03d02a7e51e22ebb30464bc37dcc74f0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lttveGHvN5IFDiIfC8OxRhxxYlE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Anos depois da "Guerra dos Sessenta Minutos", a Terra está destruída e para sobreviver as cidades se movem em rodas gigantes, conhecidas como Cidades Tração, e lutam com outras para conseguir mais recursos naturais. Quando Londres se envolve em um ataque, Tom é lançado para fora da cidade junto com uma fora-da-lei e os dois juntos precisam lutar para sobreviver e ainda enfrentar uma ameaça que coloca a vida no planeta em risco.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VELHALLA - A LENDA DE THOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4de54fabc0792473b56bd55a16d03e1c9f2136b9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5oD7ujF444E6lMnqnf8MqwNIpyc.jpg</thumbnail>
