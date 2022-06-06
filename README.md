@@ -26,6 +26,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ELES EXISTEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5FF88173E5CC3FE719BC22D8FCA3EA9340064E3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9tylNIrehNTOKwz0jWd2O3MoPxC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Para cinco amigos, o final de semana em uma cabana pelos remotos bosques do Texas será uma aventura repleta de festas. Mas tudo muda quando o que parecia só diversão se torna um terror ao serem perseguidos pelo feroz e lendário Pé Grande.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PRESOS NO GELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3CDBA55F72B1791B80DE46734C18065172159439</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/o3msCYVZXBNKcuKd8G8PyRoDTrw.jpg</thumbnail>
