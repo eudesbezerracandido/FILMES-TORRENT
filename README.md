@@ -26,6 +26,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MEDO PROFUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2JMHQ7APARGRRXLJPRKQMR67JM5Y35ED</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mIzmRFJWjMiC0EgFu0kEjFFm221.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de cinco amigas aventureiras viaja até Recife, região nordeste do Brasil, para conhecer as ruínas de uma cidade subaquática, no litoral da cidade. No entanto, durante o passeio pelo fundo do mar, elas descobrem que não estão sozinhas e os verdadeiros "moradores" do local não estão muito satisfeitos com as visitas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VELHALLA - A LENDA DE THOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4de54fabc0792473b56bd55a16d03e1c9f2136b9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5oD7ujF444E6lMnqnf8MqwNIpyc.jpg</thumbnail>
