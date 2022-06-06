@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BRIGHTBURN - O FILHO DAS TREVAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8EDED8E746B5C53F5F558DB2956A5F9CB61C62C9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2BAJZpVa3DghfcNQM91ti4mw2CC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando uma criança alienígena cai no terreno de um casal da parte rural dos Estados Unidos, eles decidem criar o menino como seu filho. Porém, ao começar a descobrir seus poderes, ao invés de se tornar um herói para a humanidade, ele passa a aterrorizar a pequena cidade onde vive, se tornando uma força obscura na Terra</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VELHALLA - A LENDA DE THOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4de54fabc0792473b56bd55a16d03e1c9f2136b9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5oD7ujF444E6lMnqnf8MqwNIpyc.jpg</thumbnail>
