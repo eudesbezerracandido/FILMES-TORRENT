@@ -18,6 +18,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O QUE DE VERDADE IMPORTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:079c1ce482da2a5c5c56d9d3c072796b74e904bb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3e4w4EJKTLmdHc63y3oG6GYcv7N.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um homem não tem conhecimento de que ele possui o dom da cura. Em meio à sua luta para compreender sua nova realidade, uma adolescente com câncer vai lhe mostrar o caminho.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MAQUINAS MORTAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4151edfe03d02a7e51e22ebb30464bc37dcc74f0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lttveGHvN5IFDiIfC8OxRhxxYlE.jpg</thumbnail>
