@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] HALO - NIGHTFALL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CDDF1AA7C272FB2B63A34DDA3518F97019BF45C5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dDtxMHBdspAvc0LbSVEougFuBkW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Jameson Locke e sua equipe acabam presos em um terrível ataque terrorista enquanto investigavam atividades terroristas na colônia distante de Sedra.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BRIGHTBURN - O FILHO DAS TREVAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8EDED8E746B5C53F5F558DB2956A5F9CB61C62C9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2BAJZpVa3DghfcNQM91ti4mw2CC.jpg</thumbnail>
