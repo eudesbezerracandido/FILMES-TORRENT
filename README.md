@@ -28,6 +28,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] COMO SER SOLTEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B746C6CEE519130FE9A359D8D8C7C10430BF32C9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rZparClNSC5qI99PdauqEM9n8x4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Alice (Dakota Johnson) acabou de sair de um relacionamento e não sabe muito bem como agir sem outra metade. Para sua sorte, ela tem uma animada amiga (Rebel Wilson) especialista na vida noturna de Nova York, que passa a ensiná-la como ser solteira. Adaptação do primeiro romance de Liz Tuccillo</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BRIGHTBURN - O FILHO DAS TREVAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8EDED8E746B5C53F5F558DB2956A5F9CB61C62C9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2BAJZpVa3DghfcNQM91ti4mw2CC.jpg</thumbnail>
