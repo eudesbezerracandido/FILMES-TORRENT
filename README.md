@@ -28,6 +28,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VINGANÇA Á SANGUE FRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98CB1224B505288F311D403CEB93340E34303AA1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mOCg1AURsjnZWlUBm282y3zvjzn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Protagonizado por Jean Reno (O Profissional), Vingança à Sangue Frio é um suspense eletrizante que vai surpreendê-lo até o último instante. Henry é um famoso assassino de aluguel aproveitando o isolamento de sua cabana à beira do lago no meio da região selvagem das montanhas Rochosas. Quando a paz de sua merecida aposentadoria é interrompida pela chegada de Melody (Sarah Lind), a sobrevivente de um terrível acidente, Henry deve decidir se arriscará sua própria vida para salvar a dela. Mas será que Melody é mesmo quem ela diz ser? E será que sua chegada foi mesmo apenas uma coincidência?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COMO SER SOLTEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B746C6CEE519130FE9A359D8D8C7C10430BF32C9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rZparClNSC5qI99PdauqEM9n8x4.jpg</thumbnail>
