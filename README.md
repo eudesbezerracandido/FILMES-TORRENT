@@ -36,6 +36,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LÚCIO FLAVIO, O PASSEGEIRO DA AGONIA - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:594e547da232e15766ff7f2bf4ea0fe01a5b0a0a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hhophD0bL1DjKcSFcY4FJz8SNFg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nos anos 60 surge uma organização, batizada pela crônica policial brasileira como Esquadrão da Morte, que passa a combater o crime à margem da lei. Nessa conjuntura surgem vários episódios e personagens que marcaram uma época. Lúcio Flávio (Reginaldo Farias) é um deles, que se tornou um conhecido bandido no Rio de Janeiro. Tudo piora quando um banco é assalto em uma cidade do interior e o Dr. Bechara (Ivan Cândido) dá início a uma ação policial nos subúrbios do Rio, para localizar Lúcio. Ele e sua mulher, Janice (Ana Maria Magalhães), recebem a notícia da prisão de Mucuçu, integrante do bando de Lúcio, que também acaba sendo preso mas foge da delegacia. Certa noite é preso novamente por Bechara e levado para um presídio, onde agentes da Polícia Federal tentam em vão saber do seu envolvimento com Moretti (Paulo César Pereio), um policial. Lúcio é libertado por seus companheiros e, com a conivência de Moretti, assalta um banco. Tentando mudar de vida Lúcio vai com Janice para Belo Horizonte, mas seu destino já estava traçado.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COMO SER SOLTEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B746C6CEE519130FE9A359D8D8C7C10430BF32C9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rZparClNSC5qI99PdauqEM9n8x4.jpg</thumbnail>
