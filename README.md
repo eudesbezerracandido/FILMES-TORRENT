@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A HISTÓRIA DE UMA LENDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07fc26888dbfa43d868c57130219b60d5fb94d80</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ddacxwaxUF1Wf8CtBll35AQwLBA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A História de uma Lenda em 1946. Jackie Robinson (Chadwick Boseman) é um jogador de baseball que disputa a liga nacional dos negros até ser recrutado por Branch Rickey (Harrison Ford), o executivo de um time que disputa a maior competição do esporte nos Estados Unidos. Rickey quer que Robinson seja o primeiro negro a disputar a Major League na era moderna, o que faz com que ambos tenham que enfrentar o racismo existente não apenas da torcida e da diretoria, mas também dentro dos campos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  O DIA DO ATENTADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:855D514DD1B28AAB78C334B53F8F667207474C43</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8gWuVoGaMQFFp9Cu0AMRJ5GsoVg.jpg</thumbnail>
