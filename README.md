@@ -4,11 +4,11 @@
 
 
 <item>
-<title>[COLOR silver][B] COLEÇÃO - JERRY LEWIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>89740085874</link>
-<thumbnail>https://http2.mlstatic.com/D_NQ_NP_763422-MLB31149043578_062019-O.jpg</thumbnail>
+<title>[COLOR silver][B]  O DIA DO ATENTADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:855D514DD1B28AAB78C334B53F8F667207474C43</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8gWuVoGaMQFFp9Cu0AMRJ5GsoVg.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Jerry Lewis (16 de março de 1926 - 20 de agosto de 2017) foi um comediante, ator, produtor de cinema, escritor, diretor de cinema e cantor americano. Ele é mais conhecido por seu humor pastelão no palco, rádio, tela, gravação e televisão. Lewis também é conhecido por seus teletons de arrecadação de fundos para caridade e posição como presidente nacional da Associação de Distrofia Muscular (MDA). Lewis ganhou vários prêmios por realizações ao longo da vida do The American Comedy Awards, The Golden Camera, Los Angeles Film Critics Association e The Venice Film Festival, e ele tem duas estrelas na Calçada da Fama de Hollywood.</info>
+<info>O Dia do Atentado , Após os atentados terroristas à Maratona de Boston em 2013, um grupo formado pelo Sargento da Polícia Tommy Saunders (Mark Wahlberg), o Agente Especial Richard Deslauries (Kevin Bacon), o Comissário da Polícia Ed Davis (John Goodman), o Sargento Jeffrey Pugliese (J.K. Simmons) e a enfermeira Carol Saunders (Michelle Monaghan) se une aos bravos sobreviventes para identificar e capturar os responsáveis pelo ataque terrorista antes que eles possam fazer novas vítimas.</info>
 </item>
 
 <item>
