@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A COLINA ESCARLATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3E918DEA8BEFCDD38681F7A8C36A6130D8597E2F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/blDoxeetdq1n9n9RbXCoNIV3hzV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Apaixonada pelo misterioso Sir Thomas Sharpe (Tom Hiddleston), a escritora Edith Cushing (Mia Wasikowska) muda-se para sua sombria mansão no alto de uma colina. Habitada também por sua fria cunhada Lucille Sharpe (Jessica Chastain), a casa tem uma história macabra e a forte presença de seres de outro mundo não demora a abalar a sanidade de Edith.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A HISTÓRIA DE UMA LENDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07fc26888dbfa43d868c57130219b60d5fb94d80</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ddacxwaxUF1Wf8CtBll35AQwLBA.jpg</thumbnail>
