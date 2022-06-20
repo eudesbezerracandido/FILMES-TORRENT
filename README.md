@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  RENASCIDA DAS TREVAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c85326459db391b9350a78015343098fb7ab51b6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qkX3kQMkFfYuFLpw46nGQFCRnlD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma menina morta é sequestrada por um atendente do necrotério e trazida de volta à vida por energia eletrocinética. No seu aniversário de 16 anos, ela escapa do cativeiro e parte para encontrar sua mãe biológica, deixando um rastro de destruição para trás.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COLEÇÃO - O ATAQUE DOS VERMES MALDITOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E683185D1982FABDBB4F583FD85891A0CA79F6F</link>
 <thumbnail>https://ia801509.us.archive.org/22/items/vermes/O_Ataque_dos_Vermes_Malditos__88122_std.png</thumbnail>
