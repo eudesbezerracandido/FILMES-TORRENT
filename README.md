@@ -4,7 +4,13 @@
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO - O ATAQUE DOS VERMES MALDITOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E683185D1982FABDBB4F583FD85891A0CA79F6F</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1e35b7a11f53dffb942122f15296c30d2296c47$nome=O ATAQUE DOS VERMES MALDITOS</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5c2a03698c4ef2483667a2abf234426ef213164$nome=OS VERMES ESTÃO DE VOLTA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a2baa60a95d252bf4abadbc244e0a40aa11aa38$nome=DE VOLTA A PERFEIÇÃO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1817AC88D93EFB35C30A6DA8B3D0E3825B9BC53C$nome=O COMEÇO DA LENDA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A6468DB0E347D1B8B9EE129794C2A4D0C26F1B5F$nome=LINHAS DE SANGUE</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59e36c85ad1713103dd5996f32bf39e8887427db$nome=UM DIA FRIO NO INFERNO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35TQNBUG5AY4SUBAVTIUT56KIMCOWBQQ$nome=TREMOURS: SHRIEKER ISNLAND</link>
 <thumbnail>https://ia801509.us.archive.org/22/items/vermes/O_Ataque_dos_Vermes_Malditos__88122_std.png</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um casal habitante de uma pequena cidade esquecida no deserto luta pela sua sobrevivência e para salvar o mundo do ataque de minhocas gigantes e carnívoras que vivem debaixo do solo.</info>
