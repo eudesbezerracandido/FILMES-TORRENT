@@ -111,7 +111,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/lttveGHvN5IFDiIfC8OxRhxxYlE.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Anos depois da "Guerra dos Sessenta Minutos", a Terra está destruída e para sobreviver as cidades se movem em rodas gigantes, conhecidas como Cidades Tração, e lutam com outras para conseguir mais recursos naturais. Quando Londres se envolve em um ataque, Tom é lançado para fora da cidade junto com uma fora-da-lei e os dois juntos precisam lutar para sobreviver e ainda enfrentar uma ameaça que coloca a vida no planeta em risco.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] MEDO PROFUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
