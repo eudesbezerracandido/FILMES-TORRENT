@@ -1,6 +1,15 @@
 # FILMES-TORRENT
 
 
+
+<item>
+<title>[COLOR silver][B] COLEÇÃO - O ATAQUE DOS VERMES MALDITOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E683185D1982FABDBB4F583FD85891A0CA79F6F</link>
+<thumbnail>https://ia801509.us.archive.org/22/items/vermes/O_Ataque_dos_Vermes_Malditos__88122_std.png</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal habitante de uma pequena cidade esquecida no deserto luta pela sua sobrevivência e para salvar o mundo do ataque de minhocas gigantes e carnívoras que vivem debaixo do solo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fda5121e58d1585dd927fbe6e08885e4b68353e6</link>
@@ -15,14 +24,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/qkX3kQMkFfYuFLpw46nGQFCRnlD.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma menina morta é sequestrada por um atendente do necrotério e trazida de volta à vida por energia eletrocinética. No seu aniversário de 16 anos, ela escapa do cativeiro e parte para encontrar sua mãe biológica, deixando um rastro de destruição para trás.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] COLEÇÃO - O ATAQUE DOS VERMES MALDITOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E683185D1982FABDBB4F583FD85891A0CA79F6F</link>
-<thumbnail>https://ia801509.us.archive.org/22/items/vermes/O_Ataque_dos_Vermes_Malditos__88122_std.png</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Um casal habitante de uma pequena cidade esquecida no deserto luta pela sua sobrevivência e para salvar o mundo do ataque de minhocas gigantes e carnívoras que vivem debaixo do solo.</info>
 </item>
 
 <item>
