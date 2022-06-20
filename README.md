@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] COLEÇÃO - O ATAQUE DOS VERMES MALDITOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E683185D1982FABDBB4F583FD85891A0CA79F6F</link>
+<thumbnail>https://ia801509.us.archive.org/22/items/vermes/O_Ataque_dos_Vermes_Malditos__88122_std.png</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal habitante de uma pequena cidade esquecida no deserto luta pela sua sobrevivência e para salvar o mundo do ataque de minhocas gigantes e carnívoras que vivem debaixo do solo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A COLINA ESCARLATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3E918DEA8BEFCDD38681F7A8C36A6130D8597E2F</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/blDoxeetdq1n9n9RbXCoNIV3hzV.jpg</thumbnail>
