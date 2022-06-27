@@ -25,6 +25,19 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] STAR WARS - COLEÇÃO EM 4K [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5EB3E3E49F9EB0621E1172CC75DFBCE8F37348EB$nome=O IMPÉRIO CONTRA ATACA-4K</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0D23A2C147804AAC62A11193FF9D78B36F421414$nome=O RETORNO DO JEDI-4K</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AA11A70D775F1B6AF0D4839D4C8591DC9D0A5EEB$nome=A VINGANÇA DOS SITH-4K</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DA9CE057E7D1B72B41BA633D3803956502269494$nome=UMA NOVA ESPERANÇA-4K</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E59D3A0CA7CA7045E1D01EC6B3502E94C74CB7C$nome=AMEAÇA FANTASMA-4K</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E7E5F49A0D3513F45D1EB26B342AB44408880C2$nome=O ATAQUE DOS CLONES-4K</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eFPSzaRX9K1tfUpmBxBuDGFjULs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tZM2bZySE9DcKMPBeIW0BFfveV1.jpg</fanart>
+<info> À medida que as Forças Imperiais lançam um ataque total contra a Aliança Rebelde, Han Solo e a Princesa Leia, fogem para a Cidade das Nuvens, onde são capturados por Darth Vader. Luke Skywalker, viaja para o misterioso planeta pantanoso de Dagobah, onde o sábio Mestre Jedi Yoda, ensina ao jovem herói os caminhos da Força. O que Luke, não pode imaginar é que seu treinamento Jedi, será necessário muito em breve.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  RENASCIDA DAS TREVAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c85326459db391b9350a78015343098fb7ab51b6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qkX3kQMkFfYuFLpw46nGQFCRnlD.jpg</thumbnail>
