@@ -32,7 +32,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DA9CE057E7D1B72B41BA633D3803956502269494$nome=UMA NOVA ESPERANÇA-4K</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E59D3A0CA7CA7045E1D01EC6B3502E94C74CB7C$nome=AMEAÇA FANTASMA-4K</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E7E5F49A0D3513F45D1EB26B342AB44408880C2$nome=O ATAQUE DOS CLONES-4K</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eFPSzaRX9K1tfUpmBxBuDGFjULs.jpg</thumbnail>
+<thumbnail>https://ia801508.us.archive.org/29/items/star-wars_202206/f0ab277852b43b9fb8b47542db0a2842.png</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tZM2bZySE9DcKMPBeIW0BFfveV1.jpg</fanart>
 <info> À medida que as Forças Imperiais lançam um ataque total contra a Aliança Rebelde, Han Solo e a Princesa Leia, fogem para a Cidade das Nuvens, onde são capturados por Darth Vader. Luke Skywalker, viaja para o misterioso planeta pantanoso de Dagobah, onde o sábio Mestre Jedi Yoda, ensina ao jovem herói os caminhos da Força. O que Luke, não pode imaginar é que seu treinamento Jedi, será necessário muito em breve.</info>
 </item>
