@@ -603,7 +603,8 @@
 
 <item>
 <title>[COLOR silver][B] AVATAR  VERSÃO  ESTENDIDA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:849a9a8e157e720629c7ec0334be27e995e1e5f0</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:849a9a8e157e720629c7ec0334be27e995e1e5f0$nome=AVATAR</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D306DFE7661CD617131CB0DFD6E631F290F821D$nome=AVATAR 4k</link>
 <thumbnail>https://i.pinimg.com/736x/9e/eb/6b/9eeb6b945854e45236105be43823ee94.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A versão estendida de Avatar nos conduz por um mundo espetacular além da imaginação, onde um herói relutante embarca numa jornada de redenção, descobertas e amor inesperado, ao liderar uma batalha heroica para salvar a civilização. No futuro, Jake é o ex-fuzileiro naval paraplégico enviado a um planeta chamado Pandora. Lá, além da riqueza em biodiversidade, existe também a raça humanoide Na'vi, com sua própria língua e cultura, o que evidentemente entra em choque com os humanos da Terra. Vencedor de três Oscar, nas categorias de Melhor Fotografia, Melhor Direção de Arte e Melhores Efeitos Visuais.</info>
