@@ -25,6 +25,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CAÇADA SELVAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3WALGIZNWRTFJPJWEMFMMLSHP7QBO24H</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/paclnjtBlAcEh1ddUbCbT1azPIc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Claire volta para casa diante das recentes notícias do falecimento de seu pai, e encontra seu desafiador filho de 13 anos. Quando a notícia se espalha sobre a grande herança seu filho é sequestrado por uma gangue local liderada por uma figura misteriosa conhecida apenas como "Pai".</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fda5121e58d1585dd927fbe6e08885e4b68353e6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/duy0t3Ciqr5Zbec3OXaIgC6cEAe.jpg</thumbnail>
