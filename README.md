@@ -17,6 +17,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] REFÉM DO JOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2c811dab75dce74056c48bf969fa854f0823c87</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/32hjhlZf8rR9ahxOS26xeIGf95m.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante a final de um grande evento esportivo, um grupo de bandidos sequestra um estádio lotado e mantém as pessoas oprimidas por meio da violência. É quando um homem, que durante anos serviu ao serviço militar, usará seus recursos com a ajuda de alguns militantes para salvar a todos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TCHE - O ARGENTINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VGXG5XO7IJRVU7Z6NUIZD6V47O664OUW</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ekUpkM5tStkZuzpIzg77PbkG6SM.jpg</thumbnail>
