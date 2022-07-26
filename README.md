@@ -25,6 +25,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CHRISTOPHER ROBIN: UM REECONTRO INESQUECÍVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01C7051610ACC558B51B9549F8996677E0084FE3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zTlGXx2A1JwdaLvLQXmb0lYBdDt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Christopher Robin já não é mais aquele jovem garoto que adorava embarcar em aventuras ao lado de Ursinho Pooh e outros adoráveis animais no Bosque dos 100 Acres. Agora um homem de negócios, ele cresceu e perdeu o rumo de sua vida, mas seus amigos de infância decidem entrar no mundo real para ajudá-lo a se lembrar que aquele amável e divertido menino ainda existe em algum lugar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] REFÉM DO JOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2c811dab75dce74056c48bf969fa854f0823c87</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/32hjhlZf8rR9ahxOS26xeIGf95m.jpg</thumbnail>
