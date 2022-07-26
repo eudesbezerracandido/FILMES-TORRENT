@@ -17,6 +17,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O FIM DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A92F8F043B6351DF8AE2D65140DDA50F7323BA3E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6rwPXazSZHl379aBcBVN9d44ze4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de um ataque extraterrestre, a humanidade só tem uma esperança: um grupo de quatro adolescentes sem nada em comum isolados no seu acampamento de férias. </info>
+</item>
+
+<item>
 <title>[COLOR silver][B] REFÉM DO JOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2c811dab75dce74056c48bf969fa854f0823c87</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/32hjhlZf8rR9ahxOS26xeIGf95m.jpg</thumbnail>
