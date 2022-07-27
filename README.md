@@ -25,6 +25,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] RÁPIDOS E PERIGOSOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0C159E866727397BD056F463EB4BAE86EE965901</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8RaoK2PVUWucLXpsE3FGzR81Z4g.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Roy é louco por carros e corre com seu Mustang amarelo. A espera de sua filha, que vem em férias, ele vai assistir a uma corrida e logo é desafiado: correr em uma corrida de rua ilegal, que atravessará toda Noruega.Seu grande dilema, ficar com a filha ou enfrentar ao volante um ex-desafeto. Vinte e seis carros se alinham para o desafio, a bandeirada será dada e a partir daí será Roy contra seu maior inimigo...</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CHRISTOPHER ROBIN: UM REECONTRO INESQUECÍVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01C7051610ACC558B51B9549F8996677E0084FE3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zTlGXx2A1JwdaLvLQXmb0lYBdDt.jpg</thumbnail>
