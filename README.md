@@ -54,7 +54,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/ekUpkM5tStkZuzpIzg77PbkG6SM.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> 26 de novembro de 1956. Fidel Castro (Demián Bichir) viaja do México para Cuba com oito rebeldes, entre eles Ernesto “Che” Guevara (Benicio Del Toro) e seu irmão Raul (Rodrigo Santoro). Guevara era um médico argentino, que tinha por objetivo ajudar Castro a derrubar o governo de Fulgêncio Batista. Ao chegar ele logo se integra à guerrilha, participando da luta armada mas também cuidando dos doentes. Aos poucos ele ganha o respeito de seus companheiros, torna-se um dos líderes da revolução que está por vir.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] CAÇADA SELVAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
