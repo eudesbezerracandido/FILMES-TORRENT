@@ -25,6 +25,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TOMB RAIDER: A ORIGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:543FB08C244A55A300BC0E824B29A3735AEBAE1C</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wa0GU7H38ZBXHnzpInqkEHpJm84.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Filme Tomb Raider - A Origem de 2018 dublado e legendado com qualidade de blu-ray. Lara Croft (Alicia Vikander), a filha valente e independente de um aventureiro desaparecido (Dominic West), precisa enfrentar seus limites quando ela chega na ilha onde seu pai desapareceu.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RÁPIDOS E PERIGOSOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0C159E866727397BD056F463EB4BAE86EE965901</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8RaoK2PVUWucLXpsE3FGzR81Z4g.jpg</thumbnail>
