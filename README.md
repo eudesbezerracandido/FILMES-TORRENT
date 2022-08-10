@@ -17,6 +17,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PERIGO EMINENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C5RKNMTNQ44EAZJE3FYU5Z2JS4RIWH4Q</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zkCljVHb1SdhuPTMftSFegju6q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Vietnã,18 agosto de 1966. por três horas e meia, na chuva, no meio da lama e árvores quebradas de uma plantação de borracha chamado Long Tan, o major Harry Smith e sua companhia de 108 jovens estão lutando por suas vidas para triunfar sobre um futuro incerto com honra, decência e coragem. A batalha de Long Tan é uma das mais selvagens e decisivas na história ANZAC.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  ACIMA DA LEI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RJZAQZ3ZZ4BQZF6V6ZRMVKVH4MWTTWAN</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4d1pvFqLEBpqz83eyzBeDno6YZc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um ex-mafioso que virou empresário e um detetive da polícia deve enfrentar um ex-policial sujo que procura levar o assassino de seu filho à justiça.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O FIM DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A92F8F043B6351DF8AE2D65140DDA50F7323BA3E</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6rwPXazSZHl379aBcBVN9d44ze4.jpg</thumbnail>
