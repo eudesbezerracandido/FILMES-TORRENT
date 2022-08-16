@@ -17,6 +17,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  ARRANHA-CÉU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2767AF9BBA88AA70BCCD200C3CE31247B2DEC713</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fvwR00VUW2yFtSdYr8F3NUmusf6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Responsável pela segurança de arranha-céus, o veterano de guerra americano e ex-líder da operação de resgate do FBI, Will Ford (Dwayne Johnson), é acusado de ter colocado o edifício mais alto e mais seguro da China em chamas. Cabe ao agente então achar os culpados pelo incêndio, salvar sua família que está presa dentro do prédio e limpar seu nome antes que seja tarde demais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TRILOGIA -  O MISTÉRIO DE HAILEY DEAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0e1d4b999a382dad55ee51c1603d2d27d6edd98$nome=O MISTÉRIO DE HAILEY DEAN</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17238e54499ee1e4a458a1c0e693151ea9662d3b$nome=O MISTÉRIO DE HAILEY DEAN</link>
