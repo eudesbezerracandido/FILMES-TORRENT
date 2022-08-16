@@ -17,6 +17,23 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TRILOGIA -  O MISTÉRIO DE HAILEY DEAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0e1d4b999a382dad55ee51c1603d2d27d6edd98$nome=O MISTÉRIO DE HAILEY DEAN</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17238e54499ee1e4a458a1c0e693151ea9662d3b$nome=O MISTÉRIO DE HAILEY DEAN</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/70d0l9WnCDk6G2gTUFpH2GJXbDb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A psicóloga e ex-promotora Hailey Dean ajuda seu amigo, o detetive Garland Fincher, a investigar uma série de assassinatos no Hospital Memorial de Atlanta. A namorada de Fincher, Dra. Meghan Phillips, é apontada como suspeita no primeiro crime.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  O PODER DA VOZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:321be174c52b773db9af4d633f3b4568011c4cc9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9iOiqMvOt7q0JXznPWeacceTYcc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Filme baseado na história real de um apresentador de tv alemão que um dia acordou pela manhã, e sua voz havia se transformado completamente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PERIGO EMINENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C5RKNMTNQ44EAZJE3FYU5Z2JS4RIWH4Q</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zkCljVHb1SdhuPTMftSFegju6q.jpg</thumbnail>
