@@ -15,8 +15,6 @@
 <info>é uma coleção de FILME Angro-americano dirigido por uma mulher com real curiosidade em elevar o matérial que consiste essa coleção filmes Dráma,Romance e erótico.</info>
 </item>
 
-
-
 <item>
 <title>[COLOR silver][B] COLEÇÃO - O ATAQUE DOS VERMES MALDITOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1e35b7a11f53dffb942122f15296c30d2296c47$nome=O ATAQUE DOS VERMES MALDITOS</link>
@@ -339,7 +337,7 @@
 
 <item>
 <title>[COLOR silver][B] O PEQUENO ÓRFÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5hgv4oiz2khn4n6wyym4fzlxsb36tg3h </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5hgv4oiz2khn4n6wyym4fzlxsb36tg3h</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9cdGOnHbMVqoUNcRfRNAKVZv3nm.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>As aventuras do jovem Rémi, cuidado pela gentil Sra Barberin. Aos 10 anos, ele é arrancado de sua mãe adotiva e confiado ao senhor Vitalis, um músico itinerante misterioso. Ao seu lado, ele vai aprender a dura vida de showman e cantar para ganhar o pão. Acompanhado pelo fiel cão Capi e o macaco Joli-Coeur, sua longa viagem através da França, de encontros, amizades e apoio mútuo, leva o segredo de suas origens…</info>
@@ -2157,7 +2155,7 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 <item>
 <title>[COLOR silver][B] COLEÇÃO -  JEAN CLAUDE VAN DAMME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6396428bca539d40a160577b34aba716058a7b7f$nome=JEAN CLAUDE</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29ad6ca45949c3852589ccf03ee8fe4c4e5c52ca4nome=JEAN CLAUDE</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29ad6ca45949c3852589ccf03ee8fe4c4e5c52ca$nome=JEAN CLAUDE</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:290d0c7fa001f1aa077628e9924d7a7e91c0c009$nome=JEAN CLAUDE</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc818777a1104e0bd345059d0f4e3fd5bcc7aabd$nome=JEAN CLAUDE</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa67fadd22141ad50a235409d83b880d581e0735$nome=JEAN CLAUDE</link>
@@ -2334,8 +2332,8 @@ Enredo: Após a invasão americana do Iraque em 2003, Roy Miller e seus homens s
 
 <item>
 <title>[COLOR silver][B] SAMURAI X - TRILOGIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A88E7E938AAC52AC63A4F0E528C7FFD3191883C$nome=SAMURAI X - TRILOGIA</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome=magnet:?xt=urn:btih:4e861c429955886252bb5b9cf5544298b6b47f3e$NOME=SAMURAI X - A ORIGEM</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A88E7E938AAC52AC63A4F0E528C7FFD3191883C$nome=SAMURAI X TRILOGIA</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=magnet:?xt=urn:btih:4e861c429955886252bb5b9cf5544298b6b47f3e$nome=SAMURAI X A ORIGEM</link>
 <thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/2374517/1002880061.jpg?v=637015876347030000</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxT4_rh4MojmmgKOL0PbeW2b_y70uozj6ZAg&usqp=CAU</fanart>
 <info>Todos os 3 filmes da franquia live action de Samurai X. Battousai Hitokiri ficou conhecido por ser um dos melhores assassinos do país. Seu apelido, o Retalhador, ecoou por todos os cantos do Japão. Cansado de tanta matança, Himura abandona sua espada em plena batalha e faz um juramento: defenderá a justiça, mas não matará mais ninguém. Sua arma, porém, foi recolhida por um dos derrotados, Udo Jin-e. Vivendo como andarilho e usando um novo nome, Himura Kenshin, o ex-assassino vagueia pelos vilarejos até que, dez anos depois de sua decisão, ele chega a Tóquio. Lá, ele conhece Kaoru, uma jovem que herdou o dojo de seu pai, e teve o nome humilhado por um espadachim que usava o nome Battousai Hitokiri. Para provar que a suspeita de Kaoru está errada, Himura mostra a ela que ele não carrega espada alguma, apenas uma sakabato, uma arma de lâmina inversa. Ao mesmo tempo, alguns crimes acontecem na região e deixam a polícia em polvorosa, pensando que o lendário Retalhador está na cidade. Na verdade, Udo Jin-e está matando e deixando a culpa cair sobre Himura. Quando os dois samurais duelam, tudo fica claro. Ao lado do oficial da polícia, o rapaz passa a caçar Jin-e para descobrir quem está por trás de tudo isso e limpar seu nome. Quando Kaoru é sequestrada, é hora do real Battousai mostrar sua força.</info>
@@ -2630,14 +2628,6 @@ Enredo: É o 21º aniversário do príncipe Akeem de Zamunda e ele deve se casar
 <thumbnail>https://www.themoviedb.org/t/p/original/t4wfwph9hvvrtLcQdNf0JwK3fVR.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Após ser responsabilizada pela misteriosa morte de seu namorado, Lucinda Price (Addison Timlin) vai parar em um reformatório. O reformatório se chama Sword & Cross e lá ela se aproxima de Daniel Grigori (Jeremy Irvine), sem saber que ele é um anjo apaixonado por ela há milhares de anos, e também não consegue se manter afastada de Cam Briel (Harrison Gilbertson), outro que luta há tempos por seu amor.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] NAS GARRAS DO TIGRE - archive [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
-<link>https://archive.org/download/nas-garras-do-tigre-filme-completo-e-dublado-em-hd/Nas%20Garras%20do%20Tigre%20-%20Filme%20Completo%20e%20Dublado%20em%20HD.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eWh8e4Czn0I3HABUyIYHvPs8Nvp.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Kelly (Briana Evigan) sente que sua vida está se desmanchando. A morte de sua mãe a deixou como guardiã de Tom (Charlie Tahan), seu irmão autista de 12 anos de idade, e acaba de descobrir que seu padrasto (Garret Dillahunt) furtou dinheiro reservado para seu colégio e comprou um tigre para o seu parque safari. Para piorar, um furacão está indo na direção da sua casa. Mas Kelly tem algo mais a temer que os ventos de 120 quilômetros por hora do furacão: o tigre selvagem, de alguma forma caiu dentro de sua casa. Agora, presos dentro de sua casa, Tom Kelly devem lutar por suas vidas contra um terrível devorador de homens que sente o cheiro do medo.e quer a sua carne.</info>
 </item>
 
 <item>
@@ -3163,7 +3153,7 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 
 <item>
 <title>[COLOR silver][B] GUARDIÕES DA GALÁXIA - 1 & 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92E8293F9C506A7E0CD3014473BBD8A371E89188$nome=GUARDIÕES DA GALÁXIA-IMAX 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92E8293F9C506A7E0CD3014473BBD8A371E89188$nome=GUARDIÕES DA GALÁXIA IMAX 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AD1B0BC8F2B3694D6B66FBA0FAA9418849BE462B$nome=GUARDIÕES DA GALÁXIA 2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xaY92XMToaSnBuvCui3LHzNGqZB.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
