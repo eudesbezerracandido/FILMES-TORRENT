@@ -15,7 +15,7 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Depois que seu marido desaparece em uma missão secreta, a bióloga Lena embarca numa expedição à uma misteriosa região interditada pelo governo dos EUA.
 Enredo: O marido de um biólogo desaparece. Ela coloca seu nome para uma expedição em uma zona de desastre ambiental, mas não encontra o que está esperando. A equipe de expedição é composta pelo biólogo, um antropólogo, um psicólogo, um agrimensor e um lingüista.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
