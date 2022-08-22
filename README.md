@@ -1,6 +1,6 @@
 
 
-<items>
+<item>
 <title>[COLOR silver][B] PADRE - A GUERRA É ETERNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f1df14d21aa1d128a81a5ad32fdc29c6b021b02</link>
 <thumbnail>https://3.bp.blogspot.com/-3wY73kLo41g/TpCk_ZiPsTI/AAAAAAAAFpg/ZyeOy6A0Px0/s1600/Padre%2B1.jpg</thumbnail>
@@ -1029,7 +1029,7 @@ Enredo: Uma sereia é rasgada do Pacífico, a cauda é cortada e ela está jogad
 <thumbnail>https://www.themoviedb.org/t/p/original/hdM5abIbokQGPr1qtr7Feywppyc.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Shingen, um poderoso Senhor da Guerra, seriamente ferido, ordena ao clã que use algum sósia para o substituir caso faleça – para manter a sua morte em segredo, evitando assim o ataque dos seus inimigos. Mas este é um vulgar criminoso que tem de aprender a transformar-se num grande líder e comandar um exército de 25.000 leais guerreiros Samurai…</info>
-</items>
+</item>
 
 
 
