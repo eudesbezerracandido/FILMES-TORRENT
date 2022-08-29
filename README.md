@@ -47,6 +47,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MANEQUIM - A MAGIA DO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2SJC3RPZPMUPJSW2HJGRAHYFASBGON7C</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9F0BsoDwxKUM2Mv8B115CR90Siv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um decorador de vitrines (Ragsdale), numa grande loja americana, liberta o espírito de uma mulher (Swanson), que está presa dentro de um manequim há quase mil anos. A descoberta muda completamente a sua vida. Seqüência de Manequim, produção de 1987.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TRILOGIA -  O MISTÉRIO DE HAILEY DEAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0e1d4b999a382dad55ee51c1603d2d27d6edd98$nome=O MISTÉRIO DE HAILEY DEAN</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17238e54499ee1e4a458a1c0e693151ea9662d3b$nome=O MISTÉRIO DE HAILEY DEAN</link>
