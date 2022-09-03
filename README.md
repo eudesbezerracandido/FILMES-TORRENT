@@ -25,6 +25,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FÉRIAS DA FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UMEIAS3EB5RFBLSQCDCMKRYPLC4CLNDY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/el5lxDNvRi6beBeZgsfFVn5wquw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Coloquem os cintos para participar da mais louca viagem do ano! Cederic The Entertainer encabeça em elenco de astros nesta aventura hilária sobre uma família muito incomum, que tenta sobreviver a obstáculos incríveis em uma jornada através do país rumo a um encontro anual de família. No caminho, terão que enfrentar um caminhoneiro psicótico, darão carona a um aficcionado por feitiçaria e irão desmascarar os perigos deuma banheira em um estranho hotel. Co-estrelado por Vanessa Willians, as Férias Da Família Jhonson é carregado de risadas e alimentado pelo combustível da diversão!</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COLEÇÃO - O ATAQUE DOS VERMES MALDITOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1e35b7a11f53dffb942122f15296c30d2296c47$nome=O ATAQUE DOS VERMES MALDITOS</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5c2a03698c4ef2483667a2abf234426ef213164$nome=OS VERMES ESTÃO DE VOLTA</link>
