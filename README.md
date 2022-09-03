@@ -16,6 +16,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A CAÇADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OLE5BTZYZDTWG6VQGYRPVOQ5XE42BPN6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/epslhUKN0Bo7UQlEEPzvJmYPDfp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Cinco anos atrás, um caçador desapareceu nas florestas do Alabama, deixando para trás um rifle, manchas de sangue e uma enorme pegada. Agora, seu filho, seus amigos e uma equipe de documentaristas se preparam para descobrir a verdade e buscar vingança. Sua procura os leva as profundezas de um terreno irregular que, dizem os rumores, esconde a imensa criatura conhecida como Pé-Grande.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DUOLOGIA - ASSASSINO A PREÇO FIXO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19700fec78c689de896b8ab5da1cec3a71a864b6$nome=ASSASSINO A PREÇO FIXO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:709E22262E0C93D3CCE572EB6DB0DB237A1C2765$nome=ASSASSINO A PREÇO FIXO 2</link>
