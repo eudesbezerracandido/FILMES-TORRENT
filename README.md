@@ -1,6 +1,15 @@
 #FILMES-TORRENT
 
 
+
+<item>
+<title>[COLOR silver][B] MATILDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EQSWYX5ZR2KGP7N6TXXCUYW4LN7LDFKG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qeZlWxfItQZD1qGCqbcKYKqQM8n.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Matilda Wormwood é uma criança brilhante de apenas seis anos, que cresceu em meio a pais grosseiros e ignorantes. Seu pai Harry trabalha como vendedor de carros, enquanto que sua mãe Zinnia é dona de casa. Ambos ignoram a filha, a ponto de esquecerem de matriculá-la na escola. Desta forma Matilda fica sempre em casa ou na livraria, onde costuma estimular sua imaginação. Após uma série de estranhos eventos ocorridos em casa, quando Matilda descobre que possui poderes mágicos, Harry resolve enviá-la à escola. O local é controlado com mão de ferro pela diretora Agatha Trunchbull, o que faz com que Matilda apenas se sinta bem ao lado da professora Honey, que tenta ajudá-la o máximo possível.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TODOS OS TONS PARA MAIORES DE ( 18 ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8C110E400389DC9C68DBB685E6E5595EEB65AFD2$nome=50 TONS MAIS ESCUROS</link>
