@@ -1,7 +1,13 @@
 #FILMES-TORRENT
 
 
-
+<item>
+<title>[COLOR silver][B] O ASSASSINO DA INTERNET [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f440d3c0905bf6abdb59aeeb46f7ae4a55de278</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nIqPClkwweKvqfFU6xsP3L2pxuT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Filme baseado em fatos reais, produzido pelo canal Lifetime, sobre o criminoso conhecido como “Assassino do Craigslist”. Conheça a vida dupla que Philip Markoff levou. Ele era um estudante de medicina da Universidade de Boston e membro da National Honor Society, que foi acusado de matar uma massagista de Nova York que encontrou através de anúncios no Craigslist.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O PRISSIONEIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
