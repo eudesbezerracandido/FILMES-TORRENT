@@ -1,5 +1,12 @@
 #FILMES-TORRENT
 
+<item>
+<title>[COLOR silver][B] MILAGRE NA CAVERNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef00a83d2dabcf9dabd34d996872d7af13e4be09</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7GbYdBcgn0RxRkEesZ1H3f6xI2z.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando um time de futebol juvenil de 12 meninos, de 11 a 16 anos, e seu técnico de 25 anos estão presos no fundo de uma caverna no norte da Tailândia, milhares de voluntários e soldados de todo o mundo se unem em uma corrida contra o tempo para encontrá-los . Uma vez que os meninos são encontrados vivos dez dias depois, a única saída é um mergulho-mergulho impossível de cinco horas que apenas mergulhadores de caverna experientes poderiam sobreviver. Na Irlanda, Jim Warny, eletricista de fábrica de aviões e mergulhador recreativo de cavernas, recebe a ligação: "Quando você pode estar aqui?" Chegando à Tailândia, Jim sai do avião e entra na caverna - uma missão de três dias no fio da navalha está em andamento. Baseado em eventos reais.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O ASSASSINO DA INTERNET [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
