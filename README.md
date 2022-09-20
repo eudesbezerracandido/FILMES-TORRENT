@@ -1,5 +1,16 @@
 #FILMES-TORRENT
 
+
+
+<item>
+<title>[COLOR silver][B] DUOLOGIA -  O PROTETOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0549DA92DC3AF0352F4701AEC449B959A655D4FF$nome=O PROTETOR</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d5fb55862b8bb2a4e9d1eaac4fee41c3e3eb9e0$nome=O PROTETOR 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hyjSa7awezBP6ezAmGSlNyhmDg1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O ex-agente secreto Robert McCall acredita que seu passado ficou para trás e tenta viver uma nova vida. Porém, quando ele conhece Teri, uma jovem que está em poder de uma quadrilha russa, ele simplesmente não consegue ignorá-la. Munido de suas extraordinárias habilidades, ele ressurge como um verdadeiro anjo vingador. Fora da aposentadoria e com um novo desejo de fazer justiça, McCall decide ajudar quem foi brutalizado e oprimido.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MILAGRE NA CAVERNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef00a83d2dabcf9dabd34d996872d7af13e4be09</link>
