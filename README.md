@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CAÇADA MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62893A854809DAFFBF56EB1DFDDB2D500ECD70C4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AoJzXdsFhJMqX0avKctdQNHGmem.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nova York. Matt Scudder é um ex-policial que agora trabalha como investigador privado, muitas vezes agindo fora da lei. Com uma certa relutância, ele aceita ajudar um traficante de drogas que está atrás do homem que sequestrou e matou sua esposa. Não demora muito para que Matt descubra que o procurado já havia cometido este tipo de crime.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DUOLOGIA -  O PROTETOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0549DA92DC3AF0352F4701AEC449B959A655D4FF$nome=O PROTETOR</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d5fb55862b8bb2a4e9d1eaac4fee41c3e3eb9e0$nome=O PROTETOR 2</link>
