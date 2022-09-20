@@ -1152,7 +1152,7 @@ Enredo: A vida de Louis Zamperini, um atleta olímpico que se juntou às forças
 
 <item>
 <title>[COLOR silver][B] DARKMAN - VINGANÇA SEM  ROSTO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91673D84E2D1BA74FA726172AFC35EE02AFEF7F7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:105C995EC161CB3829BB83538626541D8032FEDB</link>
 <thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/90/59/50/20103805.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Peyton Westlake (Liam Neeson) é um cientista que descobriu recentemente uma pele sintética. Peytoné atacado por uma quadrilha e dado como morto, mas ele sobrevive e graças ao seu invento pode se vingar, pois pode ter qualquer rosto. Mas há um problema: a pele sintética só dura 99 minutos quando é exposta à luz.</info>
