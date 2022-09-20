@@ -498,14 +498,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DIREÇÃO EXPLOSIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed6c5b814882d170e5a2f8d57d2bf75fe10425ac</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/dqIfx0MCCnCyCA0k0hdBccWiJMk.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>: Pronto para levar os filhos para a escola, Karl recebe uma ligação anônima anunciando que tem uma bomba sob o assento do carro e agora ele tem apenas algumas horas para levantar uma grande quantia de dinheiro. Se falhar, a bomba</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] COLEÇÃO - PLANETA DOS MACACOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61be4fc8b746fc197a65916d552dccaf4008d53b$nome=PLANETA DOS MACACOS</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ec813c84c95d6984f684a7bbc7c2fcdc7c8b3e0$nome=PLANETA DOS MACACOS</link>
@@ -893,7 +885,7 @@
 <item>
 <title>[COLOR silver][B] DRÁCULA  2000 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aafa86101b16d742a1af7348a1972f891e93f8ed</link>
-<thumbnail>https://prod.miramax.digital/media/assets/Dracula-2000_v2.png</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/4Jo94Hps0iKI4T94Sf3kCHxSV5O.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um jovem caçador de vampiros (Jonny Lee Miller), ainda em treinamento, é enviado de Londres até Nova Orleans para proteger Mary Van Helsing (Justine Waddell) do vampiro Drácula (Gerard Butler), que pretende capturá-la.</info>
 </item>
@@ -1965,8 +1957,7 @@ Enredo: Uma raça alienígena atingiu a Terra em um ataque implacável, imbatív
 Após ser contaminado pelo sangue de uma criatura das trevas, Blade (Wesley Snipes) transformou-se num guerreiro imortal, metade-homem, metade-vampiro. Desde então, ele dedica-se a caçar o líder dos mortos-vivos Deacon Frost (Stephen Dorff) e seus asseclas, que estão planejando um grande plano para aumentar sua dominação sobre a raça humana.
 Blade II – O Caçador de Vampiros:
 Blade (Wesley Snipes) é um ser meio homem, meio vampiro que é consumido pelo desejo de vingança contra os seres que atacaram sua mãe antes mesmo dele nascer e fizeram com que ele se tornasse o que é atualmente. Com isso, ao crescer Blade iniciou uma verdadeira cruzada pessoal para combater e eliminar os vampiros, mas agora uma nova raça mais poderosa chamada reapers, criada a partir de cruzamentos genéticos entre humanos e vampiros, ameaça eliminar ambas as raças. Visto isso, Blade se alia aos seus maiores inimigos para que, juntos, possam combater esta nova raça de seres.
-Blade Trinity:
-Em uma base localizada no deserto os vampiros dão a cartada decisiva em seus planos para conquistar o mundo: ressuscitam Drácula (Dominic Purcell), que deu origem à raça e possui poderes que lhe permite sobreviver à luz do dia. Em paralelo os vampiros iniciam uma campanha difamatória contra Blade (Wesley Snipes), colocando o FBI em seu encalço. Após alguns confrontos com agentes, Blade e Whistler (Kris Kristofferson) percebem que precisam de ajuda. Após ser atacado e capturado, Blade é salvo pelos Notívagos, um grupo de humanos que se dedica a caçar vampiros e que é liderado por Abigail (Jessica Biel), que é também a filha de Whistler. Juntamente com Hannibal King (Ryan Reynolds) e a cientista Sommerfield (Natasha Lyonne), que possui uma deficiência visual, Blade e os Notívagos iniciam uma série de batalhas contra Dranica Talos (Parker Posey), a atual líder dos vampiros, sem saber que terão que enfrentar o próprio Drácula.</info>
+Blade Trinity:</info>
 </item>
 
 <item>
