@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O PROTETOR / Tom yum goong [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfbf0962c873dc8e48633738b61af07efbb694a0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mGN5lxyM2zIjWXglRUTrtEd2qDs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Kham, um jovem lutador, precisa ir para a Austrália recuperar seu elefante roubado. Com a ajuda de um detetive, Khan tem que lutar contra todos, incluindo uma gangue liderada por uma mulher maligna e seus dois guarda-costas mortais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MILAGRE NA CAVERNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef00a83d2dabcf9dabd34d996872d7af13e4be09</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7GbYdBcgn0RxRkEesZ1H3f6xI2z.jpg</thumbnail>
