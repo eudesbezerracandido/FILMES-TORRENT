@@ -1,6 +1,13 @@
 #FILMES-TORRENT
 
 
+<item>
+<title>[COLOR silver][B] DIREÇÃO EXPLOSIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1A8C49DEA462142544E7BAA674C4049B624C298F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ZQdXlaiF9yM7xhNpqGpHsPqtg4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Pronto para levar os filhos para a escola, Karl recebe uma ligação anônima anunciando que tem uma bomba sob o assento do carro e agora ele tem apenas algumas horas para levantar uma grande quantia de dinheiro. Se falhar, a bomba explodirá.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DUOLOGIA -  O PROTETOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
