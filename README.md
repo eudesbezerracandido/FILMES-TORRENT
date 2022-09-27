@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] PÂNICO EM REDWOOD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb1a2f9d7ee8355e11c258e705f0801913818674</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ebpu3hvuvcGZEjg1Bnz3nslZXkk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Para cinco amigos aventureiros, visitando a lendária casa de assassinatos Redwood, aquele parece ser um final de semana emocionante. Até os inocentes campistas descobrirem que a lenda de Redwood é uma horrível e sangrenta realidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A CINCO PASSOS DE VOCÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1C329E87B51F19D4F0F8192C9D27DFD3DBB4C57E</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/svEfirPJf0mBypK9UyrpLpu5xkf.jpg</thumbnail>
