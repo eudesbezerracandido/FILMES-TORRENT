@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A CINCO PASSOS DE VOCÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1C329E87B51F19D4F0F8192C9D27DFD3DBB4C57E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/svEfirPJf0mBypK9UyrpLpu5xkf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Stella Grant (Haley Lu Richardson) tem quase dezessete anos de idade, vive conectada ao seu laptop e ama seus melhores amigos. Mas ao contrário da maioria das adolescentes, ela passa grande parte do seu tempo vivendo em um hospital como paciente com fibrose cística. Sua vida é cheia de rotinas, limites e autocontrole - tudo isso é testado quando ela encontra um paciente incrivelmente charmoso chamado Will Newman (Cole Sprouse).</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] EFEITO COLATERAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TPO6YGKUNJ7Z2ARXBLG2J2O437WF33Y3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eTyvVGHdyG53nhHOySSYGxsVAvN.jpg</thumbnail>
