@@ -1,6 +1,16 @@
 #FILMES-TORRENT
 
 
+
+
+<item>
+<title>[COLOR silver][B] EFEITO COLATERAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TPO6YGKUNJ7Z2ARXBLG2J2O437WF33Y3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eTyvVGHdyG53nhHOySSYGxsVAvN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Gordon Brewer (Arnold Schwarzenegger) é um bombeiro que perde sua esposa e filho em um atentado terrorista organizado por Claudio The Wolf Perrini (Cliff Curtis). Como as investigações oficiais do governo americano parecem não chegar a lugar algum, Brewer decide então perseguir o próprio "The Wolf", se envolvendo em um complicado jogo que o leva até a Colômbia.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DIREÇÃO EXPLOSIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1A8C49DEA462142544E7BAA674C4049B624C298F</link>
