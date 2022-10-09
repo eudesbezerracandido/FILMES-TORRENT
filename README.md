@@ -1,6 +1,15 @@
 #FILMES-TORRENT
 
 
+
+<item>
+<title>[COLOR silver][B] SEREIA PREDADORA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A2FC921B13DC873C8CCC1E6A3FE9E53BFA05DAC3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mIHo3BAocSnWQnXHllxlC11zAYe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma despedida de solteiro se torna uma briga selvagem pela sobrevivência quando os padrinhos inadvertidamente soltam um lendário predador nas festividades.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A SEREIA- LAGO DOS MORTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C4955EB49F88CD49853317FD0506F57047D3D167</link>
