@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] LOS ANGELES - CIDADE PROIBIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5JKEW5GM3YSKS4WXIZPRV444ECW6JCIL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yCzn6ZNhYjCBIin58TePBco64rC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No início dos anos 50 em Los Angeles, três detetives que usam métodos distintos de trabalho se defrontam com uma trama de conspiração e corrupção policial, que atinge até os mais altos escalões, que estão ligados a um esquema de prostitutas de luxo, no qual cada uma delas personifica uma estrela de cinema.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A ÚLTIMA DESCIDA FATO REAL (LEG.) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <utube>JR7zjCGxsW4</utube>
 <thumbnail>https://www.themoviedb.org/t/p/original/hqmxWYRLXhZorcZmnGCTZIRkaHg.jpg</thumbnail>
