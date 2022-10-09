@@ -1,6 +1,13 @@
 #FILMES-TORRENT
 
 
+<item>
+<title>[COLOR silver][B] A SEREIA- LAGO DOS MORTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C4955EB49F88CD49853317FD0506F57047D3D167</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mdskV5Cdlp9jhbRkjvcauPB6Kh9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma sereia malvada se apaixona por Roman, noivo de Marina, e tenta mantê-lo longe dela em seu Reino submerso. Marina terá apenas uma semana para superar o medo do oceano, lutar com monstros e se manter viva e na forma humana.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] LOS ANGELES - CIDADE PROIBIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
