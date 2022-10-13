@@ -2,19 +2,27 @@
 
 
 <item>
+<title>[COLOR silver][B] DRÁCULA 1958 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05a99c6493a39bbd663295a3f6e180ddfda6e42d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zEIVOdqY1Ffa5SKJ91MwPZLnKMV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jonnathan Harker morre aparentemente vítima de um vampiro. Ao investigar a misteriosa morte do amigo, Van Helsing encontra um diário que incrimina o Conde Drácula. Mas Lucy, a prometida de Harker, também foi atacada por um vampiro. O irmão e a cunhada da moça se unem a Van Helsing para capturar a sanguinária criatura.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] QUADRILOGIA TUBARÃO 1975 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TFTSSUMZPLO2E6MPSLM5YGRTGLXJDLMQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7tMnIYUNwNVVI71GzjYawy6gu56.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um terrível ataque a banhistas é o sinal de que a praia da pequena cidade de Amity virou refeitório de um gigantesco tubarão branco, que começa a se alimentar dos turistas. Embora o prefeito queira esconder os fatos da mídia, o xerife local pede ajuda a um ictiologista e a um pescador veterano para caçar o animal. Mas a missão vai ser mais complicada do que eles imaginavam.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MEDO PROFUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C05850419ABC55E7CD2679E822898DAD4B3AB256</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8IyK6L1gXyUUKD8FyXgdnDpxAS0.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>De férias no México, duas irmãs estão prestes a passar pelos momentos de maior tensão em sua vida: presas em uma gaiola de tubarões a 47 metros de profundidade no oceano, eles terão que lutar contra o tempo para permanecerem vivas. Mas com apenas uma hora de oxigênio e com tubarões brancos rondando o local, as chances se tornam cada vez menores.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] SEREIA PREDADORA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A2FC921B13DC873C8CCC1E6A3FE9E53BFA05DAC3</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/mIHo3BAocSnWQnXHllxlC11zAYe.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Uma despedida de solteiro se torna uma briga selvagem pela sobrevivência quando os padrinhos inadvertidamente soltam um lendário predador nas festividades.</info>
 </item>
 
 <item>
