@@ -12,7 +12,7 @@
 
 <item>
 <title>[COLOR silver][B] AMEAÇA INVISÍVEL ( 2005 ) Torrent [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:496bc1154c43a05906a6534c50d087df90bb3313$nome=AMEAÇA INVISÍVEL TORRENT</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:496bc1154c43a05906a6534c50d087df90bb3313$nome=[B]AMEAÇA INVISÍVEL TORRENT[/B]</link>
 <link>https://archive.org/download/ameaca_202210/AMEA%C3%87A%20INVIS%C3%8DVEL.mp4$nome=[B]AMEAÇA INVISÍVEL ARCHIVE[/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qSt68YS4hOhFXO8Pahk9EjaJN4R.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
