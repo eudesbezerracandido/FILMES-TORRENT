@@ -12,7 +12,8 @@
 
 <item>
 <title>[COLOR silver][B] AMEAÇA INVISÍVEL ( 2005 ) Archive [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/ameaca_202210/AMEA%C3%87A%20INVIS%C3%8DVEL.mp4</link>
+<link>https://archive.org/download/ameaca_202210/AMEA%C3%87A%20INVIS%C3%8DVEL.mp4$nome=[B]ARCHIVE[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:496bc1154c43a05906a6534c50d087df90bb3313$nome=[B]TORRENT[/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qSt68YS4hOhFXO8Pahk9EjaJN4R.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Henry, Ben e Kara são considerados os melhores pilotos de guerra do mundo. Mas um novo membro se junta ao time deles, uma obra-prima, completamente automatizada, que não precisa de piloto, um super avião de caça praticamente invisível para radares — desumano e invencível. Mas uma vez que este caça levanta vôo e não retorna, espalhando destruição em segundos por todo o mundo, o time tem uma última missão que não pode falhar: parar esta máquina — não importa como.</info>
