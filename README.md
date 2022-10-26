@@ -1,6 +1,23 @@
 #FILMES-TORRENT
 
 
+
+<item>
+<title>[COLOR silver][B] O MELHOR AMIGO DA NOITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8024a5c185cdf8f596f1bca9a4b3b19e5eaaccc3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uB74TtG5kxL5SsGRfQjcxgvZ3uE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tom é um homem bem sucedido que sempre que pode se encontra com Hannah, sua melhor amiga. Quando Hannah viaja a negócios para a Escócia, onde passa 6 semanas, Tom descobre-se apaixonado por ela. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido ao saber que ela voltou noiva de um belo e rico escocês. Chamado para ser a "madrinha" do casamento, Tom reluta mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A LUZ DIVINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02c825c4b65a5cd50ea516e3718b86fe8d2469f9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/q6cnJvo4N7nnz2GXBTYsrSIE09e.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ateu tenta experimentar uma experiência de quase-morte e converte-se ao cristianismo. Sol Harkens ( Kevin Sorbo) é o ateu mais famoso do mundo. Por sua opinião sempre contundentes e muitas vezes polêmica, ele alcançou muitos fãs e odiadores, mas mesmo assim leva uma vida solitária e amargurada, além de não conseguir dar de ser um bom pai. Mas, depois de quase morrer, ele verá todas as suas convicções sendo testadas e a sua rotina tendo mudanças radicais.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DE VOLTA AO PRESENTE DE ( 1999 ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/de-volta-para-o-presente-legendado/DE%20VOLTA%20PARA%20O%20PRESENTE%20DUBLADO.mp4</link>
