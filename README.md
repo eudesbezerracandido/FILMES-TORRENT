@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GIGANTES DE AÇO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YZZOOCSYPXZGCXABPKIRK5HFCYNRFPNH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pp74uUjwQTknGPqNrerj4FvU0ce.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um futuro próximo, Charlie Kenton é um lutador de boxe frustrado após o esporte se tornar uma modalidade de alta-tecnologia, sendo comandado por robôs altamente desenvolvidos. Ele abandona a profissão e começa a viver da venda de restos de robôs para o ferro velho. Quando sua vida parece ter encerrado, ele se reúne com seu filho para construir e treinar uma nova geração de robôs.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A LUZ DIVINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02c825c4b65a5cd50ea516e3718b86fe8d2469f9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/q6cnJvo4N7nnz2GXBTYsrSIE09e.jpg</thumbnail>
