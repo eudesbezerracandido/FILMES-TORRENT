@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] TROVÃO AZUL ( 1983 ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cef99a29a822be36ce300101da66ab5406edc23</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ytHeRRetF23dgWJ1kxMt6WjAqRb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Frank Murphy (Roy Scheider) e Lymangood (Daniel Stern) são dois policiais, um veterano e estressado e o outro jovem e inexperiente, e topam acidentalmente com uma trama de conspiração envolvendo altos escalões do governo e do exército, que planejam usar inapropriadamente um helicóptero experimental de guerra. Quando Frank vê as capacidades da máquina, ele fica impressionado: Ela é capaz de ver através de paredes, gravar um suspiro ou destruir um quarteirão da cidade. Desconfiados do que o governo vai fazer usando o Trovão Azul, eles descobrem que as autoridades pretendem usá-lo como uma arma de vigilância tecnológica para controlar a população. Só que eles são descobertos pelo coronel Cochrane (Malcolm McDowell) e agora estão em perigo e terão que lutar nos ares, sob a cidade de Los Angeles.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O MELHOR AMIGO DA NOITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8024a5c185cdf8f596f1bca9a4b3b19e5eaaccc3</link>
