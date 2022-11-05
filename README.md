@@ -17,7 +17,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/uB74TtG5kxL5SsGRfQjcxgvZ3uE.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Tom é um homem bem sucedido que sempre que pode se encontra com Hannah, sua melhor amiga. Quando Hannah viaja a negócios para a Escócia, onde passa 6 semanas, Tom descobre-se apaixonado por ela. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido ao saber que ela voltou noiva de um belo e rico escocês. Chamado para ser a "madrinha" do casamento, Tom reluta mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] GIGANTES DE AÇO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
