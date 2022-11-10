@@ -3,6 +3,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] A BATALHA NA MONTANHA DO TIGRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>zXFWDHwWmJ4</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/y4BKUU4daexpODw2m2TdXLiqp0o.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A Batalha na Montanha do Tigre também conhecido como (O Tomar da Montanha do Tigre). Uma história centrada em torno de um conflito entre um pelotão do Exército Popular de Libertação e uma gangue de bandidos no nordeste da China durante a revolução chinesa.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O MELHOR AMIGO DA NOITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
