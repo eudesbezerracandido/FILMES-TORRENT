@@ -2,6 +2,29 @@
 
 
 
+<item>
+<title>[COLOR silver][B] TRIÃNGULO DO MEDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e432e512f02882466c42ba0656cd6d50ac9ab931</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rH2VuwTwhISorOVllsDaMCGR7N0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando Jess parte para o alto mar com um grupo de amigos a bordo de um veleiro, ela tem o pressentimento de que algo está errado. Seus temores se confirmam quendo uma tempestade atinge a embarcação deixando-os à deriva. Em seguida, um misterioso navio aparentemente abandonado surge e embarcar parece ser uma boa idéia. Logo, todos perceberão que não estão sozinhos e que alguma coisa está caçando os novos tripulantes.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] INVASÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7MQLTVN4OOUG6TFKJNBXYOHJ3MZKIP6M</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6unu6OcZhaGP2RbTtfCT8cjgdUE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Gabrielle Union é uma mulher que fará o impossível para salvar seus dois filhos de serem reféns em uma casa com uma segurança impenetrável. Em Breaking In, nada e nem ninguém é capaz de deter uma mãe com uma missão quando ela está determinada.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] INIMIGOS DO ESTADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d0592c7fccb94e8425d1b75e14bda0ce7d35ba7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eRIi2QdEaG5UgguUALg8AiWX8Uh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Robert Clayton Dean, um advogado bem-sucedido em Washington, recebe um vídeo que mostra a ligação entre um oficial do alto escalão da Agência Nacional de Segurança a um assassinato político. A partir daí, Dean se transforma em um alvo constante para a mais perigosa e treinada equipe do governo. Utilizando todos os meios para arruinar sua carreira e conseguir o vídeo de volta, a equipe inicia uma caçada sem tréguas. Dean terá de lutar para salvar sua vida e provar sua inocência.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A BATALHA NA MONTANHA DO TIGRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
