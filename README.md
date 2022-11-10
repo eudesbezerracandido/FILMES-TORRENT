@@ -13,6 +13,14 @@
 </item> 
 
 <item>
+<title>[COLOR silver][B] ARMADILHA MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31239c0cfbfbb423d0307fbc5c9552ac7c13c1a8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7Ufp0DbnMRgQgK4eGoIKZZhORBw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> As irmãs gêmeas bibliotecárias Nan e Ana planejam vingança quando sua mãe, uma autora que comete suicídio, deixa sugerido com as suas palavras finais, que ela foi assassinada pelo biógrafo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GIGANTES DE AÇO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YZZOOCSYPXZGCXABPKIRK5HFCYNRFPNH</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pp74uUjwQTknGPqNrerj4FvU0ce.jpg</thumbnail>
