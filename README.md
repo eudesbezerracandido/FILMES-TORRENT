@@ -2,6 +2,24 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] FRANKENSTEIN: ENTRE ANJOS E DEMÔNIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4bb825a7ff1ecc001198be09ba9110809f5fde43</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a5rnmj3TWZH7QGuNdh2U4nzv5aT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dr. Victor Frankenstein morre congelado até a morte e a criatura enterra-lo no cemitério de sua família. No entanto, ele é atacado por demônios, mas ele mata um deles e Gargoyles salvá-lo e levá-lo a uma catedral onde a Ordem Gargoyles reúne. A rainha da Gargoyles Leonore mantém o diário do Dr. Frankenstein, juntamente com os tesouros da Ordem e dá o nome de Adam para a criatura. Em seguida, ela explica a Adão que há uma guerra antiga entre as gárgulas que são anjos e demônios sob o comando do príncipe Naberius. Ela também convida Adam para se juntar aos Gargoyles na guerra contra os demônios, mas Adam prefere isolar em um lugar remoto. Duzentos anos depois, Adam retorna e encontra uma sociedade moderna. Logo ele descobre que Naberius tem a intenção de criar um exército de cadáveres sem alma para ser possuído por demônios. O cientista Terra está pesquisando um processo para criar vida e Naberius está buscando jornal do Dr. Frankenstein para ajudar a Terra e aumentar seu exército.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VICTOR FRANKENSTEIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d992991cfdda0701edc26bd974320e337063548</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zm1eagTUyKKytwRAdGe5X71jE8I.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um ousado cientista, Victor Frankienstein e seu fiel assistente Igor dividem o sonho de ajudar humanidade através de uma pesquisa sobre imortalidade. Mas quando o experimento de Victor vai além do esperado, sua obsessão pelo tema tem consequências perturbadoras. Agora apenas Igor pode trazer seu amigo de volta desse estado de loucura e salvá-lo de sua monstruosa criação.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TRIÃNGULO DO MEDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e432e512f02882466c42ba0656cd6d50ac9ab931</link>
