@@ -1,8 +1,13 @@
 #FILMES-TORRENT
 
 
-
-
+<item>
+<title>[COLOR silver][B] UM ATO DE CORAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V2O3WZ7S4EGNKHI3NOZJUXKNNIDADEPA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2pEvQy5OCsiBYwIZ8LTSqbjhO6W.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>John Q. Archibald é um homem comum, que trabalha em uma fábrica e vive feliz com sua esposa Denise e seu filho Michael. Até que Michael fica gravemente doente, necessitando com urgência de um transplante de coração para sobreviver. Sem ter condições de pagar pela operação e com o plano de saúde de sua família não cobrindo tais gastos, John Q. se vê então numa luta contra o tempo pela sobrevivência de seu filho. Em uma atitude desesperada, ele então decide tomar como refém todo o setor de emergência de um hospital, passando a discutir uma solução para o caso com um negociador da polícia e com um impaciente chefe de polícia, que deseja encerrar o caso o mais rapidamente possível.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] FRANKENSTEIN: ENTRE ANJOS E DEMÔNIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
