@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A HORA MAIS ESCURA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f219e2e40035d33a5597d524bacd9a30583cc30c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/89MPe9Yk9n8Wxoa0y1dqJ9mJWPT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Maya é uma agente da CIA que está por trás dos principais esforços em capturar Osama bin Laden, por ter descoberto os interlocutores do líder do grupo terrorista. Com isso ela participa da operação que levou militares americanos a invadir o território paquistanês, com o objetivo de capturar e matar bin Laden.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ANTES QUE TERMINE O DIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2b5a80ec90b9cd7782b688fb1597f6f89280e22</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mRduoGq6vIeNQjsxc60OmF3gqip.jpg</thumbnail>
