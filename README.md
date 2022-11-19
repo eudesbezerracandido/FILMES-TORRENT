@@ -1,6 +1,15 @@
 #FILMES-TORRENT
 
 
+
+<item>
+<title>[COLOR silver][B] ANTES QUE TERMINE O DIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2b5a80ec90b9cd7782b688fb1597f6f89280e22</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mRduoGq6vIeNQjsxc60OmF3gqip.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ian e Samantha formam um casal feliz com muitos planos para o futuro. Enquanto Samantha busca sempre demonstrar seu amor, Ian volta sua atenção para a carreira e amigos. Após um dia em que tudo dá errado, eles terminam. Entretanto, um acidente faz com que a vida deles mude completamente de rumo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UM ATO DE CORAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V2O3WZ7S4EGNKHI3NOZJUXKNNIDADEPA</link>
