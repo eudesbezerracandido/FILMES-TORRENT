@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] REAÇÃO EM CADEIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3BKWC2QT2PCI6V6P27VYFPQQHVEDYAEC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ugdjCDRcM3ABif313FF0y14SXwR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Cientista idealista está alarmado com a poluição que nosso planeta é submetido por ser dependente do petróleo e está quase pronto para anunciar a descoberta de uma tecnologia que permitirá tirar energia da água. Porém, ele deseja dividir este conhecimento com todas as nações, sendo que pessoas ligadas a ele são contrárias a esta idéia. Quando o único problema que existia é resolvido a equipe comemora, mas ao voltar ao laboratório um estudante (Keanu Reeves) que trabalha com o pesquisador descobre que ele foi morto e uma bomba foi colocada para explodir o laboratório. Ele foge rapidamente e consegue escapar da violenta explosão, que destruiu oito quarteirões. Ele relata tudo ? polícia, mas são encontrados 250 mil dólares no seu apartamento e assim ele e uma doutora (que também tem dados incriminadores), que fazia parte da equipe, passam a serem caçados pelo país inteiro como terroristas e espiões. Assim, eles precisam fugir e descobrir quem armou esta cilada para eles.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A HORA MAIS ESCURA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f219e2e40035d33a5597d524bacd9a30583cc30c</link>
