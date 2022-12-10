@@ -1,7 +1,21 @@
 #FILMES-TORRENT
 
 
+<item>
+<title>[COLOR silver][B] 71,ESQUECIDOS EM BELFAST [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:702FEBCED87910044C37AD48924600369AC824D4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/asyYonjJkOn7Xl4hyfBMocD1i0K.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem soldado britânico é acidentalmente abandonado por sua unidade, depois de um aterrorizante conflito nas ruas de Belfast, em 1971. Incapaz de distinguir amigos de inimigos, o inexperiente recruta tem que sobreviver sozinho durante à noite e escapar em segurança, emmeio a um ambiente estranho, desordenado e mortal.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] UMA VIAGEM EXTRAORDINÁRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0F89FAA00308E5A3463D745D5A7CD5018EBB4A8A</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1Wh07S9BnTV6QxaSCT1Nj4uQSwJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Aos doze anos de idade, T.S. Spivet é um garoto superdotado, apaixonado por cartografia. Quando ele ganha um prêmio científico prestigioso, o garoto decide abandonar sua família em Montana para atravessar sozinho aos Estados Unidos, até chegar a Washington. O único problema é que o júri não sabe que o vencedor ainda é uma criança.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] REAÇÃO EM CADEIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
