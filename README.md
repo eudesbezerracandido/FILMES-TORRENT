@@ -2,6 +2,21 @@
 
 
 
+<item>
+<title>[COLOR silver][B] EXPRESSO DO AMANHÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3863E0E76B7E0B11C68F68C095C3BED445F3EA21</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tEDQBmGstvoffVEnHZhzPx5mlUK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um mundo pós-apocalíptico, uma nova onda de gelo causada por um experimento sem sucesso quase exterminou a vida na Terra. Os sobreviventes vivem em um trem máquina chamado Snowpiercer que separa os passageiros por classes sociais, mas nem todos estão satisfeitos com essa divisão.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LIMITE VERTICAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d84f7b3d46bc3db8aedf5388e7ff2ca4fec91ef</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8c2qdHK0zzCf40ALc3KxIb0eFUO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>K2, a montanha paquistanesa de 28.250 pés na Cordilheira karakoram, é o cenário desta aventura aditivada com pura adrenalina. É uma corrida contra o tempo de um ex-alpinista que lidera uma missão para resgatar a irmã e outros membros de uma expedição que ficaram presos no K2 depois de uma terrível avalanche.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SOLOMON KANE-O CAÇADOR DE DÊMONIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
