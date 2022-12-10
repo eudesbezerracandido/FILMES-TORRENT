@@ -5,11 +5,12 @@
 
 
 <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<title>[COLOR silver][B] DUOLOGIA - 30 DIAS DE NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab0f05b665afa0a5dad7ed04d970d2fb4c7ea9bb$nome=30 DIAS DE NOITE 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9a7f8cca295e0cbd87c9723778950acaadf5ca2$nome=30 DIAS DE NOITE 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tbG7VEn5dZZQAjSNCPMAHzpf4GQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/b3B9y2KRlBCveMKuQERbajuJzRK.jpg</fanart>
+<info>Barrow, Alasca. Durante os 30 dias do inverno local a cidade fica na mais completa escuridão. Neste período boa parte dos moradores viaja rumo ao sul, mas neste ano a cidade recebeu a visita de seres estranhos: um grupo de vampiros, que pretendem se aproveitar da noite constante para atacar os moradores locais. Para combatê-los um pequeno grupo é reunido, liderado pelo xerife Eben Oleson (Josh Hartnett) e por sua ex-esposa Stella (Melissa George).</info>
 </item>
 
 <item>
