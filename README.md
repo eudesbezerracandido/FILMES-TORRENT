@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] TOMB RAIDER-A ORIGERM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B0DB2487EF6B1F1C8745F19EE53D7F627E11EB13</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wa0GU7H38ZBXHnzpInqkEHpJm84.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Lara Croft é a independente filha de um aventureiro excêntrico que desapareceu há sete anos. Com a esperança de resolver o mistério do desaparecimento de seu pai, Lara embarca em uma perigosa jornada para seu último destino conhecido: Um túmulo lendário em uma ilha mítica que pode estar em algum lugar ao largo da costa do Japão. As apostas não podiam ser maiores, pois Lara deve confiar em sua mente aguçada, fé cega e teimosia para se aventurar no desconhecido.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DUOLOGIA - 30 DIAS DE NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
