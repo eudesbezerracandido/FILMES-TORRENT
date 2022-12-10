@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] SOLOMON KANE-O CAÇADOR DE DÊMONIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1177FCB135F53EDD5B30E9C4AC9BE5AE45FC6A70</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/UuljHICDYZK72pYDSOZaHCnxMT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No século XVI vive o capitão Solomon Kane. Um líder brutal e eficiente no seu maior objetivo: matar todos os seus inimigos. Kane precisará enfrentar a ceifa do próprio diabo – enviado das profundezas do inferno para reivindicar sua alma já condenada. Ele agora deve renunciar à violência e dedicar-se inteiramente a uma vida de paz e pureza. Mas o seu novo comportamento é rapidamente posto à prova final. Quando ele precisa salvar uma garota das garras do temível Overlord.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TOMB RAIDER-A ORIGERM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B0DB2487EF6B1F1C8745F19EE53D7F627E11EB13</link>
