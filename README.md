@@ -2,6 +2,18 @@
 
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] EXTERMINÍO 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0762d98adfaf6c87085debf84fa82e85c6bbf3c3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/94UvhkqoYZzJUFljoAjrj29FCqW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Seis meses depois de um vírus ter destruído um grande número de pessoas na Grã-Betanha, o exército americano declara que o perigo já passou e começa a reconstrução da cidade. Os refugiados retornam, mas um deles carrega um segredo mortal. O vírus não está morto e agora está mais perigoso.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] EXPRESSO DO AMANHÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3863E0E76B7E0B11C68F68C095C3BED445F3EA21</link>
