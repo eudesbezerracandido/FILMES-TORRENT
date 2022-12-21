@@ -2,9 +2,13 @@
 
 
 
-
-
-
+<item>
+<title>[COLOR silver][B] O ASSASSINO - O  PRIMEIRO ALVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EF4B9133A8695778AC7B81F14541EC80B7EC045D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/juJrnDHS8kIDzdjtLkP9329bmah.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Devastado pela morte da noiva diante de seus olhos em um atentado terrorista, Mitch Rapp (Dylan OBrien) dedica-se incansávelmente à vingança, o que chama a atenção da CIA. Recrutado, o descontrolado rapaz é enviado para o rígido treinamento de Stan Hurley (Michael Keaton), veterano militar que prepara assassinos secretos de atuação internacional e tem sérias ressalvas à avaliação psicológica de Mitch.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] EXTERMINÍO 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
