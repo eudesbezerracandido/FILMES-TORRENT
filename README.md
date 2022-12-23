@@ -2,6 +2,23 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] VELOCIPASTOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95252699e3b4daf260be8a496210fd883770aa89</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/trSmNw63luh84MBy5XLH0UiN1BC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após perder os pais, um padre viaja à China, onde herda uma habilidade misteriosa que o permite transformar-se em um dinossauro. A princípio horrorizado por esse novo poder, uma prostituta o convence a usá-lo para combater o crime. E ninjas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PÕRNO-SEDUTORA E FATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d84f470ef627c52da374cf9476bb316a14ffbf1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/n6tLdq8d4UWyqYniDMcSYMp7oHJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Cinco jovens funcionários do cinema local de uma pequena cidade cristã descobrem um misterioso rolo de filme escondido no porão do estabelecimento. Mal imaginavam que iriam libertar uma maliciosa criatura que está disposta a ensiná-los sobre sexo... com sangue!</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O ASSASSINO - O  PRIMEIRO ALVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EF4B9133A8695778AC7B81F14541EC80B7EC045D</link>
