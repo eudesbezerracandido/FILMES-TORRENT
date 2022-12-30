@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PERIGO EM ALTO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0F72F2E0B1C277CAD1EA688268281FB663344E1B</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wwzu7971BmI3OCQmWEoHCbD9rct.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Baseado em fatos reais, este longa mostra uma viagem de barco que tinha tudo para ser inesquecível, mas que se torna um verdadeiro pesadelo para quatro jovens quando a embarcação acaba tombando em alto-mar. Sem conseguirem reverter a situação, decidem que a melhor maneira de sobreviver é nadando até a ilha mais próxima, e, durante o percurso, descobrem que estão sendo seguidos de perto por um enorme e faminto tubarão branco.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VELOCIPASTOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95252699e3b4daf260be8a496210fd883770aa89</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/trSmNw63luh84MBy5XLH0UiN1BC.jpg</thumbnail>
