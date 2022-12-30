@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] SELF/LESS - SEM RETORNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D564CED40A2BE25CA6E64BA22E815886319053EA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rAOA9jMtjuBTlxRWQy2ffekgG2O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sofrendo de um câncer terminal, um senhor decide passar por um tratamento médico radical. Após ter sua consciência transferida para o corpo de um jovem, ele percebe o envolvimento de uma organização secreta e muito perigosa.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] VELOCIPASTOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
