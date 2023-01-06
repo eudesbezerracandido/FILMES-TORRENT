@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SELVAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:121b86212469722e16abc072b1c440287f797e9b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/609jAsDXZbiIZa3N5IQqcvVLGgL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um posto de gasolina no meio do nada. Um jovem chega para encontrar seu pai, que não vê há 30 anos. Uma van quebrada com quatro prostitutas a caminho da Suíça. Três dias juntos na estação mudam suas vidas para sempre.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PERIGO EM ALTO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0F72F2E0B1C277CAD1EA688268281FB663344E1B</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wwzu7971BmI3OCQmWEoHCbD9rct.jpg</thumbnail>
