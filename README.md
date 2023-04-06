@@ -31,7 +31,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/609jAsDXZbiIZa3N5IQqcvVLGgL.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um posto de gasolina no meio do nada. Um jovem chega para encontrar seu pai, que não vê há 30 anos. Uma van quebrada com quatro prostitutas a caminho da Suíça. Três dias juntos na estação mudam suas vidas para sempre.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] PERIGO EM ALTO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
