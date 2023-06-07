@@ -166,7 +166,7 @@
 
 <item>
 <title>[COLOR silver][B] FRANKENSTEIN: ENTRE ANJOS E DEMÔNIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4bb825a7ff1ecc001198be09ba9110809f5fde43</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bb84ae20a840121273338d06348bd451d4372af</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/a5rnmj3TWZH7QGuNdh2U4nzv5aT.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Dr. Victor Frankenstein morre congelado até a morte e a criatura enterra-lo no cemitério de sua família. No entanto, ele é atacado por demônios, mas ele mata um deles e Gargoyles salvá-lo e levá-lo a uma catedral onde a Ordem Gargoyles reúne. A rainha da Gargoyles Leonore mantém o diário do Dr. Frankenstein, juntamente com os tesouros da Ordem e dá o nome de Adam para a criatura. Em seguida, ela explica a Adão que há uma guerra antiga entre as gárgulas que são anjos e demônios sob o comando do príncipe Naberius. Ela também convida Adam para se juntar aos Gargoyles na guerra contra os demônios, mas Adam prefere isolar em um lugar remoto. Duzentos anos depois, Adam retorna e encontra uma sociedade moderna. Logo ele descobre que Naberius tem a intenção de criar um exército de cadáveres sem alma para ser possuído por demônios. O cientista Terra está pesquisando um processo para criar vida e Naberius está buscando jornal do Dr. Frankenstein para ajudar a Terra e aumentar seu exército.</info>
