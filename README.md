@@ -1,6 +1,16 @@
 #FILMES-TORRENT
 
 
+
+
+<item>
+<title>[COLOR silver][B] SPAWN - O SOLDADO DO INFERNO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44013E85E4795BC4D8231F0372D2237E85030C40</link>
+<thumbnail>https://cinemacomnerdice.files.wordpress.com/2015/08/spawn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O assassino do governo Al Simmons é morto depois de ser traído por seu chefe, Jason Wynn. Ao chegar no inferno, Simmons recebe uma oferta para retornar à Terra se ele estiver disposto a liderar um exército do mal. Ele aceita e é reencarnado como um Hellspawn, uma versão horrivelmente distorcida de sua antiga personalidade. No entanto, Spawn serve como uma força do bem para o desespero de capanga do Diabo, um palhaço mau.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SONÃMBULOS (1977) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E52CE15E04D0DDBAF109472BF8DE695CC304F81</link>
@@ -1105,14 +1115,6 @@
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/06/6KtTM7pXpYs6MzZmjJKgm81O3X0.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>e (Hayden Christensen) é um “jumper”, alguém capaz de se teleportar para qualquer lugar do planeta que queira. Ele usa seus poderes para se divertir, até que um dia descobre que está sendo perseguido por uma organização secreta, que pretende matar todos os Jumpers. A partir de então David se une a outro jumper e passa a enfrentar uma guerra que já existe há milhares de anos.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] SPAWN - O SOLDADO DO INFERNO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44013E85E4795BC4D8231F0372D2237E85030C40</link>
-<thumbnail>https://cinemacomnerdice.files.wordpress.com/2015/08/spawn.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>O assassino do governo Al Simmons é morto depois de ser traído por seu chefe, Jason Wynn. Ao chegar no inferno, Simmons recebe uma oferta para retornar à Terra se ele estiver disposto a liderar um exército do mal. Ele aceita e é reencarnado como um Hellspawn, uma versão horrivelmente distorcida de sua antiga personalidade. No entanto, Spawn serve como uma força do bem para o desespero de capanga do Diabo, um palhaço mau.</info>
 </item>
 
 <item>
