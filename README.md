@@ -5,7 +5,7 @@
 
 <item>
 <title>[COLOR silver][B] SPAWN - O SOLDADO DO INFERNO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44013E85E4795BC4D8231F0372D2237E85030C40</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BD2F9707D64F8A4AF0FF9E9637E9BDA82E7E0C65</link>
 <thumbnail>https://cinemacomnerdice.files.wordpress.com/2015/08/spawn.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O assassino do governo Al Simmons é morto depois de ser traído por seu chefe, Jason Wynn. Ao chegar no inferno, Simmons recebe uma oferta para retornar à Terra se ele estiver disposto a liderar um exército do mal. Ele aceita e é reencarnado como um Hellspawn, uma versão horrivelmente distorcida de sua antiga personalidade. No entanto, Spawn serve como uma força do bem para o desespero de capanga do Diabo, um palhaço mau.</info>
