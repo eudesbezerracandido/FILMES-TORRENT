@@ -398,7 +398,7 @@
 <item>
 <title>[COLOR silver][B] DUOLOGIA - ASSASSINO A PREÇO FIXO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19700fec78c689de896b8ab5da1cec3a71a864b6$nome=ASSASSINO A PREÇO FIXO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:709E22262E0C93D3CCE572EB6DB0DB237A1C2765$nome=ASSASSINO A PREÇO FIXO 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d49c4cf9c0f4c07bd44638bae7fe8fc13d02f5f9$nome=ASSASSINO A PREÇO FIXO 2</link>
 <thumbnail>https://ia601403.us.archive.org/35/items/dual_20220822/DUAL.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Arthur Bishop (Jason Statham) é um assassino de elite, que possui um código restrito e um talento especial para eliminar seus alvos. Um dia ele recebe a missão de matar Harry McKenna (Donald Sutherland), seu melhor amigo, acusado de ter vazado informações sigilosas que levaram cinco agentes à morte. Arthur cumpre a missão e, logo em seguida, reencontra Steve (Ben Foster), o filho problemático de Harry. Desejando vingança, Steve recebe a ajuda de Arthur para também se tornar um assassino. Os dois logo trabalham em conjunto, sem que Steve saiba que seu tutor é na verdade o assassino de seu pai.</info>
