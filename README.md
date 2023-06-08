@@ -1527,7 +1527,7 @@ Esqueceram de Mim 2: Perdido em Nova York (1992) Garoto (Macaulay Culkin) se vê
 
 <item>
 <title>[COLOR silver][B] CORAÇÃO VALENTE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WFFLYPRSQIASVEM24BHSFLJVTEXRKPWD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:860AA14AA809A84E8CC7066B17F551CDB1CFFB88</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61nn9YeREAL._AC_SL1000_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>No século XIII, soldados ingleses matam a mulher do escocês William Wallace (Mel Gibson), bem na sua noite de núpcias. Para vingar a amada, ele resolve liderar seu povo em uma luta contra o cruel Rei inglês Edward I (Patrick McGoohan). Com a ajuda de Robert e Bruce, ele vai deflagrar uma violenta batalha com o objetivo de libertar a Escócia de uma vez por todas.</info>
