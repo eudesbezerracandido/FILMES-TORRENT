@@ -1831,14 +1831,6 @@ Olhos Famintos 3 (Jeepers Creepers 3: Cathedral) dublado e com qualidade de blu-
 </item>
 
 <item>
-<title>[COLOR silver][B] COCOON 1985 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>https://server49.yuhsia.cfd/index2.php?v=MUM4R1RPWUh5M3V4MlFneVdpak4xa0lwZkZ2SlVqWitTdER3dEY2VU9HdzFFU3FLZHRmM04xbWI0aVRUU3RpbA==&t=1686231404&res=360&hash=495a0788f0ff784db35992edf47d73b6</link>
-<thumbnail>https://br.web.img2.acsta.net/pictures/210/111/21011185_20130607192803322.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Extra-terrestres vem a Terra com a missão de recuperar casulos com seres de outro planeta, sendo que enquanto os casulos vão sendo recuperados eles são colocados em uma piscina, energizada pelos alienígenas. Mas os extraterrenos ignoram o fato desta piscina ser utilizada por três idosos moradores de um asilo, que logo passam a ter uma disposição fantástica. Porém, quando descobrem a origem da sua juventude um dilema surge na vida deles.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] QUADRILOGIA - KARATE KID  [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62dfd7ab5291214a3967d354795f77ffed71a633$nome=KARATE KID 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:242f9ad2b2a47cc74598c8149bafcfc242931afa$nome=KARATE KID 2</link>
