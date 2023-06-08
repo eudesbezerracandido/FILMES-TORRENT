@@ -1535,7 +1535,7 @@ Esqueceram de Mim 2: Perdido em Nova York (1992) Garoto (Macaulay Culkin) se vê
 
 <item>
 <title>[COLOR silver][B] BOHEMIA RHAPSODY[/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:a6ab5eaa844d56a1d75203cd6361f92807176c81</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:CBA79EA183E71337DF4BE3137689FC359A60BDD8</link>
 <thumbnail>https://br.web.img2.acsta.net/pictures/18/08/24/21/29/2341995.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Freddie Mercury (Rami Malek) e seus companheiros, Brian May, Roger Taylor e John Deacon mudam o mundo da música para sempre ao formar a banda Queen durante a década de 1970. Porém, quando o estilo de vida extravagante de Mercury começa a sair do controle, a banda tem que enfrentar o desafio de conciliar a fama e o sucesso com suas vidas pessoais cada vez mais complicadas.</info>
@@ -1543,7 +1543,7 @@ Esqueceram de Mim 2: Perdido em Nova York (1992) Garoto (Macaulay Culkin) se vê
 
 <item>
 <title>[COLOR silver][B] ROCKETMAN O FILME  [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92ae19622b9638cc210b0d1c09c4fbb9fceebb73</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:924AAC16F28BEC44A8180267346DC94CDC02BBDB</link>
 <thumbnail>https://br.web.img2.acsta.net/pictures/19/02/19/11/44/5457998.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A história de ascensão do cantor Elton John, de um aluno prodígio da Academia Royal de Música até uma lenda do rock nos anos 70.</info>
