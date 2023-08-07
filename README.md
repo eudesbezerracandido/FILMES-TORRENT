@@ -8,7 +8,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2b793895e4d7d62b1550f56680141d9cc64541f$nome=ESPERANÇA FINAL PARTE 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa66cb43c5d06ab391a1d0a125f171d9cf04dd94$nome=EM CHAMAS</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae6720e938d3cc50b3053683973afe86055813fd$nome=THE HUNGER</link>
-<thumbnail></thumbnail>
+<thumbnail>https://ia902705.us.archive.org/35/items/jogos-vorazes/JOGOS%20VORAZES.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Num futuro distante, boa parte da população é controlada por um regime totalitário, que relembra esse domínio realizando um evento anual – e mortal – entre os 12 distritos sob sua tutela. Para salvar sua irmã caçula, a jovem Katniss Everdeen (Jennifer Lawrence) se oferece como voluntária para representar seu distrito na competição e acaba contando com a companhia de Peeta Melark (Josh Hutcherson), desafiando não só o sistema dominante, mas também a força dos outros oponentes.</info>
 </item>
