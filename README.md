@@ -2,6 +2,18 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] COCOON - DUOLOGIA 1985/1988 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>$nome=COCOON</link>
+<link>$nome=COCOON-O REGRESSO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/L7D0fvuWb6R3n89pAqIXU0nefv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Extra-terrestres vem a Terra com a missão de recuperar casulos com seres de outro planeta sendo que, enquanto os casulos vão sendo recuperados, eles são colocados em uma piscina, energizada pelos alienígenas. Mas os extraterrenos ignoram o fato desta piscina ser utilizada por três idosos moradores de um asilo, que logo passam a ter uma disposição fantástica. Porém, quando descobrem a origem da sua juventude, um dilema surge na vida deles.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] JOGOS VORAZES - QUADRILOGIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3103f2f5bec2b22aeeb492df8f31882428142686$nome=ESPERANÇA FINAL PARTE 2</link>
