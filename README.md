@@ -1213,7 +1213,7 @@
 
 <item>
 <title>[COLOR silver][B] A LAGOA AZUL 1980 [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link></link>
+<link>https://archive.org/download/a-lagoa-azul-1980/A%20LAGOA%20AZUL%201980.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/44NpOB3zKwSKzu6mEDQY235rRxP.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Emmeline e Richard, duas crianças, juntamente com Paddy Button, um velho marinheiro, são os únicos sobreviventes de um naufrágio numa época em que navegar era a única forma de viajar. Após ficarem à deriva por várias horas eles vão parar em uma ilha tropical que é um verdadeiro paraíso. O lugar não oferece perigo, pois não há animais selvagens, mas após algum tempo Paddy morre. Com o tempo Emmeline e Richard se tornam adolescentes e vivem em uma cabana que eles mesmos construíram. Neste período novas emoções influenciam o relacionamento deles, os dois descobrem o amor e logo Emmeline está grávida. Na noite em que o filho deles nasce Richard descobre a origem dos tambores que eles ouvem de vez em quando no “lado proibido” da ilha.</info>
