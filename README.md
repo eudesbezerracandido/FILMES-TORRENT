@@ -1174,7 +1174,7 @@
 <item>
 <title>[COLOR silver][B] INIMIGO  MEU [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FA69A83897C23C23187E535BC9592FF0792F36CA</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/512Equu0K3L._AC_.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/y42vSa0Kv9czbCKJiaeDGGRLXpa.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Nesta excelente aventura da ficção científica, dois guerreiros envolvidos em uma selvagem guerra futurística entre a Terra e o planeta Dracon são abatidos e fazem aterrissagens forçadas em um planeta desolado e inóspito. A princípio, o humano (Dennis Quaid) e seu inimigo, um réptil alienígena (Louis Gosset, Jr.) estão determinados a destruirem-se mutuamente. Mas após terem que enfrentar as forças da natureza e um ao outro, os dois pilotos perdidos gradualmente percebem que a única maneira de manterem-se vivos é superando o ódio mortal.</info>
 </item>
