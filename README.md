@@ -1213,7 +1213,7 @@
 
 <item>
 <title>[COLOR silver][B] A LAGOA AZUL [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:627ae7efb0a6102c9d97a35f4cb7acabfc1f37bf</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:347e4202ff0123ed448f1fc18bc5709396d1d137</link>
 <thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/90/95/91/20122128.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Emmeline e Richard, duas crianças, juntamente com Paddy Button, um velho marinheiro, são os únicos sobreviventes de um naufrágio numa época em que navegar era a única forma de viajar. Após ficarem à deriva por várias horas eles vão parar em uma ilha tropical que é um verdadeiro paraíso. O lugar não oferece perigo, pois não há animais selvagens, mas após algum tempo Paddy morre. Com o tempo Emmeline e Richard se tornam adolescentes e vivem em uma cabana que eles mesmos construíram. Neste período novas emoções influenciam o relacionamento deles, os dois descobrem o amor e logo Emmeline está grávida. Na noite em que o filho deles nasce Richard descobre a origem dos tambores que eles ouvem de vez em quando no “lado proibido” da ilha.</info>
