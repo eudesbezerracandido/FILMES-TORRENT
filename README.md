@@ -1380,7 +1380,7 @@ Enredo: Não faz nem um ano desde que um dono de uma fazenda chamado Louis perde
 
 <item>
 <title>[COLOR silver][B] NINJA ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d367d415e4a0cc58c68fa30ac2e764fea26a645c&</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3818fcec6bbebd4f96e95d60a733f3d4e408b51</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/30ieINy7vNZBSBJNRRzkwVX3DYf.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Raizo (Rain) é um dos assassinos mais temidos do mundo. Tirado das ruas na infância, foi treinado pelo clã Ozunu - um grupo secreto cuja existência em si já é considerada uma lenda - para ser um assassino exímio. No entanto, a execução sumária de seu amigo faz com que Raizo volte-se contra o grupo, aguardando o momento da vingança.</info>
