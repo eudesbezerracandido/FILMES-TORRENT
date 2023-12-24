@@ -4,10 +4,10 @@
 
 
 <item>
-<title>[COLOR silver][B] ANTOLOGIA DE 1979 ALIEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] ANTOLOGIA DE 1979 ALIEN  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:085e0c3d89db43a7288f5ab52e9ff4da0febd347</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/59Ps8jkX9Kpv9o22LTa4omjd9DG.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/t0VpOjqwobTpQK2SEZpXlqt5cqY.jpg</fanart>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Todos os filme da franquia Alien completa. Uma nave espacial, ao retornar para a Terra, recebe estranhos sinais vindos de um asteroide. Ao investigarem o local, um dos tripulantes é atacado por um estranho ser. O que parecia ser um ataque isolado se transforma em um terror constante, pois o tripulante atacado levou para dentro da nave o embrião de um alienígena, que não para de crescer e tem como meta matar toda a tripulação.</info>
 </item>
 
