@@ -1769,7 +1769,7 @@ SINOPSE: 2 Vinte anos após uma invasão alienígena quase dizimar toda a humani
 
 <item>
 <title>[COLOR silver][B] O ULTIMO SAMURAI [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:622a6367410c380870e71bde23b967522e92e261</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93FAECB451E1067EA523B2BA2348DB98AA54613C</link>
 <thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/91/70/70/20159112.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Nathan Algren (Tom Cruise) é um capitão ianque, herói de Guerra Civil, que vai para o Japão, com a missão de treinar as tropas japonesas e combater os samurais que atrapalham os planos de "modernização" do Imperador Japonês. Katsumoto (Ken Watanabe - indicado ao Oscar) é um líder Samurai que vive como poucos, seguindo um código de conduta que está desaparecendo. Dois experts na arte do combate, com diferentes visões de mundo e ética, cujos destinos estão entrelaçados de um forma que ninguém poderia supor. Dirigido por Edward Zwick (ganhador do prêmio de melhor direção do National Board of Review), é um tocante e comovente conto épico sobre o nascimento do Japão moderno.</info>
