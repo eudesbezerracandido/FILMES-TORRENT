@@ -3,6 +3,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] SIMBAD-A NOVA VIAGEM DE 1973 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/the-golden-voyage-of-sinbad-1973/The%20Golden%20Voyage%20Of%20Sinbad%20%281973%29.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w0Ov7NX3RPkkpgnSgVGgo95lPZq.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Esta é uma espetacular aventura passada nas misteriosas terras antigas, habitadas por incríveis criaturas! Simbad (John Phillip Law) - Príncipe de Bagdá e lendário marinheiro - acha um intrigante mapa e sai em busca da desconhecida ilha de Lemuria, levando a bela escrava Margiana (Caroline Muron) e o Grão Vizir de Marabia. O Príncipe Koura (Tom Baker), um maligno feiticeiro que tenta obter o controle de Marabia com a manipulação de espíritos do mal, segue-os para impedir o sucesso de Simbad. Mas o marinheiro encontra Lemuria a despeito dos terríveis feitiços lançados por Koura em seu caminho. Em Lemuria, Simbad e sua corajosa tripulção lutam contra uma estátua de seis espadas, um centauro de um olho só e um Grifo, fabuloso animal com cabeça de águia e garras de leão. Finalmente Simbad confronta-se a Koura, num duelo de vida e morte!</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ANTOLOGIA DE 1979 ALIEN  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:085e0c3d89db43a7288f5ab52e9ff4da0febd347</link>
