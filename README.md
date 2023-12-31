@@ -463,6 +463,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] JASÃO E O VELO DE OURO 1963 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a49741b0d500e418bdaf75546f5d0325db2289a0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tJAiryg1a9GMPD6a8jcIFDPL4FE.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Baseado em um mito da Mitologia Grega, o filme conta a história de Jasão, que após retornar para sua casa de uma viagem de 20 anos, deve encontrar um mágico velo de ouro para reconquistar seu trono. Assim, ele lidera uma equipe, que inclui o heroico Hércules, para ir atrás do artefato, enfrentando perigos enormes como um gigante feito de bronze.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TRILOGIA -  O MISTÉRIO DE HAILEY DEAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0e1d4b999a382dad55ee51c1603d2d27d6edd98$nome=O MISTÉRIO DE HAILEY DEAN</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17238e54499ee1e4a458a1c0e693151ea9662d3b$nome=O MISTÉRIO DE HAILEY DEAN</link>
