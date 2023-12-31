@@ -1335,7 +1335,8 @@ Enredo: Não faz nem um ano desde que um dono de uma fazenda chamado Louis perde
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO - GUERRA NAS ESTRELAS STAR WARS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A387F00CD9BCA8859830C558ED149C62515D997F</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3C4ABD102376196DDEB68C708F0610CD489E7E97$nome=STAR WARS SERVIDOR 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A387F00CD9BCA8859830C558ED149C62515D997F$nome=STAR WARS SERVIDOR 2</link>
 <thumbnail>https://i.pinimg.com/originals/3d/f5/33/3df533f0ef9dca953d902df1510accb5.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Quando a maquiavélica Federação Comercial planeja invadir o pacífico planeta Naboo, o guerreiro Jedi Qui-Gon Jinn (Liam Neeson) e seu aprendiz Obi-Wan Kenobi (Ewan McGregor) embarcam em uma aventura para tentar salvar o planeta. Viajam com eles a jovem Rainha Amidala (Natalie Portman), que é visada pela Federação pois querem forçá-la a assinar um tratado político. Eles têm de viajar para os distantes planetas Tatooine e Coruscant em uma desesperada tentativa de salvar o mundo de Darth Sidious (Ian McDiarmid), o demoníaco líder da Federação que sempre surge em imagens tridimensionais (a ameaça fantasma). Durante a viagem, Qui-Gon Jinn conhece um garoto de nove anos que deseja treiná-lo para ser tornar um Jedi, pois o menino tem todas as qualidades para isto. Mas o tempo revelará que nem sempre as coisas são o que aparentam.</info>
