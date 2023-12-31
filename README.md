@@ -1471,7 +1471,7 @@ Enredo: A vida de Louis Zamperini, um atleta olímpico que se juntou às forças
 <item>
 <title>[COLOR silver][B] QUADRILOGIA - TRANSFORMERS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B88D56A148E8DB3112C509B24CA2C73B9F2B1925</link>
-<thumbnail>https://www.lapumiatorrent.net/wp-content/uploads/2017/06/71KDHiXTuSL._SY445_.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/3EhiKCgQSjjX3nNyrSK4rokz9Ma.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Durante anos os Autobots e os Decepticons, duas raças alienígenas robóticas, duelaram em Cybertron, seu planeta natal. Esta guerra fez com que o planeta fosse destruído, resultando que os robôs se espalhassem pelo universo. Megatron (Hugo Weaving), o líder dos Decepticons, vem à Terra em busca da Allspark, um cubo de Cybertron que possibilita que qualquer aparelho eletrônico seja transformado num robô com inteligência própria. Megatron encontra a Allspark, mas fica congelado no Ártico. Décadas depois outros Decepticons chegam à Terra, numa tentativa de encontrar a Allspark. Seu surgimento logo alerta os principais países, em especial os Estados Unidos, que tem uma base militar no Qatar atacada. Enquanto o Secretário de Defesa John Keller (Jon Voight) tenta descobrir o que está havendo, reunindo todas as forças e informações possíveis, o jovem Sam Witwicky (Shia LaBeouf) tem preocupações mais simples: conseguir uma boa nota no colégio, o que lhe garantirá seu 1º carro. Mas o que ele não esperava era que o veículo escolhido, um Camaro antigo, tinha vida própria.Transformers – A Vingança dos Derrotados.</info>
 </item>
