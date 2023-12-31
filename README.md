@@ -8,7 +8,7 @@
 
 <item>
 <title>[COLOR silver][B] FÚRIA DE TITÃS DE 1981 DUBLADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://vd420.mycdn.me/?expires=1704127293603&srcIp=186.224.24.33&pr=10&srcAg=CHROME&ms=45.136.20.65&type=1&sig=a43-X5XZCjY&ct=6&urls=45.136.22.4&clientType=0&zs=65&id=712607009365&selected_id=4</link>
+<link>1675819223637</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5LObtR57MxWD7Me0tiRaqgrqKQD.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Deuses do Olimpo, terríveis monstros mitológicos e heróis mortais fazem deste espetáculo de imaginação uma aventura imperdível. Harry Hamlin é Perseu, o filho mortal de Zeus (Laurence Olivier), que luta para salvar a vida da princesa Andrômeda (Judi Bowker) do monstro marinho Kraken. Para tal, ele precisa de uma arma tão letal quanto difícil de conseguir: A cabeça de Medusa! Acompanhado de um grupo de corajosos guerreiros e montado no fabuloso Pegasus, o cavalo alado, Perseu parte em uma aventura sem precedentes pelas terras fantásticas da mitologia grega.</info>
