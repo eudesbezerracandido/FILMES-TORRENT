@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] GREYSTOKE - A LENDA DO TARZAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8149EA9EA01D5ED6FA0086FDBD972F9FA3400292</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5z0ZkkF8KUqRpfPRySPRtjYnH4M.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> No século XIX, um navio naufraga perto da selva africana e um casal consegue chegar em terra firme. A mulher estava grávida e tem seu filho em uma casa nas árvores. Algum tempo depois os pais do menino são mortos por animais e ele é criado por uma macaca, que tinha perdido seu filhote. Ele cresce como se fosse um símio, mas após vinte anos, ele é descoberto e volta a civilização, onde é herdeiro de uma grande fortuna. Mas a adaptação com esta nova realidade é estranha demais para ele.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] FÚRIA DE TITÃS DE 1981 DUBLADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
