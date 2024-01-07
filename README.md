@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ALIEN 1979 QUADRILOGIA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75c3b01e9dd4d94671fbc7f906e94f0446de2888</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/59Ps8jkX9Kpv9o22LTa4omjd9DG.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Todos os filme da franquia Alien completa. Uma nave espacial, ao retornar para a Terra, recebe estranhos sinais vindos de um asteroide. Ao investigarem o local, um dos tripulantes é atacado por um estranho ser. O que parecia ser um ataque isolado se transforma em um terror constante, pois o tripulante atacado levou para dentro da nave o embrião de um alienígena, que não para de crescer e tem como meta matar toda a tripulação.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COCOON 1985 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:338AA01ABD8E37D475C38B419D75A008B8BB0741</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/L7D0fvuWb6R3n89pAqIXU0nefv.jpg</thumbnail>
