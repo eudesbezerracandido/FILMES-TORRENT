@@ -1259,6 +1259,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A LAGOA AZUL 1980 ( YOUTUBE ) [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<utube>hpoosLTHmKg&ab</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/44NpOB3zKwSKzu6mEDQY235rRxP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Emmeline e Richard, duas crianças, juntamente com Paddy Button, um velho marinheiro, são os únicos sobreviventes de um naufrágio numa época em que navegar era a única forma de viajar. Após ficarem à deriva por várias horas eles vão parar em uma ilha tropical que é um verdadeiro paraíso. O lugar não oferece perigo, pois não há animais selvagens, mas após algum tempo Paddy morre. Com o tempo Emmeline e Richard se tornam adolescentes e vivem em uma cabana que eles mesmos construíram. Neste período novas emoções influenciam o relacionamento deles, os dois descobrem o amor e logo Emmeline está grávida. Na noite em que o filho deles nasce Richard descobre a origem dos tambores que eles ouvem de vez em quando no “lado proibido” da ilha.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] EXTERMINADOR DO FUTURO - GÊNESIS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF5D458F3C9FFFB48D3D3A3F0608F1184A9BDB52</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71M-UI2Lm1L._AC_SX466_.jpg</thumbnail>
