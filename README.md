@@ -1188,7 +1188,7 @@
 
 <item>
 <title>[COLOR silver][B] KOMG - A ILHA  DA  CAVEIRA [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0C01E3B1C7B29780DAC7C0AC2DA93A82CF3269F0</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88EEB0E7C44D204857BCB58D4DADD19BF4E86001</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/17/02/24/14/55/144568.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um grupo de desbravadores acompanhado de um ex-militar viaja para a mítica Ilha da Caveira, onde seu irmão desapareceu enquanto procurava o soro que teria o poder de curar todas as doenças conhecido como Titan. O homem, além de resgatar o irmão, terá de enfrentar as criaturas que habitam o local e, junto da equipe de exploradores, se aventurar nas profundezas da ilha desconhecida no Pacífico. O que não sabem é que o local é tão bonito quanto traiçoeiro e que estão atravessando para o domínio do mítico Kong.</info>
@@ -1204,7 +1204,7 @@
 
 <item>
 <title>[COLOR silver][B] INIMIGO  MEU [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FA69A83897C23C23187E535BC9592FF0792F36CA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5dca3cdd607bdb53be061bcccb7741912338d23d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/y42vSa0Kv9czbCKJiaeDGGRLXpa.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Nesta excelente aventura da ficção científica, dois guerreiros envolvidos em uma selvagem guerra futurística entre a Terra e o planeta Dracon são abatidos e fazem aterrissagens forçadas em um planeta desolado e inóspito. A princípio, o humano (Dennis Quaid) e seu inimigo, um réptil alienígena (Louis Gosset, Jr.) estão determinados a destruirem-se mutuamente. Mas após terem que enfrentar as forças da natureza e um ao outro, os dois pilotos perdidos gradualmente percebem que a única maneira de manterem-se vivos é superando o ódio mortal.</info>
@@ -1228,7 +1228,7 @@
 
 <item>
 <title>[COLOR silver][B] DRÁCULA  2000 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aafa86101b16d742a1af7348a1972f891e93f8ed</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70165986dcdf90d7088762e4b5c071e8243d76e4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4Jo94Hps0iKI4T94Sf3kCHxSV5O.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um jovem caçador de vampiros (Jonny Lee Miller), ainda em treinamento, é enviado de Londres até Nova Orleans para proteger Mary Van Helsing (Justine Waddell) do vampiro Drácula (Gerard Butler), que pretende capturá-la.</info>
@@ -1244,7 +1244,7 @@
 
 <item>
 <title>[COLOR silver][B] A LAGOA AZUL 1980 [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>https://archive.org/download/a-lagoa-azul-1980/A%20LAGOA%20AZUL%201980.mp4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:347e4202ff0123ed448f1fc18bc5709396d1d137</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/44NpOB3zKwSKzu6mEDQY235rRxP.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Emmeline e Richard, duas crianças, juntamente com Paddy Button, um velho marinheiro, são os únicos sobreviventes de um naufrágio numa época em que navegar era a única forma de viajar. Após ficarem à deriva por várias horas eles vão parar em uma ilha tropical que é um verdadeiro paraíso. O lugar não oferece perigo, pois não há animais selvagens, mas após algum tempo Paddy morre. Com o tempo Emmeline e Richard se tornam adolescentes e vivem em uma cabana que eles mesmos construíram. Neste período novas emoções influenciam o relacionamento deles, os dois descobrem o amor e logo Emmeline está grávida. Na noite em que o filho deles nasce Richard descobre a origem dos tambores que eles ouvem de vez em quando no “lado proibido” da ilha.</info>
@@ -1319,7 +1319,7 @@ Enredo: Uma jovem família é visitada por fantasmas em sua casa. A princípio, 
 
 <item>
 <title>[COLOR silver][B] ET. O EXTRATERRESTRE [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1139baa426f2130fba35c37a45591e1e0ffe5a1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd68713ad8f7e70283ef68412579de5e4e2872d3</link>
 <thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/95/16/34/20384584.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um garoto faz amizade com um ser de outro planeta, que ficou sozinho na Terra, protegendo-o de todas as formas para evitar que ele seja capturado e transformado em cobaia. Gradativamente, surge entre os dois uma forte amizade. Steven Spielberg convida o espectador a celebrar um dos filmes mais adorados de todos os tempos. Premiado com 4 Oscar e 2 Globos de Ouro, incluindo Melhor Filme!</info>
