@@ -1195,8 +1195,11 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] KOMG - A ILHA  DA  CAVEIRA [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88EEB0E7C44D204857BCB58D4DADD19BF4E86001</link>
+<title>[COLOR silver][B] COLEÇÃO KING KONG  [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88EEB0E7C44D204857BCB58D4DADD19BF4E86001$nome= ILHA DA CAVEIRA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbcc53d5c378c75feec53ab6ef3aa54cd64ab660$nome=GODZILLA VS KONG</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cc0c66f65e4e879b0c0caab97724f689310b2f0$nome=KING KONG 1976</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59A7B84AFD60C70658B5BA68CE2BEF3D718E8A6E$nome=KING KONG 2005</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/17/02/24/14/55/144568.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um grupo de desbravadores acompanhado de um ex-militar viaja para a mítica Ilha da Caveira, onde seu irmão desapareceu enquanto procurava o soro que teria o poder de curar todas as doenças conhecido como Titan. O homem, além de resgatar o irmão, terá de enfrentar as criaturas que habitam o local e, junto da equipe de exploradores, se aventurar nas profundezas da ilha desconhecida no Pacífico. O que não sabem é que o local é tão bonito quanto traiçoeiro e que estão atravessando para o domínio do mítico Kong.</info>
