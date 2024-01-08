@@ -1196,7 +1196,7 @@
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO KING KONG  [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88EEB0E7C44D204857BCB58D4DADD19BF4E86001$nome= ILHA DA CAVEIRA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC6CDED5CBA9244C96C295DB94AF709D7235CD53$nome= ILHA DA CAVEIRA</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbcc53d5c378c75feec53ab6ef3aa54cd64ab660$nome=GODZILLA VS KONG</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cc0c66f65e4e879b0c0caab97724f689310b2f0$nome=KING KONG 1976</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59A7B84AFD60C70658B5BA68CE2BEF3D718E8A6E$nome=KING KONG 2005</link>
