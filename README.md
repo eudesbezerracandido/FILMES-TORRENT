@@ -2496,8 +2496,10 @@ Enredo: No thriller tenso The Shallows, quando Nancy (Blake Lively) está surfan
 </item>
 
 <item>
-<title>[COLOR silver][B] CANDYMAN 3 - DIA DOS MORTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A9AFB43F8D83387A00204F94964321AA44E01A4</link>
+<title>[COLOR silver][B] TRILOGIA -  CANDYMAN  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C229A1FE584A8EB4EA7433F8E1B2452D24AD5D3C$nome=O MISTÉRIO DE CANDYMAN</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3eccb9915b943540c9ec3d743173605f1d107930$nome=A LENDA DE CANDYMAN</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21ADE38188D1C6048D77B08F4091CB7A80E825C1$nome=CANDYMAN A VINGANÇA</link>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/Candyman_-_Day_of_the_Dead.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Uma série de terríveis assassinatos aterroriza um bairro de Los Angeles. Os moradores da região creditam as mortes a CandyMan, o fantasma de um pintor que foi barbaramente torturado e morto há dois séculos. Ele usa um gancho no lugar de uma das mãos. A bela pintora Caroline McKeever, não acredita nas lendas de seu antepassado. Quando percebe que CandyMan voltou dos mortos para se vingar, é tarde demais. Ela precisa combater seu ancestral para continuar viva!</info>
