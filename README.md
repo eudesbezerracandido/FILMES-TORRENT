@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] DARKMAN - VINGANÇA SEM  ROSTO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91673D84E2D1BA74FA726172AFC35EE02AFEF7F7</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/90/59/50/20103805.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Peyton Westlake (Liam Neeson) é um cientista que descobriu recentemente uma pele sintética. Peytoné atacado por uma quadrilha e dado como morto, mas ele sobrevive e graças ao seu invento pode se vingar, pois pode ter qualquer rosto. Mas há um problema: a pele sintética só dura 99 minutos quando é exposta à luz.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] GREYSTOKE - A LENDA DO TARZAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8149EA9EA01D5ED6FA0086FDBD972F9FA3400292</link>
@@ -1504,14 +1514,6 @@ Enredo: Não faz nem um ano desde que um dono de uma fazenda chamado Louis perde
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O filme conta a história de Louis Zamperini, uma estrela da pista olímpica e um herói da Segunda Guerra Mundial, que durante uma missão militar, sofreu um acidente de avião no Oceano Pacífico, do qual sobreviveu junto com dois companheiros. Ele E mais um sobrevivem. Eles passaram 47 dias à deriva numa balsa, quando foram encontrados por um navio de guerra japonês. Que os fizeram de prisioneiros e os levaram para uma ilha onde foram torturados e mantidos como prisioneiros de guerra por dois anos.
 Enredo: A vida de Louis Zamperini, um atleta olímpico que se juntou às forças armadas durante a segunda guerra mundial. Apenas para ser capturado pela marinha japonesa após um acidente de avião no Pacífico. Durante sua captura, Louie deve continuar sua luta sobrevivendo durante a guerra.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DARKMAN - VINGANÇA SEM  ROSTO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:105C995EC161CB3829BB83538626541D8032FEDB</link>
-<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/90/59/50/20103805.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Peyton Westlake (Liam Neeson) é um cientista que descobriu recentemente uma pele sintética. Peytoné atacado por uma quadrilha e dado como morto, mas ele sobrevive e graças ao seu invento pode se vingar, pois pode ter qualquer rosto. Mas há um problema: a pele sintética só dura 99 minutos quando é exposta à luz.</info>
 </item>
 
 <item>
