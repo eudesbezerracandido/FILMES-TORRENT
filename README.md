@@ -6,6 +6,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] LAGOA AZUL 1991 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>3dhStERPGtY</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/2sL8RrDFvA4NZKT7qJuzH8lR750.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Em virtude da cólera, Sarah, uma viúva, é deixada em um barco com um marinheiro e dois bebês: Lilli, sua filha, e Richard, filho de Emmeline, que tinha sido resgatado há poucos dias de um barco à deriva, onde seus pais foram encontrados mortos. Depois de vários dias o marinheiro pensa em matar os bebês para economizar água, mas Sarah não aceita tal atitude e mata o marujo. Depois de muitos dias ela chega com os bebês em uma bela ilha. Ela educa as crianças e quando elas têm quase 8 anos, ela morre. Quando Lilli e Richard se tornam jovens, se apaixonam e se "casam". Quando um navio chega na ilha alguns problemas acontecem, mas o principal é que um dos marujos tenta estuprar Lilli. O casal então questiona se quer ou não voltar para a civilização.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DARKMAN - VINGANÇA SEM  ROSTO 1990 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91673D84E2D1BA74FA726172AFC35EE02AFEF7F7$nome=SERVIDOR 1</link>
