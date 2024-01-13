@@ -7,7 +7,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A LAGOA AZUL 1980 ( YOUTUBE ) [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<utube>hpoosLTHmKg</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/44NpOB3zKwSKzu6mEDQY235rRxP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Emmeline e Richard, duas crianças, juntamente com Paddy Button, um velho marinheiro, são os únicos sobreviventes de um naufrágio numa época em que navegar era a única forma de viajar. Após ficarem à deriva por várias horas eles vão parar em uma ilha tropical que é um verdadeiro paraíso. O lugar não oferece perigo, pois não há animais selvagens, mas após algum tempo Paddy morre. Com o tempo Emmeline e Richard se tornam adolescentes e vivem em uma cabana que eles mesmos construíram. Neste período novas emoções influenciam o relacionamento deles, os dois descobrem o amor e logo Emmeline está grávida. Na noite em que o filho deles nasce Richard descobre a origem dos tambores que eles ouvem de vez em quando no “lado proibido” da ilha.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] LAGOA AZUL 1991 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -1273,22 +1279,6 @@
 <thumbnail>https://limaomecanico.com.br/wp-content/uploads/2020/01/Shocker-100-Mil-Volts-de-Terror.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Numa pequena cidade do interior americano o jovem universitário Jonathan Parer (Peter Berg) vê em um pesadelo sua família ser chacinada por Horace Pinker (Mitch Pileggi), um técnico de TV. O crime acaba realmente acontecendo e Jonathan convence seu pai adotivo, o policial Don Parker (Michael Murphy), a prender Pinker. Após cometer outros crimes Pinker é preso e condenado à cadeira elétrica. Ao ser executado, entretanto, o assassino consegue fazer com que seu espírito sobreviva como energia, sendo capaz de tomar corpos humanos e deslocar-se por meio das ondas de TV.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] A LAGOA AZUL 1980 [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:347e4202ff0123ed448f1fc18bc5709396d1d137</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/44NpOB3zKwSKzu6mEDQY235rRxP.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Emmeline e Richard, duas crianças, juntamente com Paddy Button, um velho marinheiro, são os únicos sobreviventes de um naufrágio numa época em que navegar era a única forma de viajar. Após ficarem à deriva por várias horas eles vão parar em uma ilha tropical que é um verdadeiro paraíso. O lugar não oferece perigo, pois não há animais selvagens, mas após algum tempo Paddy morre. Com o tempo Emmeline e Richard se tornam adolescentes e vivem em uma cabana que eles mesmos construíram. Neste período novas emoções influenciam o relacionamento deles, os dois descobrem o amor e logo Emmeline está grávida. Na noite em que o filho deles nasce Richard descobre a origem dos tambores que eles ouvem de vez em quando no “lado proibido” da ilha.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] A LAGOA AZUL 1980 ( YOUTUBE ) [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<utube>hpoosLTHmKg</utube>
-<thumbnail>https://www.themoviedb.org/t/p/original/44NpOB3zKwSKzu6mEDQY235rRxP.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Emmeline e Richard, duas crianças, juntamente com Paddy Button, um velho marinheiro, são os únicos sobreviventes de um naufrágio numa época em que navegar era a única forma de viajar. Após ficarem à deriva por várias horas eles vão parar em uma ilha tropical que é um verdadeiro paraíso. O lugar não oferece perigo, pois não há animais selvagens, mas após algum tempo Paddy morre. Com o tempo Emmeline e Richard se tornam adolescentes e vivem em uma cabana que eles mesmos construíram. Neste período novas emoções influenciam o relacionamento deles, os dois descobrem o amor e logo Emmeline está grávida. Na noite em que o filho deles nasce Richard descobre a origem dos tambores que eles ouvem de vez em quando no “lado proibido” da ilha.</info>
 </item>
 
 <item>
@@ -2827,14 +2817,6 @@ Enredo: Quando o paradeiro rumores de Osama bin Laden são revelados, a CIA se p
 <thumbnail>https://br.web.img3.acsta.net/c_310_420/pictures/14/01/15/19/15/154302.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um homem (Paul Walker) tem que cuidar de seu bebê prematuro quando sua esposa falece durante o parto. Para piorar, o furacão Katrina passa por Louisiana e deixa um rastro de desespero e destruição.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO -  SOBRE CRACK ( DROGA ) DE 1980 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:536ad2f2b1c89d000b878baa79bca5ff8056339b</link>
-<thumbnail>https://i0.wp.com/solegendas.net/wp-content/uploads/2021/01/Crack-Cocaina-Corrupcao-e-Conspiracao-683x1024.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Uma droga barata e poderosa surge durante uma recessão, causando pânico moral alimentado pelo racismo. Explore a complexa história do crack nos anos 1980.</info>
 </item>
 
 <item>
