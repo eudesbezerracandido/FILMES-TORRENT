@@ -636,7 +636,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DA9CE057E7D1B72B41BA633D3803956502269494$nome=UMA NOVA ESPERANÇA 4K</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E59D3A0CA7CA7045E1D01EC6B3502E94C74CB7C$nome=AMEAÇA FANTASMA 4K</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E7E5F49A0D3513F45D1EB26B342AB44408880C2$nome=O ATAQUE DOS CLONES 4K</link>
-<thumbnail>https://ia801508.us.archive.org/29/items/star-wars_202206/f0ab277852b43b9fb8b47542db0a2842.png</thumbnail>
+<thumbnail>https://media.themoviedb.org/t/p/original/wCRLEnMHmMLiQ6ixs8lbggLeNq4.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tZM2bZySE9DcKMPBeIW0BFfveV1.jpg</fanart>
 <info> À medida que as Forças Imperiais lançam um ataque total contra a Aliança Rebelde, Han Solo e a Princesa Leia, fogem para a Cidade das Nuvens, onde são capturados por Darth Vader. Luke Skywalker, viaja para o misterioso planeta pantanoso de Dagobah, onde o sábio Mestre Jedi Yoda, ensina ao jovem herói os caminhos da Força. O que Luke, não pode imaginar é que seu treinamento Jedi, será necessário muito em breve.</info>
 </item>
@@ -1306,18 +1306,10 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] A MOSCA  I  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89df25fe6155b4d7c4b410a426c3907f932628a1</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iItA02bR1oBFlI7w5qi7AndVvmt.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Seth Brundie (Jeff Goldblum) é um cientista excêntrico que trabalha numa nova invenção, uma máquina de teletransporte – a TelePod. Ao seu lado, tem Veronica (Geena Davis), uma jornalista que acompanha seus projetos acreditando ser essa a história do ano. Ao experimentar seu novo invento, Seth não percebe que uma mosca entrou na cabine do teletransporte. O imprevisto faz com que os padrões moleculares do homem e do inseto se misturem e, pouco a pouco, o cientista vai sofrendo terríveis transformações.
-Enredo: Seth Brundle (Jeff Goldblum), um cientista brilhante mas excêntrico tenta atrair a jornalista investigativa Veronica Quaife (Geena Davis), oferecendo-lhe uma colher sobre suas últimas pesquisas no campo de transporte de matéria, que contra todas as expectativas do establishment científico provaram bem sucedido. Até certo ponto. Brundle acha que resolveu o último problema ao transportar com sucesso uma criatura viva, mas quando tenta se teletransportar, uma mosca entra em uma das cabines de transmissão e Brundle descobre que ele é um homem mudado. Este filme “Science-Gone-Mad” é ??a fonte da citada frase “Tenha medo. Tenha muito medo”.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] A MOSCA II  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3AF36914D40AD01E87110EF163B0F5E23DA7C0DB</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6HpZIDsTvYiDBvBQwfn2UXhAojd.jpg</thumbnail>
+<title>[COLOR silver][B] DUOLOGIA - A MOSCA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89df25fe6155b4d7c4b410a426c3907f932628a1$nome=A MOSCA I</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3AF36914D40AD01E87110EF163B0F5E23DA7C0DB$nome=A MOSCA II</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/bhDemNl8KbtCfb40hEsZrBObkGf.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Seth Brundie (Jeff Goldblum) é um cientista excêntrico que trabalha numa nova invenção, uma máquina de teletransporte – a TelePod. Ao seu lado, tem Veronica (Geena Davis), uma jornalista que acompanha seus projetos acreditando ser essa a história do ano. Ao experimentar seu novo invento, Seth não percebe que uma mosca entrou na cabine do teletransporte. O imprevisto faz com que os padrões moleculares do homem e do inseto se misturem e, pouco a pouco, o cientista vai sofrendo terríveis transformações.
 Enredo: Seth Brundle (Jeff Goldblum), um cientista brilhante mas excêntrico tenta atrair a jornalista investigativa Veronica Quaife (Geena Davis), oferecendo-lhe uma colher sobre suas últimas pesquisas no campo de transporte de matéria, que contra todas as expectativas do establishment científico provaram bem sucedido. Até certo ponto. Brundle acha que resolveu o último problema ao transportar com sucesso uma criatura viva, mas quando tenta se teletransportar, uma mosca entra em uma das cabines de transmissão e Brundle descobre que ele é um homem mudado. Este filme “Science-Gone-Mad” é ??a fonte da citada frase “Tenha medo. Tenha muito medo”.</info>
