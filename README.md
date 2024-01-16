@@ -463,7 +463,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8F5AF997BC4D61DC737BE3AC1614983DF965137D$nome=CINQUENTA TONS DE PRETO-COMÉDIA</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7AFB8127832F70010E89895B95CE4E2B6A70D8DE$nome=NAMORADOS PARA SEMPRE</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15f5abdcd9738f5c1e2664b2d0e682ce38fe52bb$nome=365 DNI</link>
-<thumbnail>https://ia601504.us.archive.org/34/items/365_20220819/1005221963.jpg</thumbnail>
+<thumbnail>https://media.themoviedb.org/t/p/original/AfWe08R16b2Z3fNhM42y3DPYi3u.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>é uma coleção de FILME Angro-americano dirigido por uma mulher com real curiosidade em elevar o matérial que consiste essa coleção filmes Dráma,Romance e erótico.</info>
 </item>
@@ -480,7 +480,7 @@
 <title>[COLOR silver][B] DUOLOGIA - ASSASSINO A PREÇO FIXO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19700fec78c689de896b8ab5da1cec3a71a864b6$nome=ASSASSINO A PREÇO FIXO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d49c4cf9c0f4c07bd44638bae7fe8fc13d02f5f9$nome=ASSASSINO A PREÇO FIXO 2</link>
-<thumbnail>https://ia601403.us.archive.org/35/items/dual_20220822/DUAL.jpg</thumbnail>
+<thumbnail>https://media.themoviedb.org/t/p/original/mfNUnweUphm5LBy5S0WBPhF5s70.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Arthur Bishop (Jason Statham) é um assassino de elite, que possui um código restrito e um talento especial para eliminar seus alvos. Um dia ele recebe a missão de matar Harry McKenna (Donald Sutherland), seu melhor amigo, acusado de ter vazado informações sigilosas que levaram cinco agentes à morte. Arthur cumpre a missão e, logo em seguida, reencontra Steve (Ben Foster), o filho problemático de Harry. Desejando vingança, Steve recebe a ajuda de Arthur para também se tornar um assassino. Os dois logo trabalham em conjunto, sem que Steve saiba que seu tutor é na verdade o assassino de seu pai.</info>
 </item>
@@ -502,7 +502,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A6468DB0E347D1B8B9EE129794C2A4D0C26F1B5F$nome=LINHAS DE SANGUE</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59e36c85ad1713103dd5996f32bf39e8887427db$nome=UM DIA FRIO NO INFERNO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35TQNBUG5AY4SUBAVTIUT56KIMCOWBQQ$nome=TREMOURS: SHRIEKER ISNLAND</link>
-<thumbnail>https://ia801509.us.archive.org/22/items/vermes/O_Ataque_dos_Vermes_Malditos__88122_std.png</thumbnail>
+<thumbnail>https://media.themoviedb.org/t/p/original/pnPkvHp75tSomDWnzU1iLhgyFMV.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um casal habitante de uma pequena cidade esquecida no deserto luta pela sua sobrevivência e para salvar o mundo do ataque de minhocas gigantes e carnívoras que vivem debaixo do solo.</info> 
 </item>
