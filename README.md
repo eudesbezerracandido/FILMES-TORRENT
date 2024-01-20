@@ -1470,7 +1470,7 @@ Enredo: Não faz nem um ano desde que um dono de uma fazenda chamado Louis perde
 
 <item>
 <title>[COLOR silver][B] O PREDADOR - A CAÇADA CONTINUA [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C579D6E0AE330B3F38DD5746C720837C3937B7CF</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D12461933392716BCE074E49E5732933099CDC30</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sTaSUR11QJZKqQQ40dGahiWQWZw.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Dos confins longínquos do espaço até as ruas de bairros residenciais, a caçada chega a todos os lugares na reinvenção explosiva assinada por Shane Black da série Predador. Agora os mais letais caçadores do universo estão mais fortes, mais inteligentes e mais mortais do que antes, tendo se aperfeiçoado com o DNA de outras espécies. Quando um jovem acidentalmente causa seu retorno à Terra, apenas uma equipe improvável de ex-soldados e um professor de ciências amargurado podem evitar o extermínio da raça humana.</info>
