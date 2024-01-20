@@ -1469,6 +1469,14 @@ Enredo: Não faz nem um ano desde que um dono de uma fazenda chamado Louis perde
 </item>
 
 <item>
+<title>[COLOR silver][B] PREDADOR - CAÇADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4JRTGEISZLE27VY</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/8esU2U26D6N8SCupPs7Rd7mE9iZ.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Ambientado no mundo da Nação Comanche no início de 1700, "O Predador: A Caçada" é a história não contada de uma jovem guerreira altamente qualificada, desesperada para proteger seu povo do perigo iminente. Ela persegue e finalmente confronta sua presa, que acaba sendo um predador alienígena altamente evoluído com um arsenal tecnologicamente avançado, resultando em um confronto brutal e aterrorizante entre os adversários.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ALIEN VS PREDADOR  2 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e389062e7a5ecffb7ceb00986740944ad49036bd</link>
 <thumbnail>https://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/86/99/12/19880768.jpg</thumbnail>
