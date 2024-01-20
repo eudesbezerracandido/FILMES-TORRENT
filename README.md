@@ -1461,6 +1461,14 @@ Enredo: Não faz nem um ano desde que um dono de uma fazenda chamado Louis perde
 </item>
 
 <item>
+<title>[COLOR silver][B] PREDADORES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7867331511d2de3332993e218967e8942a698ae0</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/46pJsCB2y8pfmKTNRplcBX03Fqx.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>PREDADORES, um novo e ousado filme do universo de Predador, com produção de Robert Rodriguez, é estrelado por Adrien Brody como Royce, um mercenário que relutantemente lidera um grupo de combatentes de elite e descobre que eles foram levados para um planeta alienígena para servirem como presas. À exceção de um médico que caiu em descrédito, todos são assassinos a sangue frio: mercenários, mafiosos da Yakuza, presidiários, membros de esquadrões da morte - ou seja, "predadores" humanos que agora serão sistematicamente caçados e eliminados por uma nova raça de Predadores alienígenas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ALIEN VS PREDADOR  2 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e389062e7a5ecffb7ceb00986740944ad49036bd</link>
 <thumbnail>https://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/86/99/12/19880768.jpg</thumbnail>
