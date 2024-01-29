@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O ÚLTIMO DRAGÃO DE 1985 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/o-ultimo-dragao-1985/O%20%C3%9Altimo%20Drag%C3%A3o%20%281985%29.mp4</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/zqAbg083sXZ6pGuy2kcskoYBDCa.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O jovem lutador Leroy Green busca o nível final das artes marciais. Durante o tortuoso caminho ele terá que combater o maléfico Sho'nuff, também conhecido como Shogun do Harlem, e salvar a bela cantora Laura Charles de um obcecado empresário.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A LAGOA AZUL 1980 ( YOUTUBE ) [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
