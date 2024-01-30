@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DARKMAN - VINGANÇA SEM  ROSTO 1990 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>https://a-delivery28.mxdcontent.net/v/a91b2aa3aed8b7d0bf41a21ad6a2a2e7.mp4?s=SIeeJeQJBq9WdmgAyU9QeA&e=1706659802&_t=1706646419</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/90/59/50/20103805.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Peyton Westlake (Liam Neeson) é um cientista que descobriu recentemente uma pele sintética. Peytoné atacado por uma quadrilha e dado como morto, mas ele sobrevive e graças ao seu invento pode se vingar, pois pode ter qualquer rosto. Mas há um problema: a pele sintética só dura 99 minutos quando é exposta à luz.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O ÚLTIMO DRAGÃO DE 1985 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/o-ultimo-dragao-1985/O%20%C3%9Altimo%20Drag%C3%A3o%20%281985%29.mp4</link>
