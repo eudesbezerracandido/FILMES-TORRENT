@@ -10,9 +10,8 @@
 
 <item>
 <title>[COLOR silver][B] FORÇA SINISTRA 1985 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://vd196.mycdn.me/?expires=1714862857957&srcIp=164.163.14.181&pr=10&srcAg=CHROME&ms=45.136.22.4&type=1&sig=6tjNMoVdZI0&ct=6&urls=185.226.52.4&clientType=0&zs=65&id=1576089356808&selected_id=5
-$nome=[B]LINK DIRETO 1[/B]</link>
-<link>https://ok6-31.vkuser.net/?expires=1714863793003&srcIp=164.163.14.181&pr=10&srcAg=CHROME&ms=95.142.206.35&type=4&sig=rNXGsyeegdM&ct=6&urls=45.136.22.4%3B185.226.53.5&clientType=0&zs=65&id=546987641429&selected_id=3$nome=[B]LINK DIRETO 2[/B]</link>
+<link>https://vd196.mycdn.me/?expires=1714864279784&srcIp=164.163.14.181&pr=10&srcAg=CHROME&ms=45.136.22.4&type=1&sig=SBs1T6nB3jU&ct=6&urls=185.226.52.4&clientType=0&zs=65&id=1576089356808&selected_id=4$nome=[B]LINK DIRETO1[/B]</link>
+<link>https://vd196.mycdn.me/?expires=1714864279784&srcIp=164.163.14.181&pr=10&srcAg=CHROME&ms=45.136.22.4&type=1&sig=SBs1T6nB3jU&ct=6&urls=185.226.52.4&clientType=0&zs=65&id=1576089356808&selected_id=4$nome=LINK DIRETO2</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/5ToLWZi4mDvgk0OVNB3GmIvljoW.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Uma missão para investigar o cometa Halley descobre um fenômeno ainda mais fascinante: uma espaçonave alienígena! Após um confronto mortal, os alienígenas viajam para a Terra, onde sua sedutora líder (Mathilda May) inicia uma aterrorizante campanha para drenar a força vital de todos que encontra. Suas vítimas, por sua vez, continuam o ciclo, e logo o planeta inteiro estará em perigo mortal. Quando o único sobrevivente da missão (Steve Railsback) vai à sua caça para destruí-la, ele encontra-se face a face com a mais charmosa e abominável criatura que ele já conheceu. Ele será capaz de destruir a adorável vampira... Ou se tornará mais uma vítima de seu charme fatal?</info>
