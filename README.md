@@ -10,8 +10,7 @@
 
 <item>
 <title>[COLOR silver][B] FORÇA SINISTRA 1985 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>1714864279784$nome=[B]LINK DIRETO1[/B]</link>
-<link>1576089356808$nome=LINK DIRETO2</link>
+<link>https://ok.ru/video/1876887866098</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/5ToLWZi4mDvgk0OVNB3GmIvljoW.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Uma missão para investigar o cometa Halley descobre um fenômeno ainda mais fascinante: uma espaçonave alienígena! Após um confronto mortal, os alienígenas viajam para a Terra, onde sua sedutora líder (Mathilda May) inicia uma aterrorizante campanha para drenar a força vital de todos que encontra. Suas vítimas, por sua vez, continuam o ciclo, e logo o planeta inteiro estará em perigo mortal. Quando o único sobrevivente da missão (Steve Railsback) vai à sua caça para destruí-la, ele encontra-se face a face com a mais charmosa e abominável criatura que ele já conheceu. Ele será capaz de destruir a adorável vampira... Ou se tornará mais uma vítima de seu charme fatal?</info>
