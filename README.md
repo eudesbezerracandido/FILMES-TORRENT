@@ -98,7 +98,7 @@
 
 <item>
 <title>[COLOR silver][B] COCOON 1985 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:338AA01ABD8E37D475C38B419D75A008B8BB0741</link>
+<link>https://embed-cloudfront.wistia.com/deliveries/055efee180ef367b3c768e16f259d8a0e8378979.m3u8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/L7D0fvuWb6R3n89pAqIXU0nefv.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Extra-terrestres vem a Terra com a missão de recuperar casulos com seres de outro planeta sendo que, enquanto os casulos vão sendo recuperados, eles são colocados em uma piscina, energizada pelos alienígenas. Mas os extraterrenos ignoram o fato desta piscina ser utilizada por três idosos moradores de um asilo, que logo passam a ter uma disposição fantástica. Porém, quando descobrem a origem da sua juventude, um dilema surge na vida deles.</info>
