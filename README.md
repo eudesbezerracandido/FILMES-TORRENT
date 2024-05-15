@@ -6,7 +6,16 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] COLEÇÃO KING KONG  [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC6CDED5CBA9244C96C295DB94AF709D7235CD53$nome= ILHA DA CAVEIRA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbcc53d5c378c75feec53ab6ef3aa54cd64ab660$nome=GODZILLA VS KONG</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8CC0C66F65E4E879B0C0CAAB97724F689310B2F0$nome=KING KONG 1976</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59A7B84AFD60C70658B5BA68CE2BEF3D718E8A6E$nome=KING KONG 2005</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/17/02/24/14/55/144568.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de desbravadores acompanhado de um ex-militar viaja para a mítica Ilha da Caveira, onde seu irmão desapareceu enquanto procurava o soro que teria o poder de curar todas as doenças conhecido como Titan. O homem, além de resgatar o irmão, terá de enfrentar as criaturas que habitam o local e, junto da equipe de exploradores, se aventurar nas profundezas da ilha desconhecida no Pacífico. O que não sabem é que o local é tão bonito quanto traiçoeiro e que estão atravessando para o domínio do mítico Kong.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] FORÇA SINISTRA 1985 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -1244,17 +1253,6 @@
 <thumbnail>https://http2.mlstatic.com/o-corvo-dvd-original-lacrado-brandon-lee-D_NQ_NP_945115-MLB25193820552_112016-F.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um poético guitarrista Eric Draven é trazido de volta à vida por um corvo um ano depois que ele e sua noiva são assassinados. O corvo o guia através da terra dos vivos e o leva até seus assassinos: o atirador de facas Tin-tin, o Funboy, o aficionado por carros T-Bird e o nada sofisticado Skank. Um por um, Eric dá a esses bandidos um gosto de seu próprio remédio. No entanto, seu líder, o Top-Dollar, um lorde do crime de classe mundial que despachará seus inimigos com uma espada japonesa e brincará sobre isso mais tarde, logo aprenderá a lenda do corvo e o segredo da invencibilidade do vigilante.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] COLEÇÃO KING KONG  [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC6CDED5CBA9244C96C295DB94AF709D7235CD53$nome= ILHA DA CAVEIRA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbcc53d5c378c75feec53ab6ef3aa54cd64ab660$nome=GODZILLA VS KONG</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cc0c66f65e4e879b0c0caab97724f689310b2f0$nome=KING KONG 1976</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59A7B84AFD60C70658B5BA68CE2BEF3D718E8A6E$nome=KING KONG 2005</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/17/02/24/14/55/144568.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Um grupo de desbravadores acompanhado de um ex-militar viaja para a mítica Ilha da Caveira, onde seu irmão desapareceu enquanto procurava o soro que teria o poder de curar todas as doenças conhecido como Titan. O homem, além de resgatar o irmão, terá de enfrentar as criaturas que habitam o local e, junto da equipe de exploradores, se aventurar nas profundezas da ilha desconhecida no Pacífico. O que não sabem é que o local é tão bonito quanto traiçoeiro e que estão atravessando para o domínio do mítico Kong.</info>
 </item>
 
 <item>
