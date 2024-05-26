@@ -7,6 +7,14 @@
 
 
 <item>
+<title>[COLOR silver][B] ROBOCOP - PRIMEIRAS DIRETRIZES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:658bec12e4158f4f0c4ac5f45bb64d55711d1ba4</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/5vy8rPlN7yUMfbcf2lzb98Pe5np.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Delta City, considerado o Lugar Mais Seguro do Planeta tornou-se uma cidade futurista de propriedade e operada pela OCP. RoboCop (Alex Murphy) começou a sentir o peso de sua idade. Murphy se vê quase obsoleto e deve lidar com o fato de que seu filho James Murphy é um executivo da OCP (sem saber que seu pai ainda está vivo). Além disso, o ex-sócio de Murphy, John Cable, voltou para a Delta City como seu novo Comandante de Segurança. Mas lentamente surgem novos inimigos e Murphy e Cable começam uma investigação sobre um misterioso vilão conhecido como Bone Machine, sem saber que eles estão chegando perigosamente perto de expor um grupo inescrupuloso de executivos da OCP conhecido como The Trust, onde James Murphy faz parte. Desesperado para impedir que seus planos sinistros sejam revelados, The Trust programa Murphy para matar John Cable.</info>
+</item
+
+<item>
 <title>[COLOR silver][B] COLEÇÃO KING KONG  [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC6CDED5CBA9244C96C295DB94AF709D7235CD53$nome= ILHA DA CAVEIRA</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbcc53d5c378c75feec53ab6ef3aa54cd64ab660$nome=GODZILLA VS KONG</link>
