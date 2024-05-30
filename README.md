@@ -26,6 +26,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PLANETA DOS MACACOS - CLASSICOS DE 1968 A 1973 [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61be4fc8b746fc197a65916d552dccaf4008d53b</link>                            
+<thumbnail>https://media.themoviedb.org/t/p/original/qZKePs11s5lP4dfVmsI97NTvbQ2.jpg</thumbnail>
+<fanart></fanart>
+<info>George Taylor (Charlton Heston), um astronauta americano, viaja por séculos em estado de hibernação. Ao acordar, ele e seus companheiros se vêem em um planeta dominado por macacos, no qual os humanos são tratados como escravos e nem mesmo tem o dom da fala.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FORÇA SINISTRA 1985 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://embed-cloudfront.wistia.com/deliveries/ed80907e7825a2a34624084a6fa9be7def1067de.m3u8</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/5ToLWZi4mDvgk0OVNB3GmIvljoW.jpg</thumbnail>
