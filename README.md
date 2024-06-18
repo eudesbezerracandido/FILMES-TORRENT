@@ -14,6 +14,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70b1ac0fd408735b2895ad378b7d5b991b66654c$nome=O MUNDO PERDIDO 1997</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5037869E41551964699B3DCAA1C875DA096EFFCC$nome=O REINO AMEAÇADO 2018</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8404921557797d3115af79f3d6808c9a13092c1$nome=JURASSIC PARK 3 2001</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EE77E411AC9EBE5CF8669B57358CEC7792DF5771$nome=O MUNDO DOS DINOSSAUROS 2015</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/wfcyhpCrSPq24ySOTyowiOzyUkX.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Uma série americana de filmes de aventura de ficção científica com base no romance do mesmo nome de Michael Crichton. Os filmes se centram na ilustre Isla Nublar, perto da Costa Rica, na Costa do Pacífico Centro-Americana, onde um filantropo bilionário e uma pequena equipe de cientistas genéticos criaram um parque de diversões de dinossauros clonados.</info>
