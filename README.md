@@ -97,7 +97,7 @@
 
 <item>
 <title>[COLOR silver][B] GREYSTOKE - A LENDA DO TARZAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://embed-cloudfront.wistia.com/deliveries/c093cfcc70ffddba3f0ba851263d6106cf5892de.m3u8</link>
+<link>https://embed-cloudfront.wistia.com/deliveries/36bec97ae0ddef5bfab8ed0b7d8052b7c92b2aea.m3u8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5z0ZkkF8KUqRpfPRySPRtjYnH4M.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> No século XIX, um navio naufraga perto da selva africana e um casal consegue chegar em terra firme. A mulher estava grávida e tem seu filho em uma casa nas árvores. Algum tempo depois os pais do menino são mortos por animais e ele é criado por uma macaca, que tinha perdido seu filhote. Ele cresce como se fosse um símio, mas após vinte anos, ele é descoberto e volta a civilização, onde é herdeiro de uma grande fortuna. Mas a adaptação com esta nova realidade é estranha demais para ele.</info>
