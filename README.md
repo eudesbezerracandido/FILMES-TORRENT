@@ -21,6 +21,17 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] COLEÇÃO - ROBOCOP [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1d29cbe64e51e3f124e4c4eaba009ac95f03612$nome=ROBOCOP 1987</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e6140fb358d4c61b4fcda79b8c3786fd644c73c$nome=ROBOCOP 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ec099f7dbb299bf93852a4d6271231b0bfac63e$nome=ROBOCOP 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d674ea337bba865aac104b3d98e002e99425b43e$nome=ROBOCOP 2024</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/pwGpAUGaaJREPUqyZPsMZFHSeKz.jpg</thumbnail>
+<fanart>https://media.themoviedb.org/t/p/original/qU12IzSKvCYAMJWGtbbM4ExQEDU.jpg</fanart>
+<info>Quando um policial fatalmente ferido por uma gangue de lunáticos é renascido na forma de um cyborg, parte homem, parte máquina, surge RoboCop. Um blockbuster de 1987 que gerou duas seqüência de grande sucesso.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ROBOCOP - PRIMEIRAS DIRETRIZES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:658bec12e4158f4f0c4ac5f45bb64d55711d1ba4</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/5vy8rPlN7yUMfbcf2lzb98Pe5np.jpg</thumbnail>
