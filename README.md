@@ -73,7 +73,7 @@
 
 <item>
 <title>[COLOR silver][B] A LAGOA AZUL 1980  [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>https://embed-cloudfront.wistia.com/deliveries/a7a366c7dcf01719f5bf59dc2ab8fe7864b645ad.m3u8</link>
+<link>https://archive.org/download/19801984/A%20LAGOA%20AZUL1980.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/44NpOB3zKwSKzu6mEDQY235rRxP.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Emmeline e Richard, duas crianças, juntamente com Paddy Button, um velho marinheiro, são os únicos sobreviventes de um naufrágio numa época em que navegar era a única forma de viajar. Após ficarem à deriva por várias horas eles vão parar em uma ilha tropical que é um verdadeiro paraíso. O lugar não oferece perigo, pois não há animais selvagens, mas após algum tempo Paddy morre. Com o tempo Emmeline e Richard se tornam adolescentes e vivem em uma cabana que eles mesmos construíram. Neste período novas emoções influenciam o relacionamento deles, os dois descobrem o amor e logo Emmeline está grávida. Na noite em que o filho deles nasce Richard descobre a origem dos tambores que eles ouvem de vez em quando no “lado proibido” da ilha.</info>
@@ -97,7 +97,7 @@
 
 <item>
 <title>[COLOR silver][B] GREYSTOKE - A LENDA DO TARZAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://embed-cloudfront.wistia.com/deliveries/2621b240ab16a81afed0ab4b37a542b9d0bfeb3a.m3u8</link>
+<link>https://archive.org/download/19801984/GREYSTOKE-A%20LENDA%20DO%20TARZAN%201984.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5z0ZkkF8KUqRpfPRySPRtjYnH4M.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> No século XIX, um navio naufraga perto da selva africana e um casal consegue chegar em terra firme. A mulher estava grávida e tem seu filho em uma casa nas árvores. Algum tempo depois os pais do menino são mortos por animais e ele é criado por uma macaca, que tinha perdido seu filhote. Ele cresce como se fosse um símio, mas após vinte anos, ele é descoberto e volta a civilização, onde é herdeiro de uma grande fortuna. Mas a adaptação com esta nova realidade é estranha demais para ele.</info>
